@@ -1,0 +1,60 @@
+name: Daily Pharma Job Scrape
+
+on:
+  schedule:
+    # UTC 23:00 = JST 08:00（毎朝8時に実行）
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      - name: Restore DB from artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pharma-jobs-db
+          path: data/
+        continue-on-error: true
+
+      - name: Initialize DB (if first run)
+        run: npx tsx src/db/schema.ts
+
+      - name: Run scraper
+        run: npm run scrape
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+
+      - name: Post daily summary to X
+        run: npm run post
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+
+      - name: Save DB as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pharma-jobs-db
+          path: data/pharma-jobs.db
+          retention-days: 90
+          overwrite: true

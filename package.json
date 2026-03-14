@@ -1,0 +1,28 @@
+{
+  "name": "pharma-job-tracker",
+  "version": "1.0.0",
+  "description": "製薬企業（外資/内資top10）の求人情報を毎日追跡し、差分をXに自動投稿",
+  "type": "module",
+  "scripts": {
+    "scrape": "tsx src/index.ts",
+    "scrape:company": "tsx src/index.ts --company",
+    "post": "tsx src/posting/client.ts",
+    "setup": "tsx src/db/schema.ts",
+    "build": "tsc"
+  },
+  "keywords": ["pharma", "job-tracker", "playwright", "scraper"],
+  "author": "makio8",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "dotenv": "^17.3.1",
+    "playwright": "^1.58.2",
+    "twitter-api-v2": "^1.29.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0"
+  }
+}
