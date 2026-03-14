@@ -11,7 +11,7 @@ import {
   type NewJobData,
   type WeeklyTrendData,
 } from './templates.js';
-import { JOB_CATEGORIES, POST_CONFIG } from '../config.js';
+import { JOB_CATEGORIES, POST_CONFIG, isHighlightWorthy } from '../config.js';
 
 // ── 型定義（DB から取得する行に対応） ──────────────
 
@@ -69,10 +69,20 @@ export class PostFormatter {
     const [, m, d] = today.split('-');
     const dateStr = `${Number(m)}/${Number(d)}`;
 
-    // 注目求人: 新着から最大2件（タイトルが短いものを優先して見栄え確保）
-    const highlights = newJobs
+    // 注目求人: ハイライト対象カテゴリからフィルタして最大2件
+    // カテゴリの重要度順（配列の前ほど優先）で選ぶ
+    const categoryPriority = ['rd', 'clinical', 'medical', 'pv', 'regulatory', 'strategy', 'marketing', 'sales', 'digital', 'mr'];
+    const worthyJobs = newJobs.filter((j) =>
+      isHighlightWorthy({ title: j.title, jobCategory: j.job_category }),
+    );
+    const highlights = worthyJobs
       .slice()
-      .sort((a, b) => a.title.length - b.title.length)
+      .sort((a, b) => {
+        const aIdx = categoryPriority.indexOf(a.job_category ?? '');
+        const bIdx = categoryPriority.indexOf(b.job_category ?? '');
+        // カテゴリが見つからない場合は末尾扱い
+        return (aIdx === -1 ? 999 : aIdx) - (bIdx === -1 ? 999 : bIdx);
+      })
       .slice(0, 2)
       .map((j) => ({ company: j.company_name, title: j.title }));
 
@@ -98,7 +108,11 @@ export class PostFormatter {
    * @returns ツイートテキストの配列
    */
   formatNewJobHighlights(newJobs: JobRow[]): string[] {
-    return newJobs.map((job) => {
+    // ハイライト対象カテゴリの求人のみに絞る
+    const worthyJobs = newJobs.filter((j) =>
+      isHighlightWorthy({ title: j.title, jobCategory: j.job_category }),
+    );
+    return worthyJobs.map((job) => {
       const data: NewJobData = {
         companyName: job.company_name,
         title: job.title,
