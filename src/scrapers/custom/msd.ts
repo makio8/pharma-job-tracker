@@ -2,10 +2,15 @@
  * MSD Japan スクレイパー
  *
  * MSD（Merck Sharp & Dohme）の日本法人キャリアページからスクレイピング。
- * SPA（JavaScript レンダリング）の可能性が高いため、
- * Playwright で動的コンテンツの読み込みを待つ。
+ * サイトは Phenom People プラットフォームを使用しており、
+ * 検索結果ページに JSON データが `phApp.ddo.eagerLoadRefineSearch.data.jobs` として
+ * 埋め込まれている。これを直接抽出する。
  *
- * 対象 URL: https://jobs.msd.com/jpn-careers-ja
+ * 1ページ10件で、`from` パラメータでページネーション。
+ * `country` フィールドで Japan の求人のみフィルタ。
+ * 埋め込みデータに description は含まれない（タイトル・部門・勤務地のみ）。
+ *
+ * 対象 URL: https://jobs.msd.com/jp/ja/search-results
  */
 
 import { Page } from 'playwright';
@@ -13,293 +18,200 @@ import { BaseScraper, type JobListing } from '../base.js';
 import { classifyJobCategory, classifyTherapeuticArea } from '../../config.js';
 import { logger } from '../../utils/logger.js';
 
+// ── Phenom People の埋め込みデータ型 ──
+
+interface PhenomJob {
+  title?: string;
+  jobSeqNo?: string;
+  reqId?: string;
+  location?: string;
+  cityState?: string;
+  country?: string;
+  category?: string;    // 部門名（日本語: "薬事部門", "臨床開発" 等）
+  subCategory?: string;
+  type?: string;
+  postedDate?: string;
+  applyUrl?: string;
+  descriptionTeaser?: string;
+}
+
 export class MsdScraper extends BaseScraper {
   companyId = 'msd';
-  readonly url = 'https://jobs.msd.com/jpn-careers-ja';
+  readonly url = 'https://jobs.msd.com/jp/ja/search-results';
 
-  /** 詳細ページを取得する上限 */
-  private readonly detailLimit = 50;
+  /** 最大取得ページ数（10件/ページ × 50 = 500件上限） */
+  private readonly maxPages = 50;
+
+  /** MSD のサイトは SPA で networkidle にならないため domcontentloaded を使う */
+  protected override get waitUntilStrategy(): 'networkidle' | 'domcontentloaded' | 'load' {
+    return 'domcontentloaded';
+  }
 
   async extractJobs(page: Page): Promise<JobListing[]> {
-    // MSD のキャリアサイトは JS レンダリングのため十分な待機が必要
-    await page.waitForLoadState('networkidle');
+    // domcontentloaded で十分（networkidle は遅いため使わない）
+    await page.waitForLoadState('domcontentloaded');
+    await page.waitForTimeout(3_000);
 
-    // 求人カードやリストが表示されるまで待つ（複数パターンに対応）
-    try {
-      await page.waitForSelector(
-        '[class*="job"], [class*="career"], [class*="position"], [class*="opening"], ' +
-        '[data-job], [data-testid*="job"], .search-results, .results-list',
-        { timeout: 15_000 },
-      );
-    } catch {
-      logger.warn('msd: 求人リスト要素の検出待ちタイムアウト。ページ構造を走査します');
+    // ── Phenom の埋め込みデータから求人を抽出 ──
+    const allPhenomJobs = await this.extractAllPhenomJobs(page);
+
+    if (allPhenomJobs.length === 0) {
+      logger.warn('msd: Phenom 埋め込みデータが見つからないため DOM フォールバックを実行');
+      return this.extractFromDom(page);
     }
 
-    // ── 「もっと見る」/「Load More」ボタンの自動クリック ──
-    // MSD のサイトはページネーションまたは Load More を使う可能性がある
-    await this.loadAllJobs(page);
+    logger.info(`msd: Phenom データから全 ${allPhenomJobs.length} 件を取得`);
 
-    // ── 一覧から求人情報を抽出 ──
+    // Japan 関連の求人のみフィルタ（country フィールドで直接判定）
+    const japanJobs = allPhenomJobs.filter((j) =>
+      j.country?.toLowerCase().includes('japan') ||
+      j.location?.toLowerCase().includes('japan') ||
+      j.cityState?.includes('Tokyo') ||
+      j.cityState?.includes('Osaka'),
+    );
+    logger.info(`msd: Japan フィルタ後 ${japanJobs.length} 件`);
+
+    // JobListing に変換
+    return japanJobs.map((pj) => {
+      const job: JobListing = {
+        title: pj.title || '',
+        url: pj.applyUrl || `https://jobs.msd.com/jp/ja/job/${pj.jobSeqNo}`,
+        externalId: pj.reqId || pj.jobSeqNo,
+        department: pj.category,
+        location: pj.location || pj.cityState,
+        description: pj.descriptionTeaser || undefined,
+      };
+
+      // 自動分類（タイトル + 部門名で精度UP）
+      const textForClassify = `${job.title} ${job.department ?? ''}`;
+      job.jobCategory = classifyJobCategory(textForClassify);
+      job.therapeuticArea = classifyTherapeuticArea(textForClassify);
+
+      return job;
+    });
+  }
+
+  /**
+   * Phenom People の埋め込み JSON データを全ページ分取得する。
+   * totalHits が埋め込みデータに含まれないため、空ページが返るまでページネーションを続ける。
+   */
+  private async extractAllPhenomJobs(page: Page): Promise<PhenomJob[]> {
+    // 1ページ目
+    const firstPageJobs = await this.extractPhenomJobsFromPage(page);
+    if (firstPageJobs.length === 0) return [];
+
+    const allJobs: PhenomJob[] = [...firstPageJobs];
+    const pageSize = firstPageJobs.length; // 通常10
+
+    logger.info(`msd: 1ページ目 ${pageSize} 件を取得`);
+
+    // ページネーション: 空ページが返るまで or maxPages まで
+    for (let pageNum = 1; pageNum < this.maxPages; pageNum++) {
+      const fromOffset = pageNum * pageSize;
+
+      let nextPage: Page | null = null;
+      try {
+        nextPage = await page.context().newPage();
+        await nextPage.goto(
+          `${this.url}?from=${fromOffset}&s=1`,
+          { timeout: 30_000, waitUntil: 'domcontentloaded' },
+        );
+        await nextPage.waitForTimeout(2_000);
+
+        const pageJobs = await this.extractPhenomJobsFromPage(nextPage);
+
+        if (pageJobs.length === 0) {
+          logger.info(`msd: ページ ${pageNum + 1} で空結果 → ページネーション終了（累計 ${allJobs.length} 件）`);
+          break;
+        }
+
+        allJobs.push(...pageJobs);
+        logger.info(`msd: ページ ${pageNum + 1} - ${pageJobs.length} 件（累計 ${allJobs.length} 件）`);
+      } catch (err) {
+        const msg = err instanceof Error ? err.message : String(err);
+        logger.warn(`msd: ページ ${pageNum + 1} の取得失敗: ${msg}`);
+        break;
+      } finally {
+        if (nextPage) {
+          try { await nextPage.close(); } catch { /* ignore */ }
+        }
+      }
+    }
+
+    return allJobs;
+  }
+
+  /** 1ページ分の Phenom 埋め込みデータを取得 */
+  private async extractPhenomJobsFromPage(p: Page): Promise<PhenomJob[]> {
+    return p.evaluate(() => {
+      try {
+        const w = window as unknown as Record<string, unknown>;
+        const phApp = w.phApp as Record<string, unknown> | undefined;
+        if (!phApp) return [];
+        const ddo = phApp.ddo as Record<string, unknown> | undefined;
+        if (!ddo) return [];
+        const eagerLoad = ddo.eagerLoadRefineSearch as Record<string, unknown> | undefined;
+        if (!eagerLoad) return [];
+        const data = eagerLoad.data as { jobs?: unknown[] } | undefined;
+        return (data?.jobs || []) as PhenomJob[];
+      } catch {
+        return [];
+      }
+    });
+  }
+
+  /**
+   * DOM フォールバック: Phenom データが取得できない場合
+   */
+  private async extractFromDom(page: Page): Promise<JobListing[]> {
+    await page.waitForLoadState('networkidle').catch(() => {});
+
     const jobLinks = await page.evaluate(() => {
       const results: Array<{
         title: string;
         url: string;
         externalId?: string;
-        department?: string;
         location?: string;
+        department?: string;
       }> = [];
 
-      // パターン1: 求人カード / リストアイテム
-      const cards = document.querySelectorAll(
-        '[class*="job-card"], [class*="job-item"], [class*="JobCard"], ' +
-        '[class*="position-card"], [class*="search-result"], ' +
-        '[class*="career-card"], [class*="opening"], ' +
-        'li[class*="job"], article[class*="job"]'
-      );
+      const links = document.querySelectorAll<HTMLAnchorElement>('a[href*="/job/"]');
+      for (let i = 0; i < links.length; i++) {
+        const link = links[i];
+        if (link.closest('nav, header, footer')) continue;
 
-      if (cards.length > 0) {
-        for (const card of cards) {
-          const link = card.querySelector('a[href]') as HTMLAnchorElement | null;
-          const titleEl =
-            card.querySelector('h2, h3, h4, [class*="title"], [class*="Title"]') ||
-            link;
+        const title = link.textContent?.trim() || '';
+        if (!title || title.length < 5) continue;
 
-          const title = titleEl?.textContent?.trim() || '';
-          if (!title) continue;
+        const href = link.href;
+        const match = href.match(/\/job\/([^/]+)/);
 
-          const href = link?.href || '';
+        const card = link.closest('[class*="card"], [class*="item"], li, article') || link.parentElement;
+        const location = card?.querySelector('[class*="location"], [class*="city"]')?.textContent?.trim();
+        const department = card?.querySelector('[class*="category"], [class*="department"]')?.textContent?.trim();
 
-          let externalId: string | undefined;
-          // data 属性から ID を取得
-          externalId =
-            card.getAttribute('data-job-id') ||
-            card.getAttribute('data-id') ||
-            card.getAttribute('data-requisition-id') ||
-            undefined;
-          // URL から ID を抽出
-          if (!externalId && href) {
-            try {
-              const url = new URL(href);
-              externalId =
-                url.searchParams.get('jobId') ||
-                url.searchParams.get('id') ||
-                url.pathname.match(/\/(\d+)/)?.[1];
-            } catch {
-              // pass
-            }
-          }
-
-          const deptEl = card.querySelector(
-            '[class*="department"], [class*="category"], [class*="function"]'
-          );
-          const locEl = card.querySelector(
-            '[class*="location"], [class*="city"], [class*="country"]'
-          );
-
-          results.push({
-            title,
-            url: href,
-            externalId,
-            department: deptEl?.textContent?.trim(),
-            location: locEl?.textContent?.trim(),
-          });
-        }
+        results.push({ title, url: href, externalId: match?.[1], location, department });
       }
-
-      // パターン2: テーブル形式
-      if (results.length === 0) {
-        const rows = document.querySelectorAll('table tbody tr, .results-table tr');
-        for (const row of rows) {
-          const link = row.querySelector('a[href]') as HTMLAnchorElement | null;
-          if (!link) continue;
-
-          const title = link.textContent?.trim() || '';
-          if (!title) continue;
-
-          const cells = row.querySelectorAll('td');
-          const department = cells.length >= 2 ? cells[1]?.textContent?.trim() : undefined;
-          const location = cells.length >= 3 ? cells[2]?.textContent?.trim() : undefined;
-
-          let externalId: string | undefined;
-          try {
-            const url = new URL(link.href);
-            externalId =
-              url.searchParams.get('jobId') ||
-              url.searchParams.get('id') ||
-              url.pathname.match(/\/(\d+)/)?.[1];
-          } catch {
-            // pass
-          }
-
-          results.push({
-            title,
-            url: link.href,
-            externalId,
-            department,
-            location,
-          });
-        }
-      }
-
-      // パターン3: 汎用リンク収集
-      if (results.length === 0) {
-        const allLinks = document.querySelectorAll(
-          'a[href*="job"], a[href*="position"], a[href*="requisition"], a[href*="career"]'
-        );
-        for (const el of allLinks) {
-          const link = el as HTMLAnchorElement;
-          const title = link.textContent?.trim() || '';
-          if (!title || title.length < 5) continue;
-          // ナビゲーションリンクを除外
-          if (link.closest('nav, header, footer')) continue;
-
-          let externalId: string | undefined;
-          try {
-            const url = new URL(link.href);
-            externalId =
-              url.searchParams.get('jobId') ||
-              url.searchParams.get('id') ||
-              url.pathname.match(/\/(\d+)/)?.[1];
-          } catch {
-            // pass
-          }
-
-          results.push({ title, url: link.href, externalId });
-        }
-      }
-
       return results;
     });
 
-    logger.info(`msd: 一覧ページから ${jobLinks.length} 件のリンクを検出`);
+    logger.info(`msd: DOM フォールバックで ${jobLinks.length} 件検出`);
 
-    if (jobLinks.length === 0) {
-      logger.warn('msd: 求人リンクが見つかりません。ページ構造が変わった可能性があります');
-      return [];
-    }
-
-    // ── 詳細ページを巡回 ──
-    const jobs: JobListing[] = [];
-    const targetLinks = jobLinks.slice(0, this.detailLimit);
-
-    for (const link of targetLinks) {
+    return jobLinks.map((link) => {
       const job: JobListing = {
         title: link.title,
         url: link.url,
         externalId: link.externalId,
-        department: link.department,
         location: link.location,
+        department: link.department,
       };
-
-      // 詳細ページからテキストを取得
-      if (link.url) {
-        try {
-          await page.goto(link.url, { timeout: 15_000, waitUntil: 'domcontentloaded' });
-          await page.waitForLoadState('networkidle').catch(() => {});
-
-          const detail = await page.evaluate(() => {
-            // セクション見出し + 本文のパターンで探索
-            const findSection = (labels: string[]): string | undefined => {
-              // 見出し要素から探す
-              const headings = Array.from(document.querySelectorAll('h1, h2, h3, h4, h5, strong, dt, th'));
-              for (const heading of headings) {
-                const text = heading.textContent?.trim() || '';
-                for (const label of labels) {
-                  if (text.includes(label)) {
-                    // 次の兄弟要素、または親のテキストを取得
-                    // dd パターン
-                    if ((heading as Element).tagName === 'DT') {
-                      const dd = heading.nextElementSibling;
-                      if (dd && (dd as Element).tagName === 'DD') return dd.textContent?.trim() ?? undefined;
-                    }
-                    // 通常パターン: 次の兄弟要素のテキストを取得
-                    const sibling = heading.nextElementSibling;
-                    if (sibling) return sibling.textContent?.trim() ?? undefined;
-                  }
-                }
-              }
-              return undefined;
-            };
-
-            // class ベースでの取得
-            const getByClass = (patterns: string[]): string | undefined => {
-              for (const pattern of patterns) {
-                const el = document.querySelector(`[class*="${pattern}"]`);
-                if (el?.textContent?.trim()) return el.textContent.trim();
-              }
-              return undefined;
-            };
-
-            const description =
-              findSection(['Job Description', '職務内容', '仕事内容', '業務内容', 'Responsibilities']) ||
-              getByClass(['description', 'job-detail', 'job-body']);
-
-            const requirements =
-              findSection(['Qualifications', '応募資格', '必須条件', 'Requirements', '求める人材']) ||
-              getByClass(['requirements', 'qualifications']);
-
-            const department =
-              findSection(['Department', '部門', 'Function', '職種']) ||
-              getByClass(['department', 'function']);
-
-            const location =
-              findSection(['Location', '勤務地', '就業場所']) ||
-              getByClass(['location', 'city']);
-
-            return { description, requirements, department, location };
-          });
-
-          job.description = detail.description;
-          job.requirements = detail.requirements;
-          if (!job.department && detail.department) job.department = detail.department;
-          if (!job.location && detail.location) job.location = detail.location;
-        } catch {
-          logger.warn(`msd: 詳細ページ取得失敗 - ${link.url}`);
-        }
-      }
-
-      // 自動分類
-      const textForClassify = `${job.title} ${job.description ?? ''}`;
-      job.jobCategory = classifyJobCategory(textForClassify);
-      job.therapeuticArea = classifyTherapeuticArea(textForClassify);
-
-      jobs.push(job);
-    }
-
-    return jobs;
-  }
-
-  /**
-   * 「もっと見る」ボタンを繰り返しクリックして全求人を表示する
-   * 最大10回クリックで打ち切り
-   */
-  private async loadAllJobs(page: Page): Promise<void> {
-    const maxClicks = 10;
-
-    for (let i = 0; i < maxClicks; i++) {
-      const loadMoreBtn = await page.$(
-        'button:has-text("Load More"), button:has-text("もっと見る"), ' +
-        'button:has-text("Show More"), a:has-text("次のページ"), ' +
-        '[class*="load-more"], [class*="show-more"], [class*="pagination"] a:last-child'
-      );
-
-      if (!loadMoreBtn) break;
-
-      const isVisible = await loadMoreBtn.isVisible().catch(() => false);
-      if (!isVisible) break;
-
-      try {
-        await loadMoreBtn.click();
-        // クリック後にコンテンツが読み込まれるのを待つ
-        await page.waitForTimeout(2_000);
-        await page.waitForLoadState('networkidle').catch(() => {});
-      } catch {
-        break;
-      }
-    }
+      const text = `${job.title} ${job.department ?? ''}`;
+      job.jobCategory = classifyJobCategory(text);
+      job.therapeuticArea = classifyTherapeuticArea(text);
+      return job;
+    });
   }
 }
 
 // ── MSD インスタンス ──────────────────────────────
-
 export const msdScraper = new MsdScraper();

@@ -112,6 +112,17 @@ export abstract class BaseScraper implements IScraper {
     }
   }
 
+  // ── protected ──────────────────────────────
+
+  /**
+   * ページ遷移時の待機戦略。
+   * SPA サイト（MSD等）では 'domcontentloaded' に変更すると
+   * タイムアウトを回避できる。サブクラスでオーバーライド可能。
+   */
+  protected get waitUntilStrategy(): 'networkidle' | 'domcontentloaded' | 'load' {
+    return 'networkidle';
+  }
+
   // ── private ───────────────────────────────
 
   /**
@@ -120,7 +131,7 @@ export abstract class BaseScraper implements IScraper {
   private async navigateAndExtract(page: Page): Promise<JobListing[]> {
     await page.goto(this.url, {
       timeout: SCRAPE_CONFIG.timeout,
-      waitUntil: 'networkidle',
+      waitUntil: this.waitUntilStrategy,
     });
     return this.extractJobs(page);
   }

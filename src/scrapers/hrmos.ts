@@ -38,7 +38,8 @@ export class HrmosScraper extends BaseScraper {
     super();
     this.companyId = companyId;
     this.hrmosSlug = hrmosSlug;
-    this.url = `${HRMOS_BASE}/${hrmosSlug}`;
+    // ランディングページではなく求人一覧ページを直接開く
+    this.url = `${HRMOS_BASE}/${hrmosSlug}/jobs`;
   }
 
   // ── メイン抽出ロジック ─────────────────────────
@@ -204,61 +205,25 @@ export class HrmosScraper extends BaseScraper {
     for (const job of toVisit) {
       if (!job.url) continue;
 
+      // 詳細ページは新しいタブで開く（一覧ページを維持するため）
+      let detailPage: Page | null = null;
       try {
-        await page.goto(job.url, {
+        detailPage = await page.context().newPage();
+        await detailPage.goto(job.url, {
           timeout: DETAIL_TIMEOUT,
           waitUntil: 'domcontentloaded',
         });
 
         // 本文が表示されるまで少し待つ
-        await page.waitForSelector(
+        await detailPage.waitForSelector(
           '[class*="detail"], [class*="Detail"], [class*="description"], [class*="body"], main, article',
           { timeout: 5_000 },
         ).catch(() => {/* DOM がなくても続行 */});
 
-        const detail = await page.evaluate(() => {
-          // ── description: 仕事内容・職務内容 ──
-          const descSection =
-            document.querySelector(
-              '[class*="description"], [class*="Description"], [class*="detail"], [class*="Detail"], [class*="body"], [class*="Body"]',
-            ) ??
-            document.querySelector('main, article, [role="main"]');
-
-          const description = descSection?.textContent?.trim() ?? undefined;
-
-          // ── requirements: 応募要件セクションを探す ──
-          let requirements: string | undefined;
-
-          // 「応募要件」「必須」「資格」等のヘッダを探して直後のテキストを取得
-          const headings = Array.from(document.querySelectorAll('h2, h3, h4, dt, th, strong, b'));
-          for (let i = 0; i < headings.length; i++) {
-            const h = headings[i];
-            const text = h.textContent ?? '';
-            if (/応募|要件|必須|資格|スキル|Requirements|Qualifications/i.test(text)) {
-              // 次の兄弟要素 or 親の次の要素からテキストを取る
-              const next =
-                h.nextElementSibling ??
-                h.parentElement?.nextElementSibling;
-              if (next) {
-                requirements = next.textContent?.trim();
-                break;
-              }
-            }
-          }
-
-          // department / location も詳細ページから再取得（一覧で取れなかった場合）
-          const department =
-            document.querySelector(
-              '[class*="department"], [class*="Department"], [class*="team"], [class*="Team"]',
-            )?.textContent?.trim() ?? undefined;
-
-          const location =
-            document.querySelector(
-              '[class*="location"], [class*="Location"], [class*="area"], [class*="Area"], [class*="place"], [class*="Place"]',
-            )?.textContent?.trim() ?? undefined;
-
-          return { description, requirements, department, location };
-        });
+        // NOTE: page.evaluate 内の const アロー関数は tsx (esbuild) が
+        // __name ヘルパーを注入するためブラウザ内で ReferenceError になる。
+        // Playwright Locator API を使って直接テキストを取得する。
+        const detail = await this.extractDetailWithLocators(detailPage);
 
         // 詳細から取れた値で上書き（一覧で取れなかったフィールドのみ）
         job.description = detail.description;
@@ -266,17 +231,122 @@ export class HrmosScraper extends BaseScraper {
         if (!job.department && detail.department) job.department = detail.department;
         if (!job.location && detail.location) job.location = detail.location;
 
-        // サーバーに優しく
-        await page.waitForTimeout(DETAIL_DELAY);
+        logger.info(`[${this.companyId}] 詳細取得成功 - ${job.externalId}`);
       } catch (err) {
         const msg = err instanceof Error ? err.message : String(err);
         logger.warn(`[${this.companyId}] 詳細ページ取得失敗 (${job.externalId}): ${msg}`);
         // 詳細取得に失敗しても一覧データは残す
+      } finally {
+        if (detailPage) {
+          try { await detailPage.close(); } catch { /* タブクローズ失敗は無視 */ }
+        }
       }
+
+      // サーバーに優しく
+      await page.waitForTimeout(DETAIL_DELAY);
     }
 
     // 詳細未取得の残りと結合して返す
     return [...toVisit, ...remaining];
+  }
+
+  // ── 詳細ページからテキスト抽出 ──────────────────
+
+  /**
+   * 詳細ページからフィールドを取得する。
+   * page.evaluate 内では const アロー関数を使わない
+   * （tsx/esbuild が __name ヘルパーを注入し、ブラウザ内で ReferenceError になるため）
+   */
+  private async extractDetailWithLocators(
+    dp: Page,
+  ): Promise<{ description?: string; requirements?: string; department?: string; location?: string }> {
+    // evaluate に渡す関数はラベル配列を引数で受け取り、
+    // ヘルパー関数は function 宣言ではなくインラインで処理する
+    return dp.evaluate((labelSets: Record<string, string[]>) => {
+      // ── インラインヘルパー: ラベルに一致する見出しの直後テキストを取得 ──
+      // NOTE: 名前付き const を避けるため、結果オブジェクトを直接構築する
+      const result: Record<string, string | undefined> = {};
+
+      for (const [key, labels] of Object.entries(labelSets)) {
+        let found: string | undefined;
+        const headings = document.querySelectorAll('h1, h2, h3, h4, h5, dt, th, strong, b');
+        for (let i = 0; i < headings.length && !found; i++) {
+          const heading = headings[i];
+          const text = heading.textContent?.trim() || '';
+          for (const label of labels) {
+            if (!text.includes(label)) continue;
+
+            // dt → dd パターン
+            if (heading.tagName === 'DT') {
+              const dd = heading.nextElementSibling;
+              if (dd?.tagName === 'DD' && dd.textContent?.trim()) {
+                found = dd.textContent.trim();
+                break;
+              }
+            }
+            // th → td パターン
+            if (heading.tagName === 'TH') {
+              const tr = heading.closest('tr');
+              const td = tr?.querySelector('td');
+              if (td?.textContent?.trim()) {
+                found = td.textContent.trim();
+                break;
+              }
+            }
+            // 見出し → 次の兄弟
+            const sibling = heading.nextElementSibling;
+            if (sibling?.textContent?.trim()) {
+              found = sibling.textContent.trim();
+              break;
+            }
+            // 見出しの親 → 次の兄弟
+            const parentSibling = heading.parentElement?.nextElementSibling;
+            if (parentSibling?.textContent?.trim()) {
+              found = parentSibling.textContent.trim();
+              break;
+            }
+          }
+        }
+        result[key] = found;
+      }
+
+      // フォールバック: description が取れなかった場合はクラス名ベース or 本文全体
+      if (!result.description) {
+        const descEl = document.querySelector(
+          '[class*="description"], [class*="Description"], [class*="detail"], [class*="Detail"]',
+        );
+        if (descEl?.textContent?.trim()) {
+          result.description = descEl.textContent.trim();
+        } else {
+          const main = document.querySelector('main, article, [role="main"]');
+          if (main?.textContent?.trim()) {
+            result.description = main.textContent.trim();
+          }
+        }
+      }
+
+      // フォールバック: location / department
+      if (!result.department) {
+        const el = document.querySelector('[class*="department"], [class*="Department"], [class*="team"], [class*="Team"]');
+        if (el?.textContent?.trim()) result.department = el.textContent.trim();
+      }
+      if (!result.location) {
+        const el = document.querySelector('[class*="location"], [class*="Location"]');
+        if (el?.textContent?.trim()) result.location = el.textContent.trim();
+      }
+
+      return {
+        description: result.description,
+        requirements: result.requirements,
+        department: result.department,
+        location: result.location,
+      };
+    }, {
+      description: ['仕事内容', '職務内容', '業務内容', '募集内容', 'Job Description', 'Responsibilities'],
+      requirements: ['応募資格', '応募要件', '必須条件', '必須スキル', 'Requirements', 'Qualifications'],
+      department: ['部門', '部署', '配属先', 'Department'],
+      location: ['勤務地', '就業場所', 'Location'],
+    });
   }
 
   // ── 自動分類 ──────────────────────────────────

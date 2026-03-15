@@ -66,7 +66,7 @@ const TA_KEYWORDS: [RegExp, string][] = [
   [/オンコロジー|がん|腫瘍|Oncology|Cancer|抗がん|固形|血液腫瘍|immuno.?oncology|ONC|肺がん|乳がん|大腸|胃がん|肝がん|膵|前立腺|Tumor/i, 'oncology'],
   [/免疫|リウマチ|Immunology|炎症|自己免疫|Autoimmune|IBD|乾癬/i, 'immunology'],
   [/神経|精神|CNS|アルツハイマー|Neuro|パーキンソン|てんかん|Psychiatry/i, 'cns'],
-  [/糖尿病|心不全|循環器|Cardiovascular|Metabolic|心臓|高血圧|脂質/i, 'cardiovascular'],
+  [/糖尿病|心不全|循環器|Cardiovascular|Metabolic|Cardiometab|心臓|高血圧|脂質/i, 'cardiovascular'],
   [/希少|Rare\s?Disease|オーファン|Orphan|遺伝子治療|Gene\s?Therapy/i, 'rare'],
   [/感染症|ワクチン|Infectious|Vaccine|抗菌|HIV|COVID|肝炎/i, 'infectious'],
   [/眼科|Ophthalmology|網膜|緑内障|加齢黄斑/i, 'ophthalmology'],
@@ -94,18 +94,23 @@ export function classifyTherapeuticArea(text: string): string {
 // ── 求人カテゴリ自動分類 ──────────────────────────
 /** キーワード → カテゴリID のマッピング（先にマッチした方が優先） */
 const CATEGORY_KEYWORDS: [RegExp, string][] = [
-  [/MR|医薬情報/i, 'mr'],
-  [/研究|リサーチ|Research|R&D/i, 'rd'],
-  [/臨床|Clinical|CRA|CRC|治験|試験|Study\s*Manager|スタディマネ/i, 'clinical'],
-  [/薬事|Regulatory|RA(?![a-z])/i, 'regulatory'],
-  [/安全性|PV|ファーマコ|Pharmacovigilance|Safety|ICSR|副作用/i, 'pv'],
-  [/メディカル|Medical|MSL|メディカルサイエンス|MA(?![a-z])/i, 'medical'],
+  // NOTE: 順序が重要 — 先にマッチした方が優先される
+  // 全角ＭＲ にも対応
+  [/MR|ＭＲ|医薬情報/i, 'mr'],
+  // clinical を rd より前に置く: 「クリニカルサイエンティスト」→ clinical にしたいため
+  [/臨床|Clinical|CRA|CRC|治験|試験|Study\s*Manager|スタディマネ|クリニカル/i, 'clinical'],
+  [/研究|リサーチ|Research|R&D|Scientist|サイエンティスト/i, 'rd'],
+  [/薬事|Regulatory|RA(?![a-z])|CMC/i, 'regulatory'],
+  [/安全性|PV|ファーマコ|Pharmacovigilance|Safety|ICSR|副作用|信頼性保証|信頼性確保/i, 'pv'],
+  [/メディカル|Medical|MSL|メディカルサイエンス|MA(?![a-z])|メディカルアドバイザ/i, 'medical'],
   [/マーケティング|Marketing|PM(?![a-z])|プロダクトマネ|ブランド|Brand|CRM/i, 'marketing'],
-  [/営業|SFE|セールス|Sales|コマーシャル|Commercial|プロモーション/i, 'sales'],
-  [/戦略|Strategy|ビジネス|Business\s*Dev|事業開発|アクセス|Access|渉外/i, 'strategy'],
-  [/製造|品質|QA|QC|Manufacturing|GMP/i, 'manufacturing'],
-  [/デジタル|DX|IT(?![a-z])|データ|Digital|Data|AI(?![a-z])|アナリティクス|Analytics|Insight/i, 'digital'],
-  [/人事|経理|法務|総務|HR(?![a-z])|Finance|Legal/i, 'corporate'],
+  // Commercial + タイポ "Commerical"（rcの入れ替え）にも対応
+  [/営業|SFE|セールス|Sales|コマーシャル|Commercial|Commerical|プロモーション|医療推進/i, 'sales'],
+  [/戦略|Strategy|ビジネス|Business\s*Dev|事業開発|アクセス|Access|渉外|プランニング|Planning/i, 'strategy'],
+  [/製造|品質|QA|QC|Manufacturing|GMP|生産技術|原薬|製剤/i, 'manufacturing'],
+  [/デジタル|DX|IT(?![a-z])|データ|Digital|Data|AI(?![a-z])|アナリティクス|Analytics|Insight|エンジニア(?!リング)/i, 'digital'],
+  // corporate はコーポレート・経営企画を含む（strategy のプランニングとの競合に注意）
+  [/人事|経理|法務|総務|HR(?![a-z])|Finance|Legal|経営企画|コーポレート|税務|監査|Audit/i, 'corporate'],
 ];
 
 /**
