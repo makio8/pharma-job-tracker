@@ -58,3 +58,21 @@ jobs:
           path: data/pharma-jobs.db
           retention-days: 90
           overwrite: true
+
+      # --- Web ダッシュボード: JSON エクスポート → ビルド → GitHub Pages デプロイ ---
+
+      - name: Export JSON for web
+        run: npm run export
+
+      - name: Build web frontend
+        run: |
+          cd web
+          npm ci
+          npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web/dist
+          publish_branch: gh-pages

@@ -7,3 +7,4 @@ data/*.db-shm
 !.env.example
 *.log
 web/dist/
+web/public/data/
