@@ -453,3 +453,18 @@ export const takedaScraper = new WorkdayScraper('takeda', 'takeda', 'wd3', 'Exte
 
 /** ファイザー（グローバルサイトなので 'Japan' で絞り込み） */
 export const pfizerScraper = new WorkdayScraper('pfizer', 'pfizer', 'wd1', 'PfizerCareers', 'Japan');
+
+/** BMS（wd5 インスタンス） */
+export const bmsScraper = new WorkdayScraper('bms', 'bristolmyerssquibb', 'wd5', 'BMS', 'Japan');
+
+/** J&J / ヤンセンファーマ（wd5 インスタンス） */
+export const jnjScraper = new WorkdayScraper('jnj', 'jj', 'wd5', 'JJ', 'Japan');
+
+/** ノバルティス（wd3 インスタンス） */
+export const novartisScraper = new WorkdayScraper('novartis', 'novartis', 'wd3', 'Novartis_Careers', 'Japan');
+
+/** イーライリリー（wd5 インスタンス — Phenom フロントエンドだが Workday API も利用可能） */
+export const lillyScraper = new WorkdayScraper('lilly', 'lilly', 'wd5', 'Lilly', 'Japan');
+
+/** 大塚製薬（wd1 インスタンス、日本専用サイト） */
+export const otsukaScraper = new WorkdayScraper('otsuka', 'vhr-otsuka', 'wd1', 'Japan_External_Career_Site_OPC');

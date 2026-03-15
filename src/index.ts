@@ -19,19 +19,43 @@ import { logger } from './utils/logger.js';
 
 // ── スクレイパーのインポート ──────────────────────
 import { eisaiScraper, kyowakirinScraper } from './scrapers/hrmos.js';
-import { takedaScraper, pfizerScraper } from './scrapers/workday.js';
+import { takedaScraper, pfizerScraper, bmsScraper, jnjScraper, novartisScraper, lillyScraper, otsukaScraper } from './scrapers/workday.js';
 import { chugaiScraper } from './scrapers/jposting.js';
 import { msdScraper } from './scrapers/custom/msd.js';
+import { rocheScraper } from './scrapers/custom/roche.js';
+import { onoScraper } from './scrapers/custom/ono.js';
+import { sumitomoScraper } from './scrapers/custom/sumitomo.js';
+import { daiichiSankyoScraper } from './scrapers/custom/daiichi-sankyo.js';
+import { astrazenecaScraper, sanofiScraper } from './scrapers/radancy.js';
+import { tanabeScraper } from './scrapers/axol.js';
+import { abbvieScraper } from './scrapers/attrax.js';
+import { astellasScraper } from './scrapers/avature.js';
 
 // ── スクレイパーレジストリ ────────────────────────
-// 企業ID → スクレイパーインスタンスのマッピング
+// 企業ID → スクレイパーインスタンスのマッピング（全20社）
 const SCRAPERS: Record<string, BaseScraper> = {
-  eisai: eisaiScraper,
-  kyowakirin: kyowakirinScraper,
-  takeda: takedaScraper,
+  // 外資系 10社
   pfizer: pfizerScraper,
-  chugai: chugaiScraper,
+  jnj: jnjScraper,
   msd: msdScraper,
+  novartis: novartisScraper,
+  bms: bmsScraper,
+  lilly: lillyScraper,
+  astrazeneca: astrazenecaScraper,
+  sanofi: sanofiScraper,
+  abbvie: abbvieScraper,
+  roche: rocheScraper,
+  // 内資系 10社
+  takeda: takedaScraper,
+  astellas: astellasScraper,
+  'daiichi-sankyo': daiichiSankyoScraper,
+  otsuka: otsukaScraper,
+  eisai: eisaiScraper,
+  chugai: chugaiScraper,
+  ono: onoScraper,
+  sumitomo: sumitomoScraper,
+  tanabe: tanabeScraper,
+  kyowakirin: kyowakirinScraper,
 };
 
 // ── 型定義 ────────────────────────────────────────
