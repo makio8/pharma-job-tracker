@@ -8,7 +8,8 @@
     "scrape:company": "tsx src/index.ts --company",
     "post": "tsx src/posting/client.ts",
     "setup": "tsx src/db/schema.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "export": "tsx scripts/export-json.ts"
   },
   "keywords": ["pharma", "job-tracker", "playwright", "scraper"],
   "author": "makio8",
