@@ -1,18 +1,31 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import { Table, Select, Typography, Tag, Button, Card, Row, Col } from 'antd';
+import {
+  Table,
+  Select,
+  Typography,
+  Tag,
+  Button,
+  Card,
+  Row,
+  Col,
+  Drawer,
+  Space,
+  Divider,
+} from 'antd';
 import type { ColumnsType } from 'antd/es/table';
 import { useJobs, useCompanies } from '../hooks/useData.ts';
 import { JOB_CATEGORY_LABELS, THERAPEUTIC_AREA_LABELS } from '../types/index.ts';
 import type { Job } from '../types/index.ts';
 
-const { Title, Text } = Typography;
+const { Title, Text, Paragraph } = Typography;
 
 export default function JobsPage() {
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
   const { data: jobs, loading: jobsLoading } = useJobs();
   const { data: companies, loading: compLoading } = useCompanies();
+  const [selectedJob, setSelectedJob] = useState<Job | null>(null);
 
   const loading = jobsLoading || compLoading;
 
@@ -89,6 +102,15 @@ export default function JobsPage() {
       dataIndex: 'title',
       key: 'title',
       ellipsis: true,
+      render: (title: string, record: Job) => (
+        <Button
+          type="link"
+          onClick={() => setSelectedJob(record)}
+          style={{ textAlign: 'left', whiteSpace: 'normal', height: 'auto', padding: 0 }}
+        >
+          {title}
+        </Button>
+      ),
     },
     {
       title: '職種カテゴリ',
@@ -137,6 +159,8 @@ export default function JobsPage() {
         ) : null,
     },
   ];
+
+  const drawerCompany = selectedJob ? companyMap[selectedJob.company_id] : null;
 
   return (
     <div>
@@ -222,6 +246,122 @@ export default function JobsPage() {
         }}
         scroll={{ x: 900 }}
       />
+
+      {/* === 求人詳細 Drawer === */}
+      <Drawer
+        open={!!selectedJob}
+        onClose={() => setSelectedJob(null)}
+        width={640}
+        title={selectedJob?.title}
+      >
+        {selectedJob && (
+          <Space direction="vertical" size={16} style={{ width: '100%' }}>
+            {/* 会社名 */}
+            <div>
+              <Text type="secondary" style={{ fontSize: 12 }}>会社名</Text>
+              <div>
+                <Button
+                  type="link"
+                  style={{ padding: 0, height: 'auto' }}
+                  onClick={() => {
+                    navigate(`/companies/${selectedJob.company_id}`);
+                    setSelectedJob(null);
+                  }}
+                >
+                  {drawerCompany?.name_ja ?? selectedJob.company_id}
+                </Button>
+              </div>
+            </div>
+
+            {/* 職種カテゴリ・疾患領域 */}
+            <div>
+              <Text type="secondary" style={{ fontSize: 12 }}>職種カテゴリ / 疾患領域</Text>
+              <div style={{ marginTop: 4 }}>
+                <Space wrap>
+                  {selectedJob.job_category ? (
+                    <Tag>{JOB_CATEGORY_LABELS[selectedJob.job_category] ?? selectedJob.job_category}</Tag>
+                  ) : (
+                    <Text type="secondary">-</Text>
+                  )}
+                  {selectedJob.therapeutic_area ? (
+                    <Tag color="purple">
+                      {THERAPEUTIC_AREA_LABELS[selectedJob.therapeutic_area] ?? selectedJob.therapeutic_area}
+                    </Tag>
+                  ) : null}
+                </Space>
+              </div>
+            </div>
+
+            {/* 勤務地・部門 */}
+            <Row gutter={16}>
+              <Col span={12}>
+                <Text type="secondary" style={{ fontSize: 12 }}>勤務地</Text>
+                <div>
+                  <Text>{selectedJob.location ?? '情報なし'}</Text>
+                </div>
+              </Col>
+              <Col span={12}>
+                <Text type="secondary" style={{ fontSize: 12 }}>部門</Text>
+                <div>
+                  <Text>{selectedJob.department ?? '情報なし'}</Text>
+                </div>
+              </Col>
+            </Row>
+
+            {/* 掲載開始日 */}
+            <div>
+              <Text type="secondary" style={{ fontSize: 12 }}>掲載開始日</Text>
+              <div>
+                <Text>{selectedJob.first_seen}</Text>
+              </div>
+            </div>
+
+            {/* 応募ページボタン */}
+            {selectedJob.url && (
+              <Button
+                type="primary"
+                href={selectedJob.url}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                応募ページを開く →
+              </Button>
+            )}
+
+            <Divider style={{ margin: '8px 0' }} />
+
+            {/* 募集要項 */}
+            <div>
+              <Text strong>募集要項</Text>
+              <div style={{ marginTop: 8 }}>
+                {selectedJob.description ? (
+                  <Paragraph style={{ whiteSpace: 'pre-wrap', marginBottom: 0 }}>
+                    {selectedJob.description}
+                  </Paragraph>
+                ) : (
+                  <Text type="secondary">情報なし</Text>
+                )}
+              </div>
+            </div>
+
+            <Divider style={{ margin: '8px 0' }} />
+
+            {/* 応募要件 */}
+            <div>
+              <Text strong>応募要件</Text>
+              <div style={{ marginTop: 8 }}>
+                {selectedJob.requirements ? (
+                  <Paragraph style={{ whiteSpace: 'pre-wrap', marginBottom: 0 }}>
+                    {selectedJob.requirements}
+                  </Paragraph>
+                ) : (
+                  <Text type="secondary">情報なし</Text>
+                )}
+              </div>
+            </div>
+          </Space>
+        )}
+      </Drawer>
     </div>
   );
 }

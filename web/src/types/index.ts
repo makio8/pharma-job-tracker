@@ -18,6 +18,8 @@ export interface Job {
   location: string | null;
   job_category: string | null;
   url: string | null;
+  description: string | null;
+  requirements: string | null;
   therapeutic_area: string | null;
   first_seen: string; // YYYY-MM-DD
   last_seen: string;

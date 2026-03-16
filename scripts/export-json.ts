@@ -100,7 +100,6 @@ try {
   writeJson("companies.json", companies);
 
   // ========== jobs.json ==========
-  // description と requirements は除外
   const jobs = db
     .prepare(
       `
@@ -113,6 +112,8 @@ try {
         location,
         job_category,
         url,
+        description,
+        requirements,
         therapeutic_area,
         first_seen,
         last_seen,
@@ -153,6 +154,8 @@ try {
         location,
         job_category,
         url,
+        description,
+        requirements,
         therapeutic_area,
         first_seen,
         last_seen,
