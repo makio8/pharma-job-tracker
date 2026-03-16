@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 100
+    "active_jobs": 99
   },
   {
     "id": "chugai",
@@ -18,6 +18,16 @@
     "scraper": "jposting",
     "active": 1,
     "active_jobs": 50
+  },
+  {
+    "id": "lilly",
+    "name_ja": "日本イーライリリー",
+    "name_en": "Eli Lilly",
+    "category": "foreign",
+    "careers_url": "careers.lilly.com/jp/ja/japan",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 38
   },
   {
     "id": "eisai",
@@ -100,6 +110,16 @@
     "active_jobs": 20
   },
   {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 18
+  },
+  {
     "id": "abbvie",
     "name_ja": "アッヴィ",
     "name_en": "AbbVie",
@@ -107,7 +127,7 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
     "id": "roche",
@@ -117,7 +137,7 @@
     "careers_url": "roche.com/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 9
+    "active_jobs": 14
   },
   {
     "id": "bms",
@@ -160,26 +180,6 @@
     "active_jobs": 2
   },
   {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 0
-  },
-  {
-    "id": "lilly",
-    "name_ja": "日本イーライリリー",
-    "name_en": "Eli Lilly",
-    "category": "foreign",
-    "careers_url": "careers.lilly.com/jp/ja/japan",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 0
-  },
-  {
     "id": "tanabe",
     "name_ja": "田辺ファーマ",
     "name_en": "Tanabe Pharma",
@@ -187,7 +187,7 @@
     "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
     "scraper": "jposting",
     "active": 1,
-    "active_jobs": 0
+    "active_jobs": 2
   },
   {
     "id": "daiichi-sankyo",
