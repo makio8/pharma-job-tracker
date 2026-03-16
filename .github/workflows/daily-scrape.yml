@@ -43,6 +43,7 @@ jobs:
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
 
       - name: Post daily summary to X
+        continue-on-error: true  # X API 未設定でも後続ステップを続行
         run: npm run post
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
