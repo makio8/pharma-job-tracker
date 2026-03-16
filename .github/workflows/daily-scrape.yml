@@ -10,6 +10,8 @@ jobs:
   scrape-and-post:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: write  # gh-pages ブランチへの push に必要
 
     steps:
       - uses: actions/checkout@v4
