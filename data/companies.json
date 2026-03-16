@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 99
+    "active_jobs": 98
   },
   {
     "id": "chugai",
@@ -77,7 +77,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 26
   },
   {
     "id": "msd",
@@ -87,7 +87,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 22
+    "active_jobs": 21
   },
   {
     "id": "astellas",

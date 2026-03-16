@@ -51,8 +51,8 @@
     "id": 2,
     "scan_date": "2026-03-16",
     "company_id": "jnj",
-    "total_jobs": 99,
-    "new_jobs": 99,
+    "total_jobs": 98,
+    "new_jobs": 98,
     "closed_jobs": 0
   },
   {
@@ -75,8 +75,8 @@
     "id": 3,
     "scan_date": "2026-03-16",
     "company_id": "msd",
-    "total_jobs": 22,
-    "new_jobs": 22,
+    "total_jobs": 21,
+    "new_jobs": 21,
     "closed_jobs": 0
   },
   {
@@ -139,8 +139,8 @@
     "id": 11,
     "scan_date": "2026-03-16",
     "company_id": "takeda",
-    "total_jobs": 27,
-    "new_jobs": 27,
+    "total_jobs": 26,
+    "new_jobs": 26,
     "closed_jobs": 0
   },
   {
