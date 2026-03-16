@@ -35,6 +35,9 @@ const JAPAN_LOCATION_KEYWORDS = [
   '日本', '東京', '大阪', '名古屋', '横浜', '神戸', '福岡', '札幌',
   '仙台', '広島', '千葉', '埼玉', '神奈川', '茨城', '静岡', '兵庫',
   '愛知', '北海道', '光', 'hikari',  // 武田の光工場
+  'toranomon', 'npkk', 'sasayama', '虎ノ門', '篠山',  // ノバルティス拠点
+  'nihonbashi', '日本橋',  // 各社東京オフィス
+  'nishi-shinjuku', '西新宿',  // 各社東京オフィス
 ];
 
 // ── Workday API レスポンス型 ─────────────────────
@@ -463,8 +466,7 @@ export const jnjScraper = new WorkdayScraper('jnj', 'jj', 'wd5', 'JJ', 'Japan');
 /** ノバルティス（wd3 インスタンス） */
 export const novartisScraper = new WorkdayScraper('novartis', 'novartis', 'wd3', 'Novartis_Careers', 'Japan');
 
-/** イーライリリー（wd5 インスタンス — Phenom フロントエンドだが Workday API も利用可能） */
-export const lillyScraper = new WorkdayScraper('lilly', 'lilly', 'wd5', 'Lilly', 'Japan');
+// リリーは Phenom People に移行済み → src/scrapers/custom/lilly.ts を参照
 
 /** 大塚製薬（wd1 インスタンス、日本専用サイト） */
 export const otsukaScraper = new WorkdayScraper('otsuka', 'vhr-otsuka', 'wd1', 'Japan_External_Career_Site_OPC');

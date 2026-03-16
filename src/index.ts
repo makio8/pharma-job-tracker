@@ -19,7 +19,8 @@ import { logger } from './utils/logger.js';
 
 // ── スクレイパーのインポート ──────────────────────
 import { eisaiScraper, kyowakirinScraper } from './scrapers/hrmos.js';
-import { takedaScraper, pfizerScraper, bmsScraper, jnjScraper, novartisScraper, lillyScraper, otsukaScraper } from './scrapers/workday.js';
+import { takedaScraper, pfizerScraper, bmsScraper, jnjScraper, novartisScraper, otsukaScraper } from './scrapers/workday.js';
+import { lillyScraper } from './scrapers/custom/lilly.js';
 import { chugaiScraper } from './scrapers/jposting.js';
 import { msdScraper } from './scrapers/custom/msd.js';
 import { rocheScraper } from './scrapers/custom/roche.js';

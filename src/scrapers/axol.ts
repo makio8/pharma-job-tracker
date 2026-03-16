@@ -32,14 +32,11 @@ export class AxolScraper extends BaseScraper {
 
   async extractJobs(page: Page): Promise<JobListing[]> {
     await page.waitForLoadState('domcontentloaded');
+    // ページが完全にレンダリングされるまで少し待つ
+    await page.waitForTimeout(2_000);
 
-    // 求人リンクが表示されるまで待つ
-    await page.waitForSelector('a[href*="entry_"], a[href*="jobentry"]', { timeout: 10_000 })
-      .catch(() => {
-        logger.warn(`${this.companyId}: 求人リンクが見つかりません`);
-      });
-
-    // 一覧ページから求人を抽出
+    // Strategy 1: 通常の <a> リンクを探す
+    // Strategy 2: JS で動的生成される求人もキャッチ（フォーム送信型）
     const baseUrl = this.baseUrl;
     const jobLinks = await page.evaluate((base: string) => {
       const results: Array<{
@@ -50,7 +47,9 @@ export class AxolScraper extends BaseScraper {
         location?: string;
       }> = [];
 
-      // Axol の求人リンクは entry_{id} パターン
+      const seen = new Set<string>();
+
+      // Strategy 1: 通常の <a> リンク（entry_ パターン）
       const links = document.querySelectorAll<HTMLAnchorElement>(
         'a[href*="entry_"], a[href*="/jobentry"]',
       );
@@ -61,26 +60,91 @@ export class AxolScraper extends BaseScraper {
 
         const title = link.textContent?.trim() || '';
         if (!title || title.length < 4) continue;
-        // UIテキストを除外
         if (/応募|ログイン|検索|トップ|一覧|戻る/i.test(title)) continue;
 
         const href = link.href || link.getAttribute('href') || '';
         const fullUrl = href.startsWith('http') ? href : `${base}${href}`;
 
-        // external_id を URL パスから抽出
         const match = href.match(/entry_([^/]+)/);
         const externalId = match?.[1];
+        if (externalId) seen.add(externalId);
 
-        // 親要素からメタ情報を取得
         const row = link.closest('tr, li, [class*="item"], [class*="card"], div') || link.parentElement;
-
         const locEl = row?.querySelector('[class*="area"], [class*="location"], [class*="place"]');
         const location = locEl?.textContent?.trim();
-
         const deptEl = row?.querySelector('[class*="dept"], [class*="category"], [class*="division"]');
         const department = deptEl?.textContent?.trim();
 
         results.push({ title, url: fullUrl, externalId, location, department });
+      }
+
+      // Strategy 2: JS フォーム送信型（ボタン/リンクで entry_xxx/jobentry に遷移）
+      // actionBase パターンから encid を抽出
+      const scripts = document.querySelectorAll('script');
+      for (let i = 0; i < scripts.length; i++) {
+        const text = scripts[i].textContent || '';
+        // パターン: var actionBase = 'https://job.axol.jp/bx/c/xxx/entry_%s/jobentry'
+        // パターン: job_encid = "xxx"
+        const encIds = text.match(/job_encid\s*=\s*["']([^"']+)["']/g);
+        if (encIds) {
+          for (const m of encIds) {
+            const idMatch = m.match(/job_encid\s*=\s*["']([^"']+)["']/);
+            if (idMatch?.[1] && !seen.has(idMatch[1])) {
+              seen.add(idMatch[1]);
+            }
+          }
+        }
+      }
+
+      // Strategy 3: テーブル行やカード要素から求人情報を取得
+      if (results.length === 0) {
+        // 求人情報を含むテーブル行やカード要素を探す
+        const rows = document.querySelectorAll('table tbody tr, [class*="job"], [class*="entry"], [class*="recruit"]');
+        for (let i = 0; i < rows.length; i++) {
+          const row = rows[i];
+          // 行内のリンクやボタンを探す
+          const btn = row.querySelector<HTMLElement>('a, button, [onclick], [data-encid]');
+          const onclick = btn?.getAttribute('onclick') || row.getAttribute('onclick') || '';
+          const encidMatch = onclick.match(/entry_([^/'"]+)/);
+
+          // タイトルを取得
+          const titleEl = row.querySelector('[class*="title"], [class*="name"], td:first-child, th');
+          const title = titleEl?.textContent?.trim() || btn?.textContent?.trim() || '';
+          if (!title || title.length < 4) continue;
+          if (/応募|ログイン|検索|トップ|一覧|戻る|詳細|エントリー/i.test(title)) continue;
+
+          const externalId = encidMatch?.[1] || btn?.getAttribute('data-encid') || undefined;
+          if (externalId && seen.has(externalId)) continue;
+          if (externalId) seen.add(externalId);
+
+          const url = externalId
+            ? `${base}/entry_${externalId}/jobentry`
+            : `${base}/public/entry`;
+
+          const locEl = row.querySelector('[class*="area"], [class*="location"], td:nth-child(3)');
+          const location = locEl?.textContent?.trim();
+          const deptEl = row.querySelector('[class*="dept"], [class*="category"], td:nth-child(2)');
+          const department = deptEl?.textContent?.trim();
+
+          results.push({ title, url, externalId, location, department });
+        }
+      }
+
+      // Strategy 4: ページ内のすべての求人っぽいテキスト+リンクを収集
+      if (results.length === 0) {
+        const allLinks = document.querySelectorAll<HTMLAnchorElement>('a');
+        for (let i = 0; i < allLinks.length; i++) {
+          const link = allLinks[i];
+          if (link.closest('nav, header, footer')) continue;
+          const title = link.textContent?.trim() || '';
+          if (!title || title.length < 10) continue;
+          if (/応募|ログイン|検索|トップ|一覧|戻る|プライバシー|利用規約|会社概要|FAQ/i.test(title)) continue;
+          // 求人っぽいキーワードを含むリンク
+          if (/マネージャー|エンジニア|スペシャリスト|MR|研究|開発|製造|品質|営業|臨床|メディカル|薬事|リーダー|担当/i.test(title)) {
+            const href = link.href || '';
+            results.push({ title, url: href || `${base}/public/entry`, externalId: undefined });
+          }
+        }
       }
 
       return results;
