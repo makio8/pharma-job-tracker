@@ -80,6 +80,9 @@ export class RadancyScraper extends BaseScraper {
       }
     }
 
+    // 詳細ページから description を取得
+    await this.enrichWithDetails(page, allJobs);
+
     // 自動分類
     return allJobs.map((job) => {
       const text = `${job.title} ${job.department ?? ''}`;
@@ -87,6 +90,77 @@ export class RadancyScraper extends BaseScraper {
       job.therapeuticArea = classifyTherapeuticArea(`${job.title} ${job.description ?? ''}`);
       return job;
     });
+  }
+
+  /** 各求人の詳細ページを開いて description / requirements を取得 */
+  private async enrichWithDetails(page: Page, jobs: JobListing[]): Promise<void> {
+    const DETAIL_LIMIT = 50;
+    const toEnrich = jobs.filter(j => j.url).slice(0, DETAIL_LIMIT);
+
+    for (const job of toEnrich) {
+      let detailPage: Page | null = null;
+      try {
+        detailPage = await page.context().newPage();
+        await detailPage.goto(job.url!, { timeout: 15_000, waitUntil: 'domcontentloaded' });
+        await detailPage.waitForTimeout(1_000);
+
+        const detail = await detailPage.evaluate(() => {
+          // Radancy/TalentBrew の詳細ページから募集要項を抽出
+          const desc: string[] = [];
+          const req: string[] = [];
+
+          // Strategy 1: jtbd- prefixed sections (TalentBrew standard)
+          const descSection = document.querySelector(
+            '[class*="jtbd-description"], [class*="job-description"], [class*="jd-info"], #job-description, .job-detail'
+          );
+          if (descSection?.textContent?.trim()) {
+            desc.push(descSection.textContent.trim());
+          }
+
+          const reqSection = document.querySelector(
+            '[class*="jtbd-qualification"], [class*="qualification"], [class*="requirement"]'
+          );
+          if (reqSection?.textContent?.trim()) {
+            req.push(reqSection.textContent.trim());
+          }
+
+          // Strategy 2: Main content area fallback
+          if (desc.length === 0) {
+            const main = document.querySelector('main, article, [role="main"], .content-area, #content');
+            if (main?.textContent?.trim()) {
+              // Remove navigation, header, footer text
+              const clone = main.cloneNode(true) as HTMLElement;
+              clone.querySelectorAll('nav, header, footer, [class*="nav"], [class*="footer"], [class*="apply"], button, form').forEach(el => el.remove());
+              const text = clone.textContent?.trim();
+              if (text && text.length > 100) {
+                desc.push(text);
+              }
+            }
+          }
+
+          return {
+            description: desc.join('\n\n').slice(0, 5000) || null,
+            requirements: req.join('\n\n').slice(0, 3000) || null,
+          };
+        });
+
+        if (detail.description) {
+          job.description = detail.description;
+        }
+        if (detail.requirements) {
+          job.requirements = detail.requirements;
+        }
+
+        logger.info(`${this.companyId}: 詳細取得成功 - ${job.externalId}`);
+      } catch (err) {
+        const msg = err instanceof Error ? err.message : String(err);
+        logger.warn(`${this.companyId}: 詳細取得失敗 (${job.externalId}): ${msg}`);
+      } finally {
+        if (detailPage) {
+          try { await detailPage.close(); } catch { /* ignore */ }
+        }
+      }
+    }
   }
 
   /** 1ページ分の求人をDOMから抽出 */

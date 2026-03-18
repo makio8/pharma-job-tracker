@@ -21,7 +21,7 @@ const PAGE_SIZE = 20;
 /** API ページネーションの最大取得件数（安全弁） */
 const MAX_JOBS = 500;
 /** 詳細を API から取る最大件数 */
-const DETAIL_LIMIT = 50;
+const DETAIL_LIMIT = 100;
 /** 詳細取得の待機時間（ミリ秒） */
 const DETAIL_DELAY = 500;
 /** API リクエストのタイムアウト（ミリ秒） */
