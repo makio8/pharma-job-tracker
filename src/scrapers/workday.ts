@@ -79,6 +79,8 @@ export class WorkdayScraper extends BaseScraper {
   private baseApiUrl: string;
 
   private searchText: string;
+  /** タイトルに含まれるべきキーワード（いずれか一致で通過）。空配列ならフィルタなし */
+  private titleIncludeFilter: string[];
 
   /**
    * @param companyId  - 内部ID
@@ -86,6 +88,7 @@ export class WorkdayScraper extends BaseScraper {
    * @param wdInstance - Workday インスタンス（'wd1', 'wd3' 等）
    * @param sitePath   - キャリアサイトのパス名
    * @param searchText - API 検索テキスト（例: 'Japan' で日本求人に絞り込み）
+   * @param titleIncludeFilter - タイトルフィルタ（例: ['Innovative Medicine', '[IM]']）
    */
   constructor(
     companyId: string,
@@ -93,6 +96,7 @@ export class WorkdayScraper extends BaseScraper {
     wdInstance: string,
     sitePath: string,
     searchText: string = '',
+    titleIncludeFilter: string[] = [],
   ) {
     super();
     this.companyId = companyId;
@@ -100,6 +104,7 @@ export class WorkdayScraper extends BaseScraper {
     this.wdInstance = wdInstance;
     this.sitePath = sitePath;
     this.searchText = searchText;
+    this.titleIncludeFilter = titleIncludeFilter;
     this.url = `https://${company}.${wdInstance}.myworkdayjobs.com/${sitePath}`;
     this.baseApiUrl = `https://${company}.${wdInstance}.myworkdayjobs.com`;
   }
@@ -121,6 +126,19 @@ export class WorkdayScraper extends BaseScraper {
     jobs = jobs.filter((job) => this.isJapanJob(job));
     if (beforeFilter !== jobs.length) {
       logger.info(`[${this.companyId}] 日本フィルタ: ${beforeFilter}件 → ${jobs.length}件`);
+    }
+
+    // タイトルフィルタ（J&J の Innovative Medicine のみ等）
+    if (this.titleIncludeFilter.length > 0) {
+      const beforeTitle = jobs.length;
+      jobs = jobs.filter((job) =>
+        this.titleIncludeFilter.some((kw) =>
+          job.title.toLowerCase().includes(kw.toLowerCase()),
+        ),
+      );
+      if (beforeTitle !== jobs.length) {
+        logger.info(`[${this.companyId}] タイトルフィルタ: ${beforeTitle}件 → ${jobs.length}件`);
+      }
     }
 
     logger.info(`[${this.companyId}] 合計 ${jobs.length} 件の求人を取得`);
@@ -460,8 +478,12 @@ export const pfizerScraper = new WorkdayScraper('pfizer', 'pfizer', 'wd1', 'Pfiz
 /** BMS（wd5 インスタンス） */
 export const bmsScraper = new WorkdayScraper('bms', 'bristolmyerssquibb', 'wd5', 'BMS', 'Japan');
 
-/** J&J / ヤンセンファーマ（wd5 インスタンス） */
-export const jnjScraper = new WorkdayScraper('jnj', 'jj', 'wd5', 'JJ', 'Japan');
+/** J&J / ヤンセンファーマ（wd5 インスタンス、Innovative Medicine のみフィルタ） */
+export const jnjScraper = new WorkdayScraper('jnj', 'jj', 'wd5', 'JJ', 'Japan', [
+  'Innovative Medicine', '[IM]',
+  // IM所属のコーポレート職（タグなし）も一部含む
+  'Medical Affairs', 'Immunology', 'Oncology', 'Neuroscience', 'Pulmonary',
+]);
 
 /** ノバルティス（wd3 インスタンス） */
 export const novartisScraper = new WorkdayScraper('novartis', 'novartis', 'wd3', 'Novartis_Careers', 'Japan');
