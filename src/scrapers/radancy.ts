@@ -109,26 +109,49 @@ export class RadancyScraper extends BaseScraper {
           const desc: string[] = [];
           const req: string[] = [];
 
-          // Strategy 1: jtbd- prefixed sections (TalentBrew standard)
-          const descSection = document.querySelector(
-            '[class*="jtbd-description"], [class*="job-description"], [class*="jd-info"], #job-description, .job-detail'
-          );
-          if (descSection?.textContent?.trim()) {
-            desc.push(descSection.textContent.trim());
+          // Strategy 0: JSON-LD (Schema.org JobPosting) — 最も信頼性が高い
+          const jsonLdScripts = document.querySelectorAll('script[type="application/ld+json"]');
+          for (let i = 0; i < jsonLdScripts.length; i++) {
+            try {
+              const data = JSON.parse(jsonLdScripts[i].textContent || '');
+              const posting = data['@type'] === 'JobPosting' ? data : null;
+              if (posting?.description) {
+                // HTML タグを除去
+                const tmp = document.createElement('div');
+                tmp.innerHTML = posting.description;
+                desc.push(tmp.textContent?.trim() || '');
+              }
+              if (posting?.qualifications) {
+                const tmp = document.createElement('div');
+                tmp.innerHTML = posting.qualifications;
+                req.push(tmp.textContent?.trim() || '');
+              }
+            } catch { /* ignore parse errors */ }
           }
 
-          const reqSection = document.querySelector(
-            '[class*="jtbd-qualification"], [class*="qualification"], [class*="requirement"]'
-          );
-          if (reqSection?.textContent?.trim()) {
-            req.push(reqSection.textContent.trim());
+          // Strategy 1: jtbd- prefixed sections (TalentBrew standard)
+          if (desc.length === 0) {
+            const descSection = document.querySelector(
+              '[class*="jtbd-description"], [class*="job-description"], [class*="jd-info"], #job-description, .job-detail'
+            );
+            if (descSection?.textContent?.trim()) {
+              desc.push(descSection.textContent.trim());
+            }
+          }
+
+          if (req.length === 0) {
+            const reqSection = document.querySelector(
+              '[class*="jtbd-qualification"], [class*="qualification"], [class*="requirement"]'
+            );
+            if (reqSection?.textContent?.trim()) {
+              req.push(reqSection.textContent.trim());
+            }
           }
 
           // Strategy 2: Main content area fallback
           if (desc.length === 0) {
             const main = document.querySelector('main, article, [role="main"], .content-area, #content');
             if (main?.textContent?.trim()) {
-              // Remove navigation, header, footer text
               const clone = main.cloneNode(true) as HTMLElement;
               clone.querySelectorAll('nav, header, footer, [class*="nav"], [class*="footer"], [class*="apply"], button, form').forEach(el => el.remove());
               const text = clone.textContent?.trim();

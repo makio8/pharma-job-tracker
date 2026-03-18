@@ -156,8 +156,9 @@ export class OnoScraper extends BaseScraper {
       }
     }
 
-    // JobListing に変換して分類
-    return jobLinks.map((link) => {
+    // 各リンク先のページ本文を description として取得
+    const jobs: JobListing[] = [];
+    for (const link of jobLinks) {
       const job: JobListing = {
         title: link.title,
         url: link.url,
@@ -166,12 +167,43 @@ export class OnoScraper extends BaseScraper {
         location: link.location,
       };
 
+      // リンク先が自社サイト内なら本文を取得
+      if (link.url && link.url.includes('ono-pharma.com') && link.url !== this.url) {
+        let detailPage: Page | null = null;
+        try {
+          detailPage = await page.context().newPage();
+          await detailPage.goto(link.url, { timeout: 15_000, waitUntil: 'domcontentloaded' });
+
+          const detail = await detailPage.evaluate(() => {
+            // メインコンテンツエリアの本文を取得
+            const main = document.querySelector('main, .l-main, #main, article, [class*="content"]');
+            if (!main) return { description: null };
+
+            const clone = main.cloneNode(true) as HTMLElement;
+            clone.querySelectorAll('nav, header, footer, .l-header, .l-gnav, .l-footer, script, style').forEach(el => el.remove());
+            const text = clone.textContent?.trim();
+            return { description: text && text.length > 50 ? text.slice(0, 5000) : null };
+          });
+
+          if (detail.description) {
+            job.description = detail.description;
+            logger.info(`${this.companyId}: 詳細取得成功 - ${link.title.slice(0, 30)}`);
+          }
+        } catch {
+          // 詳細ページ取得失敗は無視
+        } finally {
+          if (detailPage) { try { await detailPage.close(); } catch { /* ignore */ } }
+        }
+      }
+
       const textCat = `${job.title} ${job.department ?? ''}`;
       job.jobCategory = classifyJobCategory(textCat);
-      job.therapeuticArea = classifyTherapeuticArea(textCat);
+      job.therapeuticArea = classifyTherapeuticArea(`${job.title} ${job.description ?? ''}`);
 
-      return job;
-    });
+      jobs.push(job);
+    }
+
+    return jobs;
   }
 }
 

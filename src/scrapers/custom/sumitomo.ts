@@ -121,8 +121,19 @@ export class SumitomoScraper extends BaseScraper {
 
     logger.info(`${this.companyId}: ページから ${jobLinks.length} 件を検出`);
 
+    // ページ全体の募集要項テキストを description として取得
+    const pageDescription = await page.evaluate(() => {
+      const main = document.querySelector('main, #main, [class*="content"], article, body');
+      if (!main) return null;
+      const clone = main.cloneNode(true) as HTMLElement;
+      clone.querySelectorAll('nav, header, footer, script, style, [class*="nav"], [class*="footer"]').forEach(el => el.remove());
+      const text = clone.textContent?.trim();
+      return text && text.length > 100 ? text.slice(0, 5000) : null;
+    });
+
     // JobListing に変換して分類
-    return jobLinks.map((link) => {
+    const jobs: JobListing[] = [];
+    for (const link of jobLinks) {
       const job: JobListing = {
         title: link.title,
         url: link.url,
@@ -131,12 +142,45 @@ export class SumitomoScraper extends BaseScraper {
         location: link.location,
       };
 
+      // リンク先が異なるページなら個別取得、同じなら一覧ページの本文を使う
+      if (link.url && link.url !== this.url && link.url.includes('sumitomo-pharma')) {
+        let detailPage: Page | null = null;
+        try {
+          detailPage = await page.context().newPage();
+          await detailPage.goto(link.url, { timeout: 15_000, waitUntil: 'domcontentloaded' });
+
+          const detail = await detailPage.evaluate(() => {
+            const main = document.querySelector('main, #main, [class*="content"], article');
+            if (!main) return { description: null };
+            const clone = main.cloneNode(true) as HTMLElement;
+            clone.querySelectorAll('nav, header, footer, script, style').forEach(el => el.remove());
+            const text = clone.textContent?.trim();
+            return { description: text && text.length > 50 ? text.slice(0, 5000) : null };
+          });
+
+          if (detail.description) {
+            job.description = detail.description;
+            logger.info(`${this.companyId}: 詳細取得成功 - ${link.title.slice(0, 30)}`);
+          }
+        } catch {
+          // フォールバック: 一覧ページの本文を使う
+          if (pageDescription) job.description = pageDescription;
+        } finally {
+          if (detailPage) { try { await detailPage.close(); } catch { /* ignore */ } }
+        }
+      } else if (pageDescription) {
+        // 同じページ内の求人は一覧ページの本文をdescriptionに
+        job.description = pageDescription;
+      }
+
       const textCat = `${job.title} ${job.department ?? ''}`;
       job.jobCategory = classifyJobCategory(textCat);
-      job.therapeuticArea = classifyTherapeuticArea(textCat);
+      job.therapeuticArea = classifyTherapeuticArea(`${job.title} ${job.description ?? ''}`);
 
-      return job;
-    });
+      jobs.push(job);
+    }
+
+    return jobs;
   }
 }
 
