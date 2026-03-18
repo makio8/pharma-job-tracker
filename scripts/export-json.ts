@@ -115,6 +115,7 @@ try {
         description,
         requirements,
         therapeutic_area,
+        analysis_data,
         first_seen,
         last_seen,
         status
@@ -123,9 +124,15 @@ try {
       ORDER BY first_seen DESC, id DESC
       `
     )
-    .all();
+    .all() as Array<Record<string, unknown>>;
 
-  writeJson("jobs.json", jobs);
+  // analysis_data を JSON オブジェクトに変換
+  const jobsWithAnalysis = jobs.map(j => ({
+    ...j,
+    analysis_data: j.analysis_data ? JSON.parse(j.analysis_data as string) : null,
+  }));
+
+  writeJson("jobs.json", jobsWithAnalysis);
 
   // ========== snapshots.json ==========
   const snapshots = db
