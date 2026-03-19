@@ -67,7 +67,17 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 26
+    "active_jobs": 28
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 23
   },
   {
     "id": "takeda",
@@ -78,16 +88,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 23
-  },
-  {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -107,7 +107,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 20
+    "active_jobs": 19
   },
   {
     "id": "novartis",
