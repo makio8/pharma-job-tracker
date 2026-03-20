@@ -12,6 +12,7 @@ import {
   Drawer,
   Space,
   Divider,
+  Alert,
 } from 'antd';
 import type { ColumnsType } from 'antd/es/table';
 import { useJobs, useCompanies } from '../hooks/useData.ts';
@@ -327,6 +328,73 @@ export default function JobsPage() {
                 応募ページを開く →
               </Button>
             )}
+
+            {/* === 求人ブリーフ（AI分析） === */}
+            {selectedJob.analysis_data?.brief && (() => {
+              const brief = selectedJob.analysis_data.brief as {
+                summary: string;
+                context_signal: string;
+                context_reason: string;
+                comparison_tags?: string[];
+              };
+              const signalMap: Record<string, { color: string; icon: string; label: string }> = {
+                hot: { color: '#ff4d4f', icon: '🔥', label: 'HOT' },
+                growing: { color: '#52c41a', icon: '📈', label: '成長中' },
+                stable: { color: '#1677ff', icon: '⚖️', label: '安定' },
+                caution: { color: '#faad14', icon: '⚠️', label: '注意' },
+              };
+              const signal = signalMap[brief.context_signal] || signalMap.stable;
+              return (
+                <div>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
+                    <Text strong>求人ブリーフ</Text>
+                    <Tag color={signal.color}>{signal.icon} {signal.label}</Tag>
+                  </div>
+                  <Alert
+                    type="info"
+                    showIcon={false}
+                    style={{ marginBottom: 8 }}
+                    description={
+                      <Paragraph style={{ whiteSpace: 'pre-wrap', marginBottom: 0, fontSize: 13 }}>
+                        {brief.summary}
+                      </Paragraph>
+                    }
+                  />
+                  <div style={{ marginBottom: 4 }}>
+                    <Text type="secondary" style={{ fontSize: 12 }}>
+                      {signal.icon} {brief.context_reason}
+                    </Text>
+                  </div>
+                  {brief.comparison_tags && brief.comparison_tags.length > 0 && (
+                    <Space wrap size={4}>
+                      {brief.comparison_tags.map((tag: string) => (
+                        <Tag key={tag} style={{ fontSize: 11 }}>{tag}</Tag>
+                      ))}
+                    </Space>
+                  )}
+                </div>
+              );
+            })()}
+
+            {/* === タグ分析（v2） === */}
+            {selectedJob.analysis_data && !selectedJob.analysis_data.brief && (() => {
+              const a = selectedJob.analysis_data as Record<string, unknown>;
+              return (
+                <div>
+                  <Text strong style={{ fontSize: 13 }}>AI分析</Text>
+                  <div style={{ marginTop: 4 }}>
+                    <Space wrap size={4}>
+                      {a.english_level && <Tag color="blue">英語: {String(a.english_level)}</Tag>}
+                      {a.job_level && <Tag color="cyan">レベル: {String(a.job_level)}</Tag>}
+                      {a.global_scope && <Tag color="geekblue">グローバル: {String(a.global_scope)}</Tag>}
+                      {a.work_style && <Tag>勤務: {String(a.work_style)}</Tag>}
+                      {a.management_role && <Tag color="gold">マネジメントあり</Tag>}
+                      {a.career_change_friendly && <Tag color="green">キャリアチェンジ歓迎</Tag>}
+                    </Space>
+                  </div>
+                </div>
+              );
+            })()}
 
             <Divider style={{ margin: '8px 0' }} />
 

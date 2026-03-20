@@ -21,6 +21,7 @@ export interface Job {
   description: string | null;
   requirements: string | null;
   therapeutic_area: string | null;
+  analysis_data: Record<string, unknown> | null;
   first_seen: string; // YYYY-MM-DD
   last_seen: string;
   status: 'active' | 'closed';
