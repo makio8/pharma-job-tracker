@@ -1,0 +1,136 @@
+{
+  "company_id": "otsuka",
+  "last_updated": "2026-03",
+  "data_source": "大塚HD FY2024決算資料推定, パイプラインページ, 日経新聞記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "stable",
+    "trend_note": "売上約¥2.0T（FY2024推定、大塚HD全体）。精神科領域が安定的に収益貢献。飲料事業（ポカリスエット等）が下支え。医薬品+ニュートラシューティカルズの2本柱経営"
+  },
+
+  "key_products": [
+    {
+      "name": "エビリファイ メンテナ",
+      "generic_name": "aripiprazole lauroxil",
+      "therapeutic_area": "cns",
+      "indication": "統合失調症（持効性注射剤）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "エビリファイの長時間作用型注射製剤。精神科領域の主力品"
+    },
+    {
+      "name": "レキサルティ",
+      "generic_name": "brexpiprazole",
+      "therapeutic_area": "cns",
+      "indication": "統合失調症、うつ病補助療法、アルツハイマー型認知症に伴うアジテーション",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "エビリファイの後継。AD関連適応で成長期待"
+    },
+    {
+      "name": "ジクアス",
+      "generic_name": "diquafosol",
+      "therapeutic_area": "ophthalmology",
+      "indication": "ドライアイ",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "日本発のドライアイ治療薬。アジア中心に展開"
+    },
+    {
+      "name": "サムスカ/ジンアーク",
+      "generic_name": "tolvaptan",
+      "therapeutic_area": "nephrology",
+      "indication": "常染色体優性多発性嚢胞腎（ADPKD）、心不全・肝硬変に伴う浮腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "バソプレシンV2受容体拮抗薬。腎領域で安定売上"
+    },
+    {
+      "name": "ポカリスエット",
+      "generic_name": null,
+      "therapeutic_area": "nutraceutical",
+      "indication": "機能性飲料（水分・イオン補給）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "ニュートラシューティカルズ事業の柱。アジア・中東で成長中"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "AVP-786 (deutetrabenazine + quinidine)",
+      "therapeutic_area": "cns",
+      "indication": "アルツハイマー型認知症に伴うアジテーション",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "CNS領域パイプライン"
+    },
+    {
+      "compound": "centanafadine",
+      "therapeutic_area": "cns",
+      "indication": "ADHD（注意欠陥多動性障害）",
+      "phase": "phase3",
+      "japan_status": "米国Phase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "トリプル再取り込み阻害剤。ADHD市場は成長領域"
+    },
+    {
+      "compound": "デジタルセラピューティクス",
+      "therapeutic_area": "digital_health",
+      "indication": "うつ病、不眠症 等",
+      "phase": "phase2",
+      "japan_status": "日本開発中",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "デジタル治療アプリ。大塚独自の取り組み。規制環境の整備待ち"
+    },
+    {
+      "compound": "OPC-214870",
+      "therapeutic_area": "cns",
+      "indication": "統合失調症",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "次世代抗精神病薬。エビリファイ/レキサルティに続くCNSパイプライン"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "精神科領域（統合失調症・うつ病）で圧倒的な実績",
+      "医薬品+ニュートラシューティカルズの独自2本柱経営",
+      "徳島を拠点とした強固な企業基盤",
+      "デジタルセラピューティクスへの先進的取り組み"
+    ],
+    "growth_areas": [
+      "CNS領域の新薬開発（レキサルティ適応拡大）",
+      "デジタルセラピューティクス",
+      "眼科領域（ジクアスのグローバル展開）"
+    ],
+    "challenges": [
+      "精神科領域への依存度が高い",
+      "パイプラインの多様性が限定的",
+      "デジタルセラピューティクスの収益化に時間がかかる"
+    ],
+    "headcount_trend": "stable",
+    "note": "精神科MR・MSLは安定的に採用。徳島・東京の二拠点。独自の企業文化（大塚イズム）への適合が重要"
+  },
+
+  "culture": {
+    "work_style": "徳島本社と東京オフィスの二拠点。チャレンジ精神を重視する独自文化「大塚イズム」",
+    "decision_speed": "オーナー企業的な側面があり、トップダウンでのスピード感がある場面も",
+    "career_path": "医薬品事業とニュートラシューティカルズ事業間の異動もあり得る。独自のキャリアパス",
+    "reputation": "独自路線で他社と一線を画す。精神科領域の専門性が高い。福利厚生は充実"
+  }
+}

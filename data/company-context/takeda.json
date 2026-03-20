@@ -1,0 +1,167 @@
+{
+  "company_id": "takeda",
+  "last_updated": "2026-03",
+  "data_source": "武田薬品 FY2024決算資料, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "グローバル売上¥4.58T（FY2024）。エンティビオ+14%が牽引。国内最大の製薬企業。2026年以降エンティビオのバイオシミラー参入がリスク"
+  },
+
+  "key_products": [
+    {
+      "name": "エンティビオ",
+      "generic_name": "vedolizumab",
+      "therapeutic_area": "gastroenterology",
+      "indication": "潰瘍性大腸炎、クローン病（IBD）",
+      "annual_revenue_jpy_b": 914,
+      "patent_expiry": "2026",
+      "status": "peak",
+      "note": "グローバル売上¥914B（+14%）。武田最大製品。2026年以降バイオシミラー参入リスクあり"
+    },
+    {
+      "name": "エンハーツ",
+      "generic_name": "trastuzumab deruxtecan",
+      "therapeutic_area": "oncology",
+      "indication": "HER2陽性乳がん、胃がん、非小細胞肺がん 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "第一三共との共同販売品。ADC（抗体薬物複合体）のグローバルベストセラー"
+    },
+    {
+      "name": "ニンラーロ",
+      "generic_name": "ixazomib",
+      "therapeutic_area": "hematology",
+      "indication": "多発性骨髄腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "経口プロテアソーム阻害剤。骨髄腫の維持療法で使用"
+    },
+    {
+      "name": "アドセトリス",
+      "generic_name": "brentuximab vedotin",
+      "therapeutic_area": "hematology",
+      "indication": "ホジキンリンパ腫、未分化大細胞型リンパ腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "ADC。リンパ腫領域でのスタンダード治療"
+    },
+    {
+      "name": "タクザイロ",
+      "generic_name": "lanadelumab",
+      "therapeutic_area": "rare_disease",
+      "indication": "遺伝性血管性浮腫（HAE）の発作抑制",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "希少疾患領域の成長品。HAE領域で高いシェア"
+    },
+    {
+      "name": "ビバンセ/エルビアンセ",
+      "generic_name": "lisdexamfetamine",
+      "therapeutic_area": "neuroscience",
+      "indication": "注意欠陥多動性障害（ADHD）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "神経科学領域。グローバルで安定成長"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "TAK-279 (zasocitinib)",
+      "therapeutic_area": "immunology",
+      "indication": "乾癬、乾癬性関節炎、アトピー性皮膚炎",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "TYK2阻害剤。免疫領域の次世代成長ドライバー候補"
+    },
+    {
+      "compound": "TAK-999 (mezagitamab)",
+      "therapeutic_area": "rare_disease",
+      "indication": "IgA腎症",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "抗CD38抗体。希少疾患パイプラインの重要品目"
+    },
+    {
+      "compound": "TAK-861",
+      "therapeutic_area": "neuroscience",
+      "indication": "ナルコレプシー1型",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "オレキシン2受容体作動薬。神経科学領域の期待品"
+    },
+    {
+      "compound": "soticlestat",
+      "therapeutic_area": "neuroscience",
+      "indication": "ドラベ症候群、レノックス・ガストー症候群",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "希少てんかん。CH24H阻害剤"
+    },
+    {
+      "compound": "TAK-227",
+      "therapeutic_area": "gastroenterology",
+      "indication": "セリアック病",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "消化器領域のパイプライン。エンティビオ後の成長候補"
+    },
+    {
+      "compound": "fruquintinib (フルキンチニブ)",
+      "therapeutic_area": "oncology",
+      "indication": "転移性大腸がん",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": "2025",
+      "significance": "medium",
+      "note": "VEGFR阻害剤。大腸がん3次治療"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "国内最大の製薬企業。売上・研究開発投資ともにトップ",
+      "消化器領域（エンティビオ）で圧倒的シェア",
+      "希少疾患・血漿分画製剤で独自のポジション",
+      "光工場など国内製造拠点が充実"
+    ],
+    "growth_areas": [
+      "消化器領域の次世代パイプライン",
+      "希少疾患（HAE、ファブリー病など）",
+      "神経科学領域（ナルコレプシー等）",
+      "免疫領域（TYK2阻害剤）"
+    ],
+    "challenges": [
+      "エンティビオのバイオシミラー参入（2026年以降）による減収リスク",
+      "グローバル経営への移行に伴う日本組織の位置づけ変化",
+      "旧日本企業文化とグローバル文化の融合"
+    ],
+    "headcount_trend": "stable",
+    "note": "グローバル経営だが日本は重要市場。消化器・希少疾患を中心に安定的に採用。MR/MSL/メディカル人材を求めている"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務。公用語は英語。グローバル会議が日常的にある",
+    "decision_speed": "グローバル本社（日本・東京/大阪）主導だが、買収後のグローバル化により意思決定はやや複雑化。英語でのレポーティングが必須",
+    "career_path": "グローバルポジションへの異動機会がある。ダイバーシティ推進、女性管理職比率向上に注力",
+    "reputation": "旧日本企業→Shire買収でグローバルTop10入り。給与水準は日系トップクラス。英語力が必須で、グローバルに活躍したい人向き"
+  }
+}

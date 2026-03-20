@@ -1,0 +1,125 @@
+{
+  "company_id": "sumitomo",
+  "last_updated": "2026-03",
+  "data_source": "住友ファーマ FY2024決算推定, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "declining",
+    "trend_note": "売上約¥500B（FY2024推定）。ラツーダの米国LOE後、大幅減収が続く。構造改革プラン実行中。ulotarontのPhase3失敗が追い打ち"
+  },
+
+  "key_products": [
+    {
+      "name": "ラツーダ",
+      "generic_name": "lurasidone",
+      "therapeutic_area": "cns",
+      "indication": "統合失調症、双極性障害うつ",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2023",
+      "status": "declining",
+      "note": "米国LOE済み。ジェネリック参入で急速に減収。かつての最大製品が消失"
+    },
+    {
+      "name": "オルゴビクス",
+      "generic_name": "relugolix",
+      "therapeutic_area": "oncology",
+      "indication": "前立腺がん（経口GnRH拮抗薬）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "経口剤の利便性で成長中。ラツーダ後の柱の一つ"
+    },
+    {
+      "name": "マイフェンブリー",
+      "generic_name": "relugolix combination",
+      "therapeutic_area": "womens_health",
+      "indication": "子宮内膜症、子宮筋腫に伴う過多月経",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "relugolix配合剤。女性ヘルスケア領域。成長中だがラツーダの減収を補うには不十分"
+    },
+    {
+      "name": "トレアキシン",
+      "generic_name": "bendamustine",
+      "therapeutic_area": "hematology",
+      "indication": "慢性リンパ性白血病、低悪性度B細胞性非ホジキンリンパ腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "日本での導入品。競合増加で減収傾向"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "ulotaront",
+      "therapeutic_area": "cns",
+      "indication": "統合失調症",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3（再挑戦中）",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "TAAR1作動薬。Phase3で一度失敗したが、新たな試験デザインで再挑戦中。成功すれば会社の将来を左右する最重要品"
+    },
+    {
+      "compound": "SEP-4199",
+      "therapeutic_area": "cns",
+      "indication": "双極性障害うつ",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "ラツーダの後継候補。CNS領域パイプライン"
+    },
+    {
+      "compound": "TP-3654",
+      "therapeutic_area": "hematology",
+      "indication": "骨髄線維症",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "PIM1阻害剤。Tolero買収で獲得"
+    },
+    {
+      "compound": "DSP-0187",
+      "therapeutic_area": "oncology",
+      "indication": "固形がん",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "初期段階のオンコロジーパイプライン"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "精神科・CNS領域での長年の実績",
+      "大阪本社。大日本住友製薬としての歴史",
+      "GnRH関連製品（オルゴビクス/マイフェンブリー）"
+    ],
+    "growth_areas": [
+      "ulotarontの再挑戦（成功すればCNS領域の復活）",
+      "女性ヘルスケア領域（マイフェンブリー）",
+      "構造改革によるコスト効率化"
+    ],
+    "challenges": [
+      "ラツーダLOE後の大幅減収が深刻",
+      "ulotaront Phase3失敗のインパクトからの回復",
+      "構造改革に伴う組織縮小リスク"
+    ],
+    "headcount_trend": "restructuring",
+    "note": "構造改革プラン実行中。人員削減・組織再編が進行。CNS以外の領域は縮小傾向。転職者は要注意"
+  },
+
+  "culture": {
+    "work_style": "大阪本社。旧大日本住友製薬。構造改革中で組織が流動的",
+    "decision_speed": "住友グループの一員だが、製薬事業の意思決定は独自。ただし構造改革中で方針が変わりやすい",
+    "career_path": "CNS領域の専門性は評価される。ただし組織縮小中のため、キャリアの安定性に懸念",
+    "reputation": "ラツーダ成功時は注目されたが、LOE後の苦戦で評価が低下。ulotarontの成否が会社の将来を左右"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "company_id": "novartis",
+  "last_updated": "2026-03",
+  "data_source": "Novartis 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 50.0,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "全主力品が2桁成長。Sandoz分離後は医薬品に集中し、営業利益率も改善。2029年$50B+目標"
+  },
+
+  "key_products": [
+    {
+      "name": "エンレスト",
+      "generic_name": "sacubitril/valsartan",
+      "therapeutic_area": "cardiovascular",
+      "indication": "慢性心不全",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2029",
+      "status": "growth",
+      "note": "グローバル売上$7.8B（+31%）。心不全治療の標準薬に。日本でも急速に処方拡大中"
+    },
+    {
+      "name": "コセンティクス",
+      "generic_name": "secukinumab",
+      "therapeutic_area": "immunology",
+      "indication": "乾癬、乾癬性関節炎、強直性脊椎炎、化膿性汗腺炎",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2030",
+      "status": "growth",
+      "note": "グローバル売上$6.1B（+25%）。皮下注自己投与で利便性高い。適応拡大が継続中"
+    },
+    {
+      "name": "ケシンプタ",
+      "generic_name": "ofatumumab",
+      "therapeutic_area": "neuroscience",
+      "indication": "再発型多発性硬化症（RMS）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$3.2B（+49%）。自己投与可能な抗CD20抗体。MS市場でOcrevusに対抗"
+    },
+    {
+      "name": "キスカリ",
+      "generic_name": "ribociclib",
+      "therapeutic_area": "oncology",
+      "indication": "HR+/HER2- 進行・再発乳がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$3.0B（+49%）。CDK4/6阻害剤。早期乳がん適応取得で大幅成長"
+    },
+    {
+      "name": "プルビクト",
+      "generic_name": "lutetium-177 vipivotide tetraxetan",
+      "therapeutic_area": "oncology",
+      "indication": "転移性去勢抵抗性前立腺がん（mCRPC）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$1.4B（+42%）。放射性リガンド療法（RLT）。Novartisの差別化技術"
+    },
+    {
+      "name": "シェンブリックス",
+      "generic_name": "asciminib",
+      "therapeutic_area": "hematology",
+      "indication": "慢性骨髄性白血病（CML）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "CML 1L適応承認で大幅成長見込み。STAMP阻害という新しい作用機序"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "Scemblix (asciminib) 1L CML",
+      "therapeutic_area": "hematology",
+      "indication": "慢性骨髄性白血病 1L",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "CML 1L治療のゲームチェンジャー。既存TKIより高い効果と安全性"
+    },
+    {
+      "compound": "放射性リガンド療法（RLT）次世代",
+      "therapeutic_area": "oncology",
+      "indication": "肺がん、乳がん等の固形がん",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "Pluvictoの成功を基に、RLT技術を他がん種へ展開。Novartis独自の差別化領域"
+    },
+    {
+      "compound": "iptacopan (Fabhalta)",
+      "therapeutic_area": "rare_disease",
+      "indication": "発作性夜間ヘモグロビン尿症（PNH）、IgA腎症",
+      "phase": "approved_recent",
+      "japan_status": "日本申請中",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "経口補体B因子阻害剤。PNH治療を注射から経口へ転換"
+    },
+    {
+      "compound": "remibrutinib",
+      "therapeutic_area": "immunology",
+      "indication": "慢性特発性蕁麻疹（CSU）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "BTK阻害剤。Xolair代替の経口治療薬として期待"
+    },
+    {
+      "compound": "pelabresib",
+      "therapeutic_area": "hematology",
+      "indication": "骨髄線維症",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "BET阻害剤。骨髄線維症の新規治療オプション"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "循環器（Entresto）で日本の心不全治療を変革",
+      "免疫学（Cosentyx）で皮膚科領域に強い基盤",
+      "放射性リガンド療法（RLT）という独自技術"
+    ],
+    "growth_areas": [
+      "Entresto の処方拡大（慢性心不全の早期介入）",
+      "Kesimpta のMS市場でのシェア拡大",
+      "RLT技術の日本導入・展開"
+    ],
+    "challenges": [
+      "薬価改定の影響（主力品の薬価下落リスク）",
+      "オンコロジー領域での競合激化",
+      "RLT製造施設の確保（放射性医薬品の規制対応）"
+    ],
+    "headcount_trend": "expanding",
+    "note": "虎ノ門本社。日本は優先市場の一つ。Entresto/Cosentyx の成長に伴い組織拡大中"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務。スイス本社の品質重視の文化が浸透。プロセスがしっかりしている",
+    "decision_speed": "スイス本社主導だが、日本は優先市場として一定の裁量あり。品質・コンプライアンス重視",
+    "career_path": "グローバル異動の機会あり。サイエンス・メディカル領域でのキャリア構築が可能",
+    "reputation": "品質とイノベーションの両立。Sandoz分離で医薬品に集中し、成長期待が高い。給与水準は外資上位"
+  }
+}

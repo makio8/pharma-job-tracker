@@ -1,0 +1,145 @@
+{
+  "company_id": "msd",
+  "last_updated": "2026-03",
+  "data_source": "Merck & Co. 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 64.2,
+    "japan_revenue_jpy_b": null,
+    "trend": "stable",
+    "trend_note": "Keytruda$29.5B（+18%）で業績好調だが、2028年特許切れへの依存リスクが最大課題。ポストKeytruda戦略が急務"
+  },
+
+  "key_products": [
+    {
+      "name": "キイトルーダ",
+      "generic_name": "pembrolizumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、悪性黒色腫、頭頸部がん、尿路上皮がん、胃がん 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2028",
+      "status": "peak",
+      "note": "グローバル売上$29.5B（+18%）。世界最大の医薬品。2028年特許切れが最大のリスク"
+    },
+    {
+      "name": "ガーダシル",
+      "generic_name": "human papillomavirus vaccine",
+      "therapeutic_area": "vaccines",
+      "indication": "HPV感染症予防（子宮頸がん等）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "グローバル売上$8.6B（-3%）。中国市場の在庫調整で一時減少。日本は男性接種拡大が追い風"
+    },
+    {
+      "name": "リムパーザ",
+      "generic_name": "olaparib",
+      "therapeutic_area": "oncology",
+      "indication": "BRCA変異陽性 卵巣がん、乳がん、前立腺がん、膵がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2028",
+      "status": "peak",
+      "note": "グローバル売上$1.3B（AZ共同販売）。PARP阻害剤。適応拡大は一巡"
+    },
+    {
+      "name": "ラゲブリオ",
+      "generic_name": "molnupiravir",
+      "therapeutic_area": "infectious_disease",
+      "indication": "COVID-19治療",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "コロナ治療薬。需要減少中"
+    },
+    {
+      "name": "ジャヌビア",
+      "generic_name": "sitagliptin",
+      "therapeutic_area": "metabolic",
+      "indication": "2型糖尿病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2022",
+      "status": "declining",
+      "note": "日本ではまだ処方量が多いがジェネリック浸透で減少傾向"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "Keytruda皮下注（MK-3475A）",
+      "therapeutic_area": "oncology",
+      "indication": "Keytruda全適応の皮下注製剤",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "Keytruda特許延命の最重要戦略。皮下注化で利便性向上+特許期間延長"
+    },
+    {
+      "compound": "sotatercept (Winrevair)",
+      "therapeutic_area": "cardiovascular",
+      "indication": "肺動脈性肺高血圧症（PAH）",
+      "phase": "approved_recent",
+      "japan_status": "日本申請中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "アクチビン受容体融合タンパク。PAH治療のゲームチェンジャー。ピーク売上$5B+予測"
+    },
+    {
+      "compound": "Welireg (belzutifan)",
+      "therapeutic_area": "oncology",
+      "indication": "腎細胞がん（VHL病関連）",
+      "phase": "phase3",
+      "japan_status": "日本Phase3進行中",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "HIF-2α阻害剤。腎細胞がん1Lでの適応拡大を狙う"
+    },
+    {
+      "compound": "MK-2870 (ADC)",
+      "therapeutic_area": "oncology",
+      "indication": "固形がん（複数適応）",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "抗体薬物複合体（ADC）。Keytruda後のオンコロジーパイプラインの一翼"
+    },
+    {
+      "compound": "tulisokibart",
+      "therapeutic_area": "immunology",
+      "indication": "潰瘍性大腸炎",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "抗TL1A抗体。免疫学への本格参入。Prometheus買収で獲得"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "Keytrudaで日本のオンコロジー治療を変革した実績",
+      "Gardasil（HPVワクチン）の啓発活動と市場拡大",
+      "サイエンス重視の企業文化がアカデミアとの連携を強化"
+    ],
+    "growth_areas": [
+      "Sotatercept（PAH）の日本上市",
+      "Keytruda皮下注への切り替え",
+      "ADC・併用療法によるオンコロジー領域の深耕"
+    ],
+    "challenges": [
+      "Keytruda特許切れ（2028年）後の売上維持",
+      "Keytruda依存度の高さ（全売上の約46%）",
+      "ポストKeytruda時代の成長ドライバー確立"
+    ],
+    "headcount_trend": "stable",
+    "note": "Keytruda特許切れに向け、皮下注化と新規パイプラインで備える。日本のオンコロジーチームは業界トップクラスの専門性"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務。サイエンス重視で研究開発への投資が業界最高水準",
+    "decision_speed": "グローバル本社（NJ）主導。サイエンスベースの意思決定で、エビデンス重視",
+    "career_path": "オンコロジー領域での専門性が高い。MSL・メディカルアフェアーズのキャリアが充実",
+    "reputation": "研究開発力で業界随一。Keytrudaの成功で社員のプライドが高い。給与水準も上位"
+  }
+}

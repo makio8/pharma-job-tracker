@@ -1,0 +1,175 @@
+{
+  "company_id": "pfizer",
+  "last_updated": "2026-03",
+  "data_source": "Pfizer 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 63.6,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "コロナ後の落ち込みから回復。Padcev/Xtandi（Seagen買収）が新たな成長エンジン。Vyndaqelも+60%の急成長"
+  },
+
+  "key_products": [
+    {
+      "name": "プレブナー",
+      "generic_name": "pneumococcal vaccine",
+      "therapeutic_area": "vaccines",
+      "indication": "肺炎球菌感染症の予防",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "グローバル売上$7.4B。次世代ワクチン（PCV20等）への移行が進行中"
+    },
+    {
+      "name": "パドセブ",
+      "generic_name": "enfortumab vedotin",
+      "therapeutic_area": "oncology",
+      "indication": "尿路上皮がん（膀胱がん等）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$6.4B。Seagen買収で獲得したADC。1L適応拡大で急成長中"
+    },
+    {
+      "name": "イブランス",
+      "generic_name": "palbociclib",
+      "therapeutic_area": "oncology",
+      "indication": "HR+/HER2- 進行・再発乳がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2027",
+      "status": "loe_risk",
+      "note": "グローバル売上$5.7B。CDK4/6阻害剤の先駆け。2027年以降ジェネリック参入リスク"
+    },
+    {
+      "name": "エクスタンジ",
+      "generic_name": "enzalutamide",
+      "therapeutic_area": "oncology",
+      "indication": "前立腺がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2027",
+      "status": "peak",
+      "note": "グローバル売上$5.4B。Seagen買収品。前立腺がん治療の標準薬"
+    },
+    {
+      "name": "コミナティ",
+      "generic_name": "tozinameran",
+      "therapeutic_area": "vaccines",
+      "indication": "COVID-19予防",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "グローバル売上$5.5B。ピーク時$37Bから大幅減少。定期接種化で安定化を目指す"
+    },
+    {
+      "name": "エリキュース",
+      "generic_name": "apixaban",
+      "therapeutic_area": "cardiovascular",
+      "indication": "非弁膜症性心房細動における脳卒中予防",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2026",
+      "status": "loe_risk",
+      "note": "グローバル売上$4.4B（BMS共同販売）。2026年米国特許切れ"
+    },
+    {
+      "name": "ビンダケル/ビンマック",
+      "generic_name": "tafamidis",
+      "therapeutic_area": "cardiovascular",
+      "indication": "トランスサイレチン型心アミロイドーシス（ATTR-CM）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "前年比+60%の急成長。心アミロイドーシスの診断率向上で市場拡大中"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "PADCEV (enfortumab vedotin) 適応拡大",
+      "therapeutic_area": "oncology",
+      "indication": "尿路上皮がん追加適応、他固形がんへの展開",
+      "phase": "phase3",
+      "japan_status": "日本でも適応拡大申請中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "ADC戦略の中核。Keytruda併用レジメンで1L標準治療確立"
+    },
+    {
+      "compound": "danuglipron",
+      "therapeutic_area": "metabolic",
+      "indication": "肥満症・2型糖尿病",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "経口GLP-1受容体作動薬。肥満症市場への参入を狙う。1日1回製剤で再開発中"
+    },
+    {
+      "compound": "次世代肺炎球菌ワクチン",
+      "therapeutic_area": "vaccines",
+      "indication": "肺炎球菌感染症予防（拡大血清型カバー）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "Prevnar 20の後継。血清型カバー拡大で市場シェア維持を狙う"
+    },
+    {
+      "compound": "RSVワクチン (Abrysvo) 適応拡大",
+      "therapeutic_area": "vaccines",
+      "indication": "RSウイルス感染症予防（高齢者・妊婦）",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "母子免疫アプローチ。高齢者適応も含め市場拡大中"
+    },
+    {
+      "compound": "sigvotatug vedotin",
+      "therapeutic_area": "oncology",
+      "indication": "頭頸部がん、非小細胞肺がん等",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "Seagen由来ADC。Padcevに続くADCパイプラインの第2弾"
+    },
+    {
+      "compound": "atirmociclib",
+      "therapeutic_area": "oncology",
+      "indication": "HR+/HER2- 乳がん",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "次世代CDK4阻害剤。Ibrance後継としてLOE対策の重要品"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "ワクチン事業（Prevnar, Comirnaty）で日本市場に強い基盤",
+      "オンコロジー（Ibrance, Padcev）の高い認知度",
+      "大規模な日本法人（MR・MSL体制が充実）"
+    ],
+    "growth_areas": [
+      "ADC（Padcev）の適応拡大と市場浸透",
+      "心アミロイドーシス（Vyndaqel）の診断向上と処方拡大",
+      "ワクチン新製品（RSV, 次世代肺炎球菌）"
+    ],
+    "challenges": [
+      "Eliquis特許切れ（2026年）による減収",
+      "Ibrance特許切れ（2027年）への備え",
+      "コロナワクチン（Comirnaty）の需要安定化"
+    ],
+    "headcount_trend": "stable",
+    "note": "日本法人は大規模で安定。コロナ後の組織再編を経て、オンコロジーとワクチンを柱に再構築中"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務。MR/MSLはフィールド中心。グローバル最大手ゆえの充実した研修制度",
+    "decision_speed": "グローバル本社（NY）主導。組織が大きいため意思決定はやや遅め。安定感はある",
+    "career_path": "グローバル企業ならではの異動機会。MR→マーケ→本社など多様なキャリアパスが可能",
+    "reputation": "業界最大手の安心感。給与・福利厚生は業界上位。コロナ後の再編で一部リストラもあったが安定基盤"
+  }
+}

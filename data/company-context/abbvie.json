@@ -1,0 +1,145 @@
+{
+  "company_id": "abbvie",
+  "last_updated": "2026-03",
+  "data_source": "AbbVie 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 56.3,
+    "japan_revenue_jpy_b": null,
+    "trend": "stable",
+    "trend_note": "Humira LOE（特許切れ）で約40%減収だが、Skyrizi/Rinvoqが急成長で相殺中。2027年に売上$31B予測で回復軌道"
+  },
+
+  "key_products": [
+    {
+      "name": "スカイリージ",
+      "generic_name": "risankizumab",
+      "therapeutic_area": "immunology",
+      "indication": "乾癬、乾癬性関節炎、クローン病、潰瘍性大腸炎",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$11.7B。IL-23阻害抗体。Humira後継の最大の柱。IBD適応拡大で急成長"
+    },
+    {
+      "name": "ヒュミラ",
+      "generic_name": "adalimumab",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ、クローン病、潰瘍性大腸炎、乾癬 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2023",
+      "status": "declining",
+      "note": "グローバル売上$9B（急減中）。かつて世界最大の医薬品。バイオシミラー参入で急速に減収"
+    },
+    {
+      "name": "リンヴォック",
+      "generic_name": "upadacitinib",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ、乾癬性関節炎、アトピー性皮膚炎、潰瘍性大腸炎、クローン病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$6B。JAK阻害剤。幅広い免疫疾患で適応取得。Humira後継の第2の柱"
+    },
+    {
+      "name": "ボトックス",
+      "generic_name": "onabotulinumtoxinA",
+      "therapeutic_area": "neuroscience",
+      "indication": "慢性片頭痛、上肢痙縮、過活動膀胱、美容",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "グローバル売上$3.3B（Allergan買収品）。医療用+美容の二刀流"
+    },
+    {
+      "name": "ヴェンクレクスタ",
+      "generic_name": "venetoclax",
+      "therapeutic_area": "hematology",
+      "indication": "慢性リンパ性白血病（CLL）、急性骨髄性白血病（AML）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "BCL-2阻害剤（Roche共同販売）。血液がんの標準治療。AML適応が成長中"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "経口IL-23阻害剤",
+      "therapeutic_area": "immunology",
+      "indication": "炎症性腸疾患（IBD）等",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "Skyrizi後継の経口製剤。バイオ製剤→経口薬への転換で市場拡大の可能性"
+    },
+    {
+      "compound": "ABBV-400 (telisotuzumab vedotin)",
+      "therapeutic_area": "oncology",
+      "indication": "c-Met陽性非小細胞肺がん",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "ADC。オンコロジー領域での存在感強化を狙う"
+    },
+    {
+      "compound": "ABBV-RX-15 (分子糊degrader)",
+      "therapeutic_area": "oncology",
+      "indication": "血液がん・固形がん",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "分子糊（Molecular Glue）技術。標的タンパク質分解の新アプローチ"
+    },
+    {
+      "compound": "Skyrizi/Rinvoq 適応拡大",
+      "therapeutic_area": "immunology",
+      "indication": "全身性エリテマトーデス（SLE）、好酸球性食道炎等",
+      "phase": "phase3",
+      "japan_status": "一部日本開発中",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "既存品の適応拡大でポートフォリオ最大化。免疫学フランチャイズの深耕"
+    },
+    {
+      "compound": "atogepant (Qulipta) 適応拡大",
+      "therapeutic_area": "neuroscience",
+      "indication": "片頭痛予防（追加適応）",
+      "phase": "phase3",
+      "japan_status": "日本開発中",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "経口CGRP受容体拮抗薬。片頭痛予防市場でのシェア拡大"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "免疫学（Skyrizi/Rinvoq）で皮膚科・消化器科・リウマチ科に強い基盤",
+      "Humiraで構築した免疫学領域のKOLネットワーク",
+      "JAK阻害剤（Rinvoq）の幅広い適応症"
+    ],
+    "growth_areas": [
+      "Skyrizi/RinvoqへのHumiraからの処方転換加速",
+      "IBD（炎症性腸疾患）領域でのシェア拡大",
+      "ニューロサイエンス（片頭痛）領域の強化"
+    ],
+    "challenges": [
+      "Humira急減による売上インパクトの吸収",
+      "免疫学領域での競合激化（J&J, Sanofi, Novartis等）",
+      "JAK阻害剤の安全性懸念（規制当局の慎重姿勢）"
+    ],
+    "headcount_trend": "stable",
+    "note": "Humira→Skyrizi/Rinvoq移行が最大テーマ。日本の免疫学チームは維持しつつ、オンコ・ニューロを漸増"
+  },
+
+  "culture": {
+    "work_style": "旧Abbott分社（2013年）。中規模で機動的。ハイブリッド勤務。免疫学への特化が強い",
+    "decision_speed": "比較的速い意思決定。免疫学に集中しているため、社内の意思統一がしやすい",
+    "career_path": "免疫学のスペシャリストとしてのキャリア構築が最大の魅力。オンコ・ニューロへの異動も可能",
+    "reputation": "免疫学で業界随一の専門性。Humira LOEを乗り越えられるかが注目点。給与水準は外資上位"
+  }
+}

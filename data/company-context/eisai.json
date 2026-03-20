@@ -1,0 +1,146 @@
+{
+  "company_id": "eisai",
+  "last_updated": "2026-03",
+  "data_source": "エーザイ FY2024決算資料, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "売上¥789B（FY2024, +6%）。レケンビ（アルツハイマー病治療薬）が世界的注目。レンビマ（がん）が¥600B超の安定収益。ニューロロジーとオンコロジーの2本柱"
+  },
+
+  "key_products": [
+    {
+      "name": "レンビマ",
+      "generic_name": "lenvatinib",
+      "therapeutic_area": "oncology",
+      "indication": "甲状腺がん、肝細胞がん、子宮内膜がん、腎細胞がん",
+      "annual_revenue_jpy_b": 600,
+      "patent_expiry": "2027",
+      "status": "peak",
+      "note": "Merckとの共同販売。売上¥600B超。エーザイ最大の収益源。2027年以降LOEリスク"
+    },
+    {
+      "name": "レケンビ",
+      "generic_name": "lecanemab",
+      "therapeutic_area": "neuroscience",
+      "indication": "早期アルツハイマー病（Aβプロトフィブリル除去）",
+      "annual_revenue_jpy_b": 44,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "売上¥44B。AD治療薬の世界的ブレイクスルー。Biogenと共同開発。皮下注開発中でさらなる普及期待"
+    },
+    {
+      "name": "フィコンパ",
+      "generic_name": "perampanel",
+      "therapeutic_area": "neuroscience",
+      "indication": "てんかん（部分発作、全般性強直間代発作）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "AMPA受容体拮抗薬。てんかん領域で安定的シェア"
+    },
+    {
+      "name": "ハラヴェン",
+      "generic_name": "eribulin",
+      "therapeutic_area": "oncology",
+      "indication": "乳がん、軟部肉腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "レガシー製品。競合増加で減収傾向"
+    },
+    {
+      "name": "デエビゴ",
+      "generic_name": "lemborexant",
+      "therapeutic_area": "neuroscience",
+      "indication": "不眠症",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "オレキシン受容体拮抗薬。不眠症市場で成長中"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "レケンビ皮下注",
+      "therapeutic_area": "neuroscience",
+      "indication": "早期アルツハイマー病（皮下注射製剤）",
+      "phase": "filed",
+      "japan_status": "日本申請中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "静脈注射→皮下注射への剤型変更。投与の利便性向上で大幅な処方拡大が期待"
+    },
+    {
+      "compound": "レケンビ早期AD適応拡大",
+      "therapeutic_area": "neuroscience",
+      "indication": "プレクリニカルAD（発症前アルツハイマー）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2028",
+      "significance": "high",
+      "note": "AHEAD 3-45試験。発症前段階での投与が実現すれば市場を大幅拡大"
+    },
+    {
+      "compound": "E2814",
+      "therapeutic_area": "neuroscience",
+      "indication": "タウオパチー（進行性核上性麻痺等）",
+      "phase": "phase2",
+      "japan_status": "グローバルPhase2",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "抗タウ抗体。Aβ（レケンビ）+タウ（E2814）の併用療法でAD治療の革新を目指す"
+    },
+    {
+      "compound": "MOD-4023 (efinopegdutide)",
+      "therapeutic_area": "metabolic",
+      "indication": "NASH/MASH（非アルコール性脂肪肝炎）、肥満",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "GLP-1/グルカゴン受容体デュアルアゴニスト"
+    },
+    {
+      "compound": "E7766",
+      "therapeutic_area": "oncology",
+      "indication": "固形がん（膀胱がん等）",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "STING作動薬。免疫療法の新アプローチ"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "アルツハイマー病治療薬（レケンビ）で世界をリードする存在",
+      "ニューロロジー（神経科学）とオンコロジーの2本柱",
+      "「hhc（ヒューマン・ヘルスケア）」理念に基づく患者中心の企業文化",
+      "つくば・小石川の研究開発拠点"
+    ],
+    "growth_areas": [
+      "レケンビの処方拡大（皮下注開発、早期AD適応拡大）",
+      "臨床開発部門の増員（グローバル治験の日本参加）",
+      "AD関連のメディカル・MSL体制強化"
+    ],
+    "challenges": [
+      "レンビマのLOE（2027年以降）への備え",
+      "レケンビの普及速度（検査・インフラ整備が必要）",
+      "AD治療薬市場での競合参入（Lilly donanemab等）"
+    ],
+    "headcount_trend": "expanding",
+    "note": "レケンビの臨床開発・メディカル・営業で積極採用中。特にニューロロジー領域のMSL・MAは増員"
+  },
+
+  "culture": {
+    "work_style": "患者中心の「hhc理念」が組織に根付いている。つくば・小石川・本郷オフィス",
+    "decision_speed": "研究開発重視で慎重だが、レケンビではFDAとの迅速な連携で承認取得。内藤CEO家族経営の側面あり",
+    "career_path": "ニューロロジー領域の専門性が評価される。研究所からの転身も。グローバルポジションも増加中",
+    "reputation": "患者さんと生活者のベネフィットを追求する理念経営。AD領域の世界的リーダー。内藤家の経営スタイルに好み分かれる"
+  }
+}

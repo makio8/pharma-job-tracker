@@ -1,0 +1,155 @@
+{
+  "company_id": "jnj",
+  "last_updated": "2026-03",
+  "data_source": "J&J 2024 Annual Report, Innovative Medicine部門IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 57.0,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "Innovative Medicine部門$57B。Darzalex+20%の急成長でStelara LOEをカバー。MedTech分離後は製薬に集中"
+  },
+
+  "key_products": [
+    {
+      "name": "ダラザレックス",
+      "generic_name": "daratumumab",
+      "therapeutic_area": "hematology",
+      "indication": "多発性骨髄腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$11.7B（+20%）。皮下注製剤で利便性向上。多発性骨髄腫の標準治療"
+    },
+    {
+      "name": "ステラーラ",
+      "generic_name": "ustekinumab",
+      "therapeutic_area": "immunology",
+      "indication": "乾癬、クローン病、潰瘍性大腸炎",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2025",
+      "status": "loe_risk",
+      "note": "グローバル売上$10.4B（-5%）。2025年バイオシミラー参入で急速な減収が見込まれる"
+    },
+    {
+      "name": "トレムフィア",
+      "generic_name": "guselkumab",
+      "therapeutic_area": "immunology",
+      "indication": "乾癬、乾癬性関節炎、クローン病、潰瘍性大腸炎（IBD適応拡大中）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$3.7B（+17%）。IBD適応拡大でStelara後継の免疫学の柱に"
+    },
+    {
+      "name": "カービクティ",
+      "generic_name": "ciltacabtagene autoleucel",
+      "therapeutic_area": "hematology",
+      "indication": "再発又は難治性の多発性骨髄腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "BCMA標的CAR-T療法。前線治療への展開でさらなる成長見込み"
+    },
+    {
+      "name": "スプラバート",
+      "generic_name": "esketamine",
+      "therapeutic_area": "neuroscience",
+      "indication": "治療抵抗性うつ病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "点鼻エスケタミン。治療抵抗性うつ病の画期的治療薬。日本でも承認済み"
+    },
+    {
+      "name": "アーリーダ",
+      "generic_name": "apalutamide",
+      "therapeutic_area": "oncology",
+      "indication": "前立腺がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "次世代AR阻害剤。非転移性CRPC・転移性CSPCで成長中"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "Tremfya (guselkumab) IBD適応拡大",
+      "therapeutic_area": "immunology",
+      "indication": "潰瘍性大腸炎、クローン病",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "Stelara LOE後の免疫学事業を支える最重要品。IBD市場でのシェア獲得が鍵"
+    },
+    {
+      "compound": "Carvykti (cilta-cel) 前線治療",
+      "therapeutic_area": "hematology",
+      "indication": "多発性骨髄腫 1-3L",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "CAR-T療法の前線治療への展開。対象患者数が大幅に拡大"
+    },
+    {
+      "compound": "TAR-200",
+      "therapeutic_area": "oncology",
+      "indication": "筋層非浸潤性膀胱がん（NMIBC）",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "膀胱内留置型erdafitinib徐放製剤。膀胱がんのアンメットニーズに対応"
+    },
+    {
+      "compound": "nipocalimab",
+      "therapeutic_area": "immunology",
+      "indication": "重症筋無力症、胎児・新生児溶血性疾患",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "抗FcRn抗体。自己免疫疾患の新しい治療アプローチ"
+    },
+    {
+      "compound": "JNJ-2113 (icotrokinra)",
+      "therapeutic_area": "immunology",
+      "indication": "乾癬、乾癬性関節炎",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "経口IL-23阻害ペプチド。バイオ製剤の利便性課題を解決する可能性"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "免疫学（Stelara/Tremfya）で皮膚科・消化器科に強い基盤",
+      "血液がん（Darzalex）で血液内科との関係構築済み",
+      "Our Credo（企業理念）に基づく社員重視の文化"
+    ],
+    "growth_areas": [
+      "Tremfya IBD適応拡大による消化器領域の強化",
+      "CAR-T療法（Carvykti）の前線治療展開",
+      "ニューロサイエンス（Spravato）の市場浸透"
+    ],
+    "challenges": [
+      "Stelara特許切れ（2025年）による大幅減収への対応",
+      "免疫学領域での競合激化（AbbVie, Novartis等）",
+      "CAR-T製造キャパシティの確保"
+    ],
+    "headcount_trend": "stable",
+    "note": "Stelara LOE後もDarzalex/Tremfya/Carvyktiで成長継続の方針。日本は免疫学の重要市場"
+  },
+
+  "culture": {
+    "work_style": "Our Credo重視のバランス型。ハイブリッド勤務。社員の健康・福祉を重視する社風",
+    "decision_speed": "意思決定は丁寧で慎重。コンセンサス重視。スピードよりも品質と安全性を優先",
+    "career_path": "Innovative MedicineとMedTech分離後は製薬に集中。社内異動の機会は豊富",
+    "reputation": "安定感のある大手。給与・福利厚生は業界トップクラス。長期勤続する社員が多い"
+  }
+}

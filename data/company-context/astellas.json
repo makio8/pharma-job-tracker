@@ -1,0 +1,145 @@
+{
+  "company_id": "astellas",
+  "last_updated": "2026-03",
+  "data_source": "アステラス製薬 FY2024決算見通し, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "declining",
+    "trend_note": "売上¥1.65T（FY2024見通し）。イクスタンジ（売上45%）の2027年LOEが最大リスク。社長自ら中計達成困難とコメント。パイプライン開発遅延が課題"
+  },
+
+  "key_products": [
+    {
+      "name": "イクスタンジ",
+      "generic_name": "enzalutamide",
+      "therapeutic_area": "oncology",
+      "indication": "前立腺がん（去勢抵抗性/転移性ホルモン感受性）",
+      "annual_revenue_jpy_b": 757,
+      "patent_expiry": "2027",
+      "status": "loe_risk",
+      "note": "売上¥757B、全社売上の45%を占める。2027年LOE（独占販売期間満了）でジェネリック参入が確実。最大のリスク要因"
+    },
+    {
+      "name": "パドセブ",
+      "generic_name": "enfortumab vedotin",
+      "therapeutic_area": "oncology",
+      "indication": "尿路上皮がん（膀胱がん）",
+      "annual_revenue_jpy_b": 151,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "売上¥151B（+77%）。ADC（抗体薬物複合体）。Seagen/Pfizerと共同開発。1次治療で適応拡大中。イクスタンジ後の柱"
+    },
+    {
+      "name": "ベタニス/ミラベトリック",
+      "generic_name": "mirabegron",
+      "therapeutic_area": "urology",
+      "indication": "過活動膀胱（OAB）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2025",
+      "status": "declining",
+      "note": "泌尿器領域のロングセラー。主要市場で特許切れ"
+    },
+    {
+      "name": "プログラフ",
+      "generic_name": "tacrolimus",
+      "therapeutic_area": "transplant",
+      "indication": "臓器移植後の拒絶反応抑制",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "移植領域のレガシー製品。後発品参入で減収傾向"
+    },
+    {
+      "name": "ゾルベツキシマブ",
+      "generic_name": "zolbetuximab",
+      "therapeutic_area": "oncology",
+      "indication": "CLDN18.2陽性胃がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "2024年承認。CLDN18.2標的抗体。胃がん1次治療。日本でも承認取得"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "パドセブ適応拡大",
+      "therapeutic_area": "oncology",
+      "indication": "頭頸部がん、非小細胞肺がん 等",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "パドセブの適応拡大が最重要パイプライン。尿路上皮がん以外への展開がイクスタンジ後の成長の鍵"
+    },
+    {
+      "compound": "ゾルベツキシマブ適応拡大",
+      "therapeutic_area": "oncology",
+      "indication": "膵がん、食道がん 等",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "CLDN18.2発現腫瘍への拡大。次世代オンコ製品としての拡張"
+    },
+    {
+      "compound": "AT845",
+      "therapeutic_area": "rare_disease",
+      "indication": "ポンペ病",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "遺伝子治療（AAV）。希少疾患領域への展開"
+    },
+    {
+      "compound": "fezolinetant",
+      "therapeutic_area": "womens_health",
+      "indication": "更年期に伴う血管運動神経症状（ホットフラッシュ）",
+      "phase": "approved_recent",
+      "japan_status": "日本申請中",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "NK3受容体拮抗薬。女性ヘルスケア領域。米国で承認済み"
+    },
+    {
+      "compound": "ASP0367",
+      "therapeutic_area": "rare_disease",
+      "indication": "ミトコンドリア病（原発性ミトコンドリアミオパチー）",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "PPARδ作動薬。希少疾患パイプライン"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "泌尿器領域で国内トップシェア（イクスタンジ、ベタニス）",
+      "つくば研究所の研究開発力",
+      "オンコロジー営業体制の構築（パドセブ、ゾルベツキシマブ）"
+    ],
+    "growth_areas": [
+      "オンコロジーADC（パドセブの適応拡大）",
+      "CLDN18.2標的薬（ゾルベツキシマブ）",
+      "女性ヘルスケア（fezolinetant）"
+    ],
+    "challenges": [
+      "イクスタンジ2027年LOEによる大幅減収「2027年の崖」",
+      "パイプライン開発の遅延・失敗リスク",
+      "中計達成困難、構造改革の必要性"
+    ],
+    "headcount_trend": "restructuring",
+    "note": "イクスタンジLOE後の減収に備え、組織再編が進む可能性。オンコロジー領域は採用継続だが、泌尿器領域は縮小リスク"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務。旧山之内製薬+藤沢薬品の合併企業。つくば研究所が中核",
+    "decision_speed": "意思決定はやや遅いと言われる。合併企業特有の調整文化が残る",
+    "career_path": "研究・開発・営業間の異動はあるが、比較的専門性重視。グローバルポジションは限定的",
+    "reputation": "日系大手の安定感。泌尿器領域での高い専門性。ただし2027年問題で将来に不安の声も"
+  }
+}

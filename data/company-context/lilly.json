@@ -1,0 +1,145 @@
+{
+  "company_id": "lilly",
+  "last_updated": "2026-03",
+  "data_source": "Eli Lilly 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 45.0,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "全社+32%の業界最速成長。Mounjaro/Zepbound（GLP-1/GIP）が爆発的成長。時価総額は製薬業界トップ"
+  },
+
+  "key_products": [
+    {
+      "name": "マンジャロ",
+      "generic_name": "tirzepatide",
+      "therapeutic_area": "metabolic",
+      "indication": "2型糖尿病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$11.5B（+124%）。GLP-1/GIP受容体デュアルアゴニスト。日本でも2型糖尿病で大ヒット"
+    },
+    {
+      "name": "ゼップバウンド",
+      "generic_name": "tirzepatide",
+      "therapeutic_area": "metabolic",
+      "indication": "肥満症",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "MounjaroのBrand名違い（肥満症適応）。供給が追いつかないほどの需要。市場ポテンシャル$100B+"
+    },
+    {
+      "name": "ベージニオ",
+      "generic_name": "abemaciclib",
+      "therapeutic_area": "oncology",
+      "indication": "HR+/HER2- 乳がん（早期・進行）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$5.3B（+37%）。早期乳がんのアジュバント適応で急成長"
+    },
+    {
+      "name": "ジャディアンス",
+      "generic_name": "empagliflozin",
+      "therapeutic_area": "metabolic",
+      "indication": "2型糖尿病、慢性心不全、慢性腎臓病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2025",
+      "status": "peak",
+      "note": "グローバル売上$3.3B（BI共同販売）。SGLT2阻害剤。心不全・CKD適応で処方拡大"
+    },
+    {
+      "name": "ケサンラ",
+      "generic_name": "donanemab",
+      "therapeutic_area": "neuroscience",
+      "indication": "早期アルツハイマー病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "抗アミロイドβ抗体。日本承認済み。AD治療の新時代を切り開く"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "tirzepatide 適応拡大",
+      "therapeutic_area": "metabolic",
+      "indication": "心不全（HFpEF）、MASH/NASH、睡眠時無呼吸症候群",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "GLP-1の適応拡大が次の成長ドライバー。心血管アウトカム試験も進行中"
+    },
+    {
+      "compound": "orforglipron",
+      "therapeutic_area": "metabolic",
+      "indication": "肥満症、2型糖尿病",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "経口GLP-1受容体作動薬。注射不要で市場が劇的に拡大する可能性"
+    },
+    {
+      "compound": "donanemab (Kisunla) 適応拡大",
+      "therapeutic_area": "neuroscience",
+      "indication": "アルツハイマー病（早期段階以外への拡大）",
+      "phase": "phase3",
+      "japan_status": "日本承認済み（早期AD）、適応拡大開発中",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "AD治療薬市場はLeqembi（エーザイ）との競合。投与期間限定が差別化ポイント"
+    },
+    {
+      "compound": "retatrutide",
+      "therapeutic_area": "metabolic",
+      "indication": "肥満症（GLP-1/GIP/グルカゴン トリプルアゴニスト）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "次世代肥満症治療。tirzepatideを超える体重減少効果の可能性"
+    },
+    {
+      "compound": "imlunestrant",
+      "therapeutic_area": "oncology",
+      "indication": "ER+/HER2- 乳がん",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "経口SERD。Verzenioとの併用でオンコロジーポートフォリオを強化"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "糖尿病領域（Mounjaro/Jardiance）で内分泌・糖尿病科に強い基盤",
+      "オンコロジー（Verzenio）の乳がん市場での高い存在感",
+      "神戸本社。日本での歴史が長く、信頼度が高い"
+    ],
+    "growth_areas": [
+      "Mounjaro/Zepbound による糖尿病・肥満症市場の席巻",
+      "Kisunla（AD治療薬）の市場浸透",
+      "経口GLP-1（orforglipron）の日本上市"
+    ],
+    "challenges": [
+      "Mounjaro/Zepboundの供給確保（グローバルで供給逼迫）",
+      "肥満症適応の日本での保険適用・薬価交渉",
+      "Jardiance特許切れへの対応"
+    ],
+    "headcount_trend": "expanding",
+    "note": "GLP-1/肥満症の爆発的成長に伴い、日本でも積極採用中。糖尿病・代謝領域のMR/MSL増員"
+  },
+
+  "culture": {
+    "work_style": "中西部アメリカ企業（インディアナポリス本社）。家族的で温かい社風。ハイブリッド勤務",
+    "decision_speed": "比較的速い意思決定。現場の裁量が大きめ。官僚主義は少ない方",
+    "career_path": "糖尿病・代謝領域での深い専門性構築が可能。オンコロジーも成長中",
+    "reputation": "業界最速の成長率で社員のモチベーション高い。時価総額トップで株式報酬も魅力的"
+  }
+}

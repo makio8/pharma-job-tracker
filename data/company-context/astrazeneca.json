@@ -1,0 +1,155 @@
+{
+  "company_id": "astrazeneca",
+  "last_updated": "2026-03",
+  "data_source": "AstraZeneca 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": 54.0,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "6年連続成長。2030年$80B目標を掲げるアグレッシブな成長戦略。Alexion統合で希少疾患も柱に"
+  },
+
+  "key_products": [
+    {
+      "name": "フォシーガ",
+      "generic_name": "dapagliflozin",
+      "therapeutic_area": "metabolic",
+      "indication": "2型糖尿病、慢性心不全、慢性腎臓病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2025",
+      "status": "peak",
+      "note": "グローバル売上$7.7B。SGLT2阻害剤。心不全・CKD適応で処方拡大も特許切れ接近"
+    },
+    {
+      "name": "タグリッソ",
+      "generic_name": "osimertinib",
+      "therapeutic_area": "oncology",
+      "indication": "EGFR変異陽性 非小細胞肺がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2032",
+      "status": "peak",
+      "note": "グローバル売上$6.6B。3世代EGFR-TKI。アジュバント適応で成長持続"
+    },
+    {
+      "name": "イミフィンジ",
+      "generic_name": "durvalumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、小細胞肺がん、胆道がん、肝細胞がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上$4.7B。適応拡大が継続。tremelimumab併用で差別化"
+    },
+    {
+      "name": "リムパーザ",
+      "generic_name": "olaparib",
+      "therapeutic_area": "oncology",
+      "indication": "BRCA変異陽性 卵巣がん、乳がん、前立腺がん、膵がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2028",
+      "status": "peak",
+      "note": "グローバル売上$3.7B（MSD共同販売）。PARP阻害剤のパイオニア"
+    },
+    {
+      "name": "ソリリス/ユルトミリス",
+      "generic_name": "eculizumab/ravulizumab",
+      "therapeutic_area": "rare_disease",
+      "indication": "発作性夜間ヘモグロビン尿症（PNH）、非典型溶血性尿毒症症候群（aHUS）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "Alexion由来。希少疾患の柱。Ultomirisへの移行が進行中"
+    },
+    {
+      "name": "エンハーツ",
+      "generic_name": "trastuzumab deruxtecan",
+      "therapeutic_area": "oncology",
+      "indication": "HER2陽性 乳がん、胃がん、非小細胞肺がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "第一三共との共同開発ADC。HER2 low乳がんで市場拡大。ブロックバスター化"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "datopotamab deruxtecan (Dato-DXd)",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、トリプルネガティブ乳がん",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "第一三共との共同開発ADC第2弾。TROP2標的。肺がん・乳がんでの大型化を期待"
+    },
+    {
+      "compound": "volrustomig",
+      "therapeutic_area": "oncology",
+      "indication": "胃がん、肝細胞がん等",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "CTLA-4/PD-L1二重特異性抗体。IO併用の次世代"
+    },
+    {
+      "compound": "capivasertib (Truqap)",
+      "therapeutic_area": "oncology",
+      "indication": "HR+/HER2- 乳がん",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "AKT阻害剤。PIK3CA/AKT1/PTEN変異陽性乳がんに特化"
+    },
+    {
+      "compound": "AZD5363 (次世代ADC群)",
+      "therapeutic_area": "oncology",
+      "indication": "複数固形がん",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "2030年$80B目標達成に向けた次世代ADCプラットフォーム"
+    },
+    {
+      "compound": "希少疾患パイプライン（Alexion）",
+      "therapeutic_area": "rare_disease",
+      "indication": "補体介在性疾患、神経筋疾患等",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "Alexion統合によりラインナップ拡充。次世代補体阻害剤等"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "オンコロジー（Tagrisso/Imfinzi/Enhertu）で日本の肺がん・乳がん治療に貢献",
+      "Alexion Japan統合で希少疾患にも強い基盤",
+      "第一三共とのADC共同開発パートナーシップ"
+    ],
+    "growth_areas": [
+      "ADC（Enhertu/Dato-DXd）の適応拡大",
+      "希少疾患（Alexion）の日本市場拡大",
+      "IO（Imfinzi）の新規適応追加"
+    ],
+    "challenges": [
+      "Farxiga特許切れ（2025年）による減収",
+      "ADC領域での競合激化（Padcev等との競争）",
+      "組織統合（AZ+Alexion）の完遂"
+    ],
+    "headcount_trend": "expanding",
+    "note": "日本はアジアの重要拠点。2030年$80B目標に向けて積極的な組織拡大中。オンコロジー・希少疾患で採用強化"
+  },
+
+  "culture": {
+    "work_style": "英スウェーデン本社。ダイバーシティ重視。ハイブリッド勤務。若手にもチャンスがある社風",
+    "decision_speed": "アグレッシブな成長戦略のため、意思決定は比較的速い。現場への権限委譲が進んでいる",
+    "career_path": "オンコロジー・希少疾患でのキャリア構築が可能。グローバル異動の機会も多い",
+    "reputation": "成長率が高く社員のモチベーション高い。M&A（Alexion等）を活用した積極的な事業拡大が特徴"
+  }
+}

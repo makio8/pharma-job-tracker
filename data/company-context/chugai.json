@@ -1,0 +1,146 @@
+{
+  "company_id": "chugai",
+  "last_updated": "2026-03",
+  "data_source": "中外製薬 2024年12月期決算資料, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "売上収益¥1.26T（2024年12月期）。過去最高を更新。ヘムライブラのロシュ輸出が急成長をけん引。自社創製品比率が高く、収益性も良好"
+  },
+
+  "key_products": [
+    {
+      "name": "ヘムライブラ",
+      "generic_name": "emicizumab",
+      "therapeutic_area": "hematology",
+      "indication": "血友病A（インヒビター保有/非保有）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "自社創製品。ロシュを通じたグローバル輸出で急成長。血友病A治療のゲームチェンジャー。中外最大の収益源"
+    },
+    {
+      "name": "テセントリク",
+      "generic_name": "atezolizumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、小細胞肺がん、肝細胞がん、乳がん 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "抗PD-L1抗体。ロシュ品を日本で販売。オンコロジー領域の基盤製品"
+    },
+    {
+      "name": "アクテムラ",
+      "generic_name": "tocilizumab",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ、キャッスルマン病、COVID-19肺炎 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "自社創製の抗IL-6受容体抗体。COVID-19適応で一時的に急拡大。バイオシミラー参入リスクあり"
+    },
+    {
+      "name": "アレセンサ",
+      "generic_name": "alectinib",
+      "therapeutic_area": "oncology",
+      "indication": "ALK陽性非小細胞肺がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "自社創製ALK阻害剤。肺がん領域の標準治療。グローバルでロシュが販売"
+    },
+    {
+      "name": "ポライビー",
+      "generic_name": "polatuzumab vedotin",
+      "therapeutic_area": "hematology",
+      "indication": "びまん性大細胞型B細胞リンパ腫（DLBCL）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "ADC。ロシュ品。血液がん領域の成長品"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "NXT007",
+      "therapeutic_area": "hematology",
+      "indication": "血友病A（次世代ヘムライブラ）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2028",
+      "significance": "high",
+      "note": "ヘムライブラの次世代品。月1回投与。自社創製。ヘムライブラ後の成長を担う最重要品"
+    },
+    {
+      "compound": "crovalimab",
+      "therapeutic_area": "hematology",
+      "indication": "発作性夜間ヘモグロビン尿症（PNH）",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": "2024",
+      "significance": "medium",
+      "note": "自社創製の抗C5リサイクリング抗体。ロシュと共同開発"
+    },
+    {
+      "compound": "中分子創薬（ペプチド）",
+      "therapeutic_area": "multiple",
+      "indication": "複数の標的",
+      "phase": "phase1",
+      "japan_status": "日本で研究開発中",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "中分子（低分子と抗体の中間サイズ）の創薬技術。細胞内標的を狙える新モダリティ。中外の次世代技術基盤"
+    },
+    {
+      "compound": "抗体エンジニアリング技術",
+      "therapeutic_area": "multiple",
+      "indication": "複数の標的",
+      "phase": "preclinical",
+      "japan_status": "日本で研究中",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "リサイクリング抗体・スイッチング抗体など独自技術。ロシュへの技術供与で収益化"
+    },
+    {
+      "compound": "tiragolumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "抗TIGIT抗体。テセントリクとの併用。ロシュ主導だが結果は混在"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "自社創製品比率が非常に高い（ヘムライブラ、アクテムラ、アレセンサ等）",
+      "ロシュ子会社（61%保有）としてグローバル研究開発網にアクセス",
+      "国内オンコロジーシェアNo.1",
+      "御殿場・浮間研究所の高い研究開発力"
+    ],
+    "growth_areas": [
+      "中分子創薬技術の確立と製品化",
+      "NXT007（次世代ヘムライブラ）のグローバル展開",
+      "抗体エンジニアリング技術のライセンス収入拡大"
+    ],
+    "challenges": [
+      "アクテムラのバイオシミラー参入リスク",
+      "ロシュ品の日本販売権に依存する部分がある",
+      "中分子創薬の実用化までの時間"
+    ],
+    "headcount_trend": "expanding",
+    "note": "売上過去最高で採用も積極的。特に研究開発（中分子・抗体エンジニアリング）、オンコロジーMSL、デジタルヘルス分野で増員中"
+  },
+
+  "culture": {
+    "work_style": "御殿場（研究）・浮間（研究）・日本橋（本社）。ロシュのグローバル基準に準拠しつつ日本独自の裁量あり",
+    "decision_speed": "ロシュグループだが日本独自の意思決定権限がある。自社創製へのこだわりが強く、研究開発には時間をかける",
+    "career_path": "研究開発のキャリアパスが充実。ロシュグループ内でのグローバル異動も可能。サイエンス志向の人材に向く",
+    "reputation": "日系製薬で最も研究開発力が高いと評価される。給与水準も日系トップクラス。自社創製の誇りが組織文化に浸透"
+  }
+}

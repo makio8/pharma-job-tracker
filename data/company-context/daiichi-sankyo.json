@@ -1,0 +1,155 @@
+{
+  "company_id": "daiichi-sankyo",
+  "last_updated": "2026-03",
+  "data_source": "第一三共 FY2024決算資料, パイプラインページ, 日経新聞 2025年記事。地域制限あり（日本IP必須でスクレイパー取得不可）",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "売上¥1.89T（FY2024, +18%）。エンハーツの爆発的成長がけん引。営業利益率も急上昇。ADC技術でグローバルトップの地位を確立"
+  },
+
+  "key_products": [
+    {
+      "name": "エンハーツ",
+      "generic_name": "trastuzumab deruxtecan",
+      "therapeutic_area": "oncology",
+      "indication": "HER2陽性乳がん、HER2低発現乳がん、胃がん、非小細胞肺がん 等",
+      "annual_revenue_jpy_b": 464,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "売上¥464B（+39%）。ADC（抗体薬物複合体）のグローバルベストセラー。AstraZenecaと共同販売。適応拡大が続く"
+    },
+    {
+      "name": "リクシアナ",
+      "generic_name": "edoxaban",
+      "therapeutic_area": "cardiovascular",
+      "indication": "非弁膜症性心房細動における脳卒中・全身性塞栓症の発症抑制",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2026",
+      "status": "loe_risk",
+      "note": "抗凝固薬。日本・欧州で高シェアだが特許切れが迫る"
+    },
+    {
+      "name": "オロパタジン",
+      "generic_name": "olopatadine",
+      "therapeutic_area": "allergy",
+      "indication": "アレルギー性鼻炎、蕁麻疹",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "OTC含め広く使用されるレガシー製品。後発品参入済み"
+    },
+    {
+      "name": "タリージェ",
+      "generic_name": "mirogabalin",
+      "therapeutic_area": "pain",
+      "indication": "末梢性神経障害性疼痛",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "日本発の疼痛治療薬。アジア中心に展開"
+    },
+    {
+      "name": "バニヘップ",
+      "generic_name": "vaniprevir",
+      "therapeutic_area": "infectious_disease",
+      "indication": "C型肝炎",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "C型肝炎市場縮小に伴い減収"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "ダトポタマブ デルクステカン（Dato-DXd）",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、トリプルネガティブ乳がん、HR陽性乳がん",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "TROP2標的ADC。エンハーツに次ぐ第2のADC大型品。AstraZenecaと共同開発"
+    },
+    {
+      "compound": "パトリツマブ デルクステカン（HER3-DXd）",
+      "therapeutic_area": "oncology",
+      "indication": "EGFR変異陽性非小細胞肺がん",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "HER3標的ADC。EGFR-TKI耐性肺がんでの期待品。Merckと共同開発"
+    },
+    {
+      "compound": "イフィナタマブ デルクステカン（I-DXd）",
+      "therapeutic_area": "oncology",
+      "indication": "小細胞肺がん",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "B7-H3標的ADC。小細胞肺がんは未充足医療ニーズが大きい"
+    },
+    {
+      "compound": "DS-7300 (raludotatug deruxtecan)",
+      "therapeutic_area": "oncology",
+      "indication": "固形がん（CDH6陽性）",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "CDH6標的ADC。5つ目のADCパイプライン"
+    },
+    {
+      "compound": "DS-6000",
+      "therapeutic_area": "oncology",
+      "indication": "固形がん",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "次世代ADC。DXd技術プラットフォームの拡張"
+    },
+    {
+      "compound": "ミルベキシアン（milvexian）",
+      "therapeutic_area": "cardiovascular",
+      "indication": "脳卒中二次予防",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3（BMS共同）",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "FXIa阻害剤。BMSとの共同開発。リクシアナ後の循環器パイプライン"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "ADC（抗体薬物複合体）技術で世界トップ。DXd技術は日本発のイノベーション",
+      "オンコロジー領域の研究開発力が突出",
+      "AstraZeneca、Merckとのグローバル提携による収益基盤"
+    ],
+    "growth_areas": [
+      "ADCパイプラインの適応拡大（5つのADCが後期開発中）",
+      "次世代ADC技術の研究開発",
+      "グローバル展開の加速（海外売上比率の拡大）"
+    ],
+    "challenges": [
+      "リクシアナ特許切れ（2026年）による減収",
+      "ADC以外の領域の成長戦略",
+      "エンハーツの競合ADC参入リスク"
+    ],
+    "headcount_trend": "expanding",
+    "note": "ADCの成功により急速に組織拡大中。特にオンコロジーMSL、臨床開発、製造（品川・館林）で積極採用"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務。旧第一製薬+三共の合併企業。品川・日本橋オフィス",
+    "decision_speed": "研究開発重視で慎重だが、近年はグローバル提携先との協業でスピード感が向上",
+    "career_path": "オンコロジー領域での専門性が評価される。グローバルポジションも増加中",
+    "reputation": "ADC技術で世界的な評価が急上昇。株価も過去最高水準。将来性を感じて転職する人が多い。営業利益率も改善中"
+  }
+}

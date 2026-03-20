@@ -1,0 +1,126 @@
+{
+  "company_id": "ono",
+  "last_updated": "2026-03",
+  "data_source": "小野薬品 FY2024決算資料, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "declining",
+    "trend_note": "売上¥487B（FY2024, -3%）。オプジーボの薬価引き下げ（-17%）が直撃。フォシーガ（+18%）が一部補うも全体では減収。10年で売上6割消失リスクとの見方も"
+  },
+
+  "key_products": [
+    {
+      "name": "オプジーボ",
+      "generic_name": "nivolumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、腎細胞がん、頭頸部がん、胃がん、食道がん 等",
+      "annual_revenue_jpy_b": 120,
+      "patent_expiry": "2028",
+      "status": "declining",
+      "note": "売上¥120B（-17%）。薬価改定の影響で減収。2028年特許切れでバイオシミラー参入。小野の代名詞だが下降トレンド"
+    },
+    {
+      "name": "フォシーガ",
+      "generic_name": "dapagliflozin",
+      "therapeutic_area": "cardiovascular",
+      "indication": "2型糖尿病、慢性心不全、慢性腎臓病（CKD）",
+      "annual_revenue_jpy_b": 90,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "売上¥90B（+18%）。AstraZenecaからの導入品。CKD適応拡大で成長中。オプジーボ減収を部分的にカバー"
+    },
+    {
+      "name": "キイトルーダ（販売提携）",
+      "generic_name": "pembrolizumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん 等（日本での共同販売）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "MSDとの共同販売。ロイヤリティ収入あり"
+    },
+    {
+      "name": "オレンシア",
+      "generic_name": "abatacept",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "BMSからの導入品。日本販売権"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "ONO-4578",
+      "therapeutic_area": "oncology",
+      "indication": "固形がん（EP4受容体拮抗薬）",
+      "phase": "phase2",
+      "japan_status": "日本Phase2進行中",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "自社創製EP4拮抗薬。免疫チェックポイント阻害剤との併用で相乗効果を狙う"
+    },
+    {
+      "compound": "キンロック（ripretinib）",
+      "therapeutic_area": "oncology",
+      "indication": "消化管間質腫瘍（GIST）",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "Deciphera買収で獲得。GIST領域の新規治療薬"
+    },
+    {
+      "compound": "ONO-7913 (vanzacaftor)",
+      "therapeutic_area": "respiratory",
+      "indication": "嚢胞性線維症（CF）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3（Vertex共同）",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "Vertex社との共同開発。海外展開強化の一環"
+    },
+    {
+      "compound": "海外展開プログラム",
+      "therapeutic_area": "multiple",
+      "indication": "複数",
+      "phase": "phase2",
+      "japan_status": "海外拠点強化中",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "海外売上比率の向上が経営課題。買収・ライセンスで海外パイプライン強化中"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "免疫チェックポイント阻害剤（オプジーボ）の先駆者。本庶佑教授のノーベル賞受賞で知名度向上",
+      "独立系製薬企業としての自主独立経営",
+      "大阪本社。関西の製薬企業文化",
+      "フォシーガのCKD適応拡大で循環器・腎領域に新規参入"
+    ],
+    "growth_areas": [
+      "フォシーガのCKD・心不全での処方拡大",
+      "海外事業の強化（買収・ライセンス）",
+      "自社創製パイプラインの臨床開発推進"
+    ],
+    "challenges": [
+      "オプジーボの薬価引き下げ+2028年特許切れ。10年で売上6割消失リスク",
+      "オプジーボ依存からの脱却が最大課題",
+      "海外売上比率の低さ。グローバル展開の遅れ"
+    ],
+    "headcount_trend": "restructuring",
+    "note": "オプジーボ減収に伴い、組織効率化が進む可能性。ただし海外事業強化のための人材は採用中"
+  },
+
+  "culture": {
+    "work_style": "大阪本社。関西の製薬企業らしい実直な社風。「病気と苦痛に対する人類の闘いに貢献」が理念",
+    "decision_speed": "独立系で比較的意思決定が早い。ただし保守的な面もある",
+    "career_path": "オンコロジーMRとしてのキャリアが中心。海外駐在の機会は増加傾向",
+    "reputation": "オプジーボで一躍有名に。研究志向の強い会社。ただし今後の成長ストーリーに不安の声がある"
+  }
+}

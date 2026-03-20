@@ -1,0 +1,155 @@
+{
+  "company_id": "roche",
+  "last_updated": "2026-03",
+  "data_source": "Roche 2024 Annual Report, Pharma部門IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "stable",
+    "trend_note": "Pharma部門CHF 46.2B（+8%）。Tecentriq減少をVabysmo/Phesgoでカバー。日本は薬価改定の逆風で-2%"
+  },
+
+  "key_products": [
+    {
+      "name": "オクレバス",
+      "generic_name": "ocrelizumab",
+      "therapeutic_area": "neuroscience",
+      "indication": "再発型多発性硬化症（RMS）、一次性進行型多発性硬化症（PPMS）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "グローバル売上CHF 6.7B。MS治療の標準薬。PPMSで唯一の承認薬"
+    },
+    {
+      "name": "ヘムライブラ",
+      "generic_name": "emicizumab",
+      "therapeutic_area": "hematology",
+      "indication": "血友病A（インヒビター保有・非保有）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上CHF 4.5B。中外製薬が創製。血友病治療のゲームチェンジャー"
+    },
+    {
+      "name": "バビースモ",
+      "generic_name": "faricimab",
+      "therapeutic_area": "ophthalmology",
+      "indication": "加齢黄斑変性（nAMD）、糖尿病黄斑浮腫（DME）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "VEGF/Ang-2二重特異性抗体。投与間隔延長で利便性向上。Eylea競合"
+    },
+    {
+      "name": "フェスゴ",
+      "generic_name": "pertuzumab + trastuzumab (皮下注)",
+      "therapeutic_area": "oncology",
+      "indication": "HER2陽性乳がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "ペルツズマブ+トラスツズマブの皮下注配合剤。投与時間短縮で利便性向上"
+    },
+    {
+      "name": "テセントリク",
+      "generic_name": "atezolizumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、小細胞肺がん、肝細胞がん、尿路上皮がん",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "グローバル売上CHF 1.8B（減少中）。IO競合激化でシェア低下。Keytruda/Imfinziに押されている"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "glofitamab (Columvi)",
+      "therapeutic_area": "hematology",
+      "indication": "びまん性大細胞型B細胞リンパ腫（DLBCL）",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "CD20×CD3二重特異性抗体。CAR-Tの代替として期待。期間限定投与が特徴"
+    },
+    {
+      "compound": "crovalimab (Piasky)",
+      "therapeutic_area": "rare_disease",
+      "indication": "発作性夜間ヘモグロビン尿症（PNH）",
+      "phase": "approved_recent",
+      "japan_status": "日本承認済み（中外製薬が創製）",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "抗C5リサイクリング抗体。中外製薬創製。皮下注で利便性向上"
+    },
+    {
+      "compound": "gantenerumab SC (次世代)",
+      "therapeutic_area": "neuroscience",
+      "indication": "アルツハイマー病",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "抗アミロイドβ抗体の次世代。過去の失敗を踏まえ、皮下注製剤で再挑戦"
+    },
+    {
+      "compound": "CT-996 (経口GLP-1)",
+      "therapeutic_area": "metabolic",
+      "indication": "肥満症",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "経口小分子GLP-1受容体作動薬。肥満症市場への参入。中外製薬共同開発"
+    },
+    {
+      "compound": "Vabysmo 適応拡大",
+      "therapeutic_area": "ophthalmology",
+      "indication": "網膜静脈閉塞症（RVO）等",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "眼科領域での適応拡大。抗VEGF市場でEyleaからのシェア獲得"
+    },
+    {
+      "compound": "NME 71候補",
+      "therapeutic_area": "oncology",
+      "indication": "複数がん種（脳腫瘍含む）",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "業界最大の研究開発投資（年間CHF 14B+）。71の新規分子実体が開発中"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "中外製薬との関係（持分法適用関連会社）で日本市場に深い知見",
+      "Hemlibra/Vabysmo等、中外製薬創製品がグローバルで成功",
+      "研究開発力が業界最大。アカデミアとの連携が強い"
+    ],
+    "growth_areas": [
+      "Vabysmo の眼科市場でのシェア拡大",
+      "Phesgo（HER2乳がん皮下注）の浸透",
+      "glofitamab/crovalimab の新規市場創出"
+    ],
+    "challenges": [
+      "日本売上-2%（薬価改定の逆風）",
+      "Tecentriq の競合激化による減収",
+      "中外製薬との役割分担の明確化"
+    ],
+    "headcount_trend": "stable",
+    "note": "日本市場は中外製薬経由が中心。Roche Japan（Chugaiとは別組織）は希少疾患・診断薬に注力"
+  },
+
+  "culture": {
+    "work_style": "スイス本社（バーゼル）。研究開発中心主義。アカデミックな雰囲気。ハイブリッド勤務",
+    "decision_speed": "研究開発へのコミットメントが強く、長期的視点での意思決定。短期的な売上よりサイエンスを重視",
+    "career_path": "研究・メディカル領域でのキャリアが充実。中外製薬との人材交流もあり",
+    "reputation": "R&D費用が業界最大。サイエンスを重視する社風。中外製薬との関係が日本での独自の強み"
+  }
+}

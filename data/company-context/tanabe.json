@@ -1,0 +1,115 @@
+{
+  "company_id": "tanabe",
+  "last_updated": "2026-03",
+  "data_source": "田辺ファーマ（旧田辺三菱製薬）FY2024決算推定, パイプラインページ, 日経新聞 2025年記事",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "stable",
+    "trend_note": "売上約¥350B（FY2024推定）。田辺三菱製薬から田辺ファーマに社名変更しリブランド中。ラジカヴァの米国展開が生命線。親会社三菱ケミカルからの独立性を強化"
+  },
+
+  "key_products": [
+    {
+      "name": "ラジカヴァ",
+      "generic_name": "edaravone",
+      "therapeutic_area": "neuroscience",
+      "indication": "筋萎縮性側索硬化症（ALS）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "ALS治療薬。米国での経口剤承認で大きく成長。田辺ファーマの生命線"
+    },
+    {
+      "name": "カナグル",
+      "generic_name": "canagliflozin",
+      "therapeutic_area": "metabolic",
+      "indication": "2型糖尿病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "SGLT2阻害剤。日本での糖尿病治療薬として安定売上"
+    },
+    {
+      "name": "シンポニー",
+      "generic_name": "golimumab",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ、潰瘍性大腸炎、乾癬性関節炎",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "抗TNFα抗体。自己免疫疾患領域の基盤製品。バイオシミラー参入リスクあり"
+    },
+    {
+      "name": "レミケード",
+      "generic_name": "infliximab",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ、クローン病、潰瘍性大腸炎 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "declining",
+      "note": "バイオシミラー参入済み。減収傾向"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "MT-1186（ラジカヴァ経口剤適応拡大）",
+      "therapeutic_area": "neuroscience",
+      "indication": "ALS（経口剤の適応拡大・市場拡大）",
+      "phase": "phase3",
+      "japan_status": "日本Phase3",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "ラジカヴァ経口剤の日本承認・適応拡大。米国に続き日本でも経口剤展開"
+    },
+    {
+      "compound": "自己免疫新薬",
+      "therapeutic_area": "immunology",
+      "indication": "自己免疫疾患（詳細非公開）",
+      "phase": "phase2",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "シンポニーに次ぐ自己免疫領域パイプライン"
+    },
+    {
+      "compound": "MT-5111",
+      "therapeutic_area": "oncology",
+      "indication": "HER2陽性固形がん",
+      "phase": "phase1",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "免疫賦活型二重特異性抗体。オンコロジー領域への展開"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "ALS治療薬（ラジカヴァ）で希少疾患領域に強み",
+      "自己免疫疾患領域の営業基盤",
+      "日本最古の製薬企業の一つとしてのブランド力"
+    ],
+    "growth_areas": [
+      "ラジカヴァ経口剤の日本展開",
+      "リブランド（田辺ファーマ）による企業イメージ刷新",
+      "親会社からの独立性強化による経営自由度の向上"
+    ],
+    "challenges": [
+      "ラジカヴァの米国展開に過度に依存",
+      "パイプラインの厚みが不足",
+      "社名変更・リブランドに伴う組織混乱リスク"
+    ],
+    "headcount_trend": "restructuring",
+    "note": "リブランド中で組織再編が進行。一部領域での人員調整あり。ラジカヴァ関連のメディカル・営業は維持"
+  },
+
+  "culture": {
+    "work_style": "大阪本社。旧田辺三菱製薬から田辺ファーマに社名変更。変革期の真っ只中",
+    "decision_speed": "三菱ケミカルグループだが、独立性を強化中。変革期で方針が流動的な面あり",
+    "career_path": "自己免疫・神経科学領域での専門性が評価される。リブランド後のキャリアパスは再構築中",
+    "reputation": "歴史ある企業だが、近年は存在感が薄れ気味。ラジカヴァの成功で再注目。リブランドの成否が今後を左右"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "company_id": "sanofi",
+  "last_updated": "2026-03",
+  "data_source": "Sanofi 2024 Annual Report, IR資料, パイプラインページ",
+
+  "financials": {
+    "global_revenue_usd_b": null,
+    "japan_revenue_jpy_b": null,
+    "trend": "growing",
+    "trend_note": "売上€41.1B（+11%）。Dupixent€13B超で牽引。Opella（コンシューマー事業）分離決定で医薬品・ワクチンに集中"
+  },
+
+  "key_products": [
+    {
+      "name": "デュピクセント",
+      "generic_name": "dupilumab",
+      "therapeutic_area": "immunology",
+      "indication": "アトピー性皮膚炎、気管支喘息、慢性副鼻腔炎（鼻茸）、結節性痒疹、COPD",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "グローバル売上€13B超。適応拡大が継続中（COPD承認等）。Sanofi最大の成長ドライバー"
+    },
+    {
+      "name": "ケブザラ",
+      "generic_name": "sarilumab",
+      "therapeutic_area": "immunology",
+      "indication": "関節リウマチ",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "抗IL-6受容体抗体。日本ではアクテムラ（中外）との競合"
+    },
+    {
+      "name": "ベイフォータス",
+      "generic_name": "nirsevimab",
+      "therapeutic_area": "vaccines",
+      "indication": "RSウイルス感染症予防（乳児）",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "長時間作用型抗RSV抗体。ワクチンではなく抗体医薬品。新生児・乳児向けで画期的"
+    },
+    {
+      "name": "ワクチン事業（その他）",
+      "generic_name": "various",
+      "therapeutic_area": "vaccines",
+      "indication": "インフルエンザ、ポリオ、髄膜炎菌等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "グローバルワクチン大手。インフルエンザワクチンで世界トップシェア"
+    },
+    {
+      "name": "セレザイム/ファブラザイム",
+      "generic_name": "imiglucerase/agalsidase beta",
+      "therapeutic_area": "rare_disease",
+      "indication": "ゴーシェ病/ファブリー病",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "peak",
+      "note": "希少疾患（ライソゾーム病）領域のパイオニア。安定した収益基盤"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "Dupixent 適応拡大",
+      "therapeutic_area": "immunology",
+      "indication": "COPD、好酸球性食道炎、アレルギー性気管支肺アスペルギルス症等",
+      "phase": "phase3",
+      "japan_status": "一部日本申請中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "Dupixentの適応拡大が成長戦略の中核。IL-4/13阻害で複数疾患をカバー"
+    },
+    {
+      "compound": "rilzabrutinib",
+      "therapeutic_area": "immunology",
+      "indication": "免疫性血小板減少症（ITP）、天疱瘡",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "共有結合型BTK阻害剤。自己免疫疾患の新規治療オプション"
+    },
+    {
+      "compound": "amlitelimab",
+      "therapeutic_area": "immunology",
+      "indication": "アトピー性皮膚炎（Dupixent不応例）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "抗OX40L抗体。Dupixent以外の免疫アプローチで社内競合回避"
+    },
+    {
+      "compound": "tolebrutinib",
+      "therapeutic_area": "neuroscience",
+      "indication": "多発性硬化症（二次進行型）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2026",
+      "significance": "medium",
+      "note": "脳移行性BTK阻害剤。進行型MSのアンメットニーズに対応"
+    },
+    {
+      "compound": "itepekimab",
+      "therapeutic_area": "immunology",
+      "indication": "気管支喘息（非好酸球性）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "抗IL-33抗体。Dupixent非奏効の喘息患者が対象"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "Dupixentでアトピー性皮膚炎・喘息治療のリーダー",
+      "ワクチン事業での長い実績と信頼",
+      "希少疾患（Fabry病/Gaucher病）のパイオニア"
+    ],
+    "growth_areas": [
+      "Dupixent適応拡大（COPD、好酸球性食道炎等）",
+      "Beyfortus（RSV予防）の日本市場浸透",
+      "免疫学パイプライン（rilzabrutinib等）"
+    ],
+    "challenges": [
+      "Dupixent一強の売上集中リスク",
+      "免疫学領域での競合激化（AbbVie, J&J等）",
+      "Opella分離に伴う組織再編の影響"
+    ],
+    "headcount_trend": "stable",
+    "note": "免疫学とワクチンが日本事業の二本柱。Dupixent成長が継続する限り安定。Opella分離で医薬品に集中"
+  },
+
+  "culture": {
+    "work_style": "フランス本社。ワークライフバランス重視。ハイブリッド勤務",
+    "decision_speed": "欧州企業らしい丁寧な意思決定。プロセス重視だがDupixent成功で自信が高まっている",
+    "career_path": "免疫学・ワクチンでの専門性構築が可能。希少疾患領域も独自のキャリアパス",
+    "reputation": "ワクチン事業が独自の強み。Dupixent成功で企業ブランドが向上。給与は外資中位〜上位"
+  }
+}
