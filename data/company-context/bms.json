@@ -1,0 +1,175 @@
+{
+  "company_id": "bms",
+  "last_updated": "2026-03",
+  "data_source": "BMS 2024 Annual Report, パイプラインページ, 日経新聞 2025年3月記事",
+
+  "financials": {
+    "global_revenue_usd_b": 48.3,
+    "japan_revenue_jpy_b": 253.4,
+    "trend": "stable",
+    "trend_note": "全社+7%成長だが、Revlimid/Sprycel特許切れの減収をGrowth Portfolioでカバーする過渡期。日本は2032年に売上倍増目標"
+  },
+
+  "key_products": [
+    {
+      "name": "オプジーボ",
+      "generic_name": "nivolumab",
+      "therapeutic_area": "oncology",
+      "indication": "非小細胞肺がん、腎細胞がん、頭頸部がん、胃がん、食道がん 等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2028",
+      "status": "peak",
+      "note": "グローバル売上$9.3B。日本ではまだ適応拡大余地あるが、2028年以降バイオシミラー参入リスク"
+    },
+    {
+      "name": "エリキュース",
+      "generic_name": "apixaban",
+      "therapeutic_area": "cardiovascular",
+      "indication": "非弁膜症性心房細動における虚血性脳卒中・全身性塞栓症の発症抑制",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2026",
+      "status": "loe_risk",
+      "note": "グローバル売上$12.2B（BMS最大製品）。2026年に米国特許切れ、ジェネリック参入で大幅減収見込み"
+    },
+    {
+      "name": "レブリミド",
+      "generic_name": "lenalidomide",
+      "therapeutic_area": "hematology",
+      "indication": "多発性骨髄腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": "2024",
+      "status": "declining",
+      "note": "特許切れ済み。ジェネリック参入で急速に減収中（前年比-30%以上）"
+    },
+    {
+      "name": "ブレヤンジ",
+      "generic_name": "lisocabtagene maraleucel",
+      "therapeutic_area": "hematology",
+      "indication": "びまん性大細胞型B細胞リンパ腫（DLBCL）等",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "CAR-T療法。Growth Portfolio の柱。日本でも適応拡大申請中"
+    },
+    {
+      "name": "アベクマ",
+      "generic_name": "idecabtagene vicleucel",
+      "therapeutic_area": "hematology",
+      "indication": "再発又は難治性の多発性骨髄腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "CAR-T療法。Revlimid減収を補う次世代品。グローバルで急成長中"
+    },
+    {
+      "name": "オプジュアラグ",
+      "generic_name": "nivolumab + relatlimab",
+      "therapeutic_area": "oncology",
+      "indication": "悪性黒色腫",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "次世代免疫チェックポイント併用療法。適応拡大中"
+    },
+    {
+      "name": "ソーティクツ",
+      "generic_name": "deucravacitinib",
+      "therapeutic_area": "immunology",
+      "indication": "尋常性乾癬",
+      "annual_revenue_jpy_b": null,
+      "patent_expiry": null,
+      "status": "growth",
+      "note": "TYK2阻害剤。SLE・乾癬性関節炎に適応拡大中。日本で乾癬性関節炎の申請中"
+    }
+  ],
+
+  "pipeline": [
+    {
+      "compound": "milvexian",
+      "therapeutic_area": "cardiovascular",
+      "indication": "脳卒中二次予防、心房細動",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3進行中",
+      "expected_approval": "2027",
+      "significance": "high",
+      "note": "Eliquis後継の次世代抗凝固薬（FXIa阻害）。Eliquis特許切れの売上減を補う最重要品"
+    },
+    {
+      "compound": "KRAZATI (adagrasib)",
+      "therapeutic_area": "oncology",
+      "indication": "KRAS G12C変異陽性 非小細胞肺がん、大腸がん",
+      "phase": "phase3",
+      "japan_status": "日本Phase3進行中",
+      "expected_approval": "2026",
+      "significance": "high",
+      "note": "Mirati買収で獲得。KRAS標的薬はオンコ領域の次世代ドライバー"
+    },
+    {
+      "compound": "golcadomide",
+      "therapeutic_area": "hematology",
+      "indication": "リンパ腫（DLBCL等）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "CELMoD（セレブロン分解薬）。Revlimid後継の血液がん治療薬"
+    },
+    {
+      "compound": "arlo-cel",
+      "therapeutic_area": "hematology",
+      "indication": "多発性骨髄腫",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "medium",
+      "note": "次世代CAR-T。Abecmaの後継候補"
+    },
+    {
+      "compound": "zola-cel",
+      "therapeutic_area": "immunology",
+      "indication": "全身性強皮症",
+      "phase": "phase3",
+      "japan_status": "グローバル開発",
+      "expected_approval": null,
+      "significance": "high",
+      "note": "自己免疫疾患向けCAR-T。自己免疫×CAR-Tは業界最注目の新領域"
+    },
+    {
+      "compound": "admilparant",
+      "therapeutic_area": "immunology",
+      "indication": "特発性肺線維症（IPF）",
+      "phase": "phase3",
+      "japan_status": "グローバルPhase3",
+      "expected_approval": "2027",
+      "significance": "medium",
+      "note": "LPA1拮抗薬。IPFは未充足医療ニーズが大きい希少疾患領域"
+    }
+  ],
+
+  "japan_focus": {
+    "strengths": [
+      "オンコロジー領域（オプジーボ）で高い認知度",
+      "CAR-T療法（ブレヤンジ/アベクマ）の製造・供給体制",
+      "免疫チェックポイント阻害剤の豊富な臨床データ"
+    ],
+    "growth_areas": [
+      "CAR-T細胞療法（血液がん→自己免疫疾患への展開）",
+      "免疫学（ソーティクツの適応拡大）",
+      "次世代抗凝固薬（milvexian）"
+    ],
+    "challenges": [
+      "エリキュース特許切れ（2026年）による大幅減収",
+      "オプジーボの特許切れ（2028年）への備え",
+      "日本市場での成長製品の早期投入"
+    ],
+    "headcount_trend": "expanding",
+    "note": "2032年に日本売上倍増目標を掲げ、積極採用中。特にCAR-T・免疫学領域で組織拡大"
+  },
+
+  "culture": {
+    "work_style": "ハイブリッド勤務（オフィス週2-3日 + リモート）。MR/MSLはフィールド勤務",
+    "decision_speed": "グローバル本社（米国NJ）主導。日本独自の意思決定はやや制限されるが、アジア地域の中では裁量がある方",
+    "career_path": "クロスファンクション異動が活発。MR→MSL→メディカルのキャリアパスが整備されている",
+    "reputation": "給与水準は外資上位。オンコロジーの専門性が高く、臨床に近い仕事ができると定評"
+  }
+}
