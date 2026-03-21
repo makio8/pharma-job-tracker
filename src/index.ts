@@ -16,6 +16,7 @@ import { dbClient } from './db/client.js';
 import { DiffDetector, type DiffResult } from './diff/detector.js';
 import { SCRAPE_CONFIG } from './config.js';
 import { logger } from './utils/logger.js';
+import { filterJapanJobs } from './utils/japan-filter.js';
 
 // ── スクレイパーのインポート ──────────────────────
 import { eisaiScraper, kyowakirinScraper } from './scrapers/hrmos.js';
@@ -53,8 +54,8 @@ const SCRAPERS: Record<string, BaseScraper> = {
   otsuka: otsukaScraper,
   eisai: eisaiScraper,
   chugai: chugaiScraper,
-  ono: onoScraper,
-  sumitomo: sumitomoScraper,
+  // ono: onoScraper,        // active=0: 個別求人なし（ポータルページのみ）
+  // sumitomo: sumitomoScraper, // active=0: 個別求人なし（ポータルページのみ）
   tanabe: tanabeScraper,
   kyowakirin: kyowakirinScraper,
 };
@@ -121,6 +122,15 @@ async function main(): Promise<void> {
         const result = await scraper.scrape(page);
 
         if (result.success && result.jobs.length > 0) {
+          // 日本求人フィルタ（海外求人を除外）
+          const { filtered } = filterJapanJobs(result.jobs, companyId);
+          result.jobs = filtered;
+
+          if (filtered.length === 0) {
+            logger.warn(`${companyId}: フィルタ後の求人が0件でした`);
+            continue;
+          }
+
           // 差分検出 → DB 適用
           const diff = detector.detectDiff(companyId, result.jobs);
           detector.applyDiff(companyId, result.jobs, diff, scanDate);
