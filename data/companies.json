@@ -37,7 +37,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 32
+    "active_jobs": 30
   },
   {
     "id": "pfizer",
@@ -47,27 +47,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 32
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
     "active_jobs": 30
-  },
-  {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 28
   },
   {
     "id": "msd",
@@ -130,6 +110,16 @@
     "active_jobs": 15
   },
   {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 14
+  },
+  {
     "id": "roche",
     "name_ja": "ロシュ",
     "name_en": "Roche",
@@ -138,6 +128,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 14
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 11
   },
   {
     "id": "bms",
@@ -160,14 +160,14 @@
     "active_jobs": 8
   },
   {
-    "id": "ono",
-    "name_ja": "小野薬品工業",
-    "name_en": "Ono Pharmaceutical",
+    "id": "tanabe",
+    "name_ja": "田辺ファーマ",
+    "name_en": "Tanabe Pharma",
     "category": "domestic",
-    "careers_url": "recruit.ono-pharma.com",
-    "scraper": "custom",
+    "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
+    "scraper": "jposting",
     "active": 1,
-    "active_jobs": 3
+    "active_jobs": 2
   },
   {
     "id": "sumitomo",
@@ -177,17 +177,17 @@
     "careers_url": "recruit.sumitomo-pharma.co.jp",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 2
+    "active_jobs": 0
   },
   {
-    "id": "tanabe",
-    "name_ja": "田辺ファーマ",
-    "name_en": "Tanabe Pharma",
+    "id": "ono",
+    "name_ja": "小野薬品工業",
+    "name_en": "Ono Pharmaceutical",
     "category": "domestic",
-    "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
-    "scraper": "jposting",
+    "careers_url": "recruit.ono-pharma.com",
+    "scraper": "custom",
     "active": 1,
-    "active_jobs": 2
+    "active_jobs": 0
   },
   {
     "id": "daiichi-sankyo",
