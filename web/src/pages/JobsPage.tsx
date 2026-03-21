@@ -255,7 +255,7 @@ export default function JobsPage() {
         width={640}
         title={selectedJob?.title}
       >
-        {selectedJob && (
+        {selectedJob ? (
           <Space direction="vertical" size={16} style={{ width: '100%' }}>
             {/* 会社名 */}
             <div>
@@ -294,20 +294,22 @@ export default function JobsPage() {
             </div>
 
             {/* 勤務地・部門 */}
-            <Row gutter={16}>
-              <Col span={12}>
-                <Text type="secondary" style={{ fontSize: 12 }}>勤務地</Text>
-                <div>
-                  <Text>{selectedJob.location ?? '情報なし'}</Text>
-                </div>
-              </Col>
-              <Col span={12}>
-                <Text type="secondary" style={{ fontSize: 12 }}>部門</Text>
-                <div>
-                  <Text>{selectedJob.department ?? '情報なし'}</Text>
-                </div>
-              </Col>
-            </Row>
+            <div>
+              <Row gutter={16}>
+                <Col span={12}>
+                  <Text type="secondary" style={{ fontSize: 12 }}>勤務地</Text>
+                  <div>
+                    <Text>{selectedJob.location ?? '情報なし'}</Text>
+                  </div>
+                </Col>
+                <Col span={12}>
+                  <Text type="secondary" style={{ fontSize: 12 }}>部門</Text>
+                  <div>
+                    <Text>{selectedJob.department ?? '情報なし'}</Text>
+                  </div>
+                </Col>
+              </Row>
+            </div>
 
             {/* 掲載開始日 */}
             <div>
@@ -330,7 +332,7 @@ export default function JobsPage() {
             )}
 
             {/* === 求人ブリーフ（AI分析） === */}
-            {selectedJob.analysis_data?.brief && (() => {
+            {selectedJob.analysis_data?.brief ? (() => {
               const brief = selectedJob.analysis_data.brief as {
                 summary: string;
                 context_signal: string;
@@ -374,27 +376,27 @@ export default function JobsPage() {
                   )}
                 </div>
               );
-            })()}
+            })() : null}
 
             {/* === タグ分析（v2） === */}
-            {selectedJob.analysis_data && !selectedJob.analysis_data.brief && (() => {
+            {selectedJob.analysis_data && !selectedJob.analysis_data.brief ? (() => {
               const a = selectedJob.analysis_data as Record<string, unknown>;
               return (
                 <div>
                   <Text strong style={{ fontSize: 13 }}>AI分析</Text>
                   <div style={{ marginTop: 4 }}>
                     <Space wrap size={4}>
-                      {a.english_level && <Tag color="blue">英語: {String(a.english_level)}</Tag>}
-                      {a.job_level && <Tag color="cyan">レベル: {String(a.job_level)}</Tag>}
-                      {a.global_scope && <Tag color="geekblue">グローバル: {String(a.global_scope)}</Tag>}
-                      {a.work_style && <Tag>勤務: {String(a.work_style)}</Tag>}
-                      {a.management_role && <Tag color="gold">マネジメントあり</Tag>}
-                      {a.career_change_friendly && <Tag color="green">キャリアチェンジ歓迎</Tag>}
+                      {a.english_level ? <Tag color="blue">英語: {String(a.english_level)}</Tag> : null}
+                      {a.job_level ? <Tag color="cyan">レベル: {String(a.job_level)}</Tag> : null}
+                      {a.global_scope ? <Tag color="geekblue">グローバル: {String(a.global_scope)}</Tag> : null}
+                      {a.work_style ? <Tag>勤務: {String(a.work_style)}</Tag> : null}
+                      {a.management_role ? <Tag color="gold">マネジメントあり</Tag> : null}
+                      {a.career_change_friendly ? <Tag color="green">キャリアチェンジ歓迎</Tag> : null}
                     </Space>
                   </div>
                 </div>
               );
-            })()}
+            })() : null}
 
             <Divider style={{ margin: '8px 0' }} />
 
@@ -428,7 +430,7 @@ export default function JobsPage() {
               </div>
             </div>
           </Space>
-        )}
+        ) : null}
       </Drawer>
     </div>
   );
