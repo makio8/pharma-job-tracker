@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 42
+    "active_jobs": 41
   },
   {
     "id": "lilly",
@@ -27,7 +27,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 38
+    "active_jobs": 37
   },
   {
     "id": "pfizer",
@@ -37,7 +37,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 32
   },
   {
     "id": "eisai",
@@ -67,7 +67,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -97,7 +97,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 18
   },
   {
     "id": "abbvie",
@@ -110,16 +110,6 @@
     "active_jobs": 15
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 14
-  },
-  {
     "id": "roche",
     "name_ja": "ロシュ",
     "name_en": "Roche",
@@ -128,6 +118,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 14
+  },
+  {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 13
   },
   {
     "id": "sanofi",
