@@ -26,11 +26,14 @@ jobs:
       - name: Install Playwright Chromium
         run: npx playwright install chromium --with-deps
 
-      - name: Restore DB from artifact
-        uses: actions/download-artifact@v4
+      - name: Restore DB from previous run
+        uses: dawidd6/action-download-artifact@v6
         with:
           name: pharma-jobs-db
           path: data/
+          workflow: daily-scrape.yml
+          search_artifacts: true
+          if_no_artifact_found: warn
         continue-on-error: true
 
       - name: Initialize DB (if first run)
