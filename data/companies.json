@@ -27,7 +27,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 37
+    "active_jobs": 36
   },
   {
     "id": "pfizer",
@@ -97,7 +97,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 18
+    "active_jobs": 17
   },
   {
     "id": "abbvie",
@@ -137,7 +137,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 11
+    "active_jobs": 10
   },
   {
     "id": "bms",
@@ -147,7 +147,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 8
+    "active_jobs": 9
   },
   {
     "id": "otsuka",
