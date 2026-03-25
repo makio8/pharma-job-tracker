@@ -27,17 +27,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 37
-  },
-  {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 32
+    "active_jobs": 35
   },
   {
     "id": "eisai",
@@ -46,6 +36,16 @@
     "category": "domestic",
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
+    "active": 1,
+    "active_jobs": 30
+  },
+  {
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 30
   },
@@ -67,7 +67,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 22
+    "active_jobs": 21
   },
   {
     "id": "astellas",
@@ -97,7 +97,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 16
   },
   {
     "id": "abbvie",
