@@ -67,7 +67,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 21
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -107,7 +107,7 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 14
   },
   {
     "id": "roche",
@@ -137,7 +137,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 11
+    "active_jobs": 12
   },
   {
     "id": "bms",
