@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 41
+    "active_jobs": 42
   },
   {
     "id": "lilly",
@@ -27,7 +27,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 35
+    "active_jobs": 34
   },
   {
     "id": "eisai",
@@ -87,7 +87,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 18
+    "active_jobs": 19
   },
   {
     "id": "novartis",
@@ -97,15 +97,15 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
     "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 14
   },
@@ -120,14 +120,14 @@
     "active_jobs": 14
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
     "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 11
   },
   {
     "id": "sanofi",
@@ -137,7 +137,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 12
+    "active_jobs": 11
   },
   {
     "id": "bms",
