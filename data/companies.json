@@ -97,7 +97,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 17
   },
   {
     "id": "novartis",
@@ -137,7 +137,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 11
+    "active_jobs": 10
   },
   {
     "id": "bms",
