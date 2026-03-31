@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 42
+    "active_jobs": 41
   },
   {
     "id": "lilly",
@@ -27,7 +27,17 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 35
+    "active_jobs": 34
+  },
+  {
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 32
   },
   {
     "id": "eisai",
@@ -40,14 +50,14 @@
     "active_jobs": 30
   },
   {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
     "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
     "active": 1,
-    "active_jobs": 30
+    "active_jobs": 22
   },
   {
     "id": "takeda",
@@ -58,16 +68,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 22
-  },
-  {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 20
   },
   {
     "id": "astellas",
@@ -97,7 +97,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 14
   },
   {
     "id": "novartis",
@@ -110,16 +110,6 @@
     "active_jobs": 14
   },
   {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 14
-  },
-  {
     "id": "abbvie",
     "name_ja": "アッヴィ",
     "name_en": "AbbVie",
@@ -127,7 +117,7 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 11
+    "active_jobs": 12
   },
   {
     "id": "sanofi",
@@ -137,7 +127,17 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 11
+    "active_jobs": 12
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 12
   },
   {
     "id": "bms",
