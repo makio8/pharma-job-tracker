@@ -17,17 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 41
-  },
-  {
-    "id": "lilly",
-    "name_ja": "日本イーライリリー",
-    "name_en": "Eli Lilly",
-    "category": "foreign",
-    "careers_url": "careers.lilly.com/jp/ja/japan",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 34
+    "active_jobs": 39
   },
   {
     "id": "pfizer",
@@ -37,7 +27,17 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 32
+    "active_jobs": 33
+  },
+  {
+    "id": "lilly",
+    "name_ja": "日本イーライリリー",
+    "name_en": "Eli Lilly",
+    "category": "foreign",
+    "careers_url": "careers.lilly.com/jp/ja/japan",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 33
   },
   {
     "id": "eisai",
@@ -57,17 +57,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 22
-  },
-  {
-    "id": "takeda",
-    "name_ja": "武田薬品工業",
-    "name_en": "Takeda",
-    "category": "domestic",
-    "careers_url": "takeda.wd3.myworkdayjobs.com",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 22
+    "active_jobs": 27
   },
   {
     "id": "astellas",
@@ -76,6 +66,16 @@
     "category": "domestic",
     "careers_url": "astellasjapan.avature.net",
     "scraper": "avature",
+    "active": 1,
+    "active_jobs": 20
+  },
+  {
+    "id": "takeda",
+    "name_ja": "武田薬品工業",
+    "name_en": "Takeda",
+    "category": "domestic",
+    "careers_url": "takeda.wd3.myworkdayjobs.com",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 20
   },
@@ -97,7 +97,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
   },
   {
     "id": "novartis",
