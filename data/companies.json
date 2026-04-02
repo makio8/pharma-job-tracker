@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 39
+    "active_jobs": 43
   },
   {
     "id": "pfizer",
@@ -27,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 33
+    "active_jobs": 34
   },
   {
     "id": "lilly",
@@ -37,7 +37,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 33
+    "active_jobs": 34
   },
   {
     "id": "eisai",
@@ -47,7 +47,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 30
+    "active_jobs": 31
   },
   {
     "id": "msd",
@@ -60,22 +60,22 @@
     "active_jobs": 27
   },
   {
-    "id": "astellas",
-    "name_ja": "アステラス製薬",
-    "name_en": "Astellas",
-    "category": "domestic",
-    "careers_url": "astellasjapan.avature.net",
-    "scraper": "avature",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
     "id": "takeda",
     "name_ja": "武田薬品工業",
     "name_en": "Takeda",
     "category": "domestic",
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 21
+  },
+  {
+    "id": "astellas",
+    "name_ja": "アステラス製薬",
+    "name_en": "Astellas",
+    "category": "domestic",
+    "careers_url": "astellasjapan.avature.net",
+    "scraper": "avature",
     "active": 1,
     "active_jobs": 20
   },
@@ -87,7 +87,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 20
   },
   {
     "id": "astrazeneca",
@@ -140,16 +140,6 @@
     "active_jobs": 12
   },
   {
-    "id": "bms",
-    "name_ja": "ブリストル・マイヤーズ スクイブ",
-    "name_en": "Bristol-Myers Squibb",
-    "category": "foreign",
-    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 8
-  },
-  {
     "id": "otsuka",
     "name_ja": "大塚ホールディングス",
     "name_en": "Otsuka",
@@ -158,6 +148,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 8
+  },
+  {
+    "id": "bms",
+    "name_ja": "ブリストル・マイヤーズ スクイブ",
+    "name_en": "Bristol-Myers Squibb",
+    "category": "foreign",
+    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 7
   },
   {
     "id": "tanabe",
