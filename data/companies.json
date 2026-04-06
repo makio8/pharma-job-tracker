@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 44
+    "active_jobs": 43
   },
   {
     "id": "pfizer",
@@ -27,17 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 33
-  },
-  {
-    "id": "eisai",
-    "name_ja": "エーザイ",
-    "name_en": "Eisai",
-    "category": "domestic",
-    "careers_url": "hrmos.co/pages/eisai",
-    "scraper": "hrmos",
-    "active": 1,
-    "active_jobs": 31
+    "active_jobs": 35
   },
   {
     "id": "lilly",
@@ -50,6 +40,16 @@
     "active_jobs": 31
   },
   {
+    "id": "eisai",
+    "name_ja": "エーザイ",
+    "name_en": "Eisai",
+    "category": "domestic",
+    "careers_url": "hrmos.co/pages/eisai",
+    "scraper": "hrmos",
+    "active": 1,
+    "active_jobs": 30
+  },
+  {
     "id": "msd",
     "name_ja": "MSD",
     "name_en": "MSD (Merck)",
@@ -57,7 +57,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 28
+    "active_jobs": 27
   },
   {
     "id": "takeda",
@@ -107,17 +107,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 14
-  },
-  {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 12
+    "active_jobs": 15
   },
   {
     "id": "roche",
@@ -138,6 +128,16 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 11
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 10
   },
   {
     "id": "otsuka",
