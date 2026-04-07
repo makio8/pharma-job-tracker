@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 43
+    "active_jobs": 44
   },
   {
     "id": "pfizer",
@@ -27,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 35
+    "active_jobs": 34
   },
   {
     "id": "lilly",
@@ -110,6 +110,16 @@
     "active_jobs": 15
   },
   {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 12
+  },
+  {
     "id": "roche",
     "name_ja": "ロシュ",
     "name_en": "Roche",
@@ -118,16 +128,6 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 12
-  },
-  {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 11
   },
   {
     "id": "abbvie",
