@@ -27,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 34
+    "active_jobs": 32
   },
   {
     "id": "lilly",
@@ -107,7 +107,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
     "id": "abbvie",
