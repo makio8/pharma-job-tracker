@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 44
+    "active_jobs": 45
   },
   {
     "id": "pfizer",
@@ -27,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 32
+    "active_jobs": 33
   },
   {
     "id": "lilly",
@@ -37,7 +37,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 32
   },
   {
     "id": "eisai",
@@ -57,7 +57,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 26
+    "active_jobs": 27
   },
   {
     "id": "takeda",
@@ -157,7 +157,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 7
+    "active_jobs": 6
   },
   {
     "id": "tanabe",
