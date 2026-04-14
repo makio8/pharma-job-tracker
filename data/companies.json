@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 45
+    "active_jobs": 46
   },
   {
     "id": "pfizer",
@@ -27,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 33
+    "active_jobs": 32
   },
   {
     "id": "lilly",
@@ -57,7 +57,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 26
   },
   {
     "id": "takeda",
@@ -67,7 +67,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -76,6 +76,16 @@
     "category": "domestic",
     "careers_url": "astellasjapan.avature.net",
     "scraper": "avature",
+    "active": 1,
+    "active_jobs": 20
+  },
+  {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 20
   },
@@ -90,16 +100,6 @@
     "active_jobs": 19
   },
   {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 17
-  },
-  {
     "id": "astrazeneca",
     "name_ja": "アストラゼネカ",
     "name_en": "AstraZeneca",
@@ -108,6 +108,16 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 15
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 13
   },
   {
     "id": "abbvie",
@@ -126,16 +136,6 @@
     "category": "foreign",
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 11
-  },
-  {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
     "active": 1,
     "active_jobs": 11
   },
