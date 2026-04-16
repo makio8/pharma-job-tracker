@@ -20,16 +20,6 @@
     "active_jobs": 45
   },
   {
-    "id": "lilly",
-    "name_ja": "日本イーライリリー",
-    "name_en": "Eli Lilly",
-    "category": "foreign",
-    "careers_url": "careers.lilly.com/jp/ja/japan",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 32
-  },
-  {
     "id": "pfizer",
     "name_ja": "ファイザー",
     "name_en": "Pfizer",
@@ -37,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 32
   },
   {
     "id": "eisai",
@@ -46,6 +36,16 @@
     "category": "domestic",
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
+    "active": 1,
+    "active_jobs": 30
+  },
+  {
+    "id": "lilly",
+    "name_ja": "日本イーライリリー",
+    "name_en": "Eli Lilly",
+    "category": "foreign",
+    "careers_url": "careers.lilly.com/jp/ja/japan",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 30
   },
@@ -67,7 +67,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 22
   },
   {
     "id": "novartis",
@@ -120,16 +120,6 @@
     "active_jobs": 13
   },
   {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 12
-  },
-  {
     "id": "sanofi",
     "name_ja": "サノフィ",
     "name_en": "Sanofi",
@@ -138,6 +128,16 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 11
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 9
   },
   {
     "id": "otsuka",
@@ -157,7 +157,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 6
+    "active_jobs": 5
   },
   {
     "id": "tanabe",
