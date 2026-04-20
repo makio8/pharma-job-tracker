@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 46
+    "active_jobs": 43
   },
   {
     "id": "pfizer",
@@ -47,7 +47,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 30
+    "active_jobs": 29
   },
   {
     "id": "msd",
@@ -120,6 +120,16 @@
     "active_jobs": 15
   },
   {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 11
+  },
+  {
     "id": "sanofi",
     "name_ja": "サノフィ",
     "name_en": "Sanofi",
@@ -128,16 +138,6 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 11
-  },
-  {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 9
   },
   {
     "id": "otsuka",
@@ -167,7 +167,7 @@
     "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
     "scraper": "jposting",
     "active": 1,
-    "active_jobs": 2
+    "active_jobs": 4
   },
   {
     "id": "sumitomo",
