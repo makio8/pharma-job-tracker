@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 41
+    "active_jobs": 42
   },
   {
     "id": "pfizer",
@@ -27,7 +27,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 30
   },
   {
     "id": "eisai",
@@ -97,7 +97,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 18
   },
   {
     "id": "astrazeneca",
@@ -107,7 +107,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
     "id": "takeda",
@@ -117,7 +117,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
     "id": "abbvie",
@@ -147,7 +147,7 @@
     "careers_url": "otsuka.co.jp/recruit/",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 7
+    "active_jobs": 6
   },
   {
     "id": "bms",
