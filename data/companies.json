@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 29
+    "active_jobs": 28
   },
   {
     "id": "pfizer",
@@ -57,7 +57,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 26
+    "active_jobs": 25
   },
   {
     "id": "astellas",
@@ -117,7 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 13
   },
   {
     "id": "abbvie",
