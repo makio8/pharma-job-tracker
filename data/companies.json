@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 39
+    "active_jobs": 35
   },
   {
     "id": "eisai",
@@ -57,7 +57,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 25
+    "active_jobs": 26
   },
   {
     "id": "astellas",
