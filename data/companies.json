@@ -30,16 +30,6 @@
     "active_jobs": 28
   },
   {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 28
-  },
-  {
     "id": "lilly",
     "name_ja": "日本イーライリリー",
     "name_en": "Eli Lilly",
@@ -48,6 +38,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 27
+  },
+  {
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 26
   },
   {
     "id": "msd",
@@ -107,7 +107,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 14
   },
   {
     "id": "takeda",
@@ -140,22 +140,22 @@
     "active_jobs": 10
   },
   {
-    "id": "otsuka",
-    "name_ja": "大塚ホールディングス",
-    "name_en": "Otsuka",
-    "category": "domestic",
-    "careers_url": "otsuka.co.jp/recruit/",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 6
-  },
-  {
     "id": "bms",
     "name_ja": "ブリストル・マイヤーズ スクイブ",
     "name_en": "Bristol-Myers Squibb",
     "category": "foreign",
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 5
+  },
+  {
+    "id": "otsuka",
+    "name_ja": "大塚ホールディングス",
+    "name_en": "Otsuka",
+    "category": "domestic",
+    "careers_url": "otsuka.co.jp/recruit/",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 5
   },
