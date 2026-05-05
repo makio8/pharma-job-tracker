@@ -40,6 +40,16 @@
     "active_jobs": 27
   },
   {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 26
+  },
+  {
     "id": "pfizer",
     "name_ja": "ファイザー",
     "name_en": "Pfizer",
@@ -48,16 +58,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 26
-  },
-  {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 25
   },
   {
     "id": "astellas",
@@ -100,16 +100,6 @@
     "active_jobs": 17
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 14
-  },
-  {
     "id": "takeda",
     "name_ja": "武田薬品工業",
     "name_en": "Takeda",
@@ -117,7 +107,17 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
+  },
+  {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 13
   },
   {
     "id": "sanofi",
@@ -128,16 +128,6 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 11
-  },
-  {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 10
   },
   {
     "id": "bms",
@@ -158,6 +148,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 5
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 4
   },
   {
     "id": "tanabe",
