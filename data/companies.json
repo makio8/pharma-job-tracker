@@ -70,16 +70,6 @@
     "active_jobs": 20
   },
   {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
     "id": "roche",
     "name_ja": "ロシュ",
     "name_en": "Roche",
@@ -88,6 +78,26 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 20
+  },
+  {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 19
+  },
+  {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 18
   },
   {
     "id": "kyowakirin",
@@ -107,17 +117,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
   },
   {
     "id": "sanofi",
@@ -150,16 +150,6 @@
     "active_jobs": 5
   },
   {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 4
-  },
-  {
     "id": "tanabe",
     "name_ja": "田辺ファーマ",
     "name_en": "Tanabe Pharma",
@@ -168,6 +158,16 @@
     "scraper": "jposting",
     "active": 1,
     "active_jobs": 4
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 3
   },
   {
     "id": "sumitomo",
