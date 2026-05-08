@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 525,
+    "company_id": "kyowakirin",
+    "external_id": "2258419261914828800",
+    "title": "非臨床薬理研究員／薬理学研究員",
+    "department": null,
+    "location": "411-8731 静岡県駿東郡長泉町下土狩1188",
+    "job_category": "clinical",
+    "url": "https://hrmos.co/pages/kyowakirin/jobs/2258419261914828800",
+    "description": "・薬理研究、特に、血液・血液がん領域の疾患に対する治療薬の研究（中長期的には他領域の疾患も対応いただく可能性あり）・探索、開発ステージにおける新薬候補の非臨床薬理評価、メカニズム解析（海外関連部署との連携含む）・委託試験の計画、モニタリング、技術移管・各種申請業務（国内・海外）",
+    "requirements": null,
+    "therapeutic_area": "oncology",
+    "first_seen": "2026-05-08",
+    "last_seen": "2026-05-08",
+    "status": "active"
+  }
+]
