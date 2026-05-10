@@ -80,6 +80,16 @@
     "active_jobs": 20
   },
   {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 18
+  },
+  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -98,16 +108,6 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 18
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 14
   },
   {
     "id": "takeda",
