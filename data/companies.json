@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 29
+    "active_jobs": 30
   },
   {
     "id": "msd",
@@ -107,7 +107,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 18
+    "active_jobs": 17
   },
   {
     "id": "astrazeneca",
@@ -117,7 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 13
   },
   {
     "id": "sanofi",
