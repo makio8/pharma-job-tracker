@@ -30,16 +30,6 @@
     "active_jobs": 29
   },
   {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 28
-  },
-  {
     "id": "lilly",
     "name_ja": "日本イーライリリー",
     "name_en": "Eli Lilly",
@@ -48,6 +38,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 28
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 27
   },
   {
     "id": "pfizer",
@@ -117,7 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 16
   },
   {
     "id": "sanofi",
@@ -128,6 +128,16 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 12
+  },
+  {
+    "id": "otsuka",
+    "name_ja": "大塚ホールディングス",
+    "name_en": "Otsuka",
+    "category": "domestic",
+    "careers_url": "otsuka.co.jp/recruit/",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 6
   },
   {
     "id": "tanabe",
@@ -146,16 +156,6 @@
     "category": "foreign",
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
-    "active": 1,
-    "active_jobs": 5
-  },
-  {
-    "id": "otsuka",
-    "name_ja": "大塚ホールディングス",
-    "name_en": "Otsuka",
-    "category": "domestic",
-    "careers_url": "otsuka.co.jp/recruit/",
-    "scraper": "custom",
     "active": 1,
     "active_jobs": 5
   },
