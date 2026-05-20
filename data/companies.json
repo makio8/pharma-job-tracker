@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 42
+    "active_jobs": 43
   },
   {
     "id": "eisai",
@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 29
+    "active_jobs": 30
   },
   {
     "id": "lilly",
@@ -37,7 +37,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 28
+    "active_jobs": 27
   },
   {
     "id": "msd",
@@ -80,26 +80,6 @@
     "active_jobs": 20
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 19
-  },
-  {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 18
-  },
-  {
     "id": "kyowakirin",
     "name_ja": "協和キリン",
     "name_en": "Kyowa Kirin",
@@ -120,6 +100,26 @@
     "active_jobs": 18
   },
   {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 16
+  },
+  {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 14
+  },
+  {
     "id": "sanofi",
     "name_ja": "サノフィ",
     "name_en": "Sanofi",
@@ -128,16 +128,6 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 12
-  },
-  {
-    "id": "otsuka",
-    "name_ja": "大塚ホールディングス",
-    "name_en": "Otsuka",
-    "category": "domestic",
-    "careers_url": "otsuka.co.jp/recruit/",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 6
   },
   {
     "id": "tanabe",
@@ -166,6 +156,16 @@
     "category": "foreign",
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 5
+  },
+  {
+    "id": "otsuka",
+    "name_ja": "大塚ホールディングス",
+    "name_en": "Otsuka",
+    "category": "domestic",
+    "careers_url": "otsuka.co.jp/recruit/",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 5
   },
