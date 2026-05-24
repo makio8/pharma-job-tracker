@@ -110,22 +110,22 @@
     "active_jobs": 17
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 15
-  },
-  {
     "id": "astrazeneca",
     "name_ja": "アストラゼネカ",
     "name_en": "AstraZeneca",
     "category": "foreign",
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 14
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
     "active": 1,
     "active_jobs": 14
   },
