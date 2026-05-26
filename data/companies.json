@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 42
+    "active_jobs": 40
   },
   {
     "id": "eisai",
@@ -28,6 +28,16 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 32
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 29
   },
   {
     "id": "lilly",
@@ -50,14 +60,14 @@
     "active_jobs": 26
   },
   {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
+    "id": "kyowakirin",
+    "name_ja": "協和キリン",
+    "name_en": "Kyowa Kirin",
+    "category": "domestic",
+    "careers_url": "hrmos.co/pages/kyowakirin",
+    "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 25
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -66,16 +76,6 @@
     "category": "domestic",
     "careers_url": "astellasjapan.avature.net",
     "scraper": "avature",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
-    "id": "kyowakirin",
-    "name_ja": "協和キリン",
-    "name_en": "Kyowa Kirin",
-    "category": "domestic",
-    "careers_url": "hrmos.co/pages/kyowakirin",
-    "scraper": "hrmos",
     "active": 1,
     "active_jobs": 20
   },
@@ -97,7 +97,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 18
+    "active_jobs": 17
   },
   {
     "id": "takeda",
