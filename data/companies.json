@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 40
+    "active_jobs": 39
   },
   {
     "id": "eisai",
@@ -37,7 +37,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 29
+    "active_jobs": 30
   },
   {
     "id": "lilly",
@@ -47,7 +47,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 28
   },
   {
     "id": "pfizer",
@@ -67,7 +67,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 22
+    "active_jobs": 21
   },
   {
     "id": "astellas",
@@ -90,22 +90,22 @@
     "active_jobs": 19
   },
   {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 17
-  },
-  {
     "id": "takeda",
     "name_ja": "武田薬品工業",
     "name_en": "Takeda",
     "category": "domestic",
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 19
+  },
+  {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 17
   },
@@ -117,7 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
   },
   {
     "id": "sanofi",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 13
   },
   {
     "id": "tanabe",
