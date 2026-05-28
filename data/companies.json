@@ -17,7 +17,17 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 39
+    "active_jobs": 41
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 32
   },
   {
     "id": "eisai",
@@ -28,16 +38,6 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 32
-  },
-  {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 30
   },
   {
     "id": "lilly",
@@ -57,7 +57,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 26
+    "active_jobs": 25
   },
   {
     "id": "kyowakirin",
@@ -97,7 +97,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 18
   },
   {
     "id": "novartis",
@@ -107,7 +107,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 16
   },
   {
     "id": "astrazeneca",
@@ -130,6 +130,16 @@
     "active_jobs": 13
   },
   {
+    "id": "bms",
+    "name_ja": "ブリストル・マイヤーズ スクイブ",
+    "name_en": "Bristol-Myers Squibb",
+    "category": "foreign",
+    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 6
+  },
+  {
     "id": "tanabe",
     "name_ja": "田辺ファーマ",
     "name_en": "Tanabe Pharma",
@@ -146,16 +156,6 @@
     "category": "foreign",
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
-    "active": 1,
-    "active_jobs": 5
-  },
-  {
-    "id": "bms",
-    "name_ja": "ブリストル・マイヤーズ スクイブ",
-    "name_en": "Bristol-Myers Squibb",
-    "category": "foreign",
-    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
-    "scraper": "workday",
     "active": 1,
     "active_jobs": 5
   },
