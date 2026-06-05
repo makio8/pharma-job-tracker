@@ -90,16 +90,6 @@
     "active_jobs": 19
   },
   {
-    "id": "takeda",
-    "name_ja": "武田薬品工業",
-    "name_en": "Takeda",
-    "category": "domestic",
-    "careers_url": "takeda.wd3.myworkdayjobs.com",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 19
-  },
-  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -117,7 +107,17 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 17
+  },
+  {
+    "id": "takeda",
+    "name_ja": "武田薬品工業",
+    "name_en": "Takeda",
+    "category": "domestic",
+    "careers_url": "takeda.wd3.myworkdayjobs.com",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 17
   },
   {
     "id": "sanofi",
