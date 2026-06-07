@@ -100,16 +100,6 @@
     "active_jobs": 18
   },
   {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 18
-  },
-  {
     "id": "astrazeneca",
     "name_ja": "アストラゼネカ",
     "name_en": "AstraZeneca",
@@ -117,7 +107,17 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 15
   },
   {
     "id": "sanofi",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 12
+    "active_jobs": 11
   },
   {
     "id": "bms",
