@@ -17,17 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 46
-  },
-  {
-    "id": "eisai",
-    "name_ja": "エーザイ",
-    "name_en": "Eisai",
-    "category": "domestic",
-    "careers_url": "hrmos.co/pages/eisai",
-    "scraper": "hrmos",
-    "active": 1,
-    "active_jobs": 34
+    "active_jobs": 48
   },
   {
     "id": "msd",
@@ -36,6 +26,16 @@
     "category": "foreign",
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 34
+  },
+  {
+    "id": "eisai",
+    "name_ja": "エーザイ",
+    "name_en": "Eisai",
+    "category": "domestic",
+    "careers_url": "hrmos.co/pages/eisai",
+    "scraper": "hrmos",
     "active": 1,
     "active_jobs": 33
   },
@@ -57,7 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 23
   },
   {
     "id": "takeda",
@@ -67,7 +67,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 21
   },
   {
     "id": "astellas",
@@ -80,6 +80,16 @@
     "active_jobs": 20
   },
   {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 20
+  },
+  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -87,7 +97,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 20
   },
   {
     "id": "kyowakirin",
@@ -97,17 +107,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 19
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 15
+    "active_jobs": 18
   },
   {
     "id": "sanofi",
@@ -117,7 +117,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 12
+    "active_jobs": 13
   },
   {
     "id": "tanabe",
