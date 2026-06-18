@@ -27,7 +27,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 34
+    "active_jobs": 33
   },
   {
     "id": "eisai",
@@ -57,17 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 23
-  },
-  {
-    "id": "takeda",
-    "name_ja": "武田薬品工業",
-    "name_en": "Takeda",
-    "category": "domestic",
-    "careers_url": "takeda.wd3.myworkdayjobs.com",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 21
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -90,6 +80,16 @@
     "active_jobs": 20
   },
   {
+    "id": "takeda",
+    "name_ja": "武田薬品工業",
+    "name_en": "Takeda",
+    "category": "domestic",
+    "careers_url": "takeda.wd3.myworkdayjobs.com",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 20
+  },
+  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -97,7 +97,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 20
+    "active_jobs": 19
   },
   {
     "id": "kyowakirin",
@@ -140,16 +140,6 @@
     "active_jobs": 5
   },
   {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 3
-  },
-  {
     "id": "otsuka",
     "name_ja": "大塚ホールディングス",
     "name_en": "Otsuka",
@@ -168,6 +158,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 2
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 1
   },
   {
     "id": "sumitomo",
