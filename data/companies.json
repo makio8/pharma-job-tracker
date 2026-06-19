@@ -17,7 +17,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 48
+    "active_jobs": 49
   },
   {
     "id": "msd",
@@ -57,17 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 22
-  },
-  {
-    "id": "astellas",
-    "name_ja": "アステラス製薬",
-    "name_en": "Astellas",
-    "category": "domestic",
-    "careers_url": "astellasjapan.avature.net",
-    "scraper": "avature",
-    "active": 1,
-    "active_jobs": 20
+    "active_jobs": 23
   },
   {
     "id": "astrazeneca",
@@ -77,15 +67,15 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 20
+    "active_jobs": 21
   },
   {
-    "id": "takeda",
-    "name_ja": "武田薬品工業",
-    "name_en": "Takeda",
+    "id": "astellas",
+    "name_ja": "アステラス製薬",
+    "name_en": "Astellas",
     "category": "domestic",
-    "careers_url": "takeda.wd3.myworkdayjobs.com",
-    "scraper": "workday",
+    "careers_url": "astellasjapan.avature.net",
+    "scraper": "avature",
     "active": 1,
     "active_jobs": 20
   },
@@ -110,6 +100,16 @@
     "active_jobs": 18
   },
   {
+    "id": "takeda",
+    "name_ja": "武田薬品工業",
+    "name_en": "Takeda",
+    "category": "domestic",
+    "careers_url": "takeda.wd3.myworkdayjobs.com",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 18
+  },
+  {
     "id": "sanofi",
     "name_ja": "サノフィ",
     "name_en": "Sanofi",
@@ -117,7 +117,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 12
   },
   {
     "id": "tanabe",
