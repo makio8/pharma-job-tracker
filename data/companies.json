@@ -130,6 +130,16 @@
     "active_jobs": 8
   },
   {
+    "id": "otsuka",
+    "name_ja": "大塚ホールディングス",
+    "name_en": "Otsuka",
+    "category": "domestic",
+    "careers_url": "otsuka.co.jp/recruit/",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 6
+  },
+  {
     "id": "bms",
     "name_ja": "ブリストル・マイヤーズ スクイブ",
     "name_en": "Bristol-Myers Squibb",
@@ -138,16 +148,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 5
-  },
-  {
-    "id": "otsuka",
-    "name_ja": "大塚ホールディングス",
-    "name_en": "Otsuka",
-    "category": "domestic",
-    "careers_url": "otsuka.co.jp/recruit/",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 3
   },
   {
     "id": "abbvie",
