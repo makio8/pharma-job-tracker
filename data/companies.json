@@ -37,17 +37,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 36
-  },
-  {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 29
+    "active_jobs": 35
   },
   {
     "id": "lilly",
@@ -57,7 +47,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 26
+    "active_jobs": 27
   },
   {
     "id": "astellas",
@@ -80,12 +70,12 @@
     "active_jobs": 19
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
     "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 17
   },
@@ -100,6 +90,26 @@
     "active_jobs": 17
   },
   {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 16
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 16
+  },
+  {
     "id": "kyowakirin",
     "name_ja": "協和キリン",
     "name_en": "Kyowa Kirin",
@@ -110,24 +120,14 @@
     "active_jobs": 16
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
     "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
     "active": 1,
-    "active_jobs": 14
-  },
-  {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
   },
   {
     "id": "tanabe",

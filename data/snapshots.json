@@ -1,5 +1,141 @@
 [
   {
+    "id": 1652,
+    "scan_date": "2026-06-27",
+    "company_id": "abbvie",
+    "total_jobs": 7,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1655,
+    "scan_date": "2026-06-27",
+    "company_id": "astellas",
+    "total_jobs": 20,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1650,
+    "scan_date": "2026-06-27",
+    "company_id": "astrazeneca",
+    "total_jobs": 24,
+    "new_jobs": 10,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1648,
+    "scan_date": "2026-06-27",
+    "company_id": "bms",
+    "total_jobs": 4,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1658,
+    "scan_date": "2026-06-27",
+    "company_id": "chugai",
+    "total_jobs": 50,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1657,
+    "scan_date": "2026-06-27",
+    "company_id": "eisai",
+    "total_jobs": 39,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1645,
+    "scan_date": "2026-06-27",
+    "company_id": "jnj",
+    "total_jobs": 49,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1660,
+    "scan_date": "2026-06-27",
+    "company_id": "kyowakirin",
+    "total_jobs": 16,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1649,
+    "scan_date": "2026-06-27",
+    "company_id": "lilly",
+    "total_jobs": 27,
+    "new_jobs": 1,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1646,
+    "scan_date": "2026-06-27",
+    "company_id": "msd",
+    "total_jobs": 35,
+    "new_jobs": 0,
+    "closed_jobs": 1
+  },
+  {
+    "id": 1647,
+    "scan_date": "2026-06-27",
+    "company_id": "novartis",
+    "total_jobs": 19,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1656,
+    "scan_date": "2026-06-27",
+    "company_id": "otsuka",
+    "total_jobs": 6,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1644,
+    "scan_date": "2026-06-27",
+    "company_id": "pfizer",
+    "total_jobs": 17,
+    "new_jobs": 0,
+    "closed_jobs": 12
+  },
+  {
+    "id": 1653,
+    "scan_date": "2026-06-27",
+    "company_id": "roche",
+    "total_jobs": 16,
+    "new_jobs": 2,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1651,
+    "scan_date": "2026-06-27",
+    "company_id": "sanofi",
+    "total_jobs": 15,
+    "new_jobs": 0,
+    "closed_jobs": 2
+  },
+  {
+    "id": 1654,
+    "scan_date": "2026-06-27",
+    "company_id": "takeda",
+    "total_jobs": 17,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
+    "id": 1659,
+    "scan_date": "2026-06-27",
+    "company_id": "tanabe",
+    "total_jobs": 22,
+    "new_jobs": 0,
+    "closed_jobs": 0
+  },
+  {
     "id": 1635,
     "scan_date": "2026-06-26",
     "company_id": "abbvie",
@@ -12066,142 +12202,6 @@
   {
     "id": 148,
     "scan_date": "2026-03-30",
-    "company_id": "tanabe",
-    "total_jobs": 4,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 126,
-    "scan_date": "2026-03-29",
-    "company_id": "abbvie",
-    "total_jobs": 12,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 129,
-    "scan_date": "2026-03-29",
-    "company_id": "astellas",
-    "total_jobs": 20,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 124,
-    "scan_date": "2026-03-29",
-    "company_id": "astrazeneca",
-    "total_jobs": 50,
-    "new_jobs": 9,
-    "closed_jobs": 0
-  },
-  {
-    "id": 122,
-    "scan_date": "2026-03-29",
-    "company_id": "bms",
-    "total_jobs": 9,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 132,
-    "scan_date": "2026-03-29",
-    "company_id": "chugai",
-    "total_jobs": 50,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 131,
-    "scan_date": "2026-03-29",
-    "company_id": "eisai",
-    "total_jobs": 30,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 119,
-    "scan_date": "2026-03-29",
-    "company_id": "jnj",
-    "total_jobs": 42,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 134,
-    "scan_date": "2026-03-29",
-    "company_id": "kyowakirin",
-    "total_jobs": 19,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 123,
-    "scan_date": "2026-03-29",
-    "company_id": "lilly",
-    "total_jobs": 35,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 120,
-    "scan_date": "2026-03-29",
-    "company_id": "msd",
-    "total_jobs": 24,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 121,
-    "scan_date": "2026-03-29",
-    "company_id": "novartis",
-    "total_jobs": 15,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 130,
-    "scan_date": "2026-03-29",
-    "company_id": "otsuka",
-    "total_jobs": 8,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 118,
-    "scan_date": "2026-03-29",
-    "company_id": "pfizer",
-    "total_jobs": 26,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 127,
-    "scan_date": "2026-03-29",
-    "company_id": "roche",
-    "total_jobs": 14,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 125,
-    "scan_date": "2026-03-29",
-    "company_id": "sanofi",
-    "total_jobs": 10,
-    "new_jobs": 0,
-    "closed_jobs": 1
-  },
-  {
-    "id": 128,
-    "scan_date": "2026-03-29",
-    "company_id": "takeda",
-    "total_jobs": 22,
-    "new_jobs": 0,
-    "closed_jobs": 0
-  },
-  {
-    "id": 133,
-    "scan_date": "2026-03-29",
     "company_id": "tanabe",
     "total_jobs": 4,
     "new_jobs": 0,
