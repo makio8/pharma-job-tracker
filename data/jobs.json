@@ -1,5 +1,22 @@
 [
   {
+    "id": 744,
+    "company_id": "astellas",
+    "external_id": "15032",
+    "title": "Quality Assurance Manager",
+    "department": null,
+    "location": null,
+    "job_category": "other",
+    "url": "https://astellasjapan.avature.net/careers/JobDetail/Quality-Assurance-Manager/3755",
+    "description": "General Information                                    \n                                \n                            \n\n                            \n                                \n                                                                            \n                                            \n                                                \n                                                    Job Advert Title:                                                \n                                            \n\n                                            \n                                                【つくば】品質保証マネージャー（アステラス製薬入社後にJV出向）\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Location:                                                \n                                            \n\n                                            \n                                                Tsukuba, Ibaraki\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Division:                                                \n                                            \n\n                                            \n                                                CMfgO Office\n                                            \n                                        \n                                    \n                                    \n                                                                            \n                                            \n                                                \n                                                    Employment Class:                                                \n                                            \n\n                                            \n                                                Permanent\n                                            \n                                        \n                                                                    \n                            \n                        \n                    \n\n                                            \n                            \n                                \n                                    \n                                        \n                                            Description                                        \n                                    \n                                \n\n                                \n                                    【募集の背景 / Purpose & Scope】Cellafa Bioscience株式会社は、アステラス製薬が持つ細胞治療の豊富な知見と、安川電機の最先端ロボティクス技術を融合し、細胞治療の自動化・高度化を実現する革新的なエコシステムを構築するために設立されたジョイントベンチャー（JV）です。開発上の主要課題を解決し、より多くの価値ある治療候補を患者さんに届けることをミッションとしています。当社には、少数精鋭ながら高い専門性を持つメンバーが集まっており、互いに切磋琢磨しながら新しい技術の実現に挑戦しています。現在、次世代の自動化細胞製造プラットフォームの構築を進める中で、QMS の構築・運用に中心的な役割を担う 品質保証マネジャー を募集しています。なお、本ポジションは アステラス製薬へ入社後、Cellafa Bioscience株式会社へ出向する雇用形態 です。革新的な技術に挑む仲間とともに働き、専門性を発揮しながら成長したい方を、ぜひ私たちのチームにお迎えしたいと考えています。セラファ・バイオサイエンス株式会社Cellafa Bioscience Inc. is a joint venture established by combining Astellas’ deep expertise in cell therapy with Yaskawa Electric’s cutting-edge robotics technology. Our mission is to build an innovative, automated ecosystem for advanced cell therapy manufacturing—solving key development challenges and delivering more high‑value therapeutic candidates to patients.We are a small but highly skilled team, working closely together and continuously pushing one another as we take on the challenge of turning new technologies into reality.As we advance the development of a next‑generation automated cell manufacturing platform, we are seeking a Quality Assurance Manager who will play a central role in establishing and operationalizing our Quality Management System (QMS).This position offers a unique employment structure:You will join Astellas Pharma and be seconded to Cellafa Bioscience Inc.If you are excited about working with passionate experts, leveraging your skills while continuing to grow, and contributing to truly innovative technology, we would be delighted to welcome you to our team.【職務の内容 / Essential Job Responsibilities】（雇入れ直後）品質保証マネジャーは、オペレーショナルQA業務全般を担い、品質戦略と現場実行をつなぐ重要な役割を果たします。臨床用製造の適正かつ効率的な運用、および確実な治験製品の出荷に直接貢献していただきます。                     1. QMSの構築・管理・継続的改善品質戦略および規制要件に沿ったQMSの構築、実装、維持管理、継続的改善品質目標、SOP、帳票類などのQA管理文書の作成・管理eQMSによる文書管理、トレーニング管理、記録管理2. 品質業務および品質課題の管理逸脱、不適合報告（NCR）、OOS/OOT、苦情対応の主導（原因究明、CAPA立案・実行）CAPAの期限内クローズおよび効果確認製造プロセス、自動化システム、設備、デジタルプラットフォームの変更管理3. バッチレビューおよび治験製品の出荷支援自動化・ロボティクスを用いたCT",
+    "requirements": null,
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
     "id": 743,
     "company_id": "astrazeneca",
     "external_id": "92154133728",
@@ -13,7 +30,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -30,7 +47,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -47,7 +64,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -64,7 +81,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -81,7 +98,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -98,7 +115,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -115,7 +132,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -132,7 +149,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -149,7 +166,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -166,7 +183,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -183,7 +200,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -200,7 +217,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -217,7 +234,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -234,7 +251,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -251,7 +268,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -268,7 +285,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -285,7 +302,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -302,7 +319,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -319,7 +336,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -336,7 +353,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -353,7 +370,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -370,7 +387,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -387,7 +404,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -404,7 +421,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -421,7 +438,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -438,7 +455,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -455,7 +472,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -472,7 +489,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -489,7 +506,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -506,7 +523,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -523,7 +540,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-24",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -540,7 +557,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -557,7 +574,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -574,7 +591,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -591,7 +608,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -608,7 +625,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -625,7 +642,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -642,7 +659,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -659,7 +676,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -676,7 +693,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -693,7 +710,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -710,7 +727,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -727,7 +744,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -744,7 +761,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -761,7 +778,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -778,7 +795,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -795,7 +812,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -812,7 +829,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-20",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -829,7 +846,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -846,7 +863,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -863,7 +880,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -880,7 +897,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -897,7 +914,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -914,7 +931,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -931,7 +948,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -948,7 +965,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -965,7 +982,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -982,7 +999,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -999,7 +1016,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1016,7 +1033,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1033,7 +1050,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1050,7 +1067,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1067,7 +1084,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1084,7 +1101,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1101,7 +1118,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1118,7 +1135,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1135,7 +1152,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1152,7 +1169,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1169,7 +1186,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1186,7 +1203,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1203,7 +1220,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1220,7 +1237,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1237,7 +1254,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1254,7 +1271,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1271,7 +1288,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1288,7 +1305,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1305,7 +1322,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1322,7 +1339,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1339,7 +1356,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1356,7 +1373,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1373,7 +1390,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1390,7 +1407,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1407,7 +1424,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1424,7 +1441,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1441,7 +1458,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1458,24 +1475,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
-    "status": "active"
-  },
-  {
-    "id": 635,
-    "company_id": "astellas",
-    "external_id": "14468",
-    "title": "Facility Engineer, Production Technology 1. Yaizu-TC  Pharma-Mfg.",
-    "department": null,
-    "location": null,
-    "job_category": "medical",
-    "url": "https://astellasjapan.avature.net/careers/JobDetail/Facility-Engineer-Production-Technology-1-Yaizu-TC-Pharma-Mfg/3662",
-    "description": "General Information                                    \n                                \n                            \n\n                            \n                                \n                                                                            \n                                            \n                                                \n                                                    Job Advert Title:                                                \n                                            \n\n                                            \n                                                Facility Engineer, Production Technology 1. Yaizu-TC  Pharma-Mfg.\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Location:                                                \n                                            \n\n                                            \n                                                Yaizu\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Division:                                                \n                                            \n\n                                            \n                                                Pharma Manufacturing\n                                            \n                                        \n                                    \n                                    \n                                                                            \n                                            \n                                                \n                                                    Employment Class:                                                \n                                            \n\n                                            \n                                                Permanent\n                                            \n                                        \n                                                                    \n                            \n                        \n                    \n\n                                            \n                            \n                                \n                                    \n                                        \n                                            Description                                        \n                                    \n                                \n\n                                \n                                    【募集の背景 / Purpose & Scope】 ・医薬品製造設備の保守・保全業務を担い、医薬品の安定供給に貢献する。 ・設備予算の立案や管理を行うと共に、見積もりから検収に至る一連の業者管理業務を担う。 ・新製品の導入や設備の老朽化に伴い、新規設備の導入や設備の改造を行う。 - Responsible for the maintenance of pharmaceutical manufacturing equipment and contribute to the stable supply of pharmaceuticals. - Planning and managing equipment budgets, and responsible for a series of contractor management tasks from quotation to acceptance inspection. - Purchase new equipment and Conduct equipment modification by the introduction of new products and equipment updates. 【職務の内容 / Essential Job Responsibilities】 （雇入れ直後） ・部門の実行計画に基づき、ESQDCを遵守し、設備管理及びその周辺業務を適切に実行する。 ・GMPやSOPを遵守し、設備の維持や保守・保全活動を行う。 ・異常、逸脱、変更管理などに対し、メンバー及び他部署と連携し的確に処理する。 ・Properly promote manufacturing and related operations while adhering to ESQDC based on the department's implementation plan ・Maintaining equipment and carrying out maintenance activities in compliance with GMP and SOP ・Work with team members to appropriately handle abnormalities, deviations, change management, etc. （変更の範囲） 会社内での全ての業務 【就業環境に関する要件 / Specific Physical or Environmental Requirements】 •This position is based in Yaizu TC and will require on-site work. 【応募要件 / Qualifications】 ＜必須 / Required＞ 以下の経験を有していることが望ましい。 ・医薬品製造所等でGMPによる製造業務又は設備管理業務の経験があること ・若しくは食品等のクリーンルーム等、衛生管理された環境での業務経験があること ・逸脱や変更管理に対応した経験があること It is preferable that you have the following experience: - Experience in GMP manufacturing at a pharmaceutical manufacturing plant, etc. - Or experience working in a sanitary controlled environment such as a clean room for food, etc. - Experience dealing with deviations and change management ＜歓迎 / Preferred＞ ・医薬品の技術移転、新製品の立ち上げ、製造プロセス改善などの経験 ・施設管理や設備管理業務の経験 ・コンピューターシステム関連に興味ある方 ・英語に興味のある方（英語文書の作成、翻訳） ・Experience in technology transfer, new product launch, manufacturing process improvement, etc. ・Interested in computer systems ・Interested in English (creating and translating English documents) 【選考プロセス / Selection details】 書類選考 → 適性検査・",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1492,7 +1492,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1509,7 +1509,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1526,7 +1526,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1543,7 +1543,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1560,7 +1560,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1577,7 +1577,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1594,7 +1594,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1611,7 +1611,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1628,7 +1628,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1645,7 +1645,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1662,7 +1662,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1679,7 +1679,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1696,7 +1696,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1713,7 +1713,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1730,7 +1730,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1747,7 +1747,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1764,7 +1764,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1781,7 +1781,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1798,7 +1798,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1815,7 +1815,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1832,7 +1832,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1849,7 +1849,24 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 603,
+    "company_id": "msd",
+    "external_id": "R400220",
+    "title": "Sr. Spclst , Market Research",
+    "department": "IT & デジタルデータ",
+    "location": "Chiyoda, Tokyo, Japan",
+    "job_category": "rd",
+    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Tokyo---Chiyoda/Sr-Spclst---Market-Research_R400220/apply",
+    "description": "Job Description. Key accountability. ・専門家として、市場調査（特定されたビジネス課題の解決、顧客が意識していないニーズの特定）の実施や外部データ（処方箋データ、シンジケート調査の結果など）の分析を通して、ビジネス課題を解決するための価値あるインサイトを提供する責任がある. ・アジャイル組織におけるスクワッドメンバーの一人として、プライマリ―リサーチ以外の業務を...",
+    "requirements": null,
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1866,7 +1883,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1883,7 +1900,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1900,7 +1917,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1917,7 +1934,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1934,7 +1951,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1951,7 +1968,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1968,7 +1985,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -1985,7 +2002,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2002,7 +2019,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2019,7 +2036,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2036,7 +2053,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2053,7 +2070,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2070,7 +2087,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2087,7 +2104,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2104,7 +2121,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2121,7 +2138,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2138,7 +2155,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2155,7 +2172,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2172,7 +2189,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-24",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2189,7 +2206,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2206,7 +2223,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2223,7 +2240,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2240,7 +2257,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2257,7 +2274,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2274,7 +2291,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-22",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2291,7 +2308,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-22",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2308,7 +2325,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-21",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2325,7 +2342,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-21",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2342,7 +2359,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2359,7 +2376,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2376,7 +2393,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2393,7 +2410,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-19",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2410,7 +2427,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-19",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2427,7 +2444,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-05-19",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2444,7 +2461,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-17",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2461,7 +2478,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-05-16",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2478,7 +2495,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2495,7 +2512,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2512,7 +2529,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2529,7 +2546,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2546,7 +2563,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-05-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2563,7 +2580,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-05-12",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2580,7 +2597,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-11",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2597,7 +2614,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-11",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2614,7 +2631,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-11",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2631,7 +2648,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-08",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2648,7 +2665,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-08",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2665,7 +2682,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-07",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2682,7 +2699,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-07",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2699,7 +2716,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-07",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2716,7 +2733,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-05-07",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2733,7 +2750,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-05",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2750,7 +2767,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-01",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2767,7 +2784,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-29",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2784,7 +2801,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-04-28",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2801,7 +2818,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2818,7 +2835,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-27",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2835,7 +2852,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-24",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2852,7 +2869,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-22",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2869,7 +2886,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-21",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2886,7 +2903,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-21",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2903,7 +2920,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2920,7 +2937,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2937,7 +2954,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2954,7 +2971,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2971,7 +2988,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -2988,7 +3005,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3005,7 +3022,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3022,7 +3039,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-15",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3039,7 +3056,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-15",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3056,7 +3073,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3073,7 +3090,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3090,7 +3107,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-13",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3107,7 +3124,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3124,7 +3141,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3141,7 +3158,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3158,7 +3175,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3175,7 +3192,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3192,7 +3209,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-09",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3209,7 +3226,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-08",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3226,7 +3243,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-07",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3243,7 +3260,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3260,7 +3277,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3277,7 +3294,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3294,7 +3311,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3311,7 +3328,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3328,7 +3345,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3345,7 +3362,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-01",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3362,7 +3379,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-01",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3379,7 +3396,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-01",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3396,7 +3413,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3413,7 +3430,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3430,7 +3447,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3447,7 +3464,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3464,7 +3481,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3481,7 +3498,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3498,7 +3515,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3515,7 +3532,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3532,7 +3549,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3549,7 +3566,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3566,7 +3583,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3583,7 +3600,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3600,7 +3617,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3617,7 +3634,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3634,7 +3651,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3651,7 +3668,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3668,7 +3685,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3685,7 +3702,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3702,7 +3719,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3719,7 +3736,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3736,7 +3753,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3753,7 +3770,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3770,7 +3787,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3787,7 +3804,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3804,7 +3821,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3821,7 +3838,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3838,7 +3855,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3855,7 +3872,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3872,7 +3889,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3889,7 +3906,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3906,7 +3923,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3923,7 +3940,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3940,7 +3957,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3957,7 +3974,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3974,7 +3991,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -3991,7 +4008,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4008,7 +4025,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4025,7 +4042,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4042,7 +4059,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4059,7 +4076,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4076,7 +4093,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4093,7 +4110,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4110,7 +4127,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4127,7 +4144,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4144,7 +4161,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4161,7 +4178,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4178,7 +4195,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4195,7 +4212,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4212,7 +4229,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4229,7 +4246,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4246,7 +4263,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4263,7 +4280,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4280,7 +4297,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4297,7 +4314,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4314,7 +4331,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4331,7 +4348,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4348,7 +4365,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4365,7 +4382,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4382,7 +4399,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4399,7 +4416,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4416,7 +4433,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4433,7 +4450,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4450,7 +4467,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4467,7 +4484,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4484,7 +4501,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4501,7 +4518,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4518,7 +4535,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4535,7 +4552,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4552,7 +4569,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4569,7 +4586,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4586,7 +4603,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4603,7 +4620,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4620,7 +4637,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4637,7 +4654,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4654,7 +4671,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4671,7 +4688,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4688,7 +4705,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4705,7 +4722,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4722,7 +4739,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4739,7 +4756,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4756,7 +4773,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4773,7 +4790,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4790,7 +4807,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4807,7 +4824,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4824,7 +4841,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4841,7 +4858,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4858,7 +4875,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4875,7 +4892,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4892,7 +4909,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4909,7 +4926,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4926,7 +4943,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4943,7 +4960,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4960,7 +4977,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4977,7 +4994,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -4994,7 +5011,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5011,7 +5028,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5028,7 +5045,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5045,7 +5062,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5062,7 +5079,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5079,7 +5096,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5096,7 +5113,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5113,7 +5130,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5130,7 +5147,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5147,7 +5164,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5164,7 +5181,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5181,7 +5198,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5198,7 +5215,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5215,7 +5232,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5232,7 +5249,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5249,7 +5266,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5266,7 +5283,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5283,7 +5300,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5300,7 +5317,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5317,7 +5334,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5334,7 +5351,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5351,7 +5368,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5368,7 +5385,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5385,7 +5402,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5402,7 +5419,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5419,7 +5436,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5436,7 +5453,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5453,7 +5470,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5470,7 +5487,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5487,7 +5504,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5504,7 +5521,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5521,7 +5538,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5538,7 +5555,24 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 92,
+    "company_id": "msd",
+    "external_id": "R380857",
+    "title": "Manufacturing Division Quality Control Associate Director",
+    "department": "製造・品質保証",
+    "location": "Saitama, Saitama, Japan",
+    "job_category": "manufacturing",
+    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Saitama---Saitama-Menuma/Manufacturing-Division-Quality-Control-Associate-Director_R380857/apply",
+    "description": "Join our team as an Associate Director in Quality Control, where you will lead a team of analysts, ensuring compliance with cGMP standards and driving quality initiatives. If you have a strong background in pharmaceutical manufacturing and a passion for mentoring, we want to hear from you!",
+    "requirements": null,
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5555,7 +5589,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5572,7 +5606,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5589,7 +5623,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5606,7 +5640,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5623,7 +5657,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5640,7 +5674,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5657,7 +5691,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5674,7 +5708,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5691,7 +5725,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5708,7 +5742,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-28",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5725,7 +5759,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5742,7 +5776,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5759,7 +5793,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5776,7 +5810,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5793,7 +5827,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5810,7 +5844,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5827,7 +5861,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5844,7 +5878,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5861,7 +5895,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5878,7 +5912,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5895,7 +5929,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5912,7 +5946,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5929,7 +5963,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5946,7 +5980,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5963,7 +5997,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5980,7 +6014,41 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 32,
+    "company_id": "pfizer",
+    "external_id": "4953810",
+    "title": "[MA] Lung Cancer MAS team, ONC Field MAS [Manager/Staff]",
+    "department": "4953810",
+    "location": "Japan - Tokyo",
+    "job_category": "medical",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--MA--Lung-Cancer-MAS-team--ONC-Field-MAS--Manager-Staff-_4953810-1",
+    "description": "MAIN REPONSIBILITIES / DUTIES\n\nJOB POSITION PURPOSE\n\nThe MAS roles are hybrid in responsibilities. Specific roles in teams can vary between 80% field with 20% head office activity to 80% head office activity with 20% field activity. This is a continuum and not fixed and will vary based on business needs. Rarely there may be a role that is 100% Field.\n\nBe the Pfizer Japan medical scientific point of contact for HCPs, medical societies, regulators, academia and other external stakeholders.\n\nPlay a central role as a scientific and medical leader who can identify unmet medical needs(UMRs), contribute to building and executing medical plans and establish clinical evidence.\n\nMAIN REPONSIBILITIES:\n\nDemonstrate medical and scientific leadership and expertise\n\nEnsure the highest scientific standards during in / external activities to provide deep medical and scientific expertise.\n\nDevelop local medical plan aligned with global medical plan to address local UMRs and fill data gaps, and contribute to the implementation of local medical strategies and life cycle clinical plans for inline and pipeline medicines / vaccines.\n\nProvide and exchange medical/scientific information for/from medical facilities in the assigned area and external stakeholders and make important contributions to decisions of medical strategies for assigned products, to ensure safe, proper, and effective uses of assigned products. These activities contribute to patients and healthcare professionals from medical, pharmaceutical, and clinical study’s perspective.\n\nDrive for heightened understanding of the burden of disease in the assigned therapeutic area and medical attributes of our products to enhance the safe and efficacious use.\n\nContribute to achieving the department/team goals, and/or participate in cross-organizational projects as a core member and provide guidance to deliver the results.\n\nDevelop and Execute Medical Plan aligned with medical strategy to meet UMRs in the assigned product(s) and therapeutic area(s)\n\nIdentify UMRs and healthcare disparities in the assigned asset(s) and therapeutic area(s), and execute customer facing medical activities including unbiased medical and scientific communication with HCPs and other relevant individuals and organizations, medical advisory board meetings, educational seminars, and data generation initiatives, medical materials creation and necessary scientific input.\n\nCreate an activity plan with senior medical management to address unmet needs and data gaps.\n\nDevelop a Customer Facing part of Medical Plan in the therapeutic area(s) and asset(s) to establish collaborative scientific relationships with stakeholders.\n\nProvide subject matter expertise and high-quality scientific exchange, bringing in insights (formally and informally) into the organization to shape strategy.\n\nCollaborate with medical stakeholders management as a scientific expert for HCPs, medical societies, academia, etc.\n\nEstablish a strong collaborative scientific relationship through non-promotional activities such as scientific exchanges (e.g., discussion using the latest research papers and follow-up of contents of academic conference presentations) with relevant stakeholders in the assigned area.\n\nMaintain a comprehensive stakeholder map to identify relevant HCPs, medical societies, and other relevant external stakeholders. And to communicate effectively and agilely at an expert level.\n\nFollow up clinical investigator-sponsored research and medical grants compliant with Pfizer policies.\n\nAcquire and maintain extensive, up-to-date medical and pharmaceutical information in the assigned area to identify unmet needs and support medical strategy.\n\nDeliver key medical and scientific activities within the medical plan, e.g., high-quality educational materials, generation of real-world evidence, non-interventional studies, database studies and registries (in collaboration with the Health & Value team) and ensure timely publication of data.\n\nEstablish a highly reliable, long-term relationship with stakeholders\n\nEnhance opportunities for creation of evidence based on medical needs by sharing customer insights with internal/external stakeholders through constructive and cross-functional partnership.\n\nOptimize patient centricity of medical communications and deliverables, incorporating Health Literacy and cultural awareness principles to ensure that patients remain the ultimate focus.\n\nEstablish deep and enduring peer-to-peer scientific relationships with leading HCPs and specialists, including non-traditional partners and key decisionmakers.\n\nMaintain and enhance the cross-BU alignment on metrics.\n\nEnsure to collect necessary information and analyze insights prior to the meetings to provide deep medical and scientific expertise to stakeholders and HCPs\n\nAligns, contributes, and collaborates with Relevant internal stakeholders\n\nProvide information on expert / HCP / relevant others feedback on product life cycle strategies to related divisions/department in the company.\n\nShare the medical/scientific information & insights within appropriate limits/ways for Marketing colleagues to develop brand plan(s).\n\nScientific input for scientific meetings and materials\n\nProvide medical education programs with medical societies or relevant stakeholders.\n\nCollaboration in clinical development\n\nProvide medical/scientific input into protocol feasibility assessments for clinical trial proposals.\n\nCollaborate with Development Japan (DJ)/global development to identify appropriate investigators / sites for Pfizer-sponsored clinical trials.\n\nWork together with clinical research/DJ colleagues and in collaboration with above-country and global BU colleagues to drive the timely completion of Pfizer-sponsored clinical trials\n\nDemonstrate scientific / medical leadership and provide input into the global clinical teams and DJ to ensure design and selection of trials relevant to Japan’s needs, leveraging customer and patient insights Supporting DJ on clinical development program as well as regulatory interactions from early development phase.\n\nContribute to the development and implementation of product(s)/therapeutic area(s) medical strategy and delivering medical and scientific advice both internally and externally to assure appropriate use of product(s) and patient’s safety aligned with the short- and long-term business goals of assigned product (s)/therapeutic area(s)\n\nData communication and customer insights\n\nProvide accurate, high-quality, and unbiased medical information to HCPs and external experts, including managing unsolicited medical requests (UMRs).\n\nProvide scientific insight and support to field- and head office based commercial colleagues.\n\nCollaborate with the cross functional team in-country and above-country to develop impactful and compliant promotional and non-promotional materials of value to customers\n\nCollect and share insights from HCPs and stakeholders to inform medical strategy and business opportunities.\n\nManage local advisory boards to gain customer insights\n\nIf media-trained, present the scientific perspective on selected topics during media-briefings.\n\nObserve the code of conduct, company’s regulations, and compliance, make communication with related departments, and exercise leadership in POJ.\n\nEnsure awareness of code of contact for Medical Affairs (guidance for external medical interactions) and observe it. Give promotional or non-promotional explanations depending on the related departments.\n\nConduct activities in compliance with the MHLW Guidelines for Prescription Drug Sales Information Activities.\n\nEnsure activities and communications are conducted in compliance with all policies, guidelines, and regulations.\n\nEnsure awareness of responsibility for reporting adverse events\n\nFor all Pfizer products, observe applicable laws/regulations and the Pfizer policy, and “Gather and report safety information*.” At an appropriate timing, attend training programs on obligation of assigned safety reporting.\n\nAS NEEDED:\n\nContribute to Business Development in the assigned area(s): In collaboration with Japan Medical Lead, Japan Medical Product Lead, Global MA members and other members from relevant functions, identify UMR and candidate therapies for potential medical interventions in the assigned therapeutic area(s) in Japan through medical activities such as advisory boards and consultations with medical experts while keeping confidentiality.\n\nRapidly respond to critical supply issues from the medical perspective (e.g., rapid communications with academic societies and regulatory authorities)\n\nREQUIRED SKILL SET\n\nEducation:\n\nMinimum requirement\n\n4-year university undergraduate degree AND master’s degree in life science, or\n\nPharmacists\n\n4-year university graduates with pharmacist license and master’s degree or equivalent life science research experience, or\n\n6–year university graduates with pharmacist license, or\n\nNurses with a master’s degree, or\n\nVeterinarians, or\n\nDentists, or\n\nMDs\n\nPreferred\n\nIn addition to those who meet the minimum requirements above, the qualifications below are preferred.\n\nMD (clinical experience, board certification preferred), or\n\nPhD in Life Science\n\nTechnical Skills:\n\nMedical/ pharmaceutical expert knowledge of therapeutic disease area/ products\n\nAbility to communicate appropriately and build good relationships with internal/external stakeholders.\n\nCollaborate effectively with teams and across functions by demonstrating Pfizer’s Values & Behaviors and the agility to learn from others.\n\nCapable of medical discussion with relevant departments and external HCPs.\n\nA person who understands compliance and relevant laws/regulations in the pharmaceutical industry and advocates the appropriate use of the products.\n\nCan demonstrate appropriate knowledge and understanding of internal organization structure, key stakeholders and strategies.\n\nA person who can quickly acquire necessary medical/ scientific knowledge and skills through self-learning.\n\nExperience:\n\nMA/DJ experience and / or research experience preferred.\n\nScientific publication experience preferred.\n\nLanguage:\n\nAble to understand written and spoken English and Japanese in assigned therapeutic disease area, and scientific interactions.\n\nMinimum TOEIC score of 730\n\nThe 6A to 7B should be aligned to here https://degreed.com/articles/medical-affairs-competency-dictionary-2023?d&#61;37025782&inputtype&#61;article&orgsso&#61;pfizer&inputType&#61;Article\n\n6A &#61; Discovering\n\n6B &#61; Doing\n\n7B &#61; Directing\n\n \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "SKILL SET\n\nEducation:\n\nMinimum requirement\n\n4-year university undergraduate degree AND master’s degree in life science, or\n\nPharmacists\n\n4-year university graduates with pharmacist license and master’s degree or equivalent life science research experience, or\n\n6–year university graduates with pharmacist license, or\n\nNurses with a master’s degree, or\n\nVeterinarians, or\n\nDentists, or\n\nMDs",
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 31,
+    "company_id": "pfizer",
+    "external_id": "4953739",
+    "title": "[JDSU] 医薬品安全性統括部 ケースマネジメントチーム（一般社員） （Staff, Case Management, Japan Drug Safety Unit）",
+    "department": "4953739",
+    "location": "Japan - Tokyo",
+    "job_category": "pv",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--JDSU-------Staff--Case-Management--Japan-Drug-Safety-Unit-_4953739-1",
+    "description": "&#xff11;&#xff0e;主な職務における成果責任/ Description of Primary Role & Responsibility\nA. 市販製品・治験薬の安全性情報&#xff08;有害事象&#xff09;収集、評価 / Collection and Assessment of safety information (adverse event information) of marketed/investigation Pfizer products\nB. グローバル安全性データベースへのデータ入力と管理 / Data entry and management on Global Safety Database\nC. 日米欧の法規制の遵守、安全性コンプライアンス維持 / Compliance with laws and regulations of Japan, the United States and Europe, and maintenance of safety compliance\nD. 国内、海外の社内及び規制当局の査察・監査対応 / Contribution to domestic and foreign internal audit/regulatory inspection\nE. 個別安全性情報における照会事項対応 / Response to regulatory query regarding to Individual Case Safety Report\nF. グローバル安全性業務プロセスの構築に係るプロジェクトへの参画 / Contribution to projects relating to development of process relating to global safety\n\n&#xff12;&#xff0e;応募資格/ Qualifications\n【スキル要件 / Skill requirements】\n• PCスキル / PC skill\n• ファーマコビジランス業務や安全性データマネジメント業務の経験&#xff08;尚可&#xff09; / Experience of Pharmacovigilance and/or Safety Data Management (preferred)\n• メディカルライティングの経験・スキル&#xff08;尚可&#xff09; / Medical writing experience/skill (preferred)\n• 安全性データベースに関連した業務経験がある&#xff08;尚可&#xff09; / Experience relating to Safety Database\n\n【職務経験 / Background requirement】\n• 日本語能力&#xff08;日本語で日本の規制を理解し、説明することができる。規制当局向けの文書を日本語で作成することができる。&#xff09; / Fluent Japanese language capability (able to understand and explain Japanese regulation in\n\nJapanese, able to develop regulatory documents to be submitted in Japanese.)\n• 薬剤師等の医療関連資格を有するもしくは理系出身者 / Medical qualification (e.g. Registered Pharmacist) or Science background at colleague or above\n• 建設的に日常の課題を見つけ、解決できる / To be able to find and solve challenges points in daily work practically and constructively\n• 結果を見据えた判断ができる / To make a decision with good expectation of outcome of the decision\n• 部門に求められる業務水準を満たした上で、個人の目標を達成することができる / To achieve personal goals in addition to fulfilling quality level of work required in the department\n• チームで働くことができる / To be able to work as a team\n• 英会話及び英語ライティングスキル　&#xff08;TOEICスコア　600点以上&#xff08;必須&#xff09;、730点以上&#xff08;尚可&#xff09;&#xff09; / English verbal communication and writing skill (TOEIC score more than 600 (must), or more than 730 (preferred))\n\n【勤務地 / Location】\n東京本社 / Tokyo Headquarter\n\n※応募時は、日本語・英語両方の応募資料の提出をお願いします。 / Please submit application form in both Japanese and English.\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "【スキル要件 / Skill requirements】\n• PCスキル / PC skill\n• ファーマコビジランス業務や安全性データマネジメント業務の経験&#xff08;尚可&#xff09; / Experience of Pharmacovigilance and/or Safety Data Management (preferred)\n• メディカルライティングの経験・スキル&#xff08;尚可&#xff09; / Medical writing experience/skill (preferred)\n• 安全性データベースに関連した業務経験がある&#xff08;尚可&#xff09; / Experience relating to Safety Database\n\n【職務経験 / Background requirement】\n• 日本語能力&#xff08;日本語で日本の規制を理解し、説明することができる。規制当局向けの文書を日本語で作成することができる。&#xff09; / Fluent Japanese language capability (able to understand and explain Japanese regulation in\n\nJapanese, able to develop regulatory documents to be submitted in Japanese.)\n• 薬剤師等の医療関連資格を有するもしくは理系出身者 / Medical qualification (e.g. Registered Pharmacist) or Science background at colleague or above\n• 建設的に日常の課題を見つけ、解決できる / To be able to find and solve challenges points in daily work practically and constructively\n• 結果を見据えた判断ができる / To make a decision with good expectation of outcome of the decision\n• 部門に求められる業務水準を満たした上で、個人の目標を達成することができる / To achieve personal goals in addition to fulfilling quality level of work required in the department\n• チームで働くことができる / To be able to work as a team\n• 英会話及び英語ライティングスキル　&#xff08;TOEICスコア　600点以上&#xff08;必須&#xff09;、730点以上&#xff08;尚可&#xff09;&#xff09; / English verbal communication and writing skill (TOEIC score more than 600 (must), or more than 730 (preferred))\n\n【勤務地 / Location】\n東京本社 / Tokyo Headquarter\n\n※応募時は、日本語・英語両方の応募資料の提出をお願いします。 / Please submit application form in both Japanese and English.\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -5997,7 +6065,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6014,7 +6082,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6031,7 +6099,41 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 26,
+    "company_id": "pfizer",
+    "external_id": "4951373",
+    "title": "[R&D] プロジェクトマネージャー、プロジェクト・マネジメント・グループ（PM Group)、ポートフォリオ・プロジェクト・マネジメント統括部 (PPM統括部）",
+    "department": "4951373",
+    "location": "Japan - Tokyo",
+    "job_category": "rd",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--R-D------PM-Group------PPM-_4951373-1",
+    "description": "&#xff11;&#xff0e;主な職務における成果責任/ Description of Primary Role & Responsibility\n\n(1) 組織横断的な開発戦略の立案を実行する\n\n①プロジェクト・マネージャーは、プロジェクトの日本への導入から、市販後のライフサイクルマネジメントまでの全てのステージに渡って、製品価値の最大化に貢献します。\n\n②組織横断的な連携をリードします。開発戦略は、開発品の特性を基に、非臨床、臨床、薬事、臨床試験の実施、製剤開発・製造、及びマーケティングの観点から立案され、実行されます。開発のステージに応じて、より注視・考慮される項目は変化しますが、開発品の価値最大化は各項目の連携なくしてはあり得ません。プロジェクト・マネージャーは、その活動内容を効果的かつ正確に、適切なタイミングで共有できるよう働きかけ、また、意思決定機関への提案を促進できるよう問題を議論します。\n\n(2) 開発戦略と実行を確実にする\n\n①チームの機能全体を見渡し、決定時期の計画と関連したデリバラブルを推進するとともに、プロジェクトの戦略立案に携わります。また、開発品戦略における活動をリードし、その内容が全体的な戦略と実行メンバー、各担当間で整合性が保たれているかを監督します。\n\n② 必要な社内会議&#xff08;電話&#xff0f;ビデオ&#xff0f;対面会議&#xff09;を開催し、議論をリードします。また必要な外部会議&#xff08;機構相談、提携パートナーとの会議等&#xff09;にも出席します。\n\n③ リスク回避のためリスクコントロールプランを策定できるようプロジェクトチームとの議論に参加し、そのプロセスをリードします。\n\n④ プロジェクトチームを代表して、開発品の進捗確認を行い、進捗報告レポートを作成し、必要に応じてマネジメントに報告します。\n\n(3) 医薬開発部門とコマーシャル部門の連携を確実にする\n\n医薬開発部門とコマーシャル部門との間で開発とマーケティング活動に関連する計画を共有し、必要に応じて双方の戦略と計画に反映できるようにコマーシャル関連部門と協議します。\n\n(4) 新開発品及び上市品のライフサイクルマネジメントプランの評価と開発推進\n\n①開発メンバーやマーケティング担当と協働し、開発品及びライフサイクル候補品の価値分析をリードします。\n\n②早期開発品に対する日本のインプットを、米国にあるグローバル医薬開発本部に適宜、適切なタイミングで提供することにより、日本への導入をリードします。\n\n(5) グローバル医薬開発本部 ポートフォリオプロジェクトマネジメント部門との連携\n\n米国にあるポートフォリオプロジェクトマネジメント部門との協働により、プロジェクトチームが常にグローバルの開発戦略に整合した日本の開発計画の立案・実行を確実にします。\n\n&#xff12;&#xff0e;応募資格/ Qualifications\n\n【資格・能力要件/ Desired Behavioral and Technical Skills】\n\n【資格・能力要件】\n\n強いリーダーシップを発揮できる方\n\n組織横断的な環境でチームをマネージし、プロジェクトを推進した経験を有する方&#xff08;例えば、チームのゴールに合致した計画を設定し、部署内のプロセス管理又はプロジェクトのスケジュール管理、問題解決に向けてのアクションプランの策定、リスクの特定と管理等&#xff09;\n\n戦略的かつ既成概念にとらわれない自由な発想・思考ができる方\n\nプロジェクト運用における実績があり、医薬品開発、医療、または販売規律の知識と経験を有する方&#xff08;なお、疾患領域は問いません&#xff09;。\n\n医薬品申請/承認、上市及び市販後のプロセスに関する知識を有する方\n\n英語によるコミュニケーション能力を有する方&#xff08;TOEIC 750点程度&#xff09;\n\n開発提携あるいは共同開発を行うプログラムでの業務経験のある方が非常に好ましい。\n\n【職務経験】\n\n製薬業界で5年以上の経験を有する方\n\n臨床開発経験を有する方&#xff08;領域及び職種は問いません&#xff09;\n\nプロジェクトマネジャーとしての経験を有する方であれプロジェクトマネジャーとしての経験を有する方であれば尚良\n\n【勤務地】 東京本社\n\n【募集人員】 1名\n\n※応募時は、日本語・英語両方の応募資料の提出をお願いします。 / Please submit application form in both Japanese and English.\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "【資格・能力要件/ Desired Behavioral and Technical Skills】\n\n【資格・能力要件】\n\n強いリーダーシップを発揮できる方\n\n組織横断的な環境でチームをマネージし、プロジェクトを推進した経験を有する方&#xff08;例えば、チームのゴールに合致した計画を設定し、部署内のプロセス管理又はプロジェクトのスケジュール管理、問題解決に向けてのアクションプランの策定、リスクの特定と管理等&#xff09;\n\n戦略的かつ既成概念にとらわれない自由な発想・思考ができる方\n\nプロジェクト運用における実績があり、医薬品開発、医療、または販売規律の知識と経験を有する方&#xff08;なお、疾患領域は問いません&#xff09;。\n\n医薬品申請/承認、上市及び市販後のプロセスに関する知識を有する方\n\n英語によるコミュニケーション能力を有する方&#xff08;TOEIC 750点程度&#xff09;\n\n開発提携あるいは共同開発を行うプログラムでの業務経験のある方が非常に好ましい。\n\n【職務経験】\n\n製薬業界で5年以上の経験を有する方\n\n臨床開発経験を有する方&#xff08;領域及び職種は問いません&#xff09;\n\nプロジェクトマネジャーとしての経験を有する方であれプロジェクトマネジャーとしての経験を有する方であれば尚良\n\n【勤務地】 東京本社\n\n【募集人員】 1名\n\n※応募時は、日本語・英語両方の応募資料の提出をお願いします。 / Please submit application form in both Japanese and English.\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 24,
+    "company_id": "pfizer",
+    "external_id": "4950565",
+    "title": "[R&D] Statistician, バイオメトリクス・データマネジメント統括部　統計担当者",
+    "department": "4950565",
+    "location": "Japan - Tokyo",
+    "job_category": "rd",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--R-D--Statistician----_4950565-1",
+    "description": "職務概要\n\n臨床試験のデザイン・分析・解釈を、関連する薬事規制要件、標準業務手順書&#xff08;SOP&#xff09;、およびベストプラクティスに従って業務を行う。\n臨床開発チームの中で特に&#xff08;臨床開発リーダー、臨床薬理担当者、統計担当者&#xff09;で効果的に協働し、科学に基づいた統計の専門知識を生かし、医薬品開発に貢献する。\n\n職務内容\n\n試験デザイン、統計解析計画、統計解析結果の解釈、医薬品の開発計画、規制当局対応、市販後の有効性・安全性エビデンス創出に対し、科学的に適切な統計的助言を提供する。\n統計解析、解析結果、科学的な報告書&#xff08;主要な統計解析結果の即時報告書、治験総括報告書等&#xff09;の計画・作成・報告を担当し、臨床試験結果の解釈、論文作成や学会発表の支援、規制当局からの照会事項対応を行う。\n担当プロジェクト&#xff08;担当する医薬品開発&#xff09;における臨床試験および承認申請に必要な統計関連成果物に責任を持ち、計画に従って納期と品質を確保する。\n担当プロジェクトにおいて、米国本社の治療領域&#xff08;TA&#xff09;統計担当者とコミュニケーション・協働を行う。\n臨床開発チーム内外の関係者&#xff08;社内の業務関連部門、国内外の規制当局および製薬業界関係者・アカデミア組織&#xff09;と効果的な協力関係を構築する。\nすべての臨床試験およびプロジェクトレベルの統計業務が、関連する規制要件および会社のSOPに準拠していることを保証する。\n割り当てられたカリキュラムに基づき、すべてのSOPトレーニングを実施し、遵守状況を最新に保つ。\n他の統計担当者、データマネージャー、臨床プログラミング担当者と協働し、部署横断で統計的助言とリーダーシップを提供する。\n統計成果物に適用されるすべての品質プロセスおよび会社のデータ基準を遵守し、統計的助言が必要なプロセスに貢献する。\n規制や専門分野で強い統計的プレゼンスを発揮し、規制ガイドラインの内容やその実務での解釈に影響を与える。\n臨床試験への統計手法の応用に関する研究を積極的に推進する。これには米国本社の統計担当者との協業を含む。\n\n必要な資格・スキル\n\n行動スキル\n\n組織内外の同僚や関係者と効果的にコミュニケーションできる口頭および書面によるコミュニケーション能力\nコンサルティングスキル\n部署横断的に統計担当者としてリーダーシップを発揮する能力\n技術スキル\n\n臨床試験への応用に関する高度な統計スキル\n医薬品開発に関する幅広い理解\n臨床医学および規制要件に関する知識\n学歴・資格\n\n統計学、生物統計学、または関連分野の学位&#xff08;修士号以上&#xff09;\n言語\n\n米国本社TA統計担当者と効果的にコミュニケーションできる英語の口頭および書面による能力\n\nPfizerは均等な雇用機会を提供する企業であり、事業を展開する各法域の適用される均等雇用機会法を遵守する。\n\nJob Summary\n\nDesign, analyze, and interpret clinical trials/post marketing surveillance (PMS) in compliance with relevant regulatory requirements, company standards and best practices\n\nProvide scientifically rigorous statistical expertise and contributions by working effectively within the clinical triad (clinician, clinical pharmacologist, and statistician)\n\nJOB RESPONSIBILITIES\n\nProvide scientifically rigorous statistical input into study design, statistical analysis plans, interpretation of statistical results, project development plans, regulatory issues and scientific and commercialization projects.\nProvide planning, delivery and communication of statistical analyses, data presentations, and scientific reports (topline reports, clinical study reports, etc.), including clinical trial/PMS results, support for publication activities, scientific presentations, and support to responses to queries from regulatory authority.\nBe accountable for study/PMS level and submission level statistical deliverables on assigned projects.\nDevelop effective collaborations with others within clinical teams, partner lines, and external regulatory, industry, professional and academic organizations.\nEnsure that all study/PMS and project level statistical activities are conducted in compliance with relevant regulatory requirements and company standards.\nBe up-to-date on SOP training and compliance with all SOPs as required based on the assigned curriculum.\nProvide statistical input and leadership to cross-functional activities – collaborate with other statisticians, Data managers (i.e., Clinical Data Scientist), Clinical Programming colleagues (i.e., Statistical Data Sciences Lead) – for assigned studies/PMS and regulatory submissions.\nEnsure timeliness and quality of statistical deliverables according to project plans for assigned projects.\nComply with all statistics and quality processes and company&#39;s data standards that are applicable to statistical outputs, and support processes that require statistical input.\nCommunicate and collaborate with global Therapeutic Area (TA) statisticians on assigned projects.\nProvide a strong statistical presence in regulatory and professional circles to influence content of regulatory guidelines and their interpretation in practice.\nParticipate in research on statistical methodology and its applications to clinical trials/PMS.\n\nQUALIFICATIONS / SKILLS\n\nBehavioral Skills:\n\nEffective verbal and written communication skills in relating to colleagues and associates both inside and outside the organization\n\nConsulting skills\n\nCapability to provide statistical leadership to cross-functional teams\n\nTechnical skills:\n\nStrong statistical/epidemiological skills with application to clinical trials/PMS\n\nA broad understanding of drug development\n\nKnowledge of clinical medicine and regulatory requirements\n\nEducation/Certification:\n\nAdvanced degree in statistics, biostatistics, or related field\n\nLanguages:\n\nWritten and oral communication skills in English to effectively communicate with TA statisticians\n\n \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\n \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": ", company standards and best practices\n\nProvide scientifically rigorous statistical expertise and contributions by working effectively within the clinical triad (clinician, clinical pharmacologist, and statistician)\n\nJOB RESPONSIBILITIES\n\nProvide scientifically rigorous statistical input into study design, statistical analysis plans, interpretation of statistical results, project development plans, regulatory issues and scientific and commercialization projects.\nProvide planning, delivery and communication of statistical analyses, data presentations, and scientific reports (topline reports, clinical study reports, etc.), including clinical trial/PMS results, support for publication activities, scientific presentations, and support to responses to queries from regulatory authority.\nBe accountable for study/PMS level and submission level statistical deliverables on assigned projects.\nDevelop effective collaborations with others within clinical teams, partner lines, and external regulatory, industry, professional and academic organizations.\nEnsure that all study/PMS and project level statistical activities are conducted in compliance with relevant regulatory requirements and company standards.\nBe up-to-date on SOP training and compliance with all SOPs as required based on the assigned curriculum.\nProvide statistical input and leadership to cross-functional activities – collaborate with other statisticians, Data managers (i.e., Clinical Data Scientist), Clinical Programming colleagues (i.e., Statistical Data Sciences Lead) – for assigned studies/PMS and regulatory submissions.\nEnsure timeliness and quality of statistical deliverables according to project plans for assigned projects.\nComply with all statistics and quality processes and company&#39;s data standards that are applicable to statistical outputs, and support processes that require statistical input.\nCommunicate and collaborate with global Therapeutic Area (TA) statisticians on assigned projects.\nProvide a strong statistical presence in regulatory and professional circles to influence content of regulatory guidelines and their interpretation in practice.\nParticipate in research on statistical methodology and its applications to clinical trials/PMS.\n\nQUALIFICATIONS / SKILLS\n\nBehavioral Skills:\n\nEffective verbal and written communication skills in relating to colleagues and associates both inside and outside the organization\n\nConsulting skills\n\nCapability to provide statistical leadership to cross-functional teams\n\nTechnical skills:\n\nStrong statistical/epidemiological skills with application to clinical trials/PMS\n\nA broad understanding of drug development\n\nKnowledge of clinical medicine and regulatory requirements\n\nEducation/Certification:\n\nAdvanced degree in statistics, biostatistics, or related field\n\nLanguages:\n\nWritten and oral communication skills in English to effectively communicate with TA statisticians\n\n \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\n \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6048,7 +6150,41 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 22,
+    "company_id": "pfizer",
+    "external_id": "4950076",
+    "title": "VR B&P Statistician",
+    "department": "4950076",
+    "location": "Japan - Tokyo",
+    "job_category": "rd",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/VR-B-P-Statistician_4950076-1",
+    "description": "&#xff11;&#xff0e;主な職務における成果責任/ Description of Primary Role & Responsibility\n\nワクチンプロジェクトにおける臨床試験および承認申請資料に関する統計業務を行います。\nワクチンプロジェクトに特化し&#xff0c;臨床試験の治験総括報告書を含む承認申請資料全般に関わる統計業務を提供するため、統計解析計画書の作成およびその品質管理を行います。また、統計担当者として、開発計画やプロトコール作成について統計的な助言を行います。さらに必要に応じてプログラミング業務もサポートします。\nグローバルワクチン・リサーチへのダイレクトレポートの特色を生かし、グローバルとのコミュニケーション&#xff08;電話&#xff0c;メール&#xff09;を活用しつつ、Development Japan&#xff08;DJ&#xff09;の一員として協働し業務を行います。\n\n&#xff12;&#xff0e;応募資格/ Qualifications\n\n【資格・能力要件/ Desired Behavioral and Technical Skills】\n\n【資格・能力要件】\n英語力&#xff08;読解および文書作成&#xff1a;中級レベル、会話&#xff1a;中級レベル&#xff09;、TOEIC 600点以上\nSAS/Rプログラミングスキル、生物統計トレーニング&#xff08;BioS等&#xff09;\n\n【職務経験】\n臨床開発における統計業務経験歴&#xff08;統計解析計画書作成含む&#xff09;&#xff15;年以上\n特にワクチンの開発経験、意欲があることが望ましい。\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "【資格・能力要件/ Desired Behavioral and Technical Skills】\n\n【資格・能力要件】\n英語力&#xff08;読解および文書作成&#xff1a;中級レベル、会話&#xff1a;中級レベル&#xff09;、TOEIC 600点以上\nSAS/Rプログラミングスキル、生物統計トレーニング&#xff08;BioS等&#xff09;\n\n【職務経験】\n臨床開発における統計業務経験歴&#xff08;統計解析計画書作成含む&#xff09;&#xff15;年以上\n特にワクチンの開発経験、意欲があることが望ましい。\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "infectious",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "company_id": "pfizer",
+    "external_id": "4948334",
+    "title": "[R&D] ジャパン スタディ マネジャー/Japan Study Manager",
+    "department": "4948334",
+    "location": "Japan - Tokyo",
+    "job_category": "clinical",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--R-D-----Japan-Study-Manager_4948334-1",
+    "description": "職務内容\n\nスタディ・マネジャーは、日本国内において治験の管理・監督を担い、CROや治験実施医療機関と連携しながら、治験参加者の安全と福祉、治験の品質を確保し、治験の計画通りの実施をリードします。グローバル・ローカル双方と連携し、課題解決や進捗管理も担当します。\n\nJOB SUMMARY & RESPONSIBILITIES\n\nResponsible for in country study/site management and clinical/scientific oversight activities of assigned clinical trials to ensure patient safety and quality study execution in accordance with applicable prevailing laws, Good Clinical Practices (GCP), and Pfizer standards.\nProvides quality oversight to the CRO and of the CRO deliverables related to study execution. Leads and coordinates the execution of a clinical trial from study start-up through database release and inspection readiness to ensure timely delivery of quality study data. Provides leadership to the teams in the setting of realistic recruitment targets and delivery milestones as the single point of accountability for detailed study start-up and monitoring plans and for delivery to the agreed plans\nAct as core member of the Study Team and will represent the CRO on matters of study execution.\nAccountable for managing investigator site relationships to ensure effective delivery of clinical trials (e.g., study start up, enrollment, database release), to safeguard the quality of investigator sites (e.g., site health, patient safety) and to maintain investigator and study coordinator engagement and satisfaction.\nActs as local expert for the assigned clinical trials and brings that expertise to support the investigator site, which includes the investigator, study coordinator, pharmacist etc, and to oversee and support the site monitor in the conduct of clinical trials. This role is responsible for the resolution of protocol-related issues at the local level.\nEnsure timely communication with bidirectionally between global and local study team.\n\nQUALIFICATIONS / SKILLS\n\nTraining and Education Preferred:\n\n• Study management and site management experience\n\n• Working knowledge of GCPs, monitoring, clinical and regulatory operations\n\n• BS – minimum of 4 years relevant experience\n\n• MS/PhD – minimum of 2 years relevant experience\n\nLanguage:\n\n• Excellent writing and communication skills in both Japanese and English is required.\n\n  \n \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "/ SKILLS\n\nTraining and Education Preferred:\n\n• Study management and site management experience\n\n• Working knowledge of GCPs, monitoring, clinical and regulatory operations\n\n• BS – minimum of 4 years relevant experience\n\n• MS/PhD – minimum of 2 years relevant experience\n\nLanguage:\n\n• Excellent writing and communication skills in both Japanese and English is required.\n\n  \n \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6065,7 +6201,24 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "company_id": "pfizer",
+    "external_id": "4945615",
+    "title": "[MA] ONC Hematology Field MAS (専門管理職/一般社員）",
+    "department": "4945615",
+    "location": "Japan - Tokyo",
+    "job_category": "medical",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/ONC-MA-Hematology-Field-MAS----_4945615-1",
+    "description": "JOB POSITION PURPOSE \n\nThe MAS role family comprises a variety of medical scientific specialties, such as BU Medical and field based Medical.\nBe the Pfizer Japan medical scientific point of contact for HCPs, medical societies, regulators, academia and other external stakeholders.\nMaintain the highest scientific standards, independence and compliance in every medical/scientific external activity, as well as in scope internal processes.\n\nMAIN RESPONSIBILITIES:\n\nDemonstrate medical and scientific leadership and expertise\n\nProvide and exchange medical/ scientific information for/from medical institutions (and other related sources) in the assigned area and from stakeholders.\nDrive for heightened understanding of the clinical and medical attributes of our products in order to enhance the safe and efficacious use.\nMaintain the highest scientific standards during in/ external activities to provide deep medical and scientific expertise.\nContribute to the implementation of local medical strategies and life cycle clinical plans for inline and pipeline medicines / vaccines to address unmet medical needs and fill data gaps.\nMake important contributions to decisions of medical strategies for assigned products, in order to ensure safe, proper, and effective use of assigned products. These activities contribute to patients (and populations) health and well-being and to healthcare professionals from a medical, and pharmaceutical perspective, and potentially to clinical study needs and design.\nContribute to achieving the department/team goals, and/or participate in cross-organizational projects as a core member and provide guidance to deliver the results.\nPlay an active role in supporting members in the team/organization with the line manager to move towards its goals\n\nDevelop and execute the medical plan aligned with the medical strategy to meet unmet medical needs in the assigned product(s) and therapeutic area(s) in collaboration with office medical\n\nIdentify unmet medical needs and healthcare disparities in the assigned asset(s) and therapeutic area(s) through medical activities such as advisory board meetings and scientific exchanges with HCPs and other relevant individuals and organizations.\nCreate an activity plan as Medical with senior Medical management to address the needs and fill data gaps.\nDevelop a Customer Facing Medical Plan in the therapeutic area(s) and asset(s) to establish collaborative scientific relationships with stakeholders.\nExecute the Customer Facing Medical Plan in the assigned area(s) / asset(s) such as unbiased medical and scientific communication with HCPs, medical advisory board meetings, educational seminars, and data generation initiatives, medical materials creation, and necessary scientific input.\nProvide subject matter expertise and high-quality scientific exchange, bringing insights into the organization to help shape strategy.\n\nCollaborate with medical stakeholders as a scientific expert for HCPs, medical societies, academia, and other relevant organizations.\n\nEstablish a strong collaborative scientific relationship through non-promotional activities such as scientific exchanges (e.g., discussion using the latest research papers and follow-up of contents of academic conference presentations) with relevant stakeholders in the assigned area.\nDevelop and maintain a comprehensive stakeholder map to identify relevant HCPs, medical societies, and other relevant external stakeholders to communicate effectively and agilely at an expert level.\nHandle UMR (Unsolicited Medical Request) responses, provide accurate, high-quality, and unbiased information to relevant external experts and HCPs as allowed by Pfizer policies and sharing customer viewpoints with Pfizer as appropriate.\nFollow up clinical investigator-sponsored research and medical grants compliant with Pfizer policies.\nAcquire extensive medical/pharmaceutical information and gather the latest medical information in the assigned area as a scientific matter expert.\nDeliver key medical and scientific activities within the medical plan, e.g., high-quality educational materials, generation of real-world evidence, non-interventional studies, database studies and registries (in collaboration with the Health & Value team) and ensure timely publication of data.\n\nEstablish a highly reliable, long-term relationship with stakeholders.\n\nEstablish deep and enduring peer-to-peer scientific relationships with leading HCPs and specialists, including non-traditional partners and key decision makers.\nMaintain and enhance the cross-BU alignment on metrics\nEnsure to collect necessary information and analyze insights prior to the meetings in order to provide deep medical and scientific expertise to stakeholders and HCPs\nFor identifying unmet needs and healthcare disparities as well as contributing to the medical strategy, acquire extensive medical/ pharmaceutical information in the assigned area.\nProvide feedback on information and views obtained from stakeholders and HCPs, for related relevant department in the company, and consolidate them as Medical/ Public Health/ Healthcare insights.\nEnhance opportunities for creation of evidence based on medical needs by sharing issues in the medical field with internal/ external stakeholders through constructive and cross-functional partnership based upon scientific and medical excellence\nOptimize patient centricity of medical communications and deliverables, incorporating Health Literacy and cultural awareness principles to ensure that patients remain the ultimate focus\n\nAlign, contribute, and collaborate with relevant internal stakeholders \n\nProvide information on expert / HCP / relevant others feedback on product life cycle strategies to related divisions/departments in the company.\n Collect and analyze unmet medical needs and seek solutions in collaboration with cross functional colleagues in the company.\nScientific input for scientific meetings and materials.\nProvide medical education programs with and to relevant stakeholders.\n\nObserve the code of conduct, company’s regulations, and compliance, appropriate communication with related departments, and exercise leadership in POJ.\n\nConduct activities in compliance with the MHLW Guidelines for Prescription Drug Sales Information Activities.\nEnsure activities and communications are conducted in compliance with all policies, guidelines, and regulations.\n\nEnsure awareness of responsibility for reporting adverse events \n\nFor all Pfizer products, observe applicable laws/regulations and the Pfizer policy, and “Gather and report safety information*”. At an appropriate timing, attend training programs on obligation of assigned safety reporting.\n\nAS NEEDED:\n\nContribute to Business Development in the assigned area(s): In collaboration with Japan Medical Lead, Japan Medical Affairs Product Lead, Global MA members and other members from relevant functions, identify unmet medical needs and candidate therapies for potential medical interventions in the assigned therapeutic area(s) in Japan through medical activities such as advisory boards and consultations with medical experts while keeping confidentiality.\nRapidly respond to critical supply issues from the medical perspective (e.g., rapid communications with academic societies and regulatory authorities)  \n\nREQUIRED SKILL SET \n\nEducation: \n\nMinimum requirement\n\n4 year university undergraduate degree AND master’s degree in life science, or  \nPharmacists 4-year university graduates with pharmacist license and\n\nmaster’s degree or above or equivalent life science research experience, or\n\n6–year university graduates with pharmacist license, or\nNurses with master’s degree or above, or \nVeterinarians, or \nDentists, or \nMDs \n\nPreferred\n\nIn addition to those who meet the minimum requirements above, the qualifications below are preferred \nMD (clinical experience, board certification preferred), or  \nPhD in Life Science  \n\nTechnical Skills:\n\nMedical/ pharmaceutical expert knowledge of therapeutic disease area/ products\nAbility to communicate appropriately and build good relationship with internal/external stakeholders\nWork effectively with teams and across functions by demonstrate Pfizer’s Values & Behaviors and the agility to learn from others\nCapable of medical discussion with relevant departments and external HCPs. \nA person who understands compliance and relevant laws/regulations in the pharmaceutical industry and advocates the appropriate use of the products. \nCan demonstrate appropriate knowledge and understanding of internal organization structure, key stakeholders and strategies\nA person who is able to quickly acquire necessary medical/ scientific knowledge and skills though self-learning\n\nExperience \n\nWork experience at functions of: Medical Affairs; Development and/or Research preferred \n Scientific publication experience preferred \nMedical science liaison experience preferred\nClinical research experience\n\nLanguage\n\nAble to understand written and spoken English and Japanese in assigned therapeutic disease area, and scientific interactions \nMinimum TOEIC score of 730 preferred\n\n \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "SKILL SET \n\nEducation: \n\nMinimum requirement\n\n4 year university undergraduate degree AND master’s degree in life science, or  \nPharmacists 4-year university graduates with pharmacist license and\n\nmaster’s degree or above or equivalent life science research experience, or\n\n6–year university graduates with pharmacist license, or\nNurses with master’s degree or above, or \nVeterinarians, or \nDentists, or \nMDs",
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6082,7 +6235,24 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "company_id": "pfizer",
+    "external_id": "4944847",
+    "title": "[MA] Dermatology, MAS(Field) Manager",
+    "department": "4944847",
+    "location": "Japan - Tokyo",
+    "job_category": "medical",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--MA--Dermatology--MAS-Field--Manager_4944847",
+    "description": "MAIN REPONSIBILITIES / DUTIESJOB POSITION PURPOSE \n\nThe MAS role family comprises a variety of medical scientific specialties, such as BU Medical and field based Medical.\nBe the Pfizer Japan medical scientific point of contact for HCPs, medical societies, regulators, academia and other external stakeholders.\nMaintain the highest scientific standards, independence and compliance in every medical/scientific external activity, as well as in scope internal processes.\n\nMAIN RESPONSIBILITIES:\n\nCollaborate with medical stakeholders as a scientific expert for HCPs, medical societies, academia, and other relevant organizations.\n\nEstablish a strong collaborative scientific relationship through non-promotional activities such as scientific exchanges (e.g., discussion using the latest research papers and follow-up of contents of academic conference presentations) with relevant stakeholders in dermatology.\nDevelop and maintain a comprehensive stakeholder map to identify relevant HCPs, medical societies, and other relevant external stakeholders to communicate effectively and agilely at an expert level. \nHandle UMR (Unsolicited Medical Request) responses, provide accurate, high-quality, and unbiased information to relevant external experts and HCPs as allowed by Pfizer policies and sharing customer viewpoints with Pfizer as appropriate. \nFollow up clinical investigator-sponsored research and medical grants compliant with Pfizer policies.\nAcquire extensive medical/pharmaceutical information and gather the latest medical information in the assigned area as a scientific matter expert.\nDeliver key medical and scientific activities within the medical plan, e.g., high-quality educational materials, generation of real-world evidence, non-interventional studies, database studies and registries (in collaboration with the Health & Value team) and ensure timely publication of data.\n\nDemonstrate medical and scientific leadership and expertise\n\nProvide and exchange medical/ scientific information for/from medical institutions (and other related sources) in the assigned area and from stakeholders.\nDrive for heightened understanding of the clinical and medical attributes of our products in order to enhance the safe and efficacious use.\nMaintain the highest scientific standards during in/ external activities to provide deep medical and scientific expertise.\nContribute to the implementation of local medical strategies and life cycle clinical plans for inline and pipeline medicines / vaccines to address unmet medical needs and fill data gaps.\nMake important contributions to decisions of medical strategies for assigned products, in order to ensure safe, proper, and effective use of assigned products. These activities contribute to patients (and populations) health and well-being and to healthcare professionals from a medical, and pharmaceutical perspective, and potentially to clinical study needs and design.\nContribute to achieving the department/team goals, and/or participate in cross-organizational projects as a core member and provide guidance to deliver the results.\nPlay an active role in supporting members in the team/organization with the line manager to move towards its goals\n\nDevelop and execute the medical plan aligned with the medical strategy to meet unmet medical needs in the assigned product(s) and therapeutic area(s) in collaboration with office medical\n\nIdentify unmet medical needs and healthcare disparities in the assigned asset(s) and therapeutic area(s) through medical activities such as advisory board meetings and scientific exchanges with HCPs and other relevant individuals and organizations.\nCreate an activity plan as Medical with senior Medical management to address the needs and fill data gaps.\nDevelop a Customer Facing Medical Plan in the therapeutic area(s) and asset(s) to establish collaborative scientific relationships with stakeholders.\nExecute the Customer Facing Medical Plan in the assigned area(s) / asset(s) such as unbiased medical and scientific communication with HCPs, medical advisory board meetings, educational seminars, and data generation initiatives, medical materials creation, and necessary scientific input.\nProvide subject matter expertise and high-quality scientific exchange, bringing insights into the organization to help shape strategy.\n\nEstablish a highly reliable, long-term relationship with stakeholders.\n\nEstablish deep and enduring peer-to-peer scientific relationships with leading HCPs and specialists, including non-traditional partners and key decision makers.\nMaintain and enhance the cross-BU alignment on metrics\nEnsure to collect necessary information and analyze insights prior to the meetings in order to provide deep medical and scientific expertise to stakeholders and HCPs\nFor identifying unmet needs and healthcare disparities as well as contributing to the medical strategy, acquire extensive medical/ pharmaceutical information in the assigned area.\nProvide feedback on information and views obtained from stakeholders and HCPs, for related relevant department in the company, and consolidate them as Medical/ Public Health/ Healthcare insights.\nEnhance opportunities for creation of evidence based on medical needs by sharing issues in the medical field with internal/ external stakeholders through constructive and cross-functional partnership based upon scientific and medical excellence\nOptimize patient centricity of medical communications and deliverables, incorporating Health Literacy and cultural awareness principles to ensure that patients remain the ultimate focus\n\nAlign, contribute, and collaborate with relevant internal stakeholders \n\nProvide information on expert / HCP / relevant others feedback on product life cycle strategies to related divisions/departments in the company.\n Collect and analyze unmet medical needs and seek solutions in collaboration with cross functional colleagues in the company.\nScientific input for scientific meetings and materials.\nProvide medical education programs with and to relevant stakeholders.\n\nObserve the code of conduct, company’s regulations, and compliance, appropriate communication with related departments, and exercise leadership in POJ.\n\nConduct activities in compliance with the MHLW Guidelines for Prescription Drug Sales Information Activities.\nEnsure activities and communications are conducted in compliance with all policies, guidelines, and regulations.\n\nEnsure awareness of responsibility for reporting adverse events \n\nFor all Pfizer products, observe applicable laws/regulations and the Pfizer policy, and “Gather and report safety information*”. At an appropriate timing, attend training programs on obligation of assigned safety reporting.\n\nREQUIRED SKILL SETEducation: \n\nMinimum requirement\n\n4 year university undergraduate degree AND master’s degree in life science, or  \nPharmacists 4-year university graduates with pharmacist license and\n\nmaster’s degree or above or equivalent life science research experience, or\n\n6–year university graduates with pharmacist license, or\nNurses with master’s degree or above, or \nVeterinarians, or \nDentists, or \nMDs \n\nPreferred\n\nIn addition to those who meet the minimum requirements above, the qualifications below are preferred \nMD (clinical experience, board certification preferred), or  \nPhD in Life Science  \n\nTechnical Skills:\n\nMedical/ pharmaceutical expert knowledge of therapeutic disease area/ products\nAbility to communicate appropriately and build good relationship with internal/external stakeholders\nWork effectively with teams and across functions by demonstrate Pfizer’s Values & Behaviors and the agility to learn from others\nCapable of medical discussion with relevant departments and external HCPs. \nA person who understands compliance and relevant laws/regulations in the pharmaceutical industry and advocates the appropriate use of the products. \nCan demonstrate appropriate knowledge and understanding of internal organization structure, key stakeholders and strategies\nA person who is able to quickly acquire necessary medical/ scientific knowledge and skills though self-learning\n\nExperience \n\nWork experience at functions of: Medical Affairs; Development and/or Research preferred \n Scientific publication experience preferred \nMedical science liaison experience preferred\nClinical research experience\n\nLanguage\n\nAble to understand written and spoken English and Japanese in assigned therapeutic disease area, and scientific interactions \nMinimum TOEIC score of 730 preferred\n\nAS NEEDED:\n\nContribute to Business Development in the assigned area(s): In collaboration with Japan Medical Lead, Japan Medical Affairs Product Lead, Global MA members and other members from relevant functions, identify unmet medical needs and candidate therapies for potential medical interventions in the assigned therapeutic area(s) in Japan through medical activities such as advisory boards and consultations with medical experts while keeping confidentiality.\nRapidly respond to critical supply issues from the medical perspective (e.g., rapid communications with academic societies and regulatory authorities)  \n\nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "SKILL SETEducation: \n\nMinimum requirement\n\n4 year university undergraduate degree AND master’s degree in life science, or  \nPharmacists 4-year university graduates with pharmacist license and\n\nmaster’s degree or above or equivalent life science research experience, or\n\n6–year university graduates with pharmacist license, or\nNurses with master’s degree or above, or \nVeterinarians, or \nDentists, or \nMDs",
+    "therapeutic_area": "infectious",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6099,7 +6269,24 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "company_id": "pfizer",
+    "external_id": "4942266",
+    "title": "[ONC] Hematology Oncology Commerical Lead",
+    "department": "4942266",
+    "location": "Japan - Tokyo",
+    "job_category": "sales",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/Hematology-Oncology-Commerical-Lead_4942266-1",
+    "description": "The Oncology team is looking for a Commercial Director who will lead the commercial organization of Marketing and the customer-facing SME organization (HSP) for our growing Hematology Portfolio – Elrexfio and Besponsa. Elrexfio is expected to hit ~$100m in annual sales in 2025 and will be one of Pfizer Japan’s Top Priority Brands in OP26. Besponsa is indicated for Acute Lymphoblastic Leukemia (ALL) which is a cancer with a high unmet need. Besponsa is a smaller product of great reputational importance given the high unmet need it serves. Besponsa received approval for pediatric ALL in March 2024. This leadership role will be responsible for delivering ~$120m revenue target in 2026OP. The Director will manage an organization of ~15-17 people including ~6 Marketers and 1 HSP Customer Facing Team of 8-10, requiring seasoned leadership experience and people management skills. Specifically to lead customer facing team, the Director will set effective KPIs to assess HSP’s performance and guide the execution in the field.  \n\nElrexfio is the largest growth driver for Oncology and one of Pfizer Japan’s largest growth drivers with the potential to be one of Japan’s largest products by 2030. This role will require a strategic thinking commercial leader who can lead the brand to continued growth on the back of several label expanding indication launches in a highly competitive market with major multinational competitors in Jannsen and GSK. The Director will develop the strategic plans to maximize Elrexfio’s market leadership.  \n\nBesponsa: The Director will be expected to maximize growth and poatinet impact with this smaller but very important product. He/she will be asked to leverage our existing Hematology capabilities and explore additional opportunities to expand our Hematology presence as we aspire to become the Premier Oncology Company in Japan.\n\nThe Director will effectively activate a newly created customer facing HSP team to deliver the scientific value expected in a highly complex Heme-Onc therapeutic area.\n\nAs a member of the Japan Oncology Leadership Team, the Commercial Lead will be responsible for leading strategic brand planning, Elrexfio life cycle management, omnichannel strategy, and execution of operational plans to meet customer needs, optimize patient outcomes, and deliver on Oncology commercial goals. The Commercial Lead will lead a high-performing, engaged, and innovative team, championing their continued growth and development and committing to successfully embracing the Co-lab model.\n\n1. Strategic Planning and Execution: Lead all aspects of strategic brand planning and commercial management, delivering strategies and executing tactics to achieve financial budget (revenue and IBT in Operating Plan) for the portfolio\n\n2. Strategic Prioritization : Make trade-off decisions to prioritize focus areas and spend investment to maximize brand and launch performance\n\n3. Organizational Leadership: Lead, mentor, and manage a team of marketing talents and customer-facing colleagues, fostering a culture of collaboration, innovation, and excellence\n\n3. Executional leadership of Customer Facing Team: Mobilize customer facing team (HSP) with clear KPI and execution guidance (e.g. allocation, segmentation & targeting)  to ensure impactful execution in the field  \n\n4. Omni-channel strategy : Lead the development and execution of Brand Plans, including developing robust omnichannel strategies and content to meet customer needs, optimize patient outcomes and maximise brand opportunities and values.\n\n5. Shaping external market landscape : Proactively shape the market for new launches and navigate the external uncertainty\n\n6. Cross functional leadership: Partner and collaborate with relevant Global & ICO teams and locally with sales, P&HE, ISE and cross functional to deliver the outcomes \n\n7. Financial accountability: Partner with Finance to develop business forecasts and regularly track performance against budget targets\n\n8. Integrity: Partner with medical affairs, regulatory, legal and compliance to ensure strict adherence to promotional guidelines and 100% compliance with all law, regulation, SOP, internal or external rule/policies.\n\nBehavioral Skills \n\nUnderstanding and demonstration of all actionable attitudes\nStrong enthusiastic leadership and ownership mindset to drive the business.\nRobust logical thinking capability for analyzing data and information, and for communicating with senior management in a well-organized way.\n Strong problem-solving capability demonstrated in the ability to connect the dots (understand interdependency) and to prioritize data and information.\nStrong ability to be insightful, innovative, entrepreneurial, and collaborative.\nTrack-record of active contribution to create and operate in an environment that continuously embraces and encourages the implementation of innovative ideas\nDeep customer insight informs idea creation and innovative marketing strategy\nDemonstrated ability of working with and influence on multiple internal stakeholders and functions, including global, cross functional and other BU colleagues.\nDemonstrated ability to develop KOL and external stakeholder relationships and networks\nAbility to develop future Pfizer leaders by coaching, as well as outstanding human-relationship capability for team building is required.\nProven collaboration skills to effectively influence, guide, coach peers and other colleagues to achieve meaningful outcomes and create positive business impact\n\nTechnical Skills \n\nStrong competency in commercial strategy and execution\nExcellent financial acumen in addition IT literacy for forecasting and business case development.\nKnowledge of pharmaceutical and healthcare industry and external environment.\nStrong track record of compliance, integrity\nExcellent presentation skill, communication skill, coaching skills and English skills\nStrong project and process management skills, along with the ability to work on multiple tasks and to prioritize effectively\n\nExperience \n\nExtensive experience developing and implementing pharmaceutical business strategy.\nExperiences in building high performing team that includes Customer Facing team\nExperience in leading and developing talents to achieve the aspirational goals\nExperience in developing and implementing omnichannel marketing strategy\nProven track record of leading projects, driving changes, and organizing teams that successfully achieve milestones and deliverables.\nExperience working in multiple cultures and demonstrated ability to work effectively across cultures.\n\n \nWork Location Assignment: On Premise\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Marketing and Market Research",
+    "requirements": ".\nProven collaboration skills to effectively influence, guide, coach peers and other colleagues to achieve meaningful outcomes and create positive business impact\n\nTechnical Skills \n\nStrong competency in commercial strategy and execution\nExcellent financial acumen in addition IT literacy for forecasting and business case development.\nKnowledge of pharmaceutical and healthcare industry and external environment.\nStrong track record of compliance, integrity\nExcellent presentation skill, communication skill, coaching skills and English skills\nStrong project and process management skills, along with the ability to work on multiple tasks and to prioritize effectively\n\nExperience \n\nExtensive experience developing and implementing pharmaceutical business strategy.\nExperiences in building high performing team that includes Customer Facing team\nExperience in leading and developing talents to achieve the aspirational goals\nExperience in developing and implementing omnichannel marketing strategy\nProven track record of leading projects, driving changes, and organizing teams that successfully achieve milestones and deliverables.\nExperience working in multiple cultures and demonstrated ability to work effectively across cultures.\n\n \nWork Location Assignment: On Premise\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Marketing and Market Research",
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6116,7 +6303,41 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "company_id": "pfizer",
+    "external_id": "4934109",
+    "title": "[MA] Amyloidosis, Medical Affairs Scientist",
+    "department": "4934109",
+    "location": "Japan - Tokyo",
+    "job_category": "rd",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/Amyloidosis--Medical-Affairs-Scientist_4934109-1",
+    "description": "MAIN REPONSIBILITIES / DUTIESJOB POSITION PURPOSE \n\nThe MAS role family comprises a variety of medical scientific specialties, such as BU Medical and field based Medical.\nBe the Pfizer Japan medical scientific point of contact for HCPs, medical societies, regulators, academia and other external stakeholders.\nMaintain the highest scientific standards, independence and compliance in every medical/scientific external activity, as well as in scope internal processes.\n\nMAIN RESPONSIBILITIES:\n\nDemonstrate medical and scientific leadership and expertise\n\nProvide and exchange medical/ scientific information for/from medical institutions (and other related sources) in the assigned area and from stakeholders.\nDrive for heightened understanding of the clinical and medical attributes of our products in order to enhance the safe and efficacious use.\nMaintain the highest scientific standards during in/ external activities to provide deep medical and scientific expertise.\nContribute to the implementation of local medical strategies and life cycle clinical plans for inline and pipeline medicines / vaccines to address unmet medical needs and fill data gaps.\nMake important contributions to decisions of medical strategies for assigned products, in order to ensure safe, proper, and effective use of assigned products. These activities contribute to patients (and populations) health and well-being and to healthcare professionals from a medical, and pharmaceutical perspective, and potentially to clinical study needs and design.\nContribute to achieving the department/team goals, and/or participate in cross-organizational projects as a core member and provide guidance to deliver the results.\nPlay an active role in supporting members in the team/organization with the line manager to move towards its goals\n\nDevelop and execute the medical plan aligned with the medical strategy to meet unmet medical needs in the assigned product(s) and therapeutic area(s) in collaboration with office medical\n\nIdentify unmet medical needs and healthcare disparities in the assigned asset(s) and therapeutic area(s) through medical activities such as advisory board meetings and scientific exchanges with HCPs and other relevant individuals and organizations.\nCreate an activity plan as Medical with senior Medical management to address the needs and fill data gaps.\nDevelop a Customer Facing Medical Plan in the therapeutic area(s) and asset(s) to establish collaborative scientific relationships with stakeholders.\nExecute the Customer Facing Medical Plan in the assigned area(s) / asset(s) such as unbiased medical and scientific communication with HCPs, medical advisory board meetings, educational seminars, and data generation initiatives, medical materials creation, and necessary scientific input.\nProvide subject matter expertise and high-quality scientific exchange, bringing insights into the organization to help shape strategy.\n\nCollaborate with medical stakeholders as a scientific expert for HCPs, medical societies, academia, and other relevant organizations.\n\nEstablish a strong collaborative scientific relationship through non-promotional activities such as scientific exchanges (e.g., discussion using the latest research papers and follow-up of contents of academic conference presentations) with relevant stakeholders in the assigned area.\nDevelop and maintain a comprehensive stakeholder map to identify relevant HCPs, medical societies, and other relevant external stakeholders to communicate effectively and agilely at an expert level.\nHandle UMR (Unsolicited Medical Request) responses, provide accurate, high-quality, and unbiased information to relevant external experts and HCPs as allowed by Pfizer policies and sharing customer viewpoints with Pfizer as appropriate.\nFollow up clinical investigator-sponsored research and medical grants compliant with Pfizer policies.\nAcquire extensive medical/pharmaceutical information and gather the latest medical information in the assigned area as a scientific matter expert.\nDeliver key medical and scientific activities within the medical plan, e.g., high-quality educational materials, generation of real-world evidence, non-interventional studies, database studies and registries (in collaboration with the Health & Value team) and ensure timely publication of data.\n\nEstablish a highly reliable, long-term relationship with stakeholders.\n\nEstablish deep and enduring peer-to-peer scientific relationships with leading HCPs and specialists, including non-traditional partners and key decision makers.\nMaintain and enhance the cross-BU alignment on metrics\nEnsure to collect necessary information and analyze insights prior to the meetings in order to provide deep medical and scientific expertise to stakeholders and HCPs\nFor identifying unmet needs and healthcare disparities as well as contributing to the medical strategy, acquire extensive medical/ pharmaceutical information in the assigned area.\nProvide feedback on information and views obtained from stakeholders and HCPs, for related relevant department in the company, and consolidate them as Medical/ Public Health/ Healthcare insights.\nEnhance opportunities for creation of evidence based on medical needs by sharing issues in the medical field with internal/ external stakeholders through constructive and cross-functional partnership based upon scientific and medical excellence\nOptimize patient centricity of medical communications and deliverables, incorporating Health Literacy and cultural awareness principles to ensure that patients remain the ultimate focus\n\nAlign, contribute, and collaborate with relevant internal stakeholders \n\nProvide information on expert / HCP / relevant others feedback on product life cycle strategies to related divisions/departments in the company.\n Collect and analyze unmet medical needs and seek solutions in collaboration with cross functional colleagues in the company.\nScientific input for scientific meetings and materials.\nProvide medical education programs with and to relevant stakeholders.\n\nObserve the code of conduct, company’s regulations, and compliance, appropriate communication with related departments, and exercise leadership in POJ.\n\nConduct activities in compliance with the MHLW Guidelines for Prescription Drug Sales Information Activities.\nEnsure activities and communications are conducted in compliance with all policies, guidelines, and regulations.\n\nEnsure awareness of responsibility for reporting adverse events \n\nFor all Pfizer products, observe applicable laws/regulations and the Pfizer policy, and “Gather and report safety information*”. At an appropriate timing, attend training programs on obligation of assigned safety reporting.\n\nAS NEEDED:\n\nContribute to Business Development in the assigned area(s): In collaboration with Japan Medical Lead, Japan Medical Affairs Product Lead, Global MA members and other members from relevant functions, identify unmet medical needs and candidate therapies for potential medical interventions in the assigned therapeutic area(s) in Japan through medical activities such as advisory boards and consultations with medical experts while keeping confidentiality.\nRapidly respond to critical supply issues from the medical perspective (e.g., rapid communications with academic societies and regulatory authorities)  \n\nREQUIRED SKILL SET \n\nEducation: \n\nMinimum requirement\n\n4 year university undergraduate degree AND master’s degree in life science, or  \nPharmacists 4-year university graduates with pharmacist license and master’s degree or above or equivalent life science research experience, or\n6–year university graduates with pharmacist license, or\n\nNurses with master’s degree or above, or \nVeterinarians, or \nDentists, or \nMDs \n\nPreferred\n\nIn addition to those who meet the minimum requirements above, the qualifications below are preferred \nMD (clinical experience, board certification preferred), or  \nPhD in Life Science  \n\nTechnical Skills:\n\nMedical/ pharmaceutical expert knowledge of therapeutic disease area/ products\nAbility to communicate appropriately and build good relationship with internal/external stakeholders\nWork effectively with teams and across functions by demonstrate Pfizer’s Values & Behaviors and the agility to learn from others\nCapable of medical discussion with relevant departments and external HCPs. \nA person who understands compliance and relevant laws/regulations in the pharmaceutical industry and advocates the appropriate use of the products. \nCan demonstrate appropriate knowledge and understanding of internal organization structure, key stakeholders and strategies\nA person who is able to quickly acquire necessary medical/ scientific knowledge and skills though self-learning\n\nExperience \n\nWork experience at functions of: Medical Affairs; Development and/or Research preferred \n Scientific publication experience preferred \nMedical science liaison experience preferred\nClinical research experience\n\nLanguage\n\nAble to understand written and spoken English and Japanese in assigned therapeutic disease area, and scientific interactions \nMinimum TOEIC score of 730 preferred\n\nWork Location Assignment: リモート – フィールドベース\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "SKILL SET \n\nEducation: \n\nMinimum requirement\n\n4 year university undergraduate degree AND master’s degree in life science, or  \nPharmacists 4-year university graduates with pharmacist license and master’s degree or above or equivalent life science research experience, or\n6–year university graduates with pharmacist license, or\n\nNurses with master’s degree or above, or \nVeterinarians, or \nDentists, or \nMDs",
+    "therapeutic_area": "infectious",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "company_id": "pfizer",
+    "external_id": "4931294",
+    "title": "[MA] Associate Mgr/Mgr, Lung Cancer, ONC, MAS",
+    "department": "4931294",
+    "location": "Japan - Tokyo",
+    "job_category": "medical",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--MA--Associate-Mgr-Mgr--Lung-Cancer--ONC--MAS_4931294",
+    "description": "MAIN REPONSIBILITIES / DUTIES\n\nMAIN REPONSIBILITIES:\n\nContribute to the development and implementation of a product strategy as a core member of the Product Team by conducting medical strategy and delivering medical and scientific advice both internally and externally to ensure that the short and long term business goals of assigned products are achieved and that the interests of the customer and Pfizer are safeguarded.\nEnsure implementation of appropriate global and Japan medical strategies into actions by acting as an interface with regional and global asset and marketing colleagues\n*Non-manager gain support from Sr. Manager to fulfil responsibilities\n\nExecute Medical plan to meet unmet medical needs related to products in the assigned area\n\nCreate Medical Plan in the assets in collaboration with Therapeutic area Medical Team Lead.\nExecute some part of Medical Plan in the assigned area such as medical advisory board meeting, publication, promotional documents review in collaboration with Therapeutic Area Medical Team Leads.\nProvide information on customer’s feedback on product development and life cycle strategies to related divisions/department in the company.\nSupport promotional document review in collaboration with Therapeutic area Medical Team Lead\nSupport medical/scientific education to MRs in disease areas.\nMedical & Scientific communication (Meet domestic/ global medical KOLs and provide/exchange scientific information)\n\nEstablish a good and highly reliable relationship through non-promotional activities such as scientific exchanges (e.g. discussion using latest research papers and follow-up of contents of academic conference presentations) with domestic top-level medical KOLs in the assigned area.\nFor creating Medical Plan, acquire extensive medical/pharmaceutical information and gather latest medical information in the assigned area.\nIn response to UMR (Unsolicited Medical Request: spontaneous request for medical information), provide accurate, high-quality and unbiased information to important customers, stakeholders and medical relevant colleagues.\nMedical & Scientific communication (Meet domestic KOLs and provide/exchange scientific information)\nREQUIRED SKILL SET\n\nBehavioral Skills: Strategic thinking, logical thinking, creativity/innovativeness, negotiating ability, communication ability, decision-making ability, cooperativeness, influence, cultivating ability and organizing ability\nTechnical Skills: A person with medical/pharmaceutical expert knowledge of therapeutic disease area/ products, capable of medical discussion with relevant departments and external HCPs. A person who understands compliance and relevant laws/regulations in the pharmaceutical industry and advocates the appropriate use of the products. A person who can create innovative goal and lead cross functional group to accomplish goals. To demonstrate appropriate knowledge and understanding of internal organization structure, key stakeholders and needs of company\nExperience: Preferable to have experiences in Clinical Development and/or Medical Affairs in oncology area or equivalent experiences.\nEducation/ Certification: Medical doctor, Pharmacist, or Master of science\nLanguage: Able to understand English literature in assigned therapeutic disease area. English communication skill sufficient for presentation and discussion on assigned therapeutic disease area in meetings/teleconferences or e-mails.\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "SKILL SET\n\nBehavioral Skills: Strategic thinking, logical thinking, creativity/innovativeness, negotiating ability, communication ability, decision-making ability, cooperativeness, influence, cultivating ability and organizing ability\nTechnical Skills: A person with medical/pharmaceutical expert knowledge of therapeutic disease area/ products, capable of medical discussion with relevant departments and external HCPs. A person who understands compliance and relevant laws/regulations in the pharmaceutical industry and advocates the appropriate use of the products. A person who can create innovative goal and lead cross functional group to accomplish goals. To demonstrate appropriate knowledge and understanding of internal organization structure, key stakeholders and needs of company\nExperience: Preferable to have experiences in Clinical Development and/or Medical Affairs in oncology area or equivalent experiences.\nEducation/ Certification: Medical doctor, Pharmacist, or Master of science\nLanguage: Able to understand English literature in assigned therapeutic disease area. English communication skill sufficient for presentation and discussion on assigned therapeutic disease area in meetings/teleconferences or e-mails.\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   },
   {
@@ -6133,7 +6354,24 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "company_id": "pfizer",
+    "external_id": "4950623",
+    "title": "[R&D] Japan Clinical Leader",
+    "department": "4950623",
+    "location": "Japan - Tokyo",
+    "job_category": "clinical",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--R-D--Japan-Clinical-Leader_4950623-1",
+    "description": "1. Objectives\n\nResponsible for clinical development of the assigned project in Japan under the supervision of the Japan Development Leader (JDL), who assumes responsibility for development of all projects in Japan in the respective therapeutic/disease area (TA/DA). Exercises proactive leadership in the project and obtains approval in Japan. Works with the Global Clinical Leader (GCL) and Clinicians to formulate and execute the global and Japan development strategies of the project. \n\n2. Roles and Responsibilities\n\nEvaluate candidates for development in the assigned TA/DA from scientific and technical aspects and formulate an effective development plan for Japan with the JDL and the global team. Contribute to establishing the global development plan by discussing points to consider in developing the product (including biomarkers and diagnostics) and obtaining approval in Japan (e.g. medical practice, communication with the government) with the global team and considering strategies towards early launch. \nEstablish good working relationships with internal and external stakeholders [e.g. key opinion leaders (KOL), academic society, patient group] to enhance the possibility of expedited development and early approval with the JDL and senior JCL. \nLead Japan Development Team (JDT) and clinical studies of assigned project to success in cooperation with JDT and global team members. \nCommunicate closely with the GCL and Clinicians in Worldwide Research and Development (WRD) and respective Business Units (BU) and build and execute an effective development strategy. \nPrepare high quality documents (e.g.study outline, briefing document, CTD, query response, publications) and review them. \nWhen a Clinical Scientist (CS) is assigned to the project, review the documents prepared by the CS (e.g. full protocol, informed consent document, investigator&#39;s brochure); when a CS is not assigned, the JCL is responsible to prepare and review these documents. \nContribute to the preparation of the risk management plan for J-NDA submission and other documents required after approval. \nReview clinical data and protocol deviations and determine necessary actions for clinical studies in which he/she is the Clinical Lead. Review individual subject and cumulative safety data based on the safety review plan. \nLead preparation of procedures related to independent data monitoring committee (IDMC), adjudication committee (AC), and safety review committee, and manage and execute the committees. \nContinuously seek opportunities for improvement in daily work and propose and implement actions without being ruled by conventional work habits. \n\n3. Skills and Behavior Requirements\n\nTraining & Education Preferred:\n\nScientific background in education, >3 years or more experience in clinical development\nExperience in clinical development; thorough understanding of the processes associated with clinical and regulatory submissions\nSkill to design and execute development strategies (e.g. advanced medical and pharmaceutical knowledge, skill to design development strategies, knowledge on clinical study operations including guidelines and SOPs, skill to think logically, innovatively, and flexibly, writing skills)\nLeadership skills \nTeam building skills, networking skills\nNegotiation skills, consensus building skills\nProblem solving skills\nProject management skills\nExcellent writing and communication skills in both Japanese and English\nPresentation skills, logical and scientific expertise to discuss with internal/external and Japanese/global stakeholders\nPrior Experience Preferred:\n\nSustained delivery and innovation within the discipline\nSustained contribution to the pharmaceutical R&D process at the study level\nProven ability to contribute to multiple projects\nSuccessful management of medium-sized teams consisted by multiple functions\n\nWork Location Assignment:Hybrid\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "requirements": "after approval. \nReview clinical data and protocol deviations and determine necessary actions for clinical studies in which he/she is the Clinical Lead. Review individual subject and cumulative safety data based on the safety review plan. \nLead preparation of procedures related to independent data monitoring committee (IDMC), adjudication committee (AC), and safety review committee, and manage and execute the committees. \nContinuously seek opportunities for improvement in daily work and propose and implement actions without being ruled by conventional work habits. \n\n3. Skills and Behavior Requirements\n\nTraining & Education Preferred:\n\nScientific background in education, >3 years or more experience in clinical development\nExperience in clinical development; thorough understanding of the processes associated with clinical and regulatory submissions\nSkill to design and execute development strategies (e.g. advanced medical and pharmaceutical knowledge, skill to design development strategies, knowledge on clinical study operations including guidelines and SOPs, skill to think logically, innovatively, and flexibly, writing skills)\nLeadership skills \nTeam building skills, networking skills\nNegotiation skills, consensus building skills\nProblem solving skills\nProject management skills\nExcellent writing and communication skills in both Japanese and English\nPresentation skills, logical and scientific expertise to discuss with internal/external and Japanese/global stakeholders\nPrior Experience Preferred:\n\nSustained delivery and innovation within the discipline\nSustained contribution to the pharmaceutical R&D process at the study level\nProven ability to contribute to multiple projects\nSuccessful management of medium-sized teams consisted by multiple functions\n\nWork Location Assignment:Hybrid\n\n  \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Medical",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-06-29",
     "status": "active"
   }
 ]
