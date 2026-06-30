@@ -10,22 +10,22 @@
     "active_jobs": 50
   },
   {
-    "id": "jnj",
-    "name_ja": "ヤンセンファーマ",
-    "name_en": "Johnson & Johnson",
-    "category": "foreign",
-    "careers_url": "careers.jnj.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 49
-  },
-  {
     "id": "eisai",
     "name_ja": "エーザイ",
     "name_en": "Eisai",
     "category": "domestic",
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
+    "active": 1,
+    "active_jobs": 41
+  },
+  {
+    "id": "jnj",
+    "name_ja": "ヤンセンファーマ",
+    "name_en": "Johnson & Johnson",
+    "category": "foreign",
+    "careers_url": "careers.jnj.com",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 39
   },
@@ -37,7 +37,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 37
+    "active_jobs": 36
   },
   {
     "id": "pfizer",
@@ -47,7 +47,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 29
+    "active_jobs": 28
   },
   {
     "id": "lilly",
@@ -57,7 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 28
   },
   {
     "id": "astellas",
@@ -77,25 +77,25 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 17
   },
   {
-    "id": "takeda",
-    "name_ja": "武田薬品工業",
-    "name_en": "Takeda",
+    "id": "kyowakirin",
+    "name_ja": "協和キリン",
+    "name_en": "Kyowa Kirin",
     "category": "domestic",
-    "careers_url": "takeda.wd3.myworkdayjobs.com",
-    "scraper": "workday",
+    "careers_url": "hrmos.co/pages/kyowakirin",
+    "scraper": "hrmos",
     "active": 1,
     "active_jobs": 17
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
     "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
     "active": 1,
     "active_jobs": 16
   },
@@ -110,34 +110,24 @@
     "active_jobs": 16
   },
   {
-    "id": "kyowakirin",
-    "name_ja": "協和キリン",
-    "name_en": "Kyowa Kirin",
+    "id": "takeda",
+    "name_ja": "武田薬品工業",
+    "name_en": "Takeda",
     "category": "domestic",
-    "careers_url": "hrmos.co/pages/kyowakirin",
-    "scraper": "hrmos",
+    "careers_url": "takeda.wd3.myworkdayjobs.com",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 16
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
     "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 15
-  },
-  {
-    "id": "tanabe",
-    "name_ja": "田辺ファーマ",
-    "name_en": "Tanabe Pharma",
-    "category": "domestic",
-    "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
-    "scraper": "jposting",
-    "active": 1,
-    "active_jobs": 8
   },
   {
     "id": "abbvie",
@@ -146,6 +136,16 @@
     "category": "foreign",
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 8
+  },
+  {
+    "id": "tanabe",
+    "name_ja": "田辺ファーマ",
+    "name_en": "Tanabe Pharma",
+    "category": "domestic",
+    "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
+    "scraper": "jposting",
     "active": 1,
     "active_jobs": 7
   },
@@ -167,7 +167,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 4
+    "active_jobs": 3
   },
   {
     "id": "sumitomo",
