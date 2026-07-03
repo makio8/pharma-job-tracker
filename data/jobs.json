@@ -1,5 +1,73 @@
 [
   {
+    "id": 770,
+    "company_id": "otsuka",
+    "external_id": "_R12522",
+    "title": "免疫薬理研究員",
+    "department": null,
+    "location": "locations大阪研",
+    "job_category": "rd",
+    "url": "https://vhr-otsuka.wd1.myworkdayjobs.com/Japan_External_Career_Site_OPC/en-US/Japan_External_Career_Site_OPC/job/_R12522",
+    "description": null,
+    "requirements": null,
+    "therapeutic_area": "immunology",
+    "analysis_data": null,
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "id": 769,
+    "company_id": "sanofi",
+    "external_id": "40463666560",
+    "title": "People Excellence Partner Japan\n                                    Location: Tokyo, Japan\n                                \nCategory: Human Resources",
+    "department": "Category: Human Resources",
+    "location": "Location: Tokyo, Japan",
+    "job_category": "other",
+    "url": "https://jobs.sanofi.com/en/job/tokyo/people-excellence-partner-japan/2649/40463666560",
+    "description": "🎯 Role OverviewGeography focus. Provides People & Culture support to execute business decisions and implement core processes.Drives local deployment of P&C strategy and processes across Business units.Support managers with day-to-day P&C cycle activities as second interaction point.Work with People Business Partners, CoEs & People Service Operations to execute people priorities and business changes🔑 Key Responsibilities•        Reflect changes in local processes, procedures and policies according to CoE guidelines•        Support delivery of people & culture activities that require on-site presence or where local language requirements cannot be covered by the hubs in Shared Services•        Talent Acquisition – Support on-site activities as required in partnership with TA team. Obtain approvals from works council/union where applicable•        Talent Management – Deliver workshops to upskill People Managers. Engage in calibration talent reviews as needed to support 1st line managers. Support employees and managers locally in development advice.•        Learning – Support on-site learning admin and handle local audit of learning delivery in partnership with Learning COE•        Rewards and Recognition – Support adjustment and negotiation of collective labor agreements, manage personnel cost/ budget, local plans and exceptions•        Insights – Handle reporting request using local data sources (e.g., local government reports)•        Org Design and Effectiveness - Implement organizational changes in local systems (if required), manage reorganizations by supporting union negotiations as well as managing the transition/ exit of people•        Employee Relations – Support People Director in liaising with local co-determination bodies and advise managers on employee relations matters & handle cases end-to-end•        Mobility - Support on-site relocation, if necessary, e.g., in-person confirmation of employment•        Promote continuous improvement through feedback loops and process improvement ideas and implementation•        Proactively encourage all line managers and employees to utilize ESS/MSS and One Support ticket system🎓 Required Qualifications & ExperienceEducation: Bachelor's degree or above in Human Resources, Business Administration, Law, or a related fieldExperience: Minimum 5–8 years of Progressive HR experience, ideally within a multinational company in JapanLanguage: Business-level proficiency in both Japanese (native or equivalent) and English (Business level)Deep knowledge of Japanese labor law and employment regulationsProven experience in HR service delivery, payroll management, and HR operationsHands-on experience with Workday or equivalent HRIS platformsStrong track record in managing employee relations and HR compliance matters🌟 Key Skills & CompetenciesCategorySkillsTechnicalData Analysis (Advanced), HR Policies (Expert), Labor & Employment Law (Advanced), Administrative Recruiting (Experienced)FunctionalService Delivery (Advanced), Investigative Research (Experienced), Talent Management (Intermediate)TransversalDetail-Oriented (Advanced), Cross-Functional Teamwork (Advanced), Prioritization (Advanced)LeadershipCustomer-Focused (Advanced), Stakeholder Relationship Management (Experienced), Change Management (Intermediate)",
+    "requirements": "People Excellence Partner Japan at Sanofi\n    \t\n        \n        \n\n            \n            \n            \n            \n        \n    \t\n        \n        \n        \n            \n        \n                  \n                  \n                  \n                  \n        \n             \n             \n                 function OptanonWrapper() {\n                    var OTCC = function(){\n                    var re = /[|,]/;\n                    var otc = document.cookie.split(';').filter(function (item) { return item && item.trim().indexOf(consentCookie + '=') === 0; }).toString();\n                    var otcfc = otc.split('&').filter(function (item) { return item && item.trim().indexOf('groups=') === 0; }).toString();\n                    var otcds = decodeURIComponent(otcfc.split('=')[1]);\n                             var ce = otcds !== null;\n                             var otcda = otcds.split(re);\n                             var hc = false;\n                             for(a=1; a<=otcda.length -1; a++ )         {hc = hc || otcda[a].indexOf(':1')> 0;}\n                             if (ce && hc)  {location.reload();}\n                     };       OneTrust.OnConsentChanged(OTCC);     \n                } \n     \n             \n        \n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n    \n    \n    \n\n\n{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"baseSalary\":{\"@type\":\"MonetaryAmount\",\"currency\":\"\",\"value\":{\"@type\":\"QuantitativeValue\",\"unitText\":\"\"}},\"datePosted\":\"2026-7-2\",\"description\":\"<p><b>&#x1f3af; Role Overview</b></p><p><b>Geography focus.</b> Provides People &amp; Culture support to execute business decisions and implement core processes.</p><p><b>Drives local deployment </b>of P&amp;C strategy and processes across Business units.</p><p><b>Support managers </b>with day-to-day P&amp;C cycle activities as second interaction point.</p><p><b>Work with People Business Partners, CoEs &amp; People Service Operations</b> to execute people priorities and business changes</p><p></p><p><b>&#x1f511; Key Responsibilities</b></p><p>•        Reflect changes in local processes, procedures and policies according to CoE guidelines</p><p>•        Support delivery of people &amp; culture activities that require on-site presence or where local language requirements cannot be covered by the hubs in Shared Services</p><p>•        Talent Acquisition – Support on-site activities as required in partnership with TA team. Obtain approvals from works council/union where applicable</p><p>•        Talent Management – Deliver workshops to upskill People Managers. Engage in calibration talent reviews as needed to support 1st line managers. Support employees and managers locally in development advice.</p><p>•        Learning – Support on-site learning admin and handle local audit of learning delivery in partnership with Learning COE</p><p>•        Rewards and Recognition – Support adjustment and negotiation of collective labor agreements, manage personnel cost/ budget, local plans and ",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "id": 768,
+    "company_id": "novartis",
+    "external_id": "REQ-10082102",
+    "title": "Biomarker Lead",
+    "department": "REQ-10082102",
+    "location": "Toranomon (NPKK Head Office)",
+    "job_category": "other",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Toranomon-NPKK-Head-Office/Biomarker-Lead_REQ-10082102",
+    "description": "Job Description Summary\n\nAs a BML, you will define the biomarker strategies and plans for a set of programs/projects, defined by asset or by indication, from early to later stage clinical development. You will also build external collaborations with academia or clinical sites to advance the knowledge around translational sciences and biomarker solutions focused on diseases, indications or pathways. The BML will be responsible to translate the preclinical discovery efforts into a clinical fit for purpose plan, as well as develop and mature the clinical biomarker plans as the program progresses through the various phases. The BML will oversee the integration into clinical protocols and lead the review and discussions at the different teams and boards. Finally, the BML can lead a matrixed biomarker team of scientific experts to build on the biomarker strategies and plans.\n \n\nJob Description\n\nMajor Accountabilities\n\nActs as BMD strategic and scientific leader in Japan at project or collaboration level to lead \nbiomarker strategies and plans with the various local and global team members.\nDevelops deep understanding of the translational biomarkers for a project/program (and associated clinical studies), focused on compound, disease, target, and pathway biology.\nEstablishes scientific partnerships with local KOLs around biomarkers and translational research.\nSupports health authorities’ interactions around biomarkers and translational research.\nEnsures alignment and connectivity with other BMLs, therapeutic area leads and heads across assets, indications, and therapeutic areas.\nPartners with Biomarker Study Experts (BSE) and BMD Line Function Subject Matter Experts (SMEs) on the study strategic planning, and BM implementation.\nIs responsible for the contextualization and interpretation of the biomarker data including CSR review.\nCooperates closely with Therapeutic Area Biomarker Head (TABH) or Therapeutic Area Biomarker Lead (TABL) as well as BMD Line Functions to enable the development of project/study level biomarker strategy and plans, implementation, contextualizing, and interpretation.\nIs an enterprise partner and strategic leader in the matrix environment, able to integrate and represent projects in the internal/external scientific discussions and initiatives. \nEducation/Experience:\n\nPhD, MD, MD/PhD, or MS degree is required.\nGood understanding of biology and translational research that can be applied to questions of patient’s selection, enrichment, dose selection, efficacy and response, disease progression, mechanism of actions, among others.\nScientific excellence supported by academic and/or industry career track, and/or high-quality publications; clinical and/or biological expertise.\nSignificant relevant experience after your MD/PhD/postdoc including drug development, clinical research/development, or translational research.\nTrack record of contributions to clinical programs and studies in pharma industry (or biotech) is strongly preferred.\nExperience and familiarity with quantitative research and data is preferred, examples include biostatistics, omics profiling, AI/ML, bioinformatics, computational biology, clinical imaging, machine learning, or data science.\nProven success in leading and partnering in multidisciplinary matrix teams across Pharma/biotech, or academic institutions.\nCreative and innovative leadership, experience in balancing big picture thinking with detailed analyses and operational aspects.\nWell-developed interpersonal and leadership skills with strong presence and ability to influence and navigate large organizational structures as well connect and network with KOLs.\nLanguages:\n\nFluent Japanese (oral and written), Fluent English (oral and written)\n\n \n\nSkills Desired\n\nData Analysis, Hypothesis Testing, Problem Solving, Structural Biology",
+    "requirements": ".\nGood understanding of biology and translational research that can be applied to questions of patient’s selection, enrichment, dose selection, efficacy and response, disease progression, mechanism of actions, among others.\nScientific excellence supported by academic and/or industry career track, and/or high-quality publications; clinical and/or biological expertise.\nSignificant relevant experience after your MD/PhD/postdoc including drug development, clinical research/development, or translational research.\nTrack record of contributions to clinical programs and studies in pharma industry (or biotech) is strongly preferred.\nExperience and familiarity with quantitative research and data is preferred, examples include biostatistics, omics profiling, AI/ML, bioinformatics, computational biology, clinical imaging, machine learning, or data science.\nProven success in leading and partnering in multidisciplinary matrix teams across Pharma/biotech, or academic institutions.\nCreative and innovative leadership, experience in balancing big picture thinking with detailed analyses and operational aspects.\nWell-developed interpersonal and leadership skills with strong presence and ability to influence and navigate large organizational structures as well connect and network with KOLs.\nLanguages:\n\nFluent Japanese (oral and written), Fluent English (oral and written)\n\n \n\nSkills Desired\n\nData Analysis, Hypothesis Testing, Problem Solving, Structural Biology",
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "id": 767,
+    "company_id": "novartis",
+    "external_id": "REQ-10082103",
+    "title": "Senior Scientist",
+    "department": "REQ-10082103",
+    "location": "Toranomon (NPKK Head Office)",
+    "job_category": "rd",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Toranomon-NPKK-Head-Office/Senior-Scientist_REQ-10082103",
+    "description": "Job Description Summary\n\nDrive regulatory submission excellence and early-stage development strategy by authoring high-quality Japanese New Drug Applications and providing pharmacology or toxicology expertise to clinical programs in Japan.\n \n\nJob Description\n\n職務内容\n\n非臨床安全性担当者としてプロジェクトチームに参画しチームメンバーと協働し開発を推進する。\nGlobalメンバーの一員として&#xff0c;国内外の開発に非臨床安全性担当者として貢献する。\n\n主な役割責任\n\n早期化合物の安全性評価を行いチームへ適切に評価内容を伝える。\n承認申請資料を作成し&#xff0c;当局からの照会回答を含む承認申請全般に責任をもつ。\n治験届に関する資料作成を行い&#xff0c;当局からの照会対応を含む治験届業務全般に責任をもつ。\n当局に対する相談について非臨床安全性担当者として責任をもつ\n\n必須要件\n\nライフサイエンス分野で修士以上&#xff0c;もしくはそれと同等の学位を有する&#xff08;PhD, DVM等&#xff09;。\n非臨床安全性分野での業務経験を有する。GLP環境下での毒性試験経験&#xff0c;または委託試験経験を有する。\n国内外の非臨床安全性に関するガイドラインを周知しており&#xff0c;活用できる。\n日本語は母国語相当及び英語は流暢(口頭および書面)\n\n望ましい要件\n\n放射線治療薬&#xff0c;遺伝子治療薬&#xff0c;細胞医療等製品&#xff0c;又は核酸医薬品等の最新のモダリティーの毒性評価の経験を有する。\n生殖発生毒性試験や毒性病理&#xff0c;遺伝毒性など毒性学的専門領域を有する。\nAIを用いた毒性評価経験\n\nMajor Accountabilities\n\n·  Authoring responsible parts of J-NDAs, response to PMDA and all of the other activities for submission if necessary.\n\n·  Assessment of pharmacological and/or toxicological profiles of early projects to contribute to Japan development strategy.\n\n·  Roles as JPT/JST members\n\n·  Support of TM clinical studies as pharmacologists and/or toxicologists including protocol/ICF review, IB review and interaction with HAs.\n\n·  Seeking opportunity of proposals about new development programs/ indications\n\n·  Participate/support initiatives, task-forces, and cross-functional activities in Dev./NPKK.\n\n·  Quality management responsibility\n\n-  Ensure adequate reporting of adverse events / technical complaint / compliance issue in accordance with company procedures\n\n-  100% timely delivery of all training requirements including compliance\n\n \n\nKey Performance Indicators\n\n·    Appropriate quality and timing of NDA and post NDA activities \n\n·    Appropriate quality and timing of pharmacological and/or toxicological profiling/evaluation of early projects\n\n·    Appropriate quality and timing of study supports\n\n \n\nBackground\n\nEducation: MSc or PhD in life sciences (Pharmacology, toxicology, Pharmaceutics, other specific sciences), DVM/MD or equivalent professional experience.\n\n \n\n·  Experience/Professional requirement:\n\n·  Taking education or possessing knowledge of basic medicine, such as physiology, pharmacology, toxicology, anatomy/histology, molecular biology, etc.\n\n·  For mid-carrier employee, experience in pharmacology, toxicology or relevant field of the pharmaceutical Industry,  CRO, academia, etc.     \n\n \n\nEnglish Skill: \n\nAppropriate skills of English (read/write and oral)\n\nBenefits and Rewards\n\nRead our handbook to learn about all the ways we’ll help you thrive personally and professionally:\n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\n \n\nCommitment to Diversity and Inclusion\n\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \n\nAccessibility and Accommodation\n\nNovartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to diversityandincl.china&#64;novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \n\nAdditional Information\n\nBe aware of fake job advertisements and job offers. Novartis does not make job offers without interviews and never asks candidates for money. All our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond, send money, or provide personal information.\n\n \n\nJoin our Novartis Network:\n\nNot the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network\n\n \n\nSkills Desired\n\nAnimal Models, Bioinformatics, Collaboration, Data Analysis, Ethics, Problem Solving, Regulatory Compliance, Toxicology",
+    "requirements": "including compliance\n\n \n\nKey Performance Indicators\n\n·    Appropriate quality and timing of NDA and post NDA activities \n\n·    Appropriate quality and timing of pharmacological and/or toxicological profiling/evaluation of early projects\n\n·    Appropriate quality and timing of study supports\n\n \n\nBackground\n\nEducation: MSc or PhD in life sciences (Pharmacology, toxicology, Pharmaceutics, other specific sciences), DVM/MD or equivalent professional experience.\n\n \n\n·  Experience/Professional requirement:\n\n·  Taking education or possessing knowledge of basic medicine, such as physiology, pharmacology, toxicology, anatomy/histology, molecular biology, etc.\n\n·  For mid-carrier employee, experience in pharmacology, toxicology or relevant field of the pharmaceutical Industry,  CRO, academia, etc.     \n\n \n\nEnglish Skill: \n\nAppropriate skills of English (read/write and oral)",
+    "therapeutic_area": "rare",
+    "analysis_data": null,
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
     "id": 766,
     "company_id": "astellas",
     "external_id": "15404",
@@ -13,7 +81,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -30,7 +98,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -47,7 +115,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -64,7 +132,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -81,7 +149,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -98,7 +166,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -132,7 +200,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -149,7 +217,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -166,7 +234,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -183,7 +251,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -217,7 +285,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -234,7 +302,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -251,7 +319,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -268,7 +336,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -285,7 +353,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -302,7 +370,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -319,24 +387,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-29",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 745,
-    "company_id": "msd",
-    "external_id": "R403296",
-    "title": "Digital Human Health, Business Insights & Analytics, Sr. Spclst",
-    "department": "IT & デジタルデータ",
-    "location": "Chiyoda, Tokyo, Japan",
-    "job_category": "digital",
-    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Tokyo---Chiyoda/Digital-Human-Health--Business-Insights---Analytics--Sr-Spclst_R403296/apply",
-    "description": "Join our team as a Senior Business Insights Analyst and drive impactful decision-making across commercial, marketing, and omnichannel strategies. Leverage advanced analytics, data science, and business intelligence to deliver actionable insights that shape brand performance and customer engagement. Collaborate globally and mentor junior analysts in a dynamic, data-driven environment.",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-06-29",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -353,7 +404,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-29",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -370,7 +421,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -387,7 +438,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -404,7 +455,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -421,7 +472,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -438,7 +489,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -455,7 +506,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -472,7 +523,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -489,7 +540,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -506,7 +557,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -523,7 +574,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -540,7 +591,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -557,7 +608,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -574,7 +625,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -591,7 +642,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -608,7 +659,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -625,7 +676,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -642,7 +693,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -659,7 +710,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -676,7 +727,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -693,7 +744,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -710,24 +761,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 716,
-    "company_id": "jnj",
-    "external_id": "R-084713",
-    "title": "[Innovative Medicine] Business Operations & Strategy Group  Sr. Manager , Fuji Plant",
-    "department": "R-084713",
-    "location": "Sunto, Shizuoka, Japan",
-    "job_category": "strategy",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Sunto-Shizuoka-Japan/XMLNAME--Innovative-Medicine--Business-Operations---Strategy-Group--Sr-Manager---Fuji-Plant_R-084713",
-    "description": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com.\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit.\n\nJob Function: \n\nSupply Chain Engineering\n\nJob Sub Function: \n\nManufacturing Engineering\n\nJob Category:\n\nPeople Leader\n\nAll Job Posting Locations:\n\nSunto, Shizuoka, Japan\n\nJob Description:\n\nPosition Summary:\n\nThe Business Operations & Strategy (BO&S) Lead needs to play a crucial role in guiding an organization&#39;s direction and ensuring long-term success of the site together with Site General Manager (GM).\nAs BO&S Lead, you will provide strategic partnership with Fuji Site leadership team (SLT), contribute to shaping site strategy, and drive outcomes in site focus areas in an aligned with long range Financial Plan, Site Asset Master Plan, and other site-wide strategic initiatives.\n\nBO&S Lead plays critical role to help the site navigate challenges and seize growth opportunities effectively to keep achieving the site mission & vision, contributing to company business growth.\n\nRegulatory Compliance Responsibilities:\n\nYou need to demonstrate the highest level of integrity and compliance, complying with all applicable regulations, GMP, and company / site policies / procedures.\n\nMajor Job Duties and Responsibilities:  \n\n1.Strategic Planning & Deployment \n\nDeveloping and implementing Fuji Site mid to long-term strategies aligned with the Fuji site&#39;s mission and vision. Taking a lead to shaping site strategy with strategic initiatives and drive outcomes in site focus areas in aligned with long range Financial Plan, Site Asset Master Plan.\n\nPartnering with each function and site GM on organizational structure and set up, resources allocation as a site to deliver on business strategy and maximizing its impact inclusive of annual business planning and long-range financial planning.\n\nTake a lead market research if necessary to identify opportunities, threats, and industry trends from external lens.\n\n2. Governance Process & Performance Management\n\nDriving entire strategic initiatives portfolio as a governance owner to deliver expected outcome as Fuji site together with SLT, DRIs and other cross-functional team members.\n\nBO&S Lead is also responsible for keeping the governance process upgraded, maintaining its effectiveness as strategic platform of the site for strategy development till execution reflecting proactively internal and external changes.  \n\nEnsuring interconnectivity of strategic initiatives to operational agenda and supports in continuous improvement of the site to achieve operational goals together with Business Excellence and other functions.\n\nCoordinating SLT level meeting together with SLT DSL (Decision Support Lead) and other meeting owners for effective meeting management in a synchronized manner as a site to deliver expected impactful outcomes.\n\nDrive continuous improvement with Business Excellence Team and contribute to progress KAIZEN culture and organizational capability building. \n\n3.Risk Management\n\nLeading the Fuji BCP program for emergency case. Identify potential risks and develop strategies to mitigate risks collaborating with global function, local team and SLT. Conduct comprehensive strategic diligence using global tools and frameworks to evaluate potential risks & opportunities and mitigation & leverage plans, drive governance process as an owner to progress BCP actions to ensure Fuji sustainable business operations in this ever changing external internal environment.\n\n4.Stakeholder Communication\n\nCommunicating strategic directions, initiatives, its goals and performance updates to stakeholders, through different channels including global regional stakeholders and Fuji’s employees.\nPartnering with global regional local strategy office and culture team to shape culture and employee engagement strategies guided by Our Credo. Partnering with business leadership, SLT to provide strategic context to overall communications plan.\n\n5.BO&S Team management for providing expected services site wide\n\nManaging BO&S team to provide expected services in site general affairs & administration, site communication, visitors and events management, GM assistant operations, on-boarding training arrangement, and any other general affairs tasks.\n\nDeveloping our talents in BO&S as thriving team and keep improving our service quality to our employees and other stakeholders.\n\nJob Requirements:\n\nMinimum of a bachelor&#39;s degree in a relevant field, such as Business Administration, Finance, Operations management or a related quantitative discipline is required (advanced degree preferred).\nMinimum of 10 years of business experience is required.\n\nKnowledge, Qualification and Skills:\n\nBusiness level English and Japanese(Negotiation level is mandatory)\nSupply Chain experience in regulated manufacture industry (i.e. Pharma, Medical Device, Chemical, Cosmetics, Food/Beverage, FMCG)\nStrong business acumen and financial acumen.\nLead project management experience and cross-functional management skills, with proven ability to collaborate across functions, and regions.\nOperational Excellence (any certifications preferred), Project Management experience.\nHigh-level management presence with impactful communication skills, capable of engaging with leadership and influencing strategic decisions making.\n\nCore Competencies:\n\nCollaboration skills and teamwork-oriented mindset\nCredo value of integrity\nCustomer-focused mindset\nIntegrity and compliance\nCapable to prioritize\n\nDesirable Knowledge/Certification:\n\nMBA\nBlack Belt/ Green Belt Certification\nProject Management\n\n※Depending on experience of candidate, we will offer either Manager or Sr. Manager.\n\n<For Internal applicants>\n\nIf you are Japan employee, please read “Internal Application Guideline” in Ask GS. Especially if you are less than 18 months in your current role, you are required to obtain application approval from your current manager as well as your respective BUHR. If you are Japan’s employee, you are not able to apply for multiple positions at once.\nFor Employee Referral Program (ERP), please read and understand the details of the “Internal Referral Overview” on the Career Hub and you have made a compliant referral.\n\n \n\n \n\nRequired Skills: \n\n \n\n \n\nPreferred Skills:\n\nDeveloping Others, Facility Management, Inclusive Leadership, Leadership, Leading Change, Lean Manufacturing Principles, Lean Supply Chain Management, Managing Managers, Manufacturing Compliance, Manufacturing Engineering, Manufacturing Flow Management, Manufacturing Science and Technology (MSAT), Performance Measurement, Predictive Maintenance, Product Design, Report Writing, Safety-Oriented, Science, Technology, Engineering, and Math (STEM) Application, Strategic Thinking",
-    "requirements": "Minimum of a bachelor&#39;s degree in a relevant field, such as Business Administration, Finance, Operations management or a related quantitative discipline is required (advanced degree preferred).\nMinimum of 10 years of business experience is required.\n\nKnowledge, Qualification and Skills:\n\nBusiness level English and Japanese(Negotiation level is mandatory)\nSupply Chain experience in regulated manufacture industry (i.e. Pharma, Medical Device, Chemical, Cosmetics, Food/Beverage, FMCG)\nStrong business acumen and financial acumen.\nLead project management experience and cross-functional management skills, with proven ability to collaborate across functions, and regions.\nOperational Excellence (any certifications preferred), Project Management experience.\nHigh-level management presence with impactful communication skills, capable of engaging with leadership and influencing strategic decisions making.\n\nCore Competencies:\n\nCollaboration skills and teamwork-oriented mindset\nCredo value of integrity\nCustomer-focused mindset\nIntegrity and compliance\nCapable to prioritize\n\nDesirable Knowledge/Certification:\n\nMBA\nBlack Belt/ Green Belt Certification\nProject Management\n\n※Depending on experience of candidate, we will offer either Manager or Sr. Manager.\n\n<For Internal applicants>\n\nIf you are Japan employee, please read “Internal Application Guideline” in Ask GS. Especially if you are less than 18 months in your current role, you are required to obtain application approval from your current manager as well as your respective BUHR. If you are Japan’s employee, you are not able to apply for multiple positions at once.\nFor Employee Referral Program (ERP), please read and understand the details of the “Internal Referral Overview” on the Career Hub and you have made a compliant referral.\n\n \n\n \n\nRequired Skills:",
-    "therapeutic_area": "oncology",
-    "analysis_data": null,
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -744,7 +778,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -761,7 +795,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -778,7 +812,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -795,7 +829,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -829,7 +863,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-24",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -846,7 +880,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -863,7 +897,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -880,7 +914,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -897,7 +931,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -914,7 +948,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -931,7 +965,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -982,7 +1016,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -999,7 +1033,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1016,7 +1050,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1033,7 +1067,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1050,7 +1084,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1067,7 +1101,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1084,7 +1118,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1135,7 +1169,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-20",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1152,7 +1186,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1169,7 +1203,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1186,7 +1220,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1203,7 +1237,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1271,7 +1305,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1288,7 +1322,24 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "id": 673,
+    "company_id": "astrazeneca",
+    "external_id": "96203259696",
+    "title": "【AstraZeneca】【IBE】Project Manager\n                                        \n                                        \nOsaka, Ōsaka, Japan",
+    "department": "",
+    "location": "Osaka, Ōsaka, Japan",
+    "job_category": "other",
+    "url": "https://careers.astrazeneca.com/job/osaka/astrazeneca-ibe-project-manager/7684/96203259696",
+    "description": "【職務内容 / Job Description】本ポジションは、イベントワークフロー最適化に向けたソリューション導入およびチェンジマネジメントをリードする管理職ポジションです。主な役割として、関連プロセスの運用定着、継続的な改善・エンハンスメント、ステークホルダー調整、ならびにグローバルチームとの連携による関連プロセスの最適化を担っていただきます。加えて、イベントワークフロー最適化にとどまらず、より広い業務改善やオペレーション最適化を推進する役割も期待されています。Office 365、Power Platform、Power Automate、Copilot等のAI・デジタルツールを活用しながら、業務の効率化、標準化、自動化、生産性向上を推進し、継続的なオペレーション高度化に貢献いただきます。また、インサイツ＆ビジネスエクセレンス本部において部門横断のイニシアチブや課題解決をサポートいただくことを目的にPMOとしてプロジェクト管理を行っていただくことも期待しています。将来的には、組織体制や事業ニーズに応じてPeople Managerとしてチームを率いる役割を担う可能性もあります。＜主な業務内容＞・イベントワークフロー最適化に向けたソリューション導入の推進関係部門と連携しながら業務要件を整理し、最適なソリューション導入を計画・推進します。導入後の活用促進や安定運用の実現まで一貫してリードします。・チェンジマネジメントの企画・実行新たなプロセスやツール活用を組織に浸透・定着させるため、関係者への働きかけ、コミュニケーション設計、課題対応を含むチェンジマネジメントを主導します。・新プロセス運用の定着化および継続改善の推進導入後の運用状況を把握し、課題抽出、改善提案、エンハンスメント計画の策定および実行を通じて、継続的な改善を推進します。・業務改善およびオペレーション最適化の推進イベント関連プロセスに限らず、周辺業務や関連オペレーションも含めて、業務プロセスの見直し、標準化、効率化、高度化を推進します。・ステークホルダーコミュニケーションのリード関係部門や関連担当者と連携し、進捗共有、課題整理、合意形成、期待値調整を行いながら、プロジェクト推進を支えます。・AI・デジタルツールを活用した業務改善・自動化の推進Office 365、Power Platform、Power Automate、Copilot等を活用し、業務の効率化、標準化、自動化、生産性向上に向けた施策を企画・推進します。・各種リクエスト・問合せ対応のタスクマネジメントソリューションに関連するリクエストや問合せ内容を整理し、優先順位付け、進捗管理、必要に応じたエスカレーションを行いながら、適切な対応を推進します。・グローバルチームとの協業による関連プロセスの最適化グローバルチームと連携し、一部関連プロセスの標準化、改善、最適化を推進します。英語での会議、資料作成、調整業務が発生します。・インサイツ＆ビジネスエクセレンス本部のPMOとして、部門横断のイニシアチブや課題解決をサポート主担当領域に加え、事業ニーズや組織方針に応じて、本部における部門横断の施策や重点テーマについて、PMOとして推進支援、進捗管理、課題整理、関係者調整を担います。■ 応募資格(経験、資格等) / Qualification (Experience & Skill etc.)【経験 / Experience】＜必須 / Mandatory＞・大規模プロジェクトにおいて、プロジェクトリードまたはPMOとして推進した経験（3年以上）※上記に加え、以下いずれかの経験を有すること​・クロスファンクショナルな業務経験　→複数部門や多様なステークホルダーと連携しながら、業務推進や課題解決を行った経験・Process Excellence / Operational Excellenceに関する実務経験　→業務プロセスの可視化、標準化、改善、継続的改善の推進などを通じて、オペレーションの高度化や業務品質向上に取り組んだ経験​・ビジネス部門をはじめ関係各所の状況を理解し、複雑な課題を整理・構造化、新しい施策やアイディアを具体化した経験・新たなプロセスやツール導入に伴う変化を関係者に浸透・定着させるために、適切なコミュニケーションや支援施策を設計・実行した経験＜歓迎 Nice to have＞・Six Sigma、Lean、Kaizen等の継続的改善手法に関する知識または業務改善への活用経験・ベンダーマネジメント経験・ヘルスケア業界での業務経験・People management経験（チーム運営、メンバー育成、評価、業務アサイン、パフォーマンスマネジメント等の経験） 【資格 / License】＜必須 / Mandatory＞・学士以上【語学 / Language】＜必須 / Mandatory＞・日本語 Japanese：ネイティブレベル・英語 English：ビジネスレベル（TOEIC700点以上※目安）【能力 / Skill-set】＜歓迎 Nice to have＞・プロジェクトマネジメント力　企画立案、進捗管理、課題解決、リスク管理、優先順位付けを行いながら、プロジェクトを計画的に前進させる力・論理的思考力　複雑な課題を整理・構造化し、原因分析と解決策立案を行う力・臨機応変さ・柔軟性　状況変化や不確実性に応じて、優先順位やアプローチを柔軟に見直しながら対応できる力・新しいアイディアの提案力・実行力　現状にとらわれず改善機会を見出し、新しい施策やアイディアを具体化し、実行に移す力・強力なタスク処理能力　複数の案件、依頼、問い合わせ、関係者対応を整理し、抜け漏れなくスピード感を持って処理できる力・チェンジマネジメント力　新たなプロセスやツール導入に伴う変化を関係者に浸透・定着させるために、適切なコミュニケーションや支援施策を設計・実行する力・ステークホルダーマネジメント力　関係者との信頼関係を構築し、期待値調整や合意形成を行いながら物事を前に進める力・コミュニケーション力　部門横断・グローバル環境において、相手に応じた分かりやすい説明、調整、ファシリテーションを行う力・チームマネジメント力　メンバー育成、業務アサイン、パフォーマンスマネジメントを通じて、チームの成果創出を支える力・デジタルソリューション活用力　業務課題を踏まえ、適切なデジタルソリューションの導入、活用促進、運用定着、改善提案を行う力・AI・デジタルツール活用力　Office 365、Power Platform、Power Automate、Copilot等を活用し、業務改善、自動化、生産性向上、ナレッジ活用を推進する力 【Essential Behaviours:/求められる行動特性】・部門や領域にとらわれず、全体で課題を捉えながらプロジェクトを推進できる方・論理的に物事を整理し、複雑な課題に対して構造的に解決策を導ける方・変化の多い環境においても、臨機応変かつ柔軟に対応できる方・新しいアイディアや改善提案を積極的に行い、実行までやり切れる方・複数の案件やタスクを整理し、スピード感と正確性を持って対応できる方・AI・デジタルツールを活用した業務変革や改善を自ら推進できる方・多様なステークホルダーを巻き込みながら、合意形成を図って物事を前に進められる方・日本語・英語の双方で円滑にコミュニケーションを取り、グローバルチームと協業できる方・継続的改善の視点を持ち、Six SigmaやLean等の考え方を活かしながら業務プロセスの高度化を推進できる方・将来的にPeople Managerとして組織・人材マネジメントにも携わる意欲のある方キャリアレベル / Career LevelE勤務地 / Work LocationTokyo or OsakaDate Posted02-7月-2026Closing DateAstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+    "requirements": null,
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1305,7 +1356,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1322,7 +1373,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1339,7 +1390,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1356,7 +1407,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1373,7 +1424,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1390,7 +1441,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1407,7 +1458,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1424,7 +1475,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1475,7 +1526,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1492,7 +1543,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1509,7 +1560,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1543,7 +1594,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1560,7 +1611,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1577,7 +1628,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1628,7 +1679,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1645,24 +1696,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 643,
-    "company_id": "roche",
-    "external_id": "202606-114336",
-    "title": "フィールドサービスエンジニア（仙台）",
-    "department": "Customer Support",
-    "location": "Sendai, Fukuoka, Japan",
-    "job_category": "digital",
-    "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202606114336EXTERNALENGLOBAL",
-    "description": "We are looking for フィールドサービスエンジニアとして、医療機器の据付や保守点検業務を行い、顧客とのコミュニケーションを通じて信頼関係を築く役割を担います。",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1679,7 +1713,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1696,7 +1730,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1713,58 +1747,41 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
-    "id": 631,
-    "company_id": "roche",
-    "external_id": "202606-114267",
-    "title": "フィールドサービスエンジニア（仙台）",
-    "department": "Customer Support",
-    "location": "Sendai, Fukuoka, Japan",
-    "job_category": "digital",
-    "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202606114267EXTERNALENGLOBAL",
-    "description": "We are looking for フィールドサービスエンジニアとして、医療機器の据付や保守点検業務を行い、顧客とのコミュニケーションを通じて信頼関係を築く役割を担います。",
+    "id": 633,
+    "company_id": "takeda",
+    "external_id": "R0180679",
+    "title": "Visual Inspector, Hikari Site/光工場バイアル、注射剤の目視検査員 (契約社員)",
+    "department": "R0180679",
+    "location": "Hikari, Japan",
+    "job_category": "other",
+    "url": "https://takeda.wd3.myworkdayjobs.com/External/job/Hikari-Japan/Visual-Inspector--Hikari-Site-----_R0180679-1",
+    "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use.  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n\nJob Description\n\nタケダの紹介\n\nタケダは「世界中の人々の健康と輝かしい未来に貢献する」ことを企業の存在意義&#xff08;パーパス&#xff09;としています。そして目指す未来を共有しながら、一人ひとりが自分の可能性を引き出し、お互いの個性を認め合う、多様性にあふれた先進的な組織作りに取り組んでいます。私たちと一緒に、世界中の人々のいのちに貢献し、さらなる成長と活躍を目指しませんか。\n\nタケダはグローバルな研究開発型のバイオ医薬品のリーディングカンパニーです。従業員は創業時から受け継いできたタケダの価値観であるタケダイズム&#xff08;誠実&#xff1d;公正・正直・不屈&#xff09;を道しるべとしながら、患者さんに寄り添い&#xff08;Patient&#xff09;人々と信頼関係を築き&#xff08;Trust&#xff09;社会的評価を向上させ&#xff08;Reputation&#xff09;持続可能な事業を発展させる&#xff08;Business&#xff09;を日々の行動指針としています。\n\n【募集部署の紹介&#xff1a;検査グループ】\n\n製造された注射器やバイアル&#xff08;注射薬を入れる小さな瓶&#xff09;等を検査する「検査グループ」での募集となります。\n目視や専用の機械を用いて、小さな傷や異物がないかチェックする専門の部署です。\nクリーンルームと呼ばれる衛生環境の管理された作業室で、一つ一つ丁寧に検査を行います。\n\n人数&#xff1a;50人程度\n男女比&#xff1a;7割程が女性\n年齢層&#xff1a;20代&#xff5e;40代が多め\n\n【業務内容】\n\n目視または機械での検査を通して、注射器やバイアル&#xff08;注射薬を入れる小さな瓶&#xff09;等の不良箇所を特定する業務です。\n検査項目については、外観上の欠陥、ストッパー等の部品の有無、異物の有無、沈殿や変色、内容物の過不足などあらかじめ決められている上、入社後に1&#xff5e;2か月の丁寧な研修期間がありますので、未経験の方でも全く問題ございません。\n\n&#xff1c;検査量&#xff08;目安&#xff09;&#xff1e;\n130本&#xff5e;180本/時間\n700本&#xff5e;900/日\n30分検査し、その後10分休憩を行います。\n\nこの繰り返しで作業を進めていきます。\nまた、立ち・座りどちらの姿勢でも作業できますので身体への負担は少ないです。\n\n【研修について】\n\n全社共通研修&#xff1a;1週間\n検査グループでの実技を交えた研修期間&#xff1a;2&#xff5e;3か月\n研修期間中に「検査員資格」を取得していただきます。\n丁寧に研修を行いますので、通常1か月&#xff5e;2か月程で合格する方が多いです。\n\n【必須要件】\n\n・高校卒業資格以上\n\n・検査業務を行うにあたり、近視力と遠視力が左右ともに1.0以上&#xff08;眼鏡・コンタクト着用可&#xff09;\n\nタケダのDE&#xff06;I\nBetter Health, Brighter Future\n\nTakeda Compensation and Benefits Summary:\n\nAllowances: Commutation, Housing, Overtime Work etc.\n\nSalary Increase: Annually, Bonus Payment: Twice a year\n\nWorking Hours: Headquarters (Osaka/ Tokyo) 9:00-17:30, Production Sites (Osaka/ Yamaguchi) 8:00-16:45, (Narita) 8:30-17:15, Research Site (Kanagawa) 9:00-17:45\n\nHolidays: Saturdays, Sundays, National Holidays, May Day, Year-End Holidays etc. (approx. 123 days in a year)\n\nPaid Leaves: Annual Paid Leave, Special Paid Leave, Sick Leave, Family Support Leave, Maternity Leave, Childcare Leave, Family Nursing Leave.\n\nFlexible Work Styles: Flextime, Telework\n\nBenefits: Social Insurance, Retirement and Corporate Pension, Employee Stock Ownership Program, etc.\n\nImportant Notice concerning working conditions:\n\nIt is possible the job scope may change at the company’s discretion.\n\nIt is possible the department and workplace may change at the company’s discretion.\n\nFixed-term contracts may be renewed after the end of the contract period based on the workload and employee performance. The total contract duration shall not exceed 5 years.   \n\nLocationsHikari, Japan\n\nWorker TypeEmployee\n\nWorker Sub-TypeFixed Term (有期)\n\nTime TypeFull time",
     "requirements": null,
-    "therapeutic_area": "general",
+    "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
-    "id": 630,
-    "company_id": "roche",
-    "external_id": "202606-114268",
-    "title": "フィールドサービスエンジニア（大宮）",
-    "department": "Customer Support",
-    "location": "Kanto, Ibaraki, Japan",
-    "job_category": "digital",
-    "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202606114268EXTERNALENGLOBAL",
-    "description": "We are looking for フィールドサービスエンジニアとして、医療機器の据付や保守点検業務を担当し、顧客とのコミュニケーションを通じて、トラブルシューティングやスケジューリングを行います。",
+    "id": 632,
+    "company_id": "takeda",
+    "external_id": "R0180681",
+    "title": "Visual Inspector, Hikari Site/光工場バイアル、注射剤の目視検査員 (契約社員)",
+    "department": "R0180681",
+    "location": "Hikari, Japan",
+    "job_category": "other",
+    "url": "https://takeda.wd3.myworkdayjobs.com/External/job/Hikari-Japan/Visual-Inspector--Hikari-Site-----_R0180681-1",
+    "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use.  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n\nJob Description\n\nタケダの紹介\n\nタケダは「世界中の人々の健康と輝かしい未来に貢献する」ことを企業の存在意義&#xff08;パーパス&#xff09;としています。そして目指す未来を共有しながら、一人ひとりが自分の可能性を引き出し、お互いの個性を認め合う、多様性にあふれた先進的な組織作りに取り組んでいます。私たちと一緒に、世界中の人々のいのちに貢献し、さらなる成長と活躍を目指しませんか。\n\nタケダはグローバルな研究開発型のバイオ医薬品のリーディングカンパニーです。従業員は創業時から受け継いできたタケダの価値観であるタケダイズム&#xff08;誠実&#xff1d;公正・正直・不屈&#xff09;を道しるべとしながら、患者さんに寄り添い&#xff08;Patient&#xff09;人々と信頼関係を築き&#xff08;Trust&#xff09;社会的評価を向上させ&#xff08;Reputation&#xff09;持続可能な事業を発展させる&#xff08;Business&#xff09;を日々の行動指針としています。\n\n【募集部署の紹介&#xff1a;検査グループ】\n\n製造された注射器やバイアル&#xff08;注射薬を入れる小さな瓶&#xff09;等を検査する「検査グループ」での募集となります。\n目視や専用の機械を用いて、小さな傷や異物がないかチェックする専門の部署です。\nクリーンルームと呼ばれる衛生環境の管理された作業室で、一つ一つ丁寧に検査を行います。\n\n人数&#xff1a;50人程度\n男女比&#xff1a;7割程が女性\n年齢層&#xff1a;20代&#xff5e;40代が多め\n\n【業務内容】\n\n目視または機械での検査を通して、注射器やバイアル&#xff08;注射薬を入れる小さな瓶&#xff09;等の不良箇所を特定する業務です。\n検査項目については、外観上の欠陥、ストッパー等の部品の有無、異物の有無、沈殿や変色、内容物の過不足などあらかじめ決められている上、入社後に1&#xff5e;2か月の丁寧な研修期間がありますので、未経験の方でも全く問題ございません。\n\n&#xff1c;検査量&#xff08;目安&#xff09;&#xff1e;\n130本&#xff5e;180本/時間\n700本&#xff5e;900/日\n30分検査し、その後10分休憩を行います。\n\nこの繰り返しで作業を進めていきます。\nまた、立ち・座りどちらの姿勢でも作業できますので身体への負担は少ないです。\n\n【研修について】\n\n全社共通研修&#xff1a;1週間\n検査グループでの実技を交えた研修期間&#xff1a;2&#xff5e;3か月\n研修期間中に「検査員資格」を取得していただきます。\n丁寧に研修を行いますので、通常1か月&#xff5e;2か月程で合格する方が多いです。\n\n【必須要件】\n\n・高校卒業資格以上\n\n・検査業務を行うにあたり、近視力と遠視力が左右ともに1.0以上&#xff08;眼鏡・コンタクト着用可&#xff09;\n\nタケダのDE&#xff06;I\nBetter Health, Brighter Future\n\nTakeda Compensation and Benefits Summary:\n\nAllowances: Commutation, Housing, Overtime Work etc.\n\nSalary Increase: Annually, Bonus Payment: Twice a year\n\nWorking Hours: Headquarters (Osaka/ Tokyo) 9:00-17:30, Production Sites (Osaka/ Yamaguchi) 8:00-16:45, (Narita) 8:30-17:15, Research Site (Kanagawa) 9:00-17:45\n\nHolidays: Saturdays, Sundays, National Holidays, May Day, Year-End Holidays etc. (approx. 123 days in a year)\n\nPaid Leaves: Annual Paid Leave, Special Paid Leave, Sick Leave, Family Support Leave, Maternity Leave, Childcare Leave, Family Nursing Leave.\n\nFlexible Work Styles: Flextime, Telework\n\nBenefits: Social Insurance, Retirement and Corporate Pension, Employee Stock Ownership Program, etc.\n\nImportant Notice concerning working conditions:\n\nIt is possible the job scope may change at the company’s discretion.\n\nIt is possible the department and workplace may change at the company’s discretion.\n\nFixed-term contracts may be renewed after the end of the contract period based on the workload and employee performance. The total contract duration shall not exceed 5 years.   \n\nLocationsHikari, Japan\n\nWorker TypeEmployee\n\nWorker Sub-TypeFixed Term (有期)\n\nTime TypeFull time",
     "requirements": null,
-    "therapeutic_area": "general",
+    "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 629,
-    "company_id": "roche",
-    "external_id": "202606-114263",
-    "title": "フィールドサービスエンジニア（全国）",
-    "department": "Customer Support",
-    "location": "Tokyo, Tokyo, Japan",
-    "job_category": "digital",
-    "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202606114263EXTERNALENGLOBAL",
-    "description": "We are looking for フィールドサービスエンジニアとして、医療機器の据付や保守点検業務を担当していただきます。顧客とのコミュニケーション能力が求められ、全国転勤が可能な方を歓迎します。",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1815,7 +1832,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1832,7 +1849,24 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "id": 622,
+    "company_id": "takeda",
+    "external_id": "R0180594",
+    "title": "IBU Executive Assistant, Japan based",
+    "department": "R0180594",
+    "location": "Tokyo, Japan",
+    "job_category": "other",
+    "url": "https://takeda.wd3.myworkdayjobs.com/External/job/Tokyo-Japan/IBU-Executive-Assistant--Japan-based_R0180594-1",
+    "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use.  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n\nJob Description\n\nJapan based IBU Executive Assistant will support Japan based IBU LT members- Head of Strategy & Transformation, and the Japan affairs of Head of Public Affairs and IBU President. The role provides comprehensive administrative support to the organization. This role plays a key part in ensuring efficient office operations by managing documentation, overseeing communications, and supporting a broad range of administrative activities. Through the effective management of these responsibilities, the position contributes to the overall productivity and effectiveness of the team.\n\nHow you will contribute:\n\nProduce and manage documents, ensuring accuracy and confidentiality\nCollect, record, sort, and file information systematically\nHandle mail, prepare routine reports, and make travel arrangements\nArrange appointments and respond to inquiries professionally\nPerform data entry and operate office equipment efficiently\nManage reception duties, including telephone/switchboard operations and greeting visitors\nOccasionally lead small project teams and provide informal guidance to junior staff\n\nSkills and qualifications:\n\n3&#43; years of executive assistant experience\nEnglish proficiency: advanced business level\nDeveloping presentation skills, capable of creating and delivering basic presentations under minimal supervision\nBuilding experience in maintaining composure and politeness, increasingly able to handle professional duties with less guidance\nDeveloping a focus on details, identifying key details in tasks with minimal supervision\nEnhancing skills in organizing and prioritizing tasks, managing workload with occasional guidance\nApplying basic principles of time management in straightforward situations with minimal supervision\nHandling simple multitasking situations with reduced need for supervision\nDeveloping practical problem-solving skills, finding solutions to simple issues with minimal support\nUtilizing Executive Information Systems for basic functions with minimal supervision\nManaging routine telephone communications with minimal supervision\nApplying basic editing principles in straightforward contexts with minimal supervision\nImproving verbal communication abilities, conveying messages clearly in familiar contexts with minimal coaching\nUnderstanding self-motivation principles, staying focused and overcoming challenges with occasional encouragement\n\nAs a senior professional, you&#39;re adept at solving a range of moderate scope and complexity problems, occasionally referring to policies and practices for guidance. Your work involves analyzing situations and data, exercising judgment within established procedures, and fostering productive relationships internally and externally. You possess solid knowledge of industry practices and contribute to departmental projects and goals, often engaging in frequent internal and external interactions. You may occasionally lead small project teams and provide informal guidance to junior staff, all while working with minimal guidance yourself.\n\nTakeda Compensation and Benefits Summary:\n\nAllowances: Commutation, Housing, Overtime Work etc.\n\nSalary Increase: Annually, Bonus Payment: Twice a year\n\nWorking Hours: Headquarters (Osaka/ Tokyo) 9:00-17:30, Production Sites (Osaka/ Yamaguchi) 8:00-16:45, (Narita) 8:30-17:15, Research Site (Kanagawa) 9:00-17:45\n\nHolidays: Saturdays, Sundays, National Holidays, May Day, Year-End Holidays etc. (approx. 123 days in a year)\n\nPaid Leaves: Annual Paid Leave, Special Paid Leave, Sick Leave, Family Support Leave, Maternity Leave, Childcare Leave, Family Nursing Leave.\n\nFlexible Work Styles: Flextime, Telework\n\nBenefits: Social Insurance, Retirement and Corporate Pension, Employee Stock Ownership Program, etc.\n\nImportant Notice concerning working conditions:\n\nIt is possible the job scope may change at the company’s discretion.\n\nIt is possible the department and workplace may change at the company’s discretion.\n\nLocationsTokyo, Japan\n\nWorker TypeEmployee\n\nWorker Sub-TypeRegular\n\nTime TypeFull time",
+    "requirements": "3&#43; years of executive assistant experience\nEnglish proficiency: advanced business level\nDeveloping presentation skills, capable of creating and delivering basic presentations under minimal supervision\nBuilding experience in maintaining composure and politeness, increasingly able to handle professional duties with less guidance\nDeveloping a focus on details, identifying key details in tasks with minimal supervision\nEnhancing skills in organizing and prioritizing tasks, managing workload with occasional guidance\nApplying basic principles of time management in straightforward situations with minimal supervision\nHandling simple multitasking situations with reduced need for supervision\nDeveloping practical problem-solving skills, finding solutions to simple issues with minimal support\nUtilizing Executive Information Systems for basic functions with minimal supervision\nManaging routine telephone communications with minimal supervision\nApplying basic editing principles in straightforward contexts with minimal supervision\nImproving verbal communication abilities, conveying messages clearly in familiar contexts with minimal coaching\nUnderstanding self-motivation principles, staying focused and overcoming challenges with occasional encouragement\n\nAs a senior professional, you&#39;re adept at solving a range of moderate scope and complexity problems, occasionally referring to policies and practices for guidance. Your work involves analyzing situations and data, exercising judgment within established procedures, and fostering productive relationships internally and externally. You possess solid knowledge of industry practices and contribute to departmental projects and goals, often engaging in frequent internal and external interactions. You may occasionally lead small project teams and provide informal guidance to junior staff, all while working with minimal guidance yourself.\n\nTakeda Compensation and Benefits Summary:\n\nAllowances: Commutation, Housing, Overtime Work etc.\n\nSalary Increase: Annually, Bonus Payment: Twice a year\n\nWorking Hours: Headquarters (Osaka/ Tokyo) 9:00-17:30, Production Sites (Osaka/ Yamaguchi) 8:00-16:45, (Narita) 8:30-17:15, Research Site (Kanagawa) 9:00-17:45\n\nHolidays: Saturdays, Sundays, National Holidays, May Day, Year-End Holidays etc. (approx. 123 days in a year)\n\nPaid Leaves: Annual Paid Leave, Special Paid Leave, Sick Leave, Family Support Leave, Maternity Leave, Childcare Leave, Family Nursing Leave.\n\nFlexible Work Styles: Flextime, Telework",
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1849,7 +1883,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1866,7 +1900,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1883,7 +1917,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1934,24 +1968,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 614,
-    "company_id": "roche",
-    "external_id": "202605-113515",
-    "title": "Legal/Compliance Partner（社内弁護士）",
-    "department": "Legal",
-    "location": "Tokyo, Tokyo, Japan",
-    "job_category": "corporate",
-    "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202605113515EXTERNALENGLOBAL",
-    "description": "We are looking for 法務・コンプライアンス部門の社内弁護士を募集します。法的リスクの管理や契約業務を通じて、事業の発展に貢献する役割です。チームワークを重視し、法務DXの推進にも関与していただきます。",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -1968,7 +1985,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2002,7 +2019,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2019,7 +2036,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2053,7 +2070,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2070,7 +2087,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2087,7 +2104,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2104,7 +2121,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2121,7 +2138,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2138,7 +2155,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2155,7 +2172,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2189,7 +2206,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2206,7 +2223,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2223,24 +2240,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 588,
-    "company_id": "lilly",
-    "external_id": "R-105319",
-    "title": "Job Requisition R-77246 ＜製造本部＞オペレーションアソシエイト　Operations Associate (OA)／担当・担当課長・課長 ／西神工場",
-    "department": "Manufacturing/Quality",
-    "location": "KOBE, Hyogo, Japan",
-    "job_category": "manufacturing",
-    "url": "https://careers.lilly.com/us/en/apply?jobSeqNo=LILLUSR105319EXTERNALENUS",
-    "description": "Embrace the opportunity to become an Operations Associate and drive process excellence in a dynamic pharmaceutical manufacturing environment. Lead cross-functional projects, ensure GMP compliance, and champion continuous improvement. If you have hands-on manufacturing experience and a passion for safety and quality, this is your opportunity to make a real impact.",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-05-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2274,7 +2274,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2291,7 +2291,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2308,7 +2308,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2325,7 +2325,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2342,7 +2342,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2359,7 +2359,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-24",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2376,7 +2376,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2393,7 +2393,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2410,7 +2410,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2427,7 +2427,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2444,7 +2444,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-22",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2456,12 +2456,12 @@
     "location": "Toranomon (NPKK Head Office)",
     "job_category": "other",
     "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Toranomon-NPKK-Head-Office/Associate-Director--Business-Partner--Analyst---Patient_REQ-10078143-1",
-    "description": "Job Description Summary\n\nデータとデジタル、そしてAIの力で、ヘルスケアの未来をともに創りませんか。本ポジションでは、ビジネスとテクノロジーの結節点に立ち、US&I、日本、APMAリージョンにまたがる変革をリードしていただきます。単なる調整役ではなく、ビジネス・データ・AIの橋渡しとして価値の最大化とアナリティクスの高度化を推進する役割です。構想や戦略立案にとどまらず、優先順位付け、実装、そして現場への定着までをEnd-to-Endで一貫してリードしていただきます。事業会社でありながら、自ら手を動かしながら成果創出にコミットできる点も本ポジションの大きな魅力です。シニアステークホルダーの信頼できるパートナーとして、プロダクト戦略と実行を牽引し、ビジネス価値と顧客体験の向上に大きく貢献していただきます。\nImagine shaping the future of healthcare by bridging business, data, and artificial intelligence. In this role, you will operate at the intersection of business and technology, driving transformation across the US&I, Japan, and APMA regions. More than a coordinator, you will act as a true translator between business, data, and AI—maximizing value creation and advancing analytics capabilities across the organization.\nYou will go beyond strategy and concept design, leading initiatives end-to-end—from shaping ideas and setting priorities to hands-on implementation and driving adoption in the business. This is a unique opportunity within a business environment where you are expected not only to lead but also to actively contribute to execution, ensuring tangible outcomes and sustained impact.\nAs a trusted partner to senior stakeholders, you will own and drive product and analytics strategies, translating business needs into scalable, technology-enabled solutions that enhance customer experience and deliver measurable business value\n \n\nJob Description\n\nKey Responsibilities:\n\nビジネスリーダーと連携し、テクノロジーを活用した変革を推進し、戦略との整合性を確保する\nプログラム、プロジェクト、プロダクトのデリバリーを主導し、期限遵守とビジネス価値の創出を実現する\nプロダクトライフサイクル全体を統括し、ロードマップ策定・優先順位付け・価値実現を推進する\nクロスファンクショナルチームと連携し、ビジネス要件をスケーラブルなデジタル・分析ソリューションへ変換する\nステークホルダーとの関係構築を主導し、重要案件の意思決定・エスカレーション対応を担う\n業務改善を推進し、テクノロジー活用と投資最適化を通じてビジネスとの連携を強化する\n\nEssential Requirements:\n\n学歴不問\n日本語、英語が流暢であること　\nビジネス部門と連携し、テクノロジー/AIを活用した変革を実現した経験\nデジタル技術およびデータ分析に関するビジネス視点での理解\nプロダクト管理&#xff08;戦略、デリバリー、オペレーション、改善&#xff09;の実務経験\n高いステークホルダーマネジメント能力を有しビジネスとの関係構築に長けている、および権限に依らない影響力を発揮できる力\n複雑かつ多国籍な環境での業務経験、またはクロスファンクショナルな連携経験\n戦略的思考力、課題解決力、および優れたコミュニケーション能力\n\n偽の求人広告や採用オファーにご注意ください\n\nノバルティスでは、当社名や幹部の名前を不正に使用して求職者をだます「採用詐欺」が発生していることを認識しています。\n\nノバルティスでは、面接なしに採用オファーを出すことはなく、候補者に金銭を要求することも決してありません。\n\n現在の求人情報はすべてこちらに掲載されています。詐欺の可能性がある求人広告や採用オファーに遭遇した場合は、返信したり、金銭や個人情報を送ったりしないよう強くおすすめします。\n\nノバルティスでキャリアを築く魅力: 病気と向き合う人々やそのご家族を支えるには、革新的な科学だけでは不十分です。それには、あなたのような情熱と知性を持った仲間が必要です。\n\n互いに協力し、支え合い、刺激し合うことで、患者さんの人生を変えるようなブレークスルーを生み出すことができます。さあ、一緒により明るい未来を創りませんか&#xff1f; https://www.novartis.com/about/strategy/people-and-culture\n\nノバルティス・タレントネットワーク: 今のノバルティスの募集職種がご希望に合わない場合でも、ぜひタレントコミュニティにご登録ください。あなたに合ったキャリアの機会が見つかり次第、いち早くご案内いたします。 https://talentnetwork.novartis.com/network\n\n福利厚生: ノバルティスの福利厚生と報奨について必要な情報は、ノバルティスライフハンドブックに記載されています。 https://www.novartis.com/careers/benefits-rewards\n\n多様性と包括性へのコミットメント: ノバルティスは患者さんや地域社会などに対して、包括的かつ優れた職場環境、および多様なチームを構築するよう取り組んでいます。\n\n合理的配慮: ノバルティスは障害を持つ個々人に対して、合理的配慮を提供し協働することをお約束します。健康状態や障害に関して、採用プロセスあるいは必須の職務を満たすために合理的配慮が必要な場合は midcareer-r.japan&#64;novartis.com 宛てに電子メールをお送りください。その際ご依頼内容、ご連絡先、求人票の番号を明記してください。\n\nKey Responsibilities\n\nPartner with business leaders to drive technology-enabled transformation and align solutions with strategic objectives\nLead delivery of programs, projects, and products, ensuring timely execution and measurable business value\nOwn and manage product lifecycle, including roadmap development, prioritization, and value realization\nTranslate business needs into scalable digital and analytics solutions through close collaboration with cross-functional teams\nDrive stakeholder engagement, acting as a trusted advisor and key escalation point for critical decisions\nChampion continuous improvement by enhancing ease of engagement and optimizing technology investment decisions\n\nEssential Requirements\n\nProven experience partnering with business leaders to deliver technology-driven transformation initiatives\nStrong understanding of digital technologies, data, and analytics in a business context\nDemonstrated ability to manage product lifecycle, including roadmap planning and prioritization\nExcellent stakeholder management skills, with ability to influence without formal authority\nExperience working in complex, cross-functional, and multinational environments\nStrong strategic thinking, problem-solving, and communication skills\n\nBe aware of fake job advertisements and job offers\n\nNovartis is aware of employment scams which make false use of our company name or leader’s names to defraud job seekers. Novartis does not make job offers without interview and never asks candidates for money. \n\nAll our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond, send money or personal information.\n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n\nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network\n\nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards\n\nCommitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to midcareer- r.japan&#64;novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \n\nSkills Desired\n\nBusiness Acumen, Business Requirements, Business Value Creation, Change Management, Customer Requirements, Digital Capabilities, Effective use of Technology, Financial Modeling, Information Technology Consulting, Organization Awareness, Project Management, Stakeholder Management, Strategic Planning, Talent Development, Technical Analysis, Vision",
-    "requirements": "学歴不問\n日本語、英語が流暢であること　\nビジネス部門と連携し、テクノロジー/AIを活用した変革を実現した経験\nデジタル技術およびデータ分析に関するビジネス視点での理解\nプロダクト管理&#xff08;戦略、デリバリー、オペレーション、改善&#xff09;の実務経験\n高いステークホルダーマネジメント能力を有しビジネスとの関係構築に長けている、および権限に依らない影響力を発揮できる力\n複雑かつ多国籍な環境での業務経験、またはクロスファンクショナルな連携経験\n戦略的思考力、課題解決力、および優れたコミュニケーション能力\n\n偽の求人広告や採用オファーにご注意ください\n\nノバルティスでは、当社名や幹部の名前を不正に使用して求職者をだます「採用詐欺」が発生していることを認識しています。\n\nノバルティスでは、面接なしに採用オファーを出すことはなく、候補者に金銭を要求することも決してありません。\n\n現在の求人情報はすべてこちらに掲載されています。詐欺の可能性がある求人広告や採用オファーに遭遇した場合は、返信したり、金銭や個人情報を送ったりしないよう強くおすすめします。\n\nノバルティスでキャリアを築く魅力: 病気と向き合う人々やそのご家族を支えるには、革新的な科学だけでは不十分です。それには、あなたのような情熱と知性を持った仲間が必要です。\n\n互いに協力し、支え合い、刺激し合うことで、患者さんの人生を変えるようなブレークスルーを生み出すことができます。さあ、一緒により明るい未来を創りませんか&#xff1f; https://www.novartis.com/about/strategy/people-and-culture\n\nノバルティス・タレントネットワーク: 今のノバルティスの募集職種がご希望に合わない場合でも、ぜひタレントコミュニティにご登録ください。あなたに合ったキャリアの機会が見つかり次第、いち早くご案内いたします。 https://talentnetwork.novartis.com/network\n\n福利厚生: ノバルティスの福利厚生と報奨について必要な情報は、ノバルティスライフハンドブックに記載されています。 https://www.novartis.com/careers/benefits-rewards\n\n多様性と包括性へのコミットメント: ノバルティスは患者さんや地域社会などに対して、包括的かつ優れた職場環境、および多様なチームを構築するよう取り組んでいます。\n\n合理的配慮: ノバルティスは障害を持つ個々人に対して、合理的配慮を提供し協働することをお約束します。健康状態や障害に関して、採用プロセスあるいは必須の職務を満たすために合理的配慮が必要な場合は midcareer-r.japan&#64;novartis.com 宛てに電子メールをお送りください。その際ご依頼内容、ご連絡先、求人票の番号を明記してください。\n\nKey Responsibilities\n\nPartner with business leaders to drive technology-enabled transformation and align solutions with strategic objectives\nLead delivery of programs, projects, and products, ensuring timely execution and measurable business value\nOwn and manage product lifecycle, including roadmap development, prioritization, and value realization\nTranslate business needs into scalable digital and analytics solutions through close collaboration with cross-functional teams\nDrive stakeholder engagement, acting as a trusted advisor and key escalation point for critical decisions\nChampion continuous improvement by enhancing ease of engagement and optimizing technology investment decisions\n\nEssential Requirements\n\nProven experience partnering with business leaders to deliver technology-driven transformation initiatives\nStrong understanding of digital technologies, data, and analytics in a business context\nDemonstrated ability to manage product lifecycle, including roadmap planning and prioritization\nExcellent stakeholder management skills, with ability to influence without formal authority\nExperience working in complex, cross-functional, and multinational environments\nStrong strategic thinking, problem-solving, and communication skills\n\nBe aware of fake job advertisements and job offers\n\nNovartis is aware of employment scams which make false use of our company name or leader’s names to defraud job seekers. Novartis does not make job offers without interview and never asks candidates for money. \n\nAll our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond, send money or personal information.\n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n\nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network",
+    "description": "Job Description Summary\n\nデータとデジタル、そしてAIの力で、ヘルスケアの未来をともに創りませんか。本ポジションでは、ビジネスとテクノロジーの結節点に立ち、US&I、日本、APMAリージョンにまたがる変革をリードしていただきます。単なる調整役ではなく、ビジネス・データ・AIの橋渡しとして価値の最大化とアナリティクスの高度化を推進する役割です。構想や戦略立案にとどまらず、優先順位付け、実装、そして現場への定着までをEnd-to-Endで一貫してリードしていただきます。事業会社でありながら、自ら手を動かしながら成果創出にコミットできる点も本ポジションの大きな魅力です。シニアステークホルダーの信頼できるパートナーとして、プロダクト戦略と実行を牽引し、ビジネス価値と顧客体験の向上に大きく貢献していただきます。\nImagine shaping the future of healthcare by bridging business, data, and artificial intelligence. In this role, you will operate at the intersection of business and technology, driving transformation across the US&I, Japan, and APMA regions. More than a coordinator, you will act as a true translator between business, data, and AI—maximizing value creation and advancing analytics capabilities across the organization.\nYou will go beyond strategy and concept design, leading initiatives end-to-end—from shaping ideas and setting priorities to hands-on implementation and driving adoption in the business. This is a unique opportunity within a business environment where you are expected not only to lead but also to actively contribute to execution, ensuring tangible outcomes and sustained impact.\nAs a trusted partner to senior stakeholders, you will own and drive product and analytics strategies, translating business needs into scalable, technology-enabled solutions that enhance customer experience and deliver measurable business value\n \n\nJob Description\n\nKey Responsibilities:\n\nビジネスリーダーと連携し、テクノロジーを活用した変革を推進し、戦略との整合性を確保する\nプログラム、プロジェクト、プロダクトのデリバリーを主導し、期限遵守とビジネス価値の創出を実現する\nプロダクトライフサイクル全体を統括し、ロードマップ策定・優先順位付け・価値実現を推進する\nクロスファンクショナルチームと連携し、ビジネス要件をスケーラブルなデジタル・分析ソリューションへ変換する\nステークホルダーとの関係構築を主導し、重要案件の意思決定・エスカレーション対応を担う\n業務改善を推進し、テクノロジー活用と投資最適化を通じてビジネスとの連携を強化する\n\nEssential Requirements:\n\n学歴不問\n日本語、英語が流暢であること　\nビジネス部門と連携し、テクノロジー/AIを活用した変革を実現した経験\nデジタル技術およびデータ分析に関するビジネス視点での理解\nプロダクト管理&#xff08;戦略、デリバリー、オペレーション、改善&#xff09;の実務経験\n高いステークホルダーマネジメント能力を有しビジネスとの関係構築に長けている、および権限に依らない影響力を発揮できる力\n複雑かつ多国籍な環境での業務経験、またはクロスファンクショナルな連携経験\n戦略的思考力、課題解決力、および優れたコミュニケーション能力\n\n偽の求人広告や採用オファーにご注意ください\n\nノバルティスでは、当社名や幹部の名前を不正に使用して求職者をだます「採用詐欺」が発生していることを認識しています。\n\nノバルティスでは、面接なしに採用オファーを出すことはなく、候補者に金銭を要求することも決してありません。\n\n現在の求人情報はすべてこちらに掲載されています。詐欺の可能性がある求人広告や採用オファーに遭遇した場合は、返信したり、金銭や個人情報を送ったりしないよう強くおすすめします。\n\nノバルティスでキャリアを築く魅力: 病気と向き合う人々やそのご家族を支えるには、革新的な科学だけでは不十分です。それには、あなたのような情熱と知性を持った仲間が必要です。\n\n互いに協力し、支え合い、刺激し合うことで、患者さんの人生を変えるようなブレークスルーを生み出すことができます。さあ、一緒により明るい未来を創りませんか&#xff1f; https://www.novartis.com/about/strategy/people-and-culture\n\nノバルティス・タレントネットワーク: 今のノバルティスの募集職種がご希望に合わない場合でも、ぜひタレントコミュニティにご登録ください。あなたに合ったキャリアの機会が見つかり次第、いち早くご案内いたします。 https://talentnetwork.novartis.com/network\n\n福利厚生: ノバルティスの福利厚生と報奨について必要な情報は、ノバルティスライフハンドブックに記載されています。 https://www.novartis.com/careers/benefits-rewards\n\n多様性と包括性へのコミットメント: ノバルティスは患者さんや地域社会などに対して、包括的かつ優れた職場環境、および多様なチームを構築するよう取り組んでいます。\n\n合理的配慮: ノバルティスは障害を持つ個々人に対して、合理的配慮を提供し協働することをお約束します。健康状態や障害に関して、採用プロセスあるいは必須の職務を満たすために合理的配慮が必要な場合は midcareer-r.japan&#64;novartis.com 宛てに電子メールをお送りください。その際ご依頼内容、ご連絡先、求人票の番号を明記してください。\n\nKey Responsibilities\n\nPartner with business leaders to drive technology-enabled transformation and align solutions with strategic objectives\nLead delivery of programs, projects, and products, ensuring timely execution and measurable business value\nOwn and manage product lifecycle, including roadmap development, prioritization, and value realization\nTranslate business needs into scalable digital and analytics solutions through close collaboration with cross-functional teams\nDrive stakeholder engagement, acting as a trusted advisor and key escalation point for critical decisions\nChampion continuous improvement by enhancing ease of engagement and optimizing technology investment decisions\n\nEssential Requirements\n\nProven experience partnering with business leaders to deliver technology-driven transformation initiatives\nStrong understanding of digital technologies, data, and analytics in a business context\nDemonstrated ability to manage product lifecycle, including roadmap planning and prioritization\nExcellent stakeholder management skills, with ability to influence without formal authority\nExperience working in complex, cross-functional, and multinational environments\nStrong strategic thinking, problem-solving, and communication skills\nFluent in both English and Japanese\n\nBe aware of fake job advertisements and job offers\n\nNovartis is aware of employment scams which make false use of our company name or leader’s names to defraud job seekers. Novartis does not make job offers without interview and never asks candidates for money. \n\nAll our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond, send money or personal information.\n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n\nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network\n\nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards\n\nCommitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to midcareer- r.japan&#64;novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \n\nSkills Desired\n\nBusiness Acumen, Business Requirements, Business Value Creation, Change Management, Customer Requirements, Digital Capabilities, Effective use of Technology (Inactive), Financial Modeling, Information Technology Consulting, Organization Awareness (Inactive), Project Management, Stakeholder Management, Strategic Planning, Talent Development, Technical Analysis, Vision (Inactive)",
+    "requirements": "学歴不問\n日本語、英語が流暢であること　\nビジネス部門と連携し、テクノロジー/AIを活用した変革を実現した経験\nデジタル技術およびデータ分析に関するビジネス視点での理解\nプロダクト管理&#xff08;戦略、デリバリー、オペレーション、改善&#xff09;の実務経験\n高いステークホルダーマネジメント能力を有しビジネスとの関係構築に長けている、および権限に依らない影響力を発揮できる力\n複雑かつ多国籍な環境での業務経験、またはクロスファンクショナルな連携経験\n戦略的思考力、課題解決力、および優れたコミュニケーション能力\n\n偽の求人広告や採用オファーにご注意ください\n\nノバルティスでは、当社名や幹部の名前を不正に使用して求職者をだます「採用詐欺」が発生していることを認識しています。\n\nノバルティスでは、面接なしに採用オファーを出すことはなく、候補者に金銭を要求することも決してありません。\n\n現在の求人情報はすべてこちらに掲載されています。詐欺の可能性がある求人広告や採用オファーに遭遇した場合は、返信したり、金銭や個人情報を送ったりしないよう強くおすすめします。\n\nノバルティスでキャリアを築く魅力: 病気と向き合う人々やそのご家族を支えるには、革新的な科学だけでは不十分です。それには、あなたのような情熱と知性を持った仲間が必要です。\n\n互いに協力し、支え合い、刺激し合うことで、患者さんの人生を変えるようなブレークスルーを生み出すことができます。さあ、一緒により明るい未来を創りませんか&#xff1f; https://www.novartis.com/about/strategy/people-and-culture\n\nノバルティス・タレントネットワーク: 今のノバルティスの募集職種がご希望に合わない場合でも、ぜひタレントコミュニティにご登録ください。あなたに合ったキャリアの機会が見つかり次第、いち早くご案内いたします。 https://talentnetwork.novartis.com/network\n\n福利厚生: ノバルティスの福利厚生と報奨について必要な情報は、ノバルティスライフハンドブックに記載されています。 https://www.novartis.com/careers/benefits-rewards\n\n多様性と包括性へのコミットメント: ノバルティスは患者さんや地域社会などに対して、包括的かつ優れた職場環境、および多様なチームを構築するよう取り組んでいます。\n\n合理的配慮: ノバルティスは障害を持つ個々人に対して、合理的配慮を提供し協働することをお約束します。健康状態や障害に関して、採用プロセスあるいは必須の職務を満たすために合理的配慮が必要な場合は midcareer-r.japan&#64;novartis.com 宛てに電子メールをお送りください。その際ご依頼内容、ご連絡先、求人票の番号を明記してください。\n\nKey Responsibilities\n\nPartner with business leaders to drive technology-enabled transformation and align solutions with strategic objectives\nLead delivery of programs, projects, and products, ensuring timely execution and measurable business value\nOwn and manage product lifecycle, including roadmap development, prioritization, and value realization\nTranslate business needs into scalable digital and analytics solutions through close collaboration with cross-functional teams\nDrive stakeholder engagement, acting as a trusted advisor and key escalation point for critical decisions\nChampion continuous improvement by enhancing ease of engagement and optimizing technology investment decisions\n\nEssential Requirements\n\nProven experience partnering with business leaders to deliver technology-driven transformation initiatives\nStrong understanding of digital technologies, data, and analytics in a business context\nDemonstrated ability to manage product lifecycle, including roadmap planning and prioritization\nExcellent stakeholder management skills, with ability to influence without formal authority\nExperience working in complex, cross-functional, and multinational environments\nStrong strategic thinking, problem-solving, and communication skills\nFluent in both English and Japanese\n\nBe aware of fake job advertisements and job offers\n\nNovartis is aware of employment scams which make false use of our company name or leader’s names to defraud job seekers. Novartis does not make job offers without interview and never asks candidates for money. \n\nAll our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond, send money or personal information.\n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n\nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network",
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-21",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2478,7 +2478,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2495,7 +2495,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2529,7 +2529,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-19",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2546,7 +2546,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-05-19",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2580,7 +2580,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2597,7 +2597,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2614,7 +2614,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2631,7 +2631,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2648,7 +2648,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-05-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2665,7 +2665,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-05-12",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2682,24 +2682,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-11",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 533,
-    "company_id": "lilly",
-    "external_id": "R-105264",
-    "title": "Associate Director, Product Quality & Quality Information (PQQI)",
-    "department": "Manufacturing/Quality",
-    "location": "Hyogo, Japan",
-    "job_category": "other",
-    "url": "https://careers.lilly.com/us/en/apply?jobSeqNo=LILLUSR105264EXTERNALENUS",
-    "description": "Embrace the opportunity to become Associate Director, Product Quality & Quality Information and lead the PQQI function at Lilly Japan. Drive GQP compliance, quality management, and cross-functional excellence in a dynamic pharmaceutical environment. Shape strategy, foster collaboration, and ensure regulatory standards are met to deliver life-changing medicines.",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-05-11",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2716,7 +2699,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-08",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2733,7 +2716,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-08",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2750,7 +2733,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-08",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2767,7 +2750,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-07",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2818,7 +2801,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-05",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2852,7 +2835,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2869,7 +2852,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-30",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2903,7 +2886,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-04-28",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2920,7 +2903,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2937,7 +2920,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2954,7 +2937,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-24",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2971,7 +2954,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-22",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -2988,7 +2971,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-21",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3005,7 +2988,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-21",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3022,7 +3005,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3039,7 +3022,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3056,7 +3039,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3073,7 +3056,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3090,7 +3073,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3107,7 +3090,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3141,7 +3124,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-15",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3162,6 +3145,23 @@
     "status": "active"
   },
   {
+    "id": 456,
+    "company_id": "roche",
+    "external_id": "202604-109457",
+    "title": "Finance Enterprise Partner",
+    "department": "Finance",
+    "location": "Tokyo, Tokyo, Japan",
+    "job_category": "corporate",
+    "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202604109457EXTERNALENGLOBAL",
+    "description": "Embrace the role of a Finance Enterprise Partner and drive business performance in the Japanese In-Vitro Diagnostics market. Leverage your expertise in financial planning, analysis, and cross-functional collaboration to support strategic decisions and maximize profitability. Shape the future of healthcare finance with Roche and make a real impact on our business success.",
+    "requirements": null,
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-04-14",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
     "id": 452,
     "company_id": "novartis",
     "external_id": "REQ-10074702",
@@ -3175,7 +3175,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3192,7 +3192,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-13",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3209,7 +3209,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3226,7 +3226,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3260,7 +3260,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-09",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3277,7 +3277,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-08",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3294,7 +3294,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-07",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3311,7 +3311,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3328,7 +3328,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-03",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3345,7 +3345,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3362,7 +3362,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3379,7 +3379,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3413,7 +3413,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-01",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3430,7 +3430,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-01",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3464,7 +3464,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3502,23 +3502,6 @@
     "status": "active"
   },
   {
-    "id": 381,
-    "company_id": "novartis",
-    "external_id": "REQ-10058282",
-    "title": "Japan Program Clinical Head (CRM)",
-    "department": "REQ-10058282",
-    "location": "Toranomon (NPKK Head Office)",
-    "job_category": "clinical",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Toranomon-NPKK-Head-Office/Japan-Program-Clinical-Head--CRM-_REQ-10058282-4",
-    "description": "Job Description Summary\n\nThe Japan Program Clinical Head (JPCH) is responsible for clinical program activities for approval and post approval commitment for Re-examination in Japan. The JPCH is responsible for one or more clinical programs across indications, involving one or multiple compounds. The JPCH closely works with Japan Project Head (JPH) as well as Global Program Clinical Head (GPCH) and inputs the risk benefit assessment for the program(s), and as the member of Global Clinical Team(s) (GCT) provides the inputs regarding the design, implementation, and execution of a clinical development program(s) including post approval commitment to support decision milestones, regulatory requirements, and market access from Japan point of view. The JPCH may contribute to disease area strategy.\n \n\nJob Description\n\n &#xff11;&#xff0e;Is an extended member of the GCT as representative of Clinical Development Japan (CD-J)&#xff12;&#xff0e;Is a member of JPT and drive the clinical development in Japan&#xff13;&#xff0e;Play medical lead role in Japan initiated studies in collaboration with GPCH/CDMD&#xff14;&#xff0e;Post-DDP, lead the development and execution of Japan clinical strategy. Provides Japan inputs to GPCH for developing an endorsed Clinical Development Plan (CDP) in line with the Target Product Profile (TPP) which is designed for successful regulatory approval/market access for one or multiple treatment indications and/or multiple programs in Japan&#xff15;&#xff0e;Is responsible for Japan input to the creation of clinical components of key documents (e.g., Clinical Trial Protocols (CTPs), Investigator’s Brochures, Clinical Study Reports (CSRs), regulatory documents including maintenance of product licenses, registration dossiers, Re-examination application dossier, value dossiers, pharmacoeconomic dossiers) with high quality and consistency with CDP and TPP. Support registration, market access, commercialization, and maintenance of product licenses (e.g., Core Data Sheet, Periodic Safety Update Report, J-RMP, clinical benefit- risk assessment for license renewals) for the compound(s)&#xff16;&#xff0e;As the medical/scientific expert, contribute interactions with Japan external stakeholders (e.g., regulatory authorities, key opinion leaders, data monitoring committees, advisory boards, patient advocacy groups), Japan internal stakeholders (e.g., JPT, GDO/Trial management, Research, Translational Medicine, Medical Affairs, Marketing, Pharmacovigilance (PV), Health Economics & Outcomes Research, etc.), and internal decision boards lead clinical related health authority (HA) activities including development of briefing book and answers for questions from HA&#xff17;&#xff0e;Contribute to development of TA strategies (Rheumatology area)&#xff18;.　Provide on-boarding, coaching, and/or mentoring support; develop and foster Clinical Development culture&#xff19;. 　Ensure adequate reporting of adverse events / technical complaints / compliance issues in accordance with company procedures&#xff11;&#xff10;&#xff0e; 100% timely delivery of all training requirements including complianceKey Performance IndicatorsThe indicators below are applied for clinical related activities in JapanExcellence in establishing clinical development and Re-examination strategy across various indications and programs with alignment across functions\nApply effective clinical research methodology, including trial design/analyses, efficacy endpoints, safety assessments, and risk management across disease area \nRobust evidence of quality medical/clinical review of trial data, development of CSRs\nSupport TA through high quality contributions to CDP and protocol reviews\nTimely development of quality disease/program clinical standards, publications, and internal/external presentations\nTimely delivery and submission of high-quality clinical program data in a cost-effective manner\nExternal acceptance of clinical data and risk-benefit assessments by key decision makers including Health Authorities, pricing, and reimbursement bodies\nWell contributed, effective, and engaged GCT(s) and GPT (as needed)\nClearly demonstrate Novartis Values and Behaviors\n\nEducation:Advanced degree in life sciences/healthcare　(or clinically relevant degree: MD or equivalent, PhD, PharmD degree is preferable) required.\n\nSpecialization in a subspecialty may be needed. Advanced clinical training/knowledge in medical/ scientific area aligned with TA required.\n\nExperience/Professional requirement:       ≥5 years of involvement in clinical research or drug development in an industry environment spanning clinical activities in Phases I through III/IV, including submission dossiers (In case MD holder, equivalent medical experience is needed)\nThorough knowledge of GCP and GPSP, clinical trial design, statistics, and regulatory/clinical development process\nExperience with submissions and/or health authorities required\nDemonstrated ability to establish strong scientific partnership with key stakeholders\nDemonstrated leadership and team management skills with a documented track record of delivering high quality projects/submissions/trials in pharmaceutical or biotech industry\nConsiderable organizational awareness including extensive experience working cross-functionally and in clinical teams\nExcellent management, interpersonal, communication (both written and oral), and problem-solving skills\nExcellent negotiation and diplomatic skills\nEnglish Skill:Fluent (or intermediate) oral and written English\n\nWhy consider Novartis?817million. That’s how many lives our products touch. And while we’re proud of that fact, in this world of digital and technological transformation, we must also ask ourselves this: how can we continue to improve and extend even more people’s lives?We believe the answers are found when curious, courageous and collaborative people like you are brought together in an inspiring environment. Where you’re given opportunities to explore the power of digital and data. Where you’re empowered to risk failure by taking smart risks, and where you’re surrounded by people who share your determination to tackle the world’s toughest medical challenges.We are Novartis. Join us and help us reimagine medicine.ノバルティスの製品は約8億人以上の患者さんに世界中で届けられています。約10万の社員が世界中のノバルティスで働いており、その国籍は約147カ国に及びます。ノバルティスファーマ株式会社は、スイス・バーゼル市に本拠を置く医薬品のグローバルリーディングカンパニー、ノバルティスの日本法人です。ノバルティスは、より充実したすこやかな毎日のために、これからの医薬品と医療の未来を描いています。詳細はホームページをご覧ください。https://www.novartis.co.jpJapanNovartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to midcareer.japan&#64;novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.ノバルティスは障害を持つ個人と協力し、合理的配慮を提供することをお約束します。健康状態や障害を理由に採用プロセスのいかなる部分においても、あるいは職務の必須事項を果たすために合理的配慮が必要な場合は midcareer-r.japan&#64;novartis.com宛てに電子メールをお送りください。その際ご依頼内容、ご連絡先、求人票の番号を明記してください。  \n\n \n\nSkills Desired\n\nBudget Management, Clinical Research, Clinical Trial Protocol, Clinical Trials, Coaching, Data Analysis, Data Integrity, Learning Design, Lifesciences, Risk Monitoring, Trends Analysis",
-    "requirements": ", and market access from Japan point of view. The JPCH may contribute to disease area strategy.\n \n\nJob Description\n\n &#xff11;&#xff0e;Is an extended member of the GCT as representative of Clinical Development Japan (CD-J)&#xff12;&#xff0e;Is a member of JPT and drive the clinical development in Japan&#xff13;&#xff0e;Play medical lead role in Japan initiated studies in collaboration with GPCH/CDMD&#xff14;&#xff0e;Post-DDP, lead the development and execution of Japan clinical strategy. Provides Japan inputs to GPCH for developing an endorsed Clinical Development Plan (CDP) in line with the Target Product Profile (TPP) which is designed for successful regulatory approval/market access for one or multiple treatment indications and/or multiple programs in Japan&#xff15;&#xff0e;Is responsible for Japan input to the creation of clinical components of key documents (e.g., Clinical Trial Protocols (CTPs), Investigator’s Brochures, Clinical Study Reports (CSRs), regulatory documents including maintenance of product licenses, registration dossiers, Re-examination application dossier, value dossiers, pharmacoeconomic dossiers) with high quality and consistency with CDP and TPP. Support registration, market access, commercialization, and maintenance of product licenses (e.g., Core Data Sheet, Periodic Safety Update Report, J-RMP, clinical benefit- risk assessment for license renewals) for the compound(s)&#xff16;&#xff0e;As the medical/scientific expert, contribute interactions with Japan external stakeholders (e.g., regulatory authorities, key opinion leaders, data monitoring committees, advisory boards, patient advocacy groups), Japan internal stakeholders (e.g., JPT, GDO/Trial management, Research, Translational Medicine, Medical Affairs, Marketing, Pharmacovigilance (PV), Health Economics & Outcomes Research, etc.), and internal decision boards lead clinical related health authority (HA) activities including development of briefing book and answers for questions from HA&#xff17;&#xff0e;Contribute to development of TA strategies (Rheumatology area)&#xff18;.　Provide on-boarding, coaching, and/or mentoring support; develop and foster Clinical Development culture&#xff19;. 　Ensure adequate reporting of adverse events / technical complaints / compliance issues in accordance with company procedures&#xff11;&#xff10;&#xff0e; 100% timely delivery of all training requirements including complianceKey Performance IndicatorsThe indicators below are applied for clinical related activities in JapanExcellence in establishing clinical development and Re-examination strategy across various indications and programs with alignment across functions\nApply effective clinical research methodology, including trial design/analyses, efficacy endpoints, safety assessments, and risk management across disease area \nRobust evidence of quality medical/clinical review of trial data, development of CSRs\nSupport TA through high quality contributions to CDP and protocol reviews\nTimely development of quality disease/program clinical standards, publications, and internal/external presentations\nTimely delivery and submission of high-quality clinical program data in a cost-effective manner\nExternal acceptance of clinical data and risk-benefit assessments by key decision makers including Health Authorities, pricing, and reimbursement bodies\nWell contributed, effective, and engaged GCT(s) and GPT (as needed)\nClearly demonstrate Novartis Values and Behaviors\n\nEducation:Advanced degree in life sciences/healthcare　(or clinically relevant degree: MD or equivalent, PhD, PharmD degree is preferable) required.\n\nSpecialization in a subspecialty may be needed. Advanced clinical training/knowledge in medical/ scientific area aligned with TA required.\n\nExperience/Professional requirement:       ≥5 years of involvement in clinical research or drug development in an industry environment spanning clinical activities in Phases I through III/IV, including submission dossiers (In case MD holder, equivalent medical experience is needed)\nThorough knowledge of GCP and GPSP, clinical trial design, statistics, and regulatory/clinical development process\nExperience with submissions and/or health authorities required\nDemonstrated ability to establish strong scientific partnership with key stakeholders\nDemonstrated leadership and team management skills with a documented track record of delivering high quality projects/submissions/trials in pharmaceutical or biotech industry\nConsiderable organizational awareness including extensive experience working cross-functionally and in clinical teams\nExcellent management, interpersonal, communication (both written and oral), and problem-solving skills\nExcellent negotiation and diplomatic skills\nEnglish Skill:Fluent (or intermediate) oral and written English\n\nWhy consider Novartis?817million. That’s how many lives our products touch. And while we’re proud of that fact, in this world of digital and technological transformation, we must also ask ourselves this: how can we continue to improve and extend even more people’s lives?We believe the answers are found when curious, courageous and collaborative people like you are brought together in an inspiring environment. Where you’re given opportunities to explore the power of digital and data. Where you’re empowered to risk failure by taking smart risks, and where you’re surrounded by people who share your determination to tackle the world’s toughest medical challenges.We are Novartis. Join us and help us reimagine medicine.ノバルティスの製品は約8億人以上の患者さんに世界中で届けられています。約10万の社員が世界中のノバルティスで働いており、その国籍は約147カ国に及びます。ノバルティスファーマ株式会社は、スイス・バーゼル市に本拠を置く医薬品のグローバルリーディングカンパニー、ノバルティスの日本法人です。ノバルティスは、より充実したすこやかな毎日のために、これからの医薬品と医療の未来を描いています。詳細はホームページをご覧ください。https://www.novartis.co.jpJapanNovartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to midcareer.japan&#64;novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.ノバルティスは障害を持つ個人と協力し、合理的配慮を提供することをお約束します。健康状態や障害を理由に採用プロセスのいかなる部分においても、あるいは職務の必須事項を果たすために合理的配慮が必要な場合は midcareer-r.japan&#64;novartis.com宛てに電子メールをお送りください。その際ご依頼内容、ご連絡先、求人票の番号を明記してください。  \n\n \n\nSkills Desired\n\nBudget Management, Clinical Research, Clinical Trial Protocol, Clinical Trials, Coaching, Data Analysis, Data Integrity, Learning Design, Lifesciences, Risk Monitoring, Trends Analysis",
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-03-30",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
     "id": 380,
     "company_id": "jnj",
     "external_id": "R-054310",
@@ -3549,7 +3532,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-28",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3566,7 +3549,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-27",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3583,7 +3566,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3600,7 +3583,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3617,7 +3600,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3634,7 +3617,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3651,7 +3634,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3668,7 +3651,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3685,7 +3668,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3702,7 +3685,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3719,7 +3702,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3736,7 +3719,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3753,7 +3736,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3770,7 +3753,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3787,7 +3770,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3804,7 +3787,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3821,7 +3804,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3838,7 +3821,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3855,7 +3838,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3872,7 +3855,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3889,7 +3872,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3906,7 +3889,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3923,7 +3906,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3940,7 +3923,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3957,7 +3940,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3974,7 +3957,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -3991,7 +3974,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4008,7 +3991,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4025,7 +4008,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4042,7 +4025,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4059,7 +4042,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4076,7 +4059,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4093,7 +4076,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4110,7 +4093,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4127,7 +4110,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4144,7 +4127,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4161,7 +4144,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4178,7 +4161,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4195,7 +4178,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4212,7 +4195,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4229,7 +4212,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4246,7 +4229,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4263,7 +4246,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4280,7 +4263,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4297,7 +4280,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4314,7 +4297,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4331,7 +4314,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4348,7 +4331,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4365,7 +4348,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4382,7 +4365,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4399,7 +4382,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4416,7 +4399,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4433,7 +4416,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4450,7 +4433,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4467,7 +4450,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4484,7 +4467,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4501,7 +4484,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4518,7 +4501,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4535,7 +4518,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4552,7 +4535,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4569,7 +4552,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4586,7 +4569,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4603,7 +4586,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4620,7 +4603,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4637,7 +4620,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4654,7 +4637,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4671,7 +4654,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4688,7 +4671,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4705,7 +4688,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4722,7 +4705,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4739,7 +4722,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4756,7 +4739,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4773,7 +4756,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4790,7 +4773,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4807,7 +4790,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4824,7 +4807,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4841,7 +4824,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4858,7 +4841,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4875,7 +4858,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4892,7 +4875,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4909,7 +4892,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4926,7 +4909,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4943,7 +4926,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4960,7 +4943,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4977,7 +4960,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -4994,7 +4977,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5011,7 +4994,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5028,7 +5011,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5045,7 +5028,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5062,7 +5045,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5079,7 +5062,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5096,24 +5079,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 183,
-    "company_id": "sanofi",
-    "external_id": "24409256832",
-    "title": "Clinical Operations and Study Leader\n                                    Location: Tokyo, Japan\n                                \nCategory: Clinical Development",
-    "department": "Category: Clinical Development",
-    "location": "Location: Tokyo, Japan",
-    "job_category": "clinical",
-    "url": "https://jobs.sanofi.com/en/job/tokyo/clinical-operations-and-study-leader/2649/24409256832",
-    "description": "Summary of purpose/major responsibilitiesThe Clinical Operations and Study Leader (COSL) combines Clinical project and study oversight roles and responsibilities for Vaccines projects activities. For projects activities (project and study oversight, CTD submission, PAI…), the COSL will cover both COL and GSM activities.The COSL is a key leadership role within the assigned project. The COSL directs and manages clinical operational activities to support the Global Clinical Development Strategy Expert (GCDSE) and the clinical team in project and study activities. She/he is accountable for ensuring study activities and clinical deliverables are on time and within budget, collaborating actively with all functions in the project and clinical teams as well as functions in Clinical.  The COSL is the trusted and reliable chief liaison between the various platforms within GCD and acts as well as an interface with other enabling functions such as JPH, GPM, GRA, PSPV, CMQO, GMA, EPI, BSM, and GI, especially in the context of issues resolution. Therefore, it involves working with multiple levels of personnel from many platforms, in multiple regions, as well as with external stakeholders (e.g., advisory boards, CROs). The COSL is accountable for ensuring the deliverables of the clinical project and/or studies activities via effective project management and leadership skills in a manner that will optimize integrate and utilize the team’s resources and competencies.  The COSL will support the clinical project and studies strategy by providing expertise to develop the best operational strategy for the successful conduct of the project and delivery of the studies. It requires an excellent understanding of franchise/project strategic objectives, clinical operational activities, and clinical studies constraints including Japan regulations, as well as superior interpersonal skills. The COSL ensures an effective cross functional communication and consolidates strategic communication at project level as well as study level.The COSL supports innovation and entrepreneurial mindset such as clinical trial designs, digital methodologies, and tools as well as organization within the extended clinical and clinical teams.The COSL is a key role in risk management initiatives and coordinates crisis management within the project/studies.The chief accountability is to ensure reliable performance and productivity of Clinical project/studies by leading and coordinating project and studies activities and services.  Accountable for both project and study deliverables within GCD, including the timelines, quality and budget.  Key accountabilitiesProject strategy and coordinationProvides operational input into the clinical project strategy by providing expertise to develop the best operational and scientific strategy for the successful conduct of the project. Knowledgeable about and understands overall project and franchise strategy.In collaboration with the GCDSE, provides support for clinical project governance.Ensures the Clinical Development Plans are communicated throughout the Extended Clinical Team and the R&D Project Team and to ensure alignment with R&D global project strategy.Accountable for Clinical project performance to ensure it meets expectation with respect to timelines, quality and budget.Contributes to ensure harmonization of activities (operational strategy) in between studies within a program and transversally and across clinical projects/programs, as well as alignment between local and global.Manages the planning and feasibility of execution of the clinical study/project/program performed as part of the Clinical Development Plan.Develops the planning and drives execution of the clinical sections of the required regulatory submissions and communicates status updates (i.e. CTD, eBLA, PAI, and others as appropriate).Monitors projects’ Progress and performance against strategic objectives and key performance indicators. Ensures proactive, timely reporting on progress of program management components of clinical trials, openly escalate issues that require input from and discussion with members of Clinical Management.May be responsible for more than one clinical project, and/or clinical studies depending on project scope and individual experience.**Coordinates the Clinical Team with the GCDSE for the operational aspects of the study:- Organizes study specific meetings- Ensures study operational feasibility is properly done and considered working with other functions and integrates feedback in study plan and risks (GRA timelines, country selection, recruitment potentials, budget needs).- Ensures study progress is aligned with the projections: coordinates information on clinical timelines from all contributors (including IMP and NIMP by updating the CSC Order Management tool), proactively addresses potential time slippage and coordinates the clinical team’s plans to meet the study timelines.- Ensures the Clinical Team communication is ",
-    "requirements": "Clinical Operations and Study Leader at Sanofi\n    \t\n        \n        \n\n            \n            \n            \n            \n        \n    \t\n        \n        \n        \n            \n        \n                  \n                  \n                  \n                  \n        \n             \n             \n                 function OptanonWrapper() {\n                    var OTCC = function(){\n                    var re = /[|,]/;\n                    var otc = document.cookie.split(';').filter(function (item) { return item && item.trim().indexOf(consentCookie + '=') === 0; }).toString();\n                    var otcfc = otc.split('&').filter(function (item) { return item && item.trim().indexOf('groups=') === 0; }).toString();\n                    var otcds = decodeURIComponent(otcfc.split('=')[1]);\n                             var ce = otcds !== null;\n                             var otcda = otcds.split(re);\n                             var hc = false;\n                             for(a=1; a<=otcda.length -1; a++ )         {hc = hc || otcda[a].indexOf(':1')> 0;}\n                             if (ce && hc)  {location.reload();}\n                     };       OneTrust.OnConsentChanged(OTCC);     \n                } \n     \n             \n        \n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n    \n    \n    \n\n\n{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"baseSalary\":{\"@type\":\"MonetaryAmount\",\"currency\":\"\",\"value\":{\"@type\":\"QuantitativeValue\",\"unitText\":\"\"}},\"datePosted\":\"2025-4-24\",\"description\":\"<p><b><span>Summary of purpose/major responsibilities</span></b></p><p></p><p><span>The </span><b><span>Clinical Operations and Study Leader (COSL)</span></b><span> combines Clinical project and study oversight roles and responsibilities for </span><b><span>Vaccines projects activities.</span></b></p><p><span> </span></p><p><span>For projects activities (project and study oversight, CTD submission, PAI…), the COSL will cover both COL and GSM activities.</span></p><p><span>The COSL is a key leadership role within the assigned project. The COSL directs and manages clinical operational activities to support the Global Clinical Development Strategy Expert (GCDSE) and the clinical team in project and study activities.</span></p><p><span> </span></p><p><span>She/he is accountable for ensuring study activities and clinical deliverables are on time and within budget, collaborating actively with all functions in the project and clinical teams as well as functions in Clinical. </span></p><p><span> </span></p><p><span>The COSL is the trusted and reliable chief liaison between the various platforms within GCD and acts as well as an interface with other enabling functions such as JPH, GPM, GRA, PSPV, CMQO, GMA, EPI, BSM, and GI, especially in the context of issues resolution. Therefore, it involves working with multiple levels of personnel from many platforms, in multiple regions, as well as with external stakeholders (e.g., advisory boards, CROs).</span></p><p><span> </span></p><p><",
-    "therapeutic_area": "infectious",
-    "analysis_data": null,
-    "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5130,7 +5096,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5147,7 +5113,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5164,7 +5130,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5181,7 +5147,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5198,7 +5164,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5215,7 +5181,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5232,7 +5198,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5249,7 +5215,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5266,7 +5232,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5283,7 +5249,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5300,7 +5266,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5317,7 +5283,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5334,7 +5300,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5351,7 +5317,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5368,7 +5334,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5385,7 +5351,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5402,7 +5368,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5419,7 +5385,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5436,7 +5402,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5453,7 +5419,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5470,24 +5436,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 106,
-    "company_id": "novartis",
-    "external_id": "REQ-10037580",
-    "title": "Sr Manager, Executive Communications",
-    "department": "REQ-10037580",
-    "location": "Toranomon (NPKK Head Office)",
-    "job_category": "other",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Toranomon-NPKK-Head-Office/Sr-Manager--Executive-Communications_REQ-10037580-3",
-    "description": "Job Description Summary\n\nThis role will deliver internal and external executive communication through connecting the Ja-pan business strategy to internal and external audiences, delivering visibility of Novartis execu-tive’s leadership and strategy to raise enterprise mindset, drive business goals, and enhance cor-porate reputations. By leveraging insights & analytics based on data modeling of the inter-nal/external environment and to predict stakeholder views, needs and behaviors shapes the communication tactics. Builds tactics for short- and long-term engagement plan for associates, media, external stakeholders, and communities in service of mutually beneficial goals and builds beneficial relationship, to support iterative execution of the Country Comms and Patient Advo-cacy Strategy.\n \n\nJob Description\n\n​ Job Responsibilities\n\nDevelop and execute end-to-end strategy and communications planning to connect Japan\nExecutives and their thought leadership to internal and external stakeholders in alignment with the Head of Corporate communications.\nElevate the Japan Novartis executive profile and our industry leadership through content generation, with significant written and creative outputs, for the Japan executives, especially the country president and Country Leadership Team through social media content, written messages, visual content, briefing materials, speeches etc., ensuring consistency and quality of positioning and brand throughout. \nShape corporate and leadership message within collaboration of Corporate comm colleagues, Brand and Reputation team.\nIdentify and build visibility opportunities/stages and white spaces to support our executive’s business/reputation enhancement plan.\nUtilize analytics and insights to inform and adjust strategy, accumulate results, and report outcomes.\nAnticipate and shape environment to manage risk to Novartis reputation; advise business partners and leadership with specific predictive activities or strategies.\nHave strong alert on industry trends, news and key issues, and business updates to provide recommendations for areas for our leaders to engage or to prepare strategic messaging.\nBe a point person with key executives for external speaking and media opportunities, including media readiness and preparation.\nPlay collaborative role across country communications team to address executive messages at town halls, leader meetings, organizational change communications and press conferences.\nBuild and maintain collaborative relationships with key functions and global/international corporate affairs and closely align with international executive communications/CEO office colleagues.\nMonitor and evaluate performance to achieve and maintain best-in-class outcomes, while being fully compliant.\nEffectively manage and maximize agency ROI.\n\nKey Performance Indicators\n\nAbility to design an impactful and multidirectional executive communications plan which defies established practices and breaks category norms.\nSuccess rate in achieving defined communications goals and outcomes in key as defined utilizing the CA function planning (OGSM) and Analytics &Insight framework.\nRelationship and alignment with country executives especially country president.\nAlignment of communications strategies, priorities, and objectives within country.\nManage stakeholders - predict and balance the needs of executives; strong multiple stakeholder management and consensus driven conversations to enable close alignment.\nSupport and collaboration to corporate comms team members to deliver strengthened and focused communication efforts in-country as a team.\n Put in place predictive data and analytics to generate data-driven communication plans.\nEarly identification, management, and support to Corporate comms head for resolution of critical issues\nHigh quality relevant relationships with key media\nManage complexity: make sense of complex, high-quantity, and sometimes ambiguous information to effectively solve problems and take decisions.\nEmbrace failure as a learning experience and a foundation for future success.\n\nIdeal Background\n\nEducation:\n\nBachelor’s degree or above\nExperience:\n\n10&#43; years in communications including employee and corporate, media communications with a healthcare and/or pharmaceutical background.\nStrategy and implementation to raise engagement and visibility of key company executives through visibility strategies and business strategy communications.\nLeadership & influencing communications, social media content strategy and implementation.\nLed organization and implementation of internal and external executive exposure events.\nCrisis and issues management \nAgency and key media outlet management\nExecutive reputation and awareness campaigns\nSkills:\n\nShaping and driving projects capability.  \nProvide direction, delegating and removing obstacles to get work done.\nProminent level partnering skills with proven ability to engage and influence stakeholders at all levels both internal and external.\nUnderstanding of healthcare industry landscape\nAbility to prioritize & maximize resources.\nExcellent people & communication skills, \nBusiness and organizational awareness, enterprise perspective.\nCrisis & agency mgmt.\nExemplifies a predictive mindset; seeks multidirectional insights to understand our environments and stakeholders, and embraces iterative, measurable experimentation and action. \nBusiness and enterprise perspective.\nExcellent business level Japanese and English in speaking and writing.\nStrong business acumen\n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n\nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally:   https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\nAccessibility and Accommodation:\n\nNovartis is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to perform the essential functions of a position, please send an e-mail to diversityandincl.china&#64;novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \n\nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network. You can follow us via Novartis Recruitment WeChat Official Account and Novartis Recruitment WeChat Video Account.\n\nBe aware of fake job advertisements and job offers\n\nNovartis is aware of employment scams which make false use of our company name or leader’s names to defraud job seekers. Novartis does not make job offers without interview and never asks candidates for money. \n\nAll our current job openings are displayed here. If you have encountered a job posting or been approached with a job offer that you suspect may be fraudulent, we strongly recommend you do not respond, send money or personal information.\n\n偽の求人広告や採用オファーにご注意ください\n\nノバルティスでは、当社名や幹部の名前を不正に使用して求職者をだます「採用詐欺」が発生していることを認識しています。\n\nノバルティスでは、面接なしに採用オファーを出すことはなく、候補者に金銭を要求することも決してありません。\n\n現在の求人情報はすべてこちらに掲載されています。詐欺の可能性がある求人広告や採用オファーに遭遇した場合は、返信したり、金銭や個人情報を送ったりしないよう強くおすすめします。\n\n \n\nSkills Desired\n\nCollaboration, Communication Medium, Corporate Communication, Curious Mindset, Employee Engagement, Internal Communications (Ic), Marketing, Media Relations, Multimedia, Photography, Social Media, Strategic Communications, W3",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5504,7 +5453,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5521,7 +5470,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5538,7 +5487,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5555,7 +5504,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5572,7 +5521,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5589,7 +5538,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5606,7 +5555,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5623,24 +5572,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
-    "status": "active"
-  },
-  {
-    "id": 90,
-    "company_id": "msd",
-    "external_id": "R390303",
-    "title": "Medical Affairs Medical Review Sr. Specialist",
-    "department": "メディカルアフェアーズ",
-    "location": "Chiyoda, Tokyo, Japan",
-    "job_category": "medical",
-    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Tokyo---Chiyoda/Medical-Affairs-Medical-Review-Sr-Specialist_R390303-1/apply",
-    "description": "Join our team as a Senior Medical Affairs Specialist and drive impactful medical reviews, communications, and governance projects. Leverage your expertise in medical knowledge and project management to support pharmaceutical innovation. Ideal for professionals with 3+ years’ experience in medical affairs and strong English (TOEIC 730+) skills. Shape the future of healthcare with us.",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5657,7 +5589,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5674,7 +5606,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5691,7 +5623,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5708,7 +5640,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5725,7 +5657,24 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "id": 76,
+    "company_id": "msd",
+    "external_id": "R376139",
+    "title": "Medical Affairs Oncology Medical Advisor (M.D.)",
+    "department": "メディカルアフェアーズ",
+    "location": "Chiyoda, Tokyo, Japan",
+    "job_category": "medical",
+    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Tokyo---Chiyoda/Medical-Affairs-Oncology-Medical-Advisor--MD-_R376139-1/apply",
+    "description": "Embrace the opportunity to become a Medical Affairs Oncology Medical Advisor and drive impactful medical strategies in oncology. Leverage your clinical research expertise, collaborate globally, and shape healthcare policy. If you have 5+ years’ experience in oncology medical affairs and a passion for advancing patient care, this is your opportunity to make a difference.",
+    "requirements": null,
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-03-23",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
@@ -5742,7 +5691,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "status": "active"
   },
   {
