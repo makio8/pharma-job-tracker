@@ -30,22 +30,22 @@
     "active_jobs": 42
   },
   {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 33
-  },
-  {
     "id": "pfizer",
     "name_ja": "ファイザー",
     "name_en": "Pfizer",
     "category": "foreign",
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 33
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 32
   },
@@ -60,22 +60,22 @@
     "active_jobs": 26
   },
   {
-    "id": "astellas",
-    "name_ja": "アステラス製薬",
-    "name_en": "Astellas",
-    "category": "domestic",
-    "careers_url": "astellasjapan.avature.net",
-    "scraper": "avature",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
     "category": "foreign",
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 21
+  },
+  {
+    "id": "astellas",
+    "name_ja": "アステラス製薬",
+    "name_en": "Astellas",
+    "category": "domestic",
+    "careers_url": "astellasjapan.avature.net",
+    "scraper": "avature",
     "active": 1,
     "active_jobs": 20
   },
@@ -87,7 +87,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 18
   },
   {
     "id": "kyowakirin",
@@ -127,7 +127,7 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 9
+    "active_jobs": 10
   },
   {
     "id": "roche",
@@ -137,7 +137,7 @@
     "careers_url": "roche.com/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 9
+    "active_jobs": 8
   },
   {
     "id": "otsuka",
