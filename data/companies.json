@@ -27,7 +27,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 40
+    "active_jobs": 41
   },
   {
     "id": "msd",
@@ -37,7 +37,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 32
+    "active_jobs": 33
   },
   {
     "id": "pfizer",
@@ -80,6 +80,16 @@
     "active_jobs": 19
   },
   {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 17
+  },
+  {
     "id": "kyowakirin",
     "name_ja": "協和キリン",
     "name_en": "Kyowa Kirin",
@@ -98,16 +108,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 17
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 16
   },
   {
     "id": "sanofi",
