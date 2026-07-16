@@ -27,17 +27,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 43
-  },
-  {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 33
+    "active_jobs": 42
   },
   {
     "id": "pfizer",
@@ -50,6 +40,16 @@
     "active_jobs": 32
   },
   {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 31
+  },
+  {
     "id": "lilly",
     "name_ja": "日本イーライリリー",
     "name_en": "Eli Lilly",
@@ -57,7 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 28
   },
   {
     "id": "novartis",
@@ -97,7 +97,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 17
   },
   {
     "id": "astrazeneca",
@@ -117,7 +117,17 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 14
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 14
   },
   {
     "id": "abbvie",
@@ -158,16 +168,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 5
-  },
-  {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 3
   },
   {
     "id": "sumitomo",
