@@ -27,7 +27,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 42
+    "active_jobs": 41
   },
   {
     "id": "pfizer",
@@ -37,7 +37,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 32
   },
   {
     "id": "msd",
@@ -80,16 +80,6 @@
     "active_jobs": 20
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 17
-  },
-  {
     "id": "kyowakirin",
     "name_ja": "協和キリン",
     "name_en": "Kyowa Kirin",
@@ -98,6 +88,16 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 17
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 16
   },
   {
     "id": "astrazeneca",
@@ -110,16 +110,6 @@
     "active_jobs": 15
   },
   {
-    "id": "roche",
-    "name_ja": "ロシュ",
-    "name_en": "Roche",
-    "category": "foreign",
-    "careers_url": "roche.com/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 14
-  },
-  {
     "id": "takeda",
     "name_ja": "武田薬品工業",
     "name_en": "Takeda",
@@ -127,7 +117,7 @@
     "careers_url": "takeda.wd3.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 15
   },
   {
     "id": "abbvie",
@@ -137,7 +127,17 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 14
+  },
+  {
+    "id": "roche",
+    "name_ja": "ロシュ",
+    "name_en": "Roche",
+    "category": "foreign",
+    "careers_url": "roche.com/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 14
   },
   {
     "id": "otsuka",
@@ -157,7 +157,7 @@
     "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
     "scraper": "jposting",
     "active": 1,
-    "active_jobs": 7
+    "active_jobs": 6
   },
   {
     "id": "bms",
