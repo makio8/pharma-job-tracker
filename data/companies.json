@@ -10,6 +10,16 @@
     "active_jobs": 50
   },
   {
+    "id": "jnj",
+    "name_ja": "ヤンセンファーマ",
+    "name_en": "Johnson & Johnson",
+    "category": "foreign",
+    "careers_url": "careers.jnj.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 46
+  },
+  {
     "id": "eisai",
     "name_ja": "エーザイ",
     "name_en": "Eisai",
@@ -18,16 +28,6 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 45
-  },
-  {
-    "id": "jnj",
-    "name_ja": "ヤンセンファーマ",
-    "name_en": "Johnson & Johnson",
-    "category": "foreign",
-    "careers_url": "careers.jnj.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 43
   },
   {
     "id": "pfizer",
@@ -47,7 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 28
+    "active_jobs": 27
   },
   {
     "id": "lilly",
@@ -57,7 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 25
   },
   {
     "id": "novartis",
@@ -67,7 +67,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 21
+    "active_jobs": 23
   },
   {
     "id": "astellas",
@@ -110,22 +110,22 @@
     "active_jobs": 18
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 16
-  },
-  {
     "id": "astrazeneca",
     "name_ja": "アストラゼネカ",
     "name_en": "AstraZeneca",
     "category": "foreign",
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 15
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
     "active": 1,
     "active_jobs": 15
   },
