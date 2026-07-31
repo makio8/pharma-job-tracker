@@ -10,16 +10,6 @@
     "active_jobs": 50
   },
   {
-    "id": "jnj",
-    "name_ja": "ヤンセンファーマ",
-    "name_en": "Johnson & Johnson",
-    "category": "foreign",
-    "careers_url": "careers.jnj.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 46
-  },
-  {
     "id": "eisai",
     "name_ja": "エーザイ",
     "name_en": "Eisai",
@@ -30,6 +20,16 @@
     "active_jobs": 45
   },
   {
+    "id": "jnj",
+    "name_ja": "ヤンセンファーマ",
+    "name_en": "Johnson & Johnson",
+    "category": "foreign",
+    "careers_url": "careers.jnj.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 41
+  },
+  {
     "id": "pfizer",
     "name_ja": "ファイザー",
     "name_en": "Pfizer",
@@ -37,7 +37,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 32
   },
   {
     "id": "msd",
@@ -47,7 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 26
   },
   {
     "id": "lilly",
@@ -67,7 +67,17 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 22
+  },
+  {
+    "id": "takeda",
+    "name_ja": "武田薬品工業",
+    "name_en": "Takeda",
+    "category": "domestic",
+    "careers_url": "takeda.wd3.myworkdayjobs.com",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -86,16 +96,6 @@
     "category": "foreign",
     "careers_url": "roche.com/careers",
     "scraper": "custom",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
-    "id": "takeda",
-    "name_ja": "武田薬品工業",
-    "name_en": "Takeda",
-    "category": "domestic",
-    "careers_url": "takeda.wd3.myworkdayjobs.com",
-    "scraper": "workday",
     "active": 1,
     "active_jobs": 20
   },
