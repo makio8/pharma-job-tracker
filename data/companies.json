@@ -40,16 +40,6 @@
     "active_jobs": 30
   },
   {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 26
-  },
-  {
     "id": "lilly",
     "name_ja": "日本イーライリリー",
     "name_en": "Eli Lilly",
@@ -58,6 +48,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 26
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 24
   },
   {
     "id": "takeda",
@@ -150,22 +150,22 @@
     "active_jobs": 7
   },
   {
-    "id": "tanabe",
-    "name_ja": "田辺ファーマ",
-    "name_en": "Tanabe Pharma",
-    "category": "domestic",
-    "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
-    "scraper": "jposting",
-    "active": 1,
-    "active_jobs": 6
-  },
-  {
     "id": "bms",
     "name_ja": "ブリストル・マイヤーズ スクイブ",
     "name_en": "Bristol-Myers Squibb",
     "category": "foreign",
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
+    "active": 1,
+    "active_jobs": 6
+  },
+  {
+    "id": "tanabe",
+    "name_ja": "田辺ファーマ",
+    "name_en": "Tanabe Pharma",
+    "category": "domestic",
+    "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
+    "scraper": "jposting",
     "active": 1,
     "active_jobs": 5
   },
