@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 50
+    "active_jobs": 51
   },
   {
     "id": "chugai",
@@ -100,16 +100,6 @@
     "active_jobs": 19
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 18
-  },
-  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -118,6 +108,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 18
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 17
   },
   {
     "id": "astrazeneca",
