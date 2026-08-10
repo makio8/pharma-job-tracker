@@ -97,7 +97,7 @@
     "careers_url": "hrmos.co/pages/kyowakirin",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 20
   },
   {
     "id": "novartis",
@@ -107,17 +107,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 18
-  },
-  {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 17
+    "active_jobs": 19
   },
   {
     "id": "astrazeneca",
@@ -127,7 +117,17 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 15
   },
   {
     "id": "abbvie",
