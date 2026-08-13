@@ -47,17 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 26
-  },
-  {
-    "id": "lilly",
-    "name_ja": "日本イーライリリー",
-    "name_en": "Eli Lilly",
-    "category": "foreign",
-    "careers_url": "careers.lilly.com/jp/ja/japan",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 24
+    "active_jobs": 27
   },
   {
     "id": "takeda",
@@ -68,6 +58,16 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 23
+  },
+  {
+    "id": "lilly",
+    "name_ja": "日本イーライリリー",
+    "name_en": "Eli Lilly",
+    "category": "foreign",
+    "careers_url": "careers.lilly.com/jp/ja/japan",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 22
   },
   {
     "id": "kyowakirin",
@@ -110,22 +110,22 @@
     "active_jobs": 19
   },
   {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 15
-  },
-  {
     "id": "sanofi",
     "name_ja": "サノフィ",
     "name_en": "Sanofi",
     "category": "foreign",
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 16
+  },
+  {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 15
   },
@@ -137,7 +137,7 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 12
   },
   {
     "id": "otsuka",
