@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 54
+    "active_jobs": 55
   },
   {
     "id": "chugai",
@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 45
+    "active_jobs": 43
   },
   {
     "id": "pfizer",
@@ -47,7 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 26
   },
   {
     "id": "lilly",
@@ -97,7 +97,7 @@
     "careers_url": "roche.com/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 20
+    "active_jobs": 19
   },
   {
     "id": "novartis",
@@ -107,7 +107,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 16
   },
   {
     "id": "astrazeneca",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 14
   },
   {
     "id": "abbvie",
