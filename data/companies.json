@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 55
+    "active_jobs": 53
   },
   {
     "id": "chugai",
@@ -47,7 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 26
+    "active_jobs": 25
   },
   {
     "id": "lilly",
@@ -97,7 +97,7 @@
     "careers_url": "roche.com/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 18
   },
   {
     "id": "novartis",
@@ -106,6 +106,16 @@
     "category": "foreign",
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 17
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
     "active": 1,
     "active_jobs": 16
   },
@@ -118,16 +128,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 15
-  },
-  {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 12
   },
   {
     "id": "abbvie",
@@ -167,7 +167,7 @@
     "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
     "scraper": "jposting",
     "active": 1,
-    "active_jobs": 5
+    "active_jobs": 4
   },
   {
     "id": "sumitomo",
