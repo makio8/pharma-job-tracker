@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 55
+    "active_jobs": 54
   },
   {
     "id": "chugai",
@@ -50,6 +50,16 @@
     "active_jobs": 24
   },
   {
+    "id": "lilly",
+    "name_ja": "日本イーライリリー",
+    "name_en": "Eli Lilly",
+    "category": "foreign",
+    "careers_url": "careers.lilly.com/jp/ja/japan",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 23
+  },
+  {
     "id": "takeda",
     "name_ja": "武田薬品工業",
     "name_en": "Takeda",
@@ -58,16 +68,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 23
-  },
-  {
-    "id": "lilly",
-    "name_ja": "日本イーライリリー",
-    "name_en": "Eli Lilly",
-    "category": "foreign",
-    "careers_url": "careers.lilly.com/jp/ja/japan",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 22
   },
   {
     "id": "kyowakirin",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 12
+    "active_jobs": 14
   },
   {
     "id": "abbvie",
