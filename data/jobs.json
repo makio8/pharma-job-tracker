@@ -1,5 +1,22 @@
 [
   {
+    "id": 968,
+    "company_id": "sanofi",
+    "external_id": "42344261760",
+    "title": "US Medical Value & Outcomes Director",
+    "department": null,
+    "location": "",
+    "job_category": "medical",
+    "url": "https://jobs.sanofi.com/en/job/united-states/us-medical-value-and-outcomes-director/2649/42344261760",
+    "description": "Job title: US Medical Value & Outcomes DirectorLocation: Remote (West Coast)About SanofiWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives.Sanofi focuses on developing specialty treatments for debilitating diseases that are often difficult to diagnose and treat, providing hope to patients and their families. Sanofi Corporation and its U.S. affiliates are Equal Opportunity and Affirmative Action employers committed to a culturally diverse workforce.  All qualified applicants will receive consideration for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality; marital, domestic partnership or civil union status; sex, gender.About the jobThe Medical Value & Outcomes team member (MVO, Director) serves as the medical scientific lead for population-based healthcare decision makers to facilitate scientific exchange on disease state management and the value of Sanofi General Medicines BU products, to provide insights to internal teams on key evidence gaps relevant to healthcare decision-makers, and to identify/facilitate research, education, and other collaborations per applicable SOPs.  This role will be responsible for developing and implementing customized medical account plans to address medical needs and opportunities for scientific partnerships in alignment with Sanofi medical strategies and tactics.  A key responsibility will be to facilitate scientific exchange on disease state management and the clinical/economic value of Sanofi products to help inform healthcare decision making and improve patient outcomes.  The position supports the strategic and cross functional alignment within the organization in order to achieve the medical mission of safe and appropriate use of Sanofi therapies through collaboration with Medical Communications and Publications, Medical Science Liaisons, and Health Outcomes personnel for assigned products.  In particular, this position serves as the MVO field strategic lead for General Medicine Business Unit portfolio, and, in doing so, liaises with the respective therapeutic area medical units and other internal stakeholders to provide input and to develop and implement field strategy, tactics, and associated resources and training needs for the MVO team.  In partnership with multiple internal stakeholders, the MVO aids in developing short and long-term strategies to integrate and advance the communication and needs.  This position reports to  MVO, Senior Director and is a member of the Sanofi North American Medical Affairs team. Job Roles and ResponsibilitiesServe as medical scientific lead for assigned healthcare accounts and organizations.Identify, develop and maintain credible scientific partnerships with key medical, pharmacy, quality & health economics/outcomes/analytics healthcare decision-makers and opinion leaders within assigned accounts.Lead development and execution of customized medical account plans for assigned accounts in alignment with current Sanofi medical strategies and tactics and per approved policies, procedures and guidelines.Facilitate scientific exchange, education and provides access to medical, health policy, and health economic information (e.g., clinical presentations, dossier, budget impact models, etc.), and tailor information to meet the evidence needs of healthcare decision-makers, in alignment with current medical brand strategies and in a compliant manner.Collect and share customer insights and evidence gaps that help to inform and advance product portfolio development and customer engagement, including medical brand strategies, customer educational needs, scientific/health outcomes communications, and research priorities. Director level MVO will lead efforts in developing insights into strategy.Develop key medical contacts related to clinical, evidence-based disease management/health outcome initiatives, aligned with overall medical brand strategy. Identify and expand key contacts with applicable national/regional/local medical, payer, and advocacy associations.Assists in leading support for Sanofi scientific advisory boards and symposia. Attend and participate as appropriate in corporate and scientific conferences. Work cross-functionally and leads efforts with US Market Access (USMA) Account Director team, as well as field commercial & FBM teams when needed and as appropriate, to coordinate engagement of and response to customers’ medical/scientific needs including  alignment with additional Sanofi resources (e.g., Medical Directors, Brand Team member, HEOR/HEVA, or other functions).Knowledge, Skills, and Equivalent Experience Understanding and knowledge of current US healthcare system,",
+    "requirements": null,
+    "therapeutic_area": "infectious",
+    "analysis_data": null,
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "status": "active"
+  },
+  {
     "id": 967,
     "company_id": "astellas",
     "external_id": "16489",
@@ -13,7 +30,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -30,7 +47,7 @@
     "therapeutic_area": "dermatology",
     "analysis_data": null,
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -42,12 +59,12 @@
     "location": "KOBE, Hyogo, Japan",
     "job_category": "clinical",
     "url": "https://careers.lilly.com/us/en/apply?jobSeqNo=LILLUSR110807EXTERNALENUS",
-    "description": "At Lilly, the work is demanding because patients are waiting. We unite caring with discovery to help make life better for people around the world, knowing that every decision, every detail, and every ",
+    "description": "患者のために本当に重要な仕事に取り組む準備ができている方をお待ちしています。私たちと一緒に、注射剤や固形製剤の品質管理業務に携わり、医薬品の品質を確保する役割を果たしてください。",
     "requirements": null,
-    "therapeutic_area": "general",
+    "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -64,7 +81,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -81,7 +98,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -98,7 +115,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -115,7 +132,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -132,7 +149,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -149,7 +166,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -166,7 +183,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -183,7 +200,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -200,7 +217,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -217,7 +234,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -234,7 +251,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -251,7 +268,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -268,7 +285,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -285,7 +302,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -302,7 +319,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -319,7 +336,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -336,7 +353,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -353,7 +370,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -370,7 +387,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -387,7 +404,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-08-20",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -404,7 +421,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -421,7 +438,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -438,7 +455,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -455,7 +472,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-18",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -472,7 +489,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -489,7 +506,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -506,7 +523,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -523,7 +540,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -540,7 +557,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -557,7 +574,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -574,7 +591,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -591,7 +608,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -608,7 +625,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -625,7 +642,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -642,7 +659,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -659,7 +676,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -676,7 +693,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -693,7 +710,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -710,7 +727,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -727,7 +744,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -744,7 +761,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -761,7 +778,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -778,7 +795,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -795,7 +812,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -812,7 +829,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -829,7 +846,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -846,7 +863,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -863,7 +880,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -880,7 +897,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -897,7 +914,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -914,7 +931,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -931,7 +948,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -948,7 +965,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -965,7 +982,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -982,7 +999,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1033,7 +1050,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-08-01",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1118,7 +1135,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1135,7 +1152,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1169,7 +1186,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1186,7 +1203,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1203,7 +1220,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1220,7 +1237,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1237,7 +1254,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1271,7 +1288,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1288,7 +1305,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1339,7 +1356,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1356,7 +1373,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1373,7 +1390,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1390,7 +1407,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1424,7 +1441,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1441,7 +1458,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1458,7 +1475,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1475,7 +1492,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1492,7 +1509,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1509,7 +1526,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1526,7 +1543,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1543,7 +1560,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-22",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1560,7 +1577,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1594,7 +1611,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1611,7 +1628,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1628,7 +1645,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1645,7 +1662,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1662,7 +1679,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1679,7 +1696,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1696,7 +1713,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1713,7 +1730,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1764,7 +1781,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-07-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1781,7 +1798,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-07-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1798,7 +1815,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-16",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1832,7 +1849,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-15",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1849,7 +1866,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-15",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1866,7 +1883,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-14",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1900,7 +1917,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1917,7 +1934,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1934,7 +1951,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1951,7 +1968,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -1968,7 +1985,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2019,7 +2036,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2036,7 +2053,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2053,7 +2070,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2070,7 +2087,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2087,7 +2104,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2104,7 +2121,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2121,7 +2138,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2138,7 +2155,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2155,7 +2172,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2172,7 +2189,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2206,7 +2223,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2223,7 +2240,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2240,7 +2257,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2274,7 +2291,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2291,7 +2308,7 @@
     "therapeutic_area": "respiratory",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2308,7 +2325,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2325,7 +2342,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2342,7 +2359,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2359,7 +2376,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2376,7 +2393,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2393,7 +2410,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2444,7 +2461,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2461,7 +2478,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2478,7 +2495,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2495,7 +2512,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2512,7 +2529,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2529,7 +2546,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2546,7 +2563,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2563,7 +2580,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2580,7 +2597,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2597,7 +2614,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2614,7 +2631,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2631,7 +2648,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2648,7 +2665,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2665,7 +2682,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2682,7 +2699,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2699,7 +2716,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2716,7 +2733,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2733,7 +2750,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2750,7 +2767,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2767,7 +2784,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2784,7 +2801,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2801,7 +2818,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2818,7 +2835,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2835,7 +2852,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2852,7 +2869,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2869,7 +2886,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2886,7 +2903,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2903,7 +2920,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2920,7 +2937,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2937,7 +2954,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2954,7 +2971,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2971,7 +2988,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-20",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -2988,7 +3005,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-19",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3005,7 +3022,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-18",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3022,7 +3039,24 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
+    "status": "active"
+  },
+  {
+    "id": 673,
+    "company_id": "astrazeneca",
+    "external_id": "96203259696",
+    "title": "【AstraZeneca】【IBE】Project Manager\n                                        \n                                        \nOsaka, Ōsaka, Japan",
+    "department": "",
+    "location": "Osaka, Ōsaka, Japan",
+    "job_category": "other",
+    "url": "https://careers.astrazeneca.com/job/osaka/astrazeneca-ibe-project-manager/7684/96203259696",
+    "description": "【職務内容 / Job Description】本ポジションは、イベントワークフロー最適化に向けたソリューション導入およびチェンジマネジメントをリードする管理職ポジションです。主な役割として、関連プロセスの運用定着、継続的な改善・エンハンスメント、ステークホルダー調整、ならびにグローバルチームとの連携による関連プロセスの最適化を担っていただきます。加えて、イベントワークフロー最適化にとどまらず、より広い業務改善やオペレーション最適化を推進する役割も期待されています。Office 365、Power Platform、Power Automate、Copilot等のAI・デジタルツールを活用しながら、業務の効率化、標準化、自動化、生産性向上を推進し、継続的なオペレーション高度化に貢献いただきます。また、インサイツ＆ビジネスエクセレンス本部において部門横断のイニシアチブや課題解決をサポートいただくことを目的にPMOとしてプロジェクト管理を行っていただくことも期待しています。将来的には、組織体制や事業ニーズに応じてPeople Managerとしてチームを率いる役割を担う可能性もあります。＜主な業務内容＞・イベントワークフロー最適化に向けたソリューション導入の推進関係部門と連携しながら業務要件を整理し、最適なソリューション導入を計画・推進します。導入後の活用促進や安定運用の実現まで一貫してリードします。・チェンジマネジメントの企画・実行新たなプロセスやツール活用を組織に浸透・定着させるため、関係者への働きかけ、コミュニケーション設計、課題対応を含むチェンジマネジメントを主導します。・新プロセス運用の定着化および継続改善の推進導入後の運用状況を把握し、課題抽出、改善提案、エンハンスメント計画の策定および実行を通じて、継続的な改善を推進します。・業務改善およびオペレーション最適化の推進イベント関連プロセスに限らず、周辺業務や関連オペレーションも含めて、業務プロセスの見直し、標準化、効率化、高度化を推進します。・ステークホルダーコミュニケーションのリード関係部門や関連担当者と連携し、進捗共有、課題整理、合意形成、期待値調整を行いながら、プロジェクト推進を支えます。・AI・デジタルツールを活用した業務改善・自動化の推進Office 365、Power Platform、Power Automate、Copilot等を活用し、業務の効率化、標準化、自動化、生産性向上に向けた施策を企画・推進します。・各種リクエスト・問合せ対応のタスクマネジメントソリューションに関連するリクエストや問合せ内容を整理し、優先順位付け、進捗管理、必要に応じたエスカレーションを行いながら、適切な対応を推進します。・グローバルチームとの協業による関連プロセスの最適化グローバルチームと連携し、一部関連プロセスの標準化、改善、最適化を推進します。英語での会議、資料作成、調整業務が発生します。・インサイツ＆ビジネスエクセレンス本部のPMOとして、部門横断のイニシアチブや課題解決をサポート主担当領域に加え、事業ニーズや組織方針に応じて、本部における部門横断の施策や重点テーマについて、PMOとして推進支援、進捗管理、課題整理、関係者調整を担います。■ 応募資格(経験、資格等) / Qualification (Experience & Skill etc.)【経験 / Experience】＜必須 / Mandatory＞・大規模プロジェクトにおいて、プロジェクトリードまたはPMOとして推進した経験（3年以上）※上記に加え、以下いずれかの経験を有すること​・クロスファンクショナルな業務経験　→複数部門や多様なステークホルダーと連携しながら、業務推進や課題解決を行った経験・Process Excellence / Operational Excellenceに関する実務経験　→業務プロセスの可視化、標準化、改善、継続的改善の推進などを通じて、オペレーションの高度化や業務品質向上に取り組んだ経験​・ビジネス部門をはじめ関係各所の状況を理解し、複雑な課題を整理・構造化、新しい施策やアイディアを具体化した経験・新たなプロセスやツール導入に伴う変化を関係者に浸透・定着させるために、適切なコミュニケーションや支援施策を設計・実行した経験＜歓迎 Nice to have＞・Six Sigma、Lean、Kaizen等の継続的改善手法に関する知識または業務改善への活用経験・ベンダーマネジメント経験・ヘルスケア業界での業務経験・People management経験（チーム運営、メンバー育成、評価、業務アサイン、パフォーマンスマネジメント等の経験） 【資格 / License】＜必須 / Mandatory＞・学士以上【語学 / Language】＜必須 / Mandatory＞・日本語 Japanese：ネイティブレベル・英語 English：ビジネスレベル（TOEIC700点以上※目安）【能力 / Skill-set】＜歓迎 Nice to have＞・プロジェクトマネジメント力　企画立案、進捗管理、課題解決、リスク管理、優先順位付けを行いながら、プロジェクトを計画的に前進させる力・論理的思考力　複雑な課題を整理・構造化し、原因分析と解決策立案を行う力・臨機応変さ・柔軟性　状況変化や不確実性に応じて、優先順位やアプローチを柔軟に見直しながら対応できる力・新しいアイディアの提案力・実行力　現状にとらわれず改善機会を見出し、新しい施策やアイディアを具体化し、実行に移す力・強力なタスク処理能力　複数の案件、依頼、問い合わせ、関係者対応を整理し、抜け漏れなくスピード感を持って処理できる力・チェンジマネジメント力　新たなプロセスやツール導入に伴う変化を関係者に浸透・定着させるために、適切なコミュニケーションや支援施策を設計・実行する力・ステークホルダーマネジメント力　関係者との信頼関係を構築し、期待値調整や合意形成を行いながら物事を前に進める力・コミュニケーション力　部門横断・グローバル環境において、相手に応じた分かりやすい説明、調整、ファシリテーションを行う力・チームマネジメント力　メンバー育成、業務アサイン、パフォーマンスマネジメントを通じて、チームの成果創出を支える力・デジタルソリューション活用力　業務課題を踏まえ、適切なデジタルソリューションの導入、活用促進、運用定着、改善提案を行う力・AI・デジタルツール活用力　Office 365、Power Platform、Power Automate、Copilot等を活用し、業務改善、自動化、生産性向上、ナレッジ活用を推進する力 【Essential Behaviours:/求められる行動特性】・部門や領域にとらわれず、全体で課題を捉えながらプロジェクトを推進できる方・論理的に物事を整理し、複雑な課題に対して構造的に解決策を導ける方・変化の多い環境においても、臨機応変かつ柔軟に対応できる方・新しいアイディアや改善提案を積極的に行い、実行までやり切れる方・複数の案件やタスクを整理し、スピード感と正確性を持って対応できる方・AI・デジタルツールを活用した業務変革や改善を自ら推進できる方・多様なステークホルダーを巻き込みながら、合意形成を図って物事を前に進められる方・日本語・英語の双方で円滑にコミュニケーションを取り、グローバルチームと協業できる方・継続的改善の視点を持ち、Six SigmaやLean等の考え方を活かしながら業務プロセスの高度化を推進できる方・将来的にPeople Managerとして組織・人材マネジメントにも携わる意欲のある方キャリアレベル / Career LevelE勤務地 / Work LocationTokyo or OsakaDate Posted02-7月-2026Closing DateAstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+    "requirements": null,
+    "therapeutic_area": "general",
+    "analysis_data": null,
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3039,7 +3073,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3056,7 +3090,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3073,7 +3107,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3090,7 +3124,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3107,7 +3141,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3124,7 +3158,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3141,7 +3175,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3158,7 +3192,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3175,7 +3209,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3192,7 +3226,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3209,7 +3243,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3226,7 +3260,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3243,7 +3277,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3260,7 +3294,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3277,7 +3311,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3294,7 +3328,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3311,7 +3345,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3328,7 +3362,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3345,7 +3379,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3362,7 +3396,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3379,7 +3413,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3396,7 +3430,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3413,7 +3447,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3430,7 +3464,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3447,7 +3481,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3464,7 +3498,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3481,7 +3515,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3498,7 +3532,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3515,7 +3549,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3532,7 +3566,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3549,7 +3583,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3566,7 +3600,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3583,7 +3617,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3600,7 +3634,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3617,7 +3651,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3634,7 +3668,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3651,7 +3685,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3668,7 +3702,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3685,7 +3719,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3702,7 +3736,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3719,7 +3753,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3753,7 +3787,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3770,7 +3804,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3787,7 +3821,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3804,7 +3838,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3821,7 +3855,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3838,7 +3872,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-05-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3855,7 +3889,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-11",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3872,7 +3906,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-08",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3889,7 +3923,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3906,7 +3940,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3923,7 +3957,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-22",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3940,7 +3974,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-21",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3957,7 +3991,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3974,7 +4008,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -3991,7 +4025,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4008,7 +4042,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4025,7 +4059,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4042,7 +4076,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4059,7 +4093,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-15",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4076,7 +4110,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4093,7 +4127,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4110,7 +4144,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-13",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4127,7 +4161,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4144,7 +4178,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-09",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4161,7 +4195,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-08",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4178,7 +4212,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4195,7 +4229,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4212,7 +4246,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4229,7 +4263,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4246,7 +4280,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4263,7 +4297,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4280,24 +4314,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-01",
-    "last_seen": "2026-08-29",
-    "status": "active"
-  },
-  {
-    "id": 385,
-    "company_id": "pfizer",
-    "external_id": "4954537",
-    "title": "Clinical Development Medical, Associate Director, Research and Development - Vaccines",
-    "department": "4954537",
-    "location": "Japan - Tokyo",
-    "job_category": "clinical",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/Clinical-Development-Medical--Associate-Director--Research-and-Development---Vaccines_4954537-1",
-    "description": "Role SummaryThe clinician contributes towards providing medical and scientific expertise and oversight for Clinical Trials conducted worldwide with a primary focus in Japan and the Asia-Pacific region.\n\nThe clinician may be required to design a development strategy for multiple protocols designed to obtain approval particularly in Japan and other countries in Asia for a compound or group of compounds\n\nRole ResponsibilitiesProtocol design and strategy:\n\nContributes towards the medical input during protocol development and updates to the clinical development plan.\n\nWork closely with other clinicians and Japan study team members to ensure that documents (protocol, Informed Consent Document [ICD], etc.) meet regulatory requirements and company policy and has been reviewed by IRB/IECs.\n\nProvides medical input into country feasibility.\n\nAccountable for safety across the study:\n\nProvide study team with medical advice for all medical issues during risk assessment and mitigation planning to enable quality, compliance and patient safety at the trial, site and patient level.\n\nEnsures development of and adherence to the Safety Surveillance Review Plan (SSRP). Consistent with the SSRP, performs and documents regular review of individual subject safety data, and performs review of cumulative safety data with the safety risk lead. As appropriate, the clinician may delegate these responsibilities to the study clinician scientist/Japan Clinical Lead identified in the SSRP. The specific components of safety data review are detailed in the appropriate SOPs and the “Safety Data Review Guide – for Clinicians.”\n\nMonitor study safety issues and provide input to serious adverse events (SAEs) reports. Provides appropriate medical context in terms of risk factors, medical history and other important medical factors required to put the SAE or AE into appropriate medical context.\n\nParticipates in the Safety Review Team to evaluate medical benefits/risks to support targeted clinical indications.\n\nReviews literature as needed to respond to safety questions or those posed by the Safety Review Team, Data Monitoring Committee (DMC) or other individuals or bodies involved with the study.\n\nCommunicates safety information to sites across the study and provides responses to questions on safety.\n\nSupport study team:\n\nWith supervision of Global Development lead provides clinical input to protocol/study team for monitoring guidelines, statistics analysis plans, ICDs, clinical review forms, data edit checks, data quality planning, as needed\n\nContributes to contract research organization / vendor selection to ensure study is conducted consistent with protocol requirements, clinical plan expectations, and study timelines; this includes ensuring medical/technical requirements for data integrity are applied.\n\nWorks with study team to ensure high quality of data e.g., appropriate patient population, adequacy of clinical assessments as study is ongoing.\n\nContributes to medical review and interpretation of efficacy and safety data from clinical trials; this includes delivery of top-line report in collaboration with study statistician, and delivery of clinical study report in collaboration with medical writer and accountable for overall quality and timeliness of analysis and reporting.\n\nProvides protocol specific training to study team, investigators, clinical research associate, and others.\n\nInteracts with healthcare professionals at sites during the conduct of the study to enable quality, compliance and patient safety at the trial, site and patient level.\n\nInteracts with DMCs and steering committees as required.\n\nNotifies appropriate study team personnel of the need to inform investigators of any changes in research activity and any significant new adverse events.\n\nMonitor investigator compliance with protocol and regulatory requirements.\n\nSupport study team in issues resolution, study closeout, audit responses, inspection readiness, etc.\n\nSupports the program team:\n\nWorks closely with Japan development teams providing medical input and knowledge throughout the program from inception through completion and regulatory approval.\n\nUnder supervision (director/Sr director) authors clinical sections of regulatory documents (Investigator Brochure, Annual Reports, Investigational New Drug sections, clinical study report, clinical overview for JNDA submissions).\n\nMay co-author abstracts, posters, presentations and publications.\n\nMay contribute budget execution of protocols.\n\nInteract with regulatory authorities, key opinion leaders, and principal investigators:\n\nMay support Clinical Regulatory Authority interactions, particularly with the PMDA, accountable for providing responses.\n\nLiaise with Key Opinion Leaders and Principal Investigators in countries to build a Key Opinion Leaders /Principal Investigators network for new trials.\n\nQualificationsMust have:\n\nMedical degree (M.D or equivalent).\n\nLicensed by a health authority to prescribe medicines (independent of supervision) for at least one year (post &#34;intern/house officer&#34; year) and has utilized the license to prescribe medicines in a patient care setting for an aggregate duration of at least one year.\n\nPossesses the ability to critically evaluate medical/scientific information.\n\nExcellent written and oral communication in English and Japanese.\n\nUnderstands the design, development, and execution of clinical programs and studies.\n\nCapacity to adapt to a fast paced and changing environment\n\nPreferred/Nice to have:\n\nDocumented work experience/knowledge of statistics\n\nTraining and experience in infectious diseases and/or infection control in the hospital setting is preferred.\n\nExperience with investigational clinical trials is preferred.\n\nFlexibility to join frequent late night/early morning teleconferences with international study teams.\n\nAbility to travel domestically or internationally occasionally as required.\n\nWork Location Assignment:Hybrid\n\n \nWork Location Assignment: Hybrid\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nMedical",
-    "requirements": "to design a development strategy for multiple protocols designed to obtain approval particularly in Japan and other countries in Asia for a compound or group of compounds\n\nRole ResponsibilitiesProtocol design and strategy:\n\nContributes towards the medical input during protocol development and updates to the clinical development plan.\n\nWork closely with other clinicians and Japan study team members to ensure that documents (protocol, Informed Consent Document [ICD], etc.) meet regulatory requirements and company policy and has been reviewed by IRB/IECs.\n\nProvides medical input into country feasibility.\n\nAccountable for safety across the study:\n\nProvide study team with medical advice for all medical issues during risk assessment and mitigation planning to enable quality, compliance and patient safety at the trial, site and patient level.\n\nEnsures development of and adherence to the Safety Surveillance Review Plan (SSRP). Consistent with the SSRP, performs and documents regular review of individual subject safety data, and performs review of cumulative safety data with the safety risk lead. As appropriate, the clinician may delegate these responsibilities to the study clinician scientist/Japan Clinical Lead identified in the SSRP. The specific components of safety data review are detailed in the appropriate SOPs and the “Safety Data Review Guide – for Clinicians.”\n\nMonitor study safety issues and provide input to serious adverse events (SAEs) reports. Provides appropriate medical context in terms of risk factors, medical history and other important medical factors required to put the SAE or AE into appropriate medical context.\n\nParticipates in the Safety Review Team to evaluate medical benefits/risks to support targeted clinical indications.\n\nReviews literature as needed to respond to safety questions or those posed by the Safety Review Team, Data Monitoring Committee (DMC) or other individuals or bodies involved with the study.\n\nCommunicates safety information to sites across the study and provides responses to questions on safety.\n\nSupport study team:\n\nWith supervision of Global Development lead provides clinical input to protocol/study team for monitoring guidelines, statistics analysis plans, ICDs, clinical review forms, data edit checks, data quality planning, as needed\n\nContributes to contract research organization / vendor selection to ensure study is conducted consistent with protocol requirements, clinical plan expectations, and study timelines; this includes ensuring medical/technical requirements for data integrity are applied.\n\nWorks with study team to ensure high quality of data e.g., appropriate patient population, adequacy of clinical assessments as study is ongoing.\n\nContributes to medical review and interpretation of efficacy and safety data from clinical trials; this includes delivery of top-line report in collaboration with study statistician, and delivery of clinical study report in collaboration with medical writer and accountable for overall quality and timeliness of analysis and reporting.\n\nProvides protocol specific training to study team, investigators, clinical research associate, and others.\n\nInteracts with healthcare professionals at sites during the conduct of the study to enable quality, compliance and patient safety at the trial, site and patient level.\n\nInteracts with DMCs and steering committees as required.\n\nNotifies appropriate study team personnel of the need to inform investigators of any changes in research activity and any significant new adverse events.\n\nMonitor investigator compliance with protocol and regulatory requirements.\n\nSupport study team in issues resolution, study closeout, audit responses, inspection readiness, etc.\n\nSupports the program team:\n\nWorks closely with Japan development teams providing medical input and knowledge throughout the program from inception through completion and regulatory approval.\n\nUnder supervision (director/Sr director) authors clinical sections of regulatory documents (Investigator Brochure, Annual Reports, Investigational New Drug sections, clinical study report, clinical overview for JNDA submissions).\n\nMay co-author abstracts, posters, presentations and publications.\n\nMay contribute budget execution of protocols.\n\nInteract with regulatory authorities, key opinion leaders, and principal investigators:\n\nMay support Clinical Regulatory Authority interactions, particularly with the PMDA, accountable for providing responses.\n\nLiaise with Key Opinion Leaders and Principal Investigators in countries to build a Key Opinion Leaders /Principal Investigators network for new trials.\n\nQualificationsMust have:\n\nMedical degree (M.D or equivalent).\n\nLicensed by a health authority to prescribe medicines (independent of supervision) for at least one year (post &#34;intern/house officer&#34; year) and has utilized the license to prescribe medicines in a patient care setting for an aggregate duration of at least one year.\n\nPossesses the ability to critically evaluate medical/scientific information.\n\nExcellent written and oral communication in English and Japanese.\n\nUnderstands the design, development, and execution of clinical programs and studies.\n\nCapacity to adapt to a fast paced and changing environment",
-    "therapeutic_area": "infectious",
-    "analysis_data": null,
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4314,7 +4331,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4331,7 +4348,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4348,7 +4365,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4365,7 +4382,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4382,7 +4399,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4399,7 +4416,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4416,7 +4433,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4433,7 +4450,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4450,7 +4467,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4467,7 +4484,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4484,7 +4501,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4501,7 +4518,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4518,7 +4535,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4535,7 +4552,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4552,7 +4569,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4569,7 +4586,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4586,7 +4603,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4603,7 +4620,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4620,7 +4637,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4637,7 +4654,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4654,7 +4671,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4671,7 +4688,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4688,7 +4705,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4705,7 +4722,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4722,7 +4739,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4739,7 +4756,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4756,7 +4773,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4773,7 +4790,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4790,7 +4807,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4807,7 +4824,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4824,7 +4841,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4841,7 +4858,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4858,7 +4875,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4875,7 +4892,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4892,7 +4909,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4909,7 +4926,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4926,7 +4943,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4943,7 +4960,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4960,7 +4977,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4977,7 +4994,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -4994,7 +5011,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5011,7 +5028,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5028,7 +5045,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5045,7 +5062,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5062,7 +5079,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5079,7 +5096,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5096,7 +5113,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5113,7 +5130,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5130,7 +5147,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5147,7 +5164,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5164,7 +5181,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5181,7 +5198,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5198,7 +5215,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5215,7 +5232,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5232,7 +5249,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5249,7 +5266,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5266,7 +5283,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5283,7 +5300,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5300,7 +5317,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5317,7 +5334,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5334,7 +5351,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5351,7 +5368,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5368,7 +5385,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5385,7 +5402,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5402,7 +5419,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5419,7 +5436,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5436,7 +5453,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5453,7 +5470,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5470,7 +5487,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5487,7 +5504,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5504,7 +5521,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5521,7 +5538,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5538,7 +5555,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5555,7 +5572,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5572,7 +5589,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5589,7 +5606,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5606,7 +5623,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5623,7 +5640,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5640,7 +5657,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5657,7 +5674,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5674,7 +5691,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5691,7 +5708,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5708,7 +5725,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5725,7 +5742,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5742,7 +5759,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5759,7 +5776,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5776,7 +5793,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5793,7 +5810,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5810,7 +5827,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5827,7 +5844,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5844,7 +5861,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5861,7 +5878,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5878,7 +5895,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5895,7 +5912,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5912,7 +5929,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5929,7 +5946,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5946,7 +5963,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5963,7 +5980,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5980,7 +5997,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -5997,7 +6014,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6014,7 +6031,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6031,7 +6048,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6048,7 +6065,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6065,7 +6082,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6082,7 +6099,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6099,7 +6116,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6116,7 +6133,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6133,7 +6150,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6150,7 +6167,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6167,7 +6184,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6184,7 +6201,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6201,7 +6218,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6218,7 +6235,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6235,7 +6252,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6252,7 +6269,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6269,7 +6286,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6286,7 +6303,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6303,7 +6320,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6320,7 +6337,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6337,7 +6354,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6354,7 +6371,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6371,7 +6388,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6388,7 +6405,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6405,7 +6422,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6422,7 +6439,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   },
   {
@@ -6439,7 +6456,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "status": "active"
   }
 ]
