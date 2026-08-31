@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 54
+    "active_jobs": 55
   },
   {
     "id": "chugai",
@@ -37,7 +37,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 28
+    "active_jobs": 29
   },
   {
     "id": "msd",
@@ -47,7 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 26
   },
   {
     "id": "lilly",
@@ -140,22 +140,22 @@
     "active_jobs": 9
   },
   {
-    "id": "bms",
-    "name_ja": "ブリストル・マイヤーズ スクイブ",
-    "name_en": "Bristol-Myers Squibb",
-    "category": "foreign",
-    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 7
-  },
-  {
     "id": "otsuka",
     "name_ja": "大塚ホールディングス",
     "name_en": "Otsuka",
     "category": "domestic",
     "careers_url": "otsuka.co.jp/recruit/",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 8
+  },
+  {
+    "id": "bms",
+    "name_ja": "ブリストル・マイヤーズ スクイブ",
+    "name_en": "Bristol-Myers Squibb",
+    "category": "foreign",
+    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 7
   },
