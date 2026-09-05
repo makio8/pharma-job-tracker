@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 52
+    "active_jobs": 50
   },
   {
     "id": "chugai",
@@ -47,7 +47,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 26
   },
   {
     "id": "takeda",
@@ -117,7 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
     "id": "sanofi",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 12
+    "active_jobs": 14
   },
   {
     "id": "otsuka",
@@ -137,7 +137,7 @@
     "careers_url": "otsuka.co.jp/recruit/",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 8
+    "active_jobs": 9
   },
   {
     "id": "abbvie",
