@@ -37,7 +37,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 27
+    "active_jobs": 29
   },
   {
     "id": "msd",
@@ -90,6 +90,16 @@
     "active_jobs": 20
   },
   {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 17
+  },
+  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -97,7 +107,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 17
   },
   {
     "id": "roche",
@@ -108,16 +118,6 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 17
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 16
   },
   {
     "id": "sanofi",
@@ -167,7 +167,7 @@
     "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
     "scraper": "jposting",
     "active": 1,
-    "active_jobs": 4
+    "active_jobs": 7
   },
   {
     "id": "sumitomo",
