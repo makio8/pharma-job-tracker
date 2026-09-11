@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 51
+    "active_jobs": 50
   },
   {
     "id": "chugai",
@@ -50,16 +50,6 @@
     "active_jobs": 23
   },
   {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 21
-  },
-  {
     "id": "kyowakirin",
     "name_ja": "協和キリン",
     "name_en": "Kyowa Kirin",
@@ -97,7 +87,17 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 20
+  },
+  {
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 20
   },
   {
     "id": "roche",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 15
   },
   {
     "id": "otsuka",
