@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 40
+    "active_jobs": 39
   },
   {
     "id": "msd",
@@ -50,14 +50,14 @@
     "active_jobs": 23
   },
   {
-    "id": "kyowakirin",
-    "name_ja": "協和キリン",
-    "name_en": "Kyowa Kirin",
-    "category": "domestic",
-    "careers_url": "hrmos.co/pages/kyowakirin",
-    "scraper": "hrmos",
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
     "active": 1,
-    "active_jobs": 21
+    "active_jobs": 22
   },
   {
     "id": "lilly",
@@ -66,6 +66,16 @@
     "category": "foreign",
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 22
+  },
+  {
+    "id": "kyowakirin",
+    "name_ja": "協和キリン",
+    "name_en": "Kyowa Kirin",
+    "category": "domestic",
+    "careers_url": "hrmos.co/pages/kyowakirin",
+    "scraper": "hrmos",
     "active": 1,
     "active_jobs": 21
   },
@@ -86,16 +96,6 @@
     "category": "foreign",
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
     "active": 1,
     "active_jobs": 20
   },
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 13
   },
   {
     "id": "otsuka",
