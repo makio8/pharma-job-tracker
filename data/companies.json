@@ -37,7 +37,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 23
   },
   {
     "id": "takeda",
@@ -48,16 +48,6 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 23
-  },
-  {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 22
   },
   {
     "id": "lilly",
@@ -100,6 +90,16 @@
     "active_jobs": 20
   },
   {
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 19
+  },
+  {
     "id": "roche",
     "name_ja": "ロシュ",
     "name_en": "Roche",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 12
   },
   {
     "id": "otsuka",
