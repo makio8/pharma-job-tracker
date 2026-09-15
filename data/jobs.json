@@ -1,5 +1,22 @@
 [
   {
+    "id": 1012,
+    "company_id": "astellas",
+    "external_id": "16117",
+    "title": "【つくば】原薬プロセス研究（ラボオートメーション）サイエンティスト",
+    "department": null,
+    "location": null,
+    "job_category": "rd",
+    "url": "https://astellasjapan.avature.net/careers/JobDetail/3869",
+    "description": "General Information                                    \n                                \n                            \n\n                            \n                                \n                                                                            \n                                            \n                                                \n                                                    Job Advert Title:                                                \n                                            \n\n                                            \n                                                【つくば】原薬プロセス研究（ラボオートメーション）サイエンティスト\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Location:                                                \n                                            \n\n                                            \n                                                Tskuba, Ibaraki\n                                            \n                                        \n                                    \n                                    \n                                    \n                                                                            \n                                            \n                                                \n                                                    Employment Class:                                                \n                                            \n\n                                            \n                                                Permanent\n                                            \n                                        \n                                                                    \n                            \n                        \n                    \n\n                                            \n                            \n                                \n                                    \n                                        \n                                            Description                                        \n                                    \n                                \n\n                                \n                                    【募集の背景 / Purpose & Scope】合成、バイオ、およびハイブリッドプラットフォームを含むCMC関連のプロセス技術を特定・評価・優先順位付けし、他のCMCラボと連携して導入する。ラボオートメーションおよびデジタル技術の導入・運用を通じて、CMCバイオ医薬品プロセス開発における「CMCラボオートメーションおよびDX」コンセプトの現場実装を推進する。本ポジションでは、チームリーダーやマネージャーの適度なサポートを受けながら、これらの活動を主体的に実行することが求められる。Identify, assess, and prioritize CMC related process technologies, including synthetic, bio-based, and hybrid platforms and implement them in collaboration with other CMC labs. Drive the on-site implementation of “CMC Lab Automation and DX” concepts within CMC biologics process development by introducing and operating lab automation and digital technologies. This position requires independent implementation of these activities with moderate support from team leaders and/or managers. 【職務の内容 / Essential Job Responsibilities】 （雇入れ直後） •CMCプロセス技術の進化に必要なプロセス技術、装置、およびデジタル技術を特定・評価し、導入する。•バイオ医薬品CMCラボにおいて、ラボオートメーションシステムの導入・運用および継続的改善を行う。•機器およびデータフローを統合し、研究ワークフローの自動化を実現する。•デジタルトランスフォーメーション（DX）およびデジタル技術を、実用性と価値創出を重視してCMC研究に適用する。•Identify, evaluate, and implement process technologies, equipment and digital technologies required for CMC process technology evolution. •Install, operate, and continuously improve lab automation systems within biologics CMC laboratories •Integrate instruments and data flows and realize automation of research workflows •Apply digital transformation (Dx) and digital technologies to CMC research in a practical and value‑driven manner （変更の範囲） 会社内での全ての業務 【就業環境に関する要件 / Specific Physical or Environmental Requirements】•早朝または深夜の会議については、自宅からの参加が認められます。•本職種は出社勤務が必須となります。（週1回程度の在宅勤務も可）•This roll requires on-site working. •It will be permitted to join early morning/midnight meeting from home.【応募要件 / Qualifications】＜必須 / Required＞•生物学、薬学、化学、工学、または関連分野における修士号、もしくは同等の実務経験•新しい技術の導入に対する強い意欲と柔軟な姿勢のある方•バイオCMCプロセス研究について、直接的な経験の有無に関わらず、理解・習得する能力および意欲を有する方•日本語および最低コミュニケーションレベルの英語力•以下の少なくとも1つの分野について、基礎的な理解を有していること　①医薬品や再生・遺伝子治療に関する研究　② ラボオートメーションおよびシステム統合　③ AI・機械学習およびデータ管理•Master’s degree or equivalent experience in biology, pharmaceutical sciences, chemistry, engineering, or a related field•Strong motivation and openness toward implementing new technologies •Demonstrates the capability and motivation to understand and learn bio CMC process development, irrespective of prior direct experience.•Japanese and basic English communication skills.•Demonstrated basic understanding of at least one of the following areas (i) Research related to pharmaceuticals and regenerative and gene therapies (ii) Lab automation and system integration (iii) AI",
+    "requirements": null,
+    "therapeutic_area": "oncology",
+    "analysis_data": null,
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
+    "status": "active"
+  },
+  {
     "id": 1011,
     "company_id": "pfizer",
     "external_id": "4963413",
@@ -13,7 +30,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -30,7 +47,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -47,7 +64,7 @@
     "therapeutic_area": "dermatology",
     "analysis_data": null,
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -64,7 +81,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -81,7 +98,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -98,7 +115,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -115,7 +132,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -132,7 +149,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -149,7 +166,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -166,7 +183,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -183,7 +200,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -200,7 +217,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -217,7 +234,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -234,7 +251,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -251,7 +268,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -268,7 +285,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -285,7 +302,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -302,7 +319,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -319,7 +336,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -336,7 +353,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -353,7 +370,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -370,7 +387,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -387,7 +404,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -404,7 +421,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -421,24 +438,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 978,
-    "company_id": "astellas",
-    "external_id": "16043",
-    "title": "People Operations Partner",
-    "department": null,
-    "location": null,
-    "job_category": "other",
-    "url": "https://astellasjapan.avature.net/careers/JobDetail/People-Operations-Partner/3860",
-    "description": "General Information                                    \n                                \n                            \n\n                            \n                                \n                                                                            \n                                            \n                                                \n                                                    Job Advert Title:                                                \n                                            \n\n                                            \n                                                【焼津】People Operations Partner\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Location:                                                \n                                            \n\n                                            \n                                                Yaizu\n                                            \n                                        \n                                    \n                                                                            \n                                            \n                                                \n                                                    Division:                                                \n                                            \n\n                                            \n                                                Human Resources\n                                            \n                                        \n                                    \n                                    \n                                                                            \n                                            \n                                                \n                                                    Employment Class:                                                \n                                            \n\n                                            \n                                                Permanent\n                                            \n                                        \n                                                                    \n                            \n                        \n                    \n\n                                            \n                            \n                                \n                                    \n                                        \n                                            Description                                        \n                                    \n                                \n\n                                \n                                    【募集の背景 / Purpose & Scope】•  Partner with respective client groups to support and educate leaders, managers, and employees on all people-related topics. People Operations　Partners support all customer groups by enabling the effective delivery of employee lifecycle events.•  Be responsible for resolving employee relations issues and providing guidance and support to leaders on HR-related matters and policies.担当組織のリーダー、マネジャー、従業員に対し、人事全般に関する支援・助言を提供するとともに、従業員ライフサイクルに関わる施策の実行を推進する。また、従業員関係に関する課題解決や、人事ポリシー・制度に関するリーダーへのコンサルテーションを担う 【職務の内容 / Essential Job Responsibilities】 （雇入れ直後） Key Accountabilities:Employee Relations & Case Management  Provide legally      compliant advice and guidance to managers and employees on HR policies and      employee relations matters.  Manage employee      relations cases, including performance, disciplinary, grievance, and      absence matters.  Ensure discussions/communication with Labor Union in partnership with Industrial      & Labor Relations Partner Lead Business Change & HR Project Delivery  Partner with HRBPs      and SMEs to deliver business change initiatives, organizational      restructures, and Global/local HR projects.  Support continuous      improvement initiatives and identify opportunities to enhance HR services. Cyclical HR Processes & HR Partnership  Support HRBPs and      Centers of Excellence (CoEs) in the delivery of cyclical HR processes,      including talent, performance, and reward programs.  Ensure global HR      solutions are effectively implemented while meeting local business and      regulatory requirements.  Act as a key      interface across HR functions to deliver integrated people solutions. Change, Insights & Stakeholder Management  Deliver training,      coaching, and guidance to leaders and employees on HR-related topics.  Provide people      insights and analytics to support business decisions and identify      opportunities for improvement.  Act as a change agent      to support organizational transformat",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -455,7 +455,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -472,7 +472,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -489,7 +489,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -506,7 +506,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -523,7 +523,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -540,7 +540,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -557,7 +557,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -574,7 +574,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -591,7 +591,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -608,7 +608,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -625,7 +625,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -642,7 +642,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -659,7 +659,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -676,7 +676,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -693,7 +693,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -710,7 +710,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -727,7 +727,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -744,24 +744,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 944,
-    "company_id": "sanofi",
-    "external_id": "43427230784",
-    "title": "Rare Blood Disorders CSA\n                                    Location: Tokyo, Japan\n                                \nCategory: Sales",
-    "department": "Category: Sales",
-    "location": "Location: Tokyo, Japan",
-    "job_category": "sales",
-    "url": "https://jobs.sanofi.com/en/job/tokyo/rare-blood-disorders-csa/2649/43427230784",
-    "description": "Job title: Rare Blood Disorders CSALocation: 北海道東部エリアAbout the jobサノフィの希少血液疾患(Rare Blood Disorders, RBD）における医薬情報担当者（Clinical Science Associate：CSA）は, 主に血栓止血領域の疾患で苦しむ患者さんの人生を変えることに寄与します。皆さんは革新的な治療手段をお届けすることで、まさにサノフィの使命を体現することになります。プロダクトプランを理解し, 卓越した実行を推進することで, 免疫性血液疾患領域におけるリーダーのポジションを確立します。血友病A並びにBの患者さんに、ブランドビジョンである“血友病患者さんがやりたいことの出来る未来を創るために”の実現を基軸として最適な治療選択肢を届けるために、エリアまたは全国レベルでのプロモーション活動を牽引いただきます。そのために、チームメンバーの協働を促進し、AIやデジタルツールを積極的に活用しながら、新しいビジネスモデルの構築に挑戦し続けられる方を求めています。-サノフィの使命；\"人々の暮らしをより良くするため、科学のもたらす奇跡を追求する”-RBD Japan CSAとしての理想像；スペシャルティケアビジネスにおいて、患者さんのより良い生活に貢献する処方の行動変容の提案を行います。そのために、患者さん一人ひとりに寄り添った情報提供（ディテーリング）を軸に活動します。医師・医療スタッフの信頼できるパートナーを目指します。また、自身のリーダーシップを発揮しながら、業界で最も称賛される組織づくりに貢献することを楽しめる方を歓迎します。RBD HaC CSAに求められる役割サノフィの企業文化と戦略の中核をなすTake the Leadビヘイビアは、RBD HaC CSA, L2-1が日々の業務で体現すべき行動指針です。HaC領域におけるフィールドのリーダーとして、以下の4つのビヘイビアを実践することが強く求められます。これによりRBDフランチャイズの模範的なCSAとして存在いただきます。・Aim Higher(より高みを目指す)・Act for Patients(患者さんのために行動する)・Be Bold and(大胆に行動する)・Lead Together(ともにリードする)以上を踏まえて下記を役割として示します。1.長期予後が前提となった血友病治療の向上にコミットし、患者さんを中心として医師、医療スタッフと強固なパートナーシップを構築することができる。2.製品戦略、営業戦略に基づいた活動計画を提示、実践し、自身の担当地区において成果を出す3.営業所内において、常に前向きな姿勢で必要と思える発言、提案をする4.同エリアで活動するIMH, ISAチームメンバーと建設的な関係を構築し、シナジーを意識した情報交換と協働を実現できる5.必要とされる行動規範、倫理規範について模範を示し、グループメンバーの行動を促すことができる6. 会社が必要としている勤務地での業務を受け入れることが出来る7. 最新の社内外のルールを正しく理解して患者思考の活動を行っている・コンプライアンス＆インテグリティ：最新の業界ルールや Sanofi Policyを常に確認・理解し、自らの行動の振り返りを行い、上長や営業所メンバーからのフィードバックを踏まえて日々の活動に生かしている・市販後調査・副作用／クレーム対応等完遂：GVP、GPSP、安全性情報、OUG、品質管理、適正価格維持等各遵守項目を確実に　モニタリングし適切に運用する・製品を通じた社会への貢献：適切なプロモーションと疾患啓発を継続して展開し、必要としている全ての患者さんに1日も早く製品を届けることで社会に貢献する・日々のPDCAの重要性を理解し, 組織が定めた実行と報告を完遂することができるAbout you【必須経験・スキル】・製薬業界での営業（特に大学病院での新薬採用経験）やマーケティング経験を5年以上・基本的なビジネススキル（コミュニケーション、プレゼンテーション、交渉力等）・基本的なコンピュータ / iPad関連スキル： Word、Excel、PowerPoint・結果志向: 目標達成に向けたPDCAサイクルの実践・リーダーシップ: チームメンバーへのポジティブな影響・サポート能力・関係構築力: 社内外部門との協働による信頼関係構築・運転免許証（原則）・MR認定証（原則）【歓迎する経験・スキル】・血友病・血栓止血領域での製品担当経験・KOL/AOL対応・スピーカー育成経験・希少疾患領域での活動経験・戦略的思考力: 製品戦略に基づく地域活動プランの立案能力現時点では不問だが、対する学習意欲を有し研鑽できる人",
-    "requirements": null,
-    "therapeutic_area": "immunology",
-    "analysis_data": null,
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -778,7 +761,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -795,7 +778,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -812,7 +795,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -829,7 +812,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -846,7 +829,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -863,24 +846,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-20",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 934,
-    "company_id": "kyowakirin",
-    "external_id": "2295844363249192960",
-    "title": "バイオ医薬品の品質管理（微生物管理、環境試験戦略）統括業務 ／企画職",
-    "department": null,
-    "location": "370-0013 群馬県高崎市萩原町100-1",
-    "job_category": "clinical",
-    "url": "https://hrmos.co/pages/kyowakirin/jobs/2295844363249192960",
-    "description": "微生物試験、環境・設備管理、品質システム運営、査察対応および新規技術を通じて、医薬品および治験薬の品質保証に貢献する（GMP管理下）",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -897,7 +863,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-19",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -914,7 +880,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-08-19",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -931,7 +897,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-18",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -948,7 +914,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -965,7 +931,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -982,7 +948,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -999,7 +965,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1016,7 +982,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1033,7 +999,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1050,7 +1016,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1067,7 +1033,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1084,7 +1050,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-08-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1101,24 +1067,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-12",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 914,
-    "company_id": "msd",
-    "external_id": "R410811",
-    "title": "Assoc. Dir, Strategic Planning",
-    "department": "マーケティング",
-    "location": "Chiyoda, Tokyo, Japan",
-    "job_category": "strategy",
-    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Tokyo---Chiyoda/Assoc-Dir--Strategic-Planning_R410811-1/apply",
-    "description": "We are looking for an Associate Director, Strategic Planning to drive corporate strategy and project management within our biopharmaceutical division. You will develop and execute strategy plans, collaborate with senior leadership, and support transformation initiatives. Ideal candidates bring strong leadership, strategic thinking, and experience in project management within the pharmaceutical or healthcare industry.",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1135,7 +1084,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1152,7 +1101,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1169,7 +1118,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1186,7 +1135,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1203,7 +1152,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1220,7 +1169,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1237,7 +1186,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1254,7 +1203,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1271,7 +1220,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1288,7 +1237,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1305,7 +1254,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1322,7 +1271,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1339,7 +1288,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1356,7 +1305,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-08-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1373,7 +1322,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1390,7 +1339,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1441,7 +1390,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-08-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1526,7 +1475,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1543,7 +1492,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1577,7 +1526,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1594,7 +1543,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1611,7 +1560,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1628,7 +1577,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-29",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1649,6 +1598,23 @@
     "status": "active"
   },
   {
+    "id": 865,
+    "company_id": "sanofi",
+    "external_id": "41756258176",
+    "title": "Rare Disease CSA（希少疾患 ラ��ソゾーム病領域担当/北海道担当）\n                                    Location: Tokyo, Japan\n                                \nCategory: Sales",
+    "department": "Category: Sales",
+    "location": "Location: Tokyo, Japan",
+    "job_category": "sales",
+    "url": "https://jobs.sanofi.com/en/job/tokyo/rare-disease-csa-%e5%b8%8c%e5%b0%91%e7%96%be%e6%82%a3-%e3%83%a9-%e3%82%bd%e3%82%bd%e3%83%bc%e3%83%a0%e7%97%85%e9%a0%98%e5%9f%9f%e6%8b%85%e5%bd%93-%e5%8c%97%e6%b5%b7%e9%81%93%e6%8b%85%e5%bd%93/2649/41756258176",
+    "description": "Job Title: Rare Disease CSA（希少疾患 ライソゾーム病領域担当/北海道担当）Location: 北海道全域About the job【職務概要】・営業担当としてエリアマーケティング活動を通じて処方数を拡大し、計画を達成する。・定期的な訪問（リモートも含む）を通じて、市販後調査を適切に実施する。・担当エリアにおけるLSD（ライソゾーム病）の早期発見・早期治療基盤を構築する。・OCCPを適切に設定/実行し、顧客エンゲージメント向上を実現する。・AI（デジタル）を活用し、業務効率化へ寄与する。【主な職責】◆個人課題目標の進捗管理- 対営業目標を達成するためのアクションプランの作成と遂行- 情報提供及び収集活動- 営業施策の実施- Convention（研究会・講演会・説明会）◆LSDの医療体制（早期診断・治療）の構築- 疾患啓発- KOL/ROLとの関係構築- 定期検出ルートの確立- 家系診断の重要性の啓発- 医療従事者へのコンサルティング活動- 顧客情報インプット◆市販後調査の実施- 医療施設とのPMS契約の遂行 - 有害事象の収集と報告　About You【求める人物像】・結果にこだわり継続的な努力ができる人・周囲と効果的に協力していける人 ・デジタルを活用し効率的な活動ができる人・医療関係者と良好かつ強固な信頼関係を構築すること。・高い専門知識・経験を習得し、ライソゾーム病患者さんの治療パートナーとなること。【必須スキル】・基礎医学・薬学・業界知識（倫理、法規、制度、市販後調査、医薬品概論）・営業スキル（ターゲティング、アクセス、ディテーリング、ソーシャルスタイル対人スキル）・デジタルコミュニケーションスキル 【あれば尚可】・希少疾患領域経験・ライソゾーム病（特定疾患の申請法、酵素活性、遺伝子検査・カウンセリング）の知識・英語力（読み　中級）※海外文献の読解・大学病院経験・ジュニアな経験でも主体的に動くことができ、アグレッシブな方であれば大学病院や基幹病院経験がなくても可",
+    "requirements": null,
+    "therapeutic_area": "rare",
+    "analysis_data": null,
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-09-15",
+    "status": "active"
+  },
+  {
     "id": 864,
     "company_id": "lilly",
     "external_id": "R-108979",
@@ -1662,7 +1628,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1679,7 +1645,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1730,7 +1696,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1747,7 +1713,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1764,7 +1730,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1781,7 +1747,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1815,7 +1781,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1832,7 +1798,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1849,7 +1815,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1866,7 +1832,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1883,7 +1849,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1900,7 +1866,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1917,7 +1883,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1951,7 +1917,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1968,7 +1934,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -1985,7 +1951,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2002,7 +1968,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2016,10 +1982,10 @@
     "url": "https://careers.roche.com/global/en/apply?jobSeqNo=ROCHGLOBAL202607118847EXTERNALENGLOBAL",
     "description": "私たちは、質量分析システムの市場戦略を立案し、製品ライフサイクルを管理する質量分析プロダクトマネージャーを募集しています。グローバルチームと連携し、日本市場のニーズに応える役割を担います。",
     "requirements": null,
-    "therapeutic_area": "general",
+    "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2036,7 +2002,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2053,7 +2019,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2070,7 +2036,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2121,7 +2087,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-07-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2138,7 +2104,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-16",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2172,7 +2138,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-07-15",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2189,7 +2155,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-15",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2206,7 +2172,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-14",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2240,7 +2206,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2257,7 +2223,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2274,7 +2240,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2291,7 +2257,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2308,7 +2274,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2359,7 +2325,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2376,7 +2342,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2393,7 +2359,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2410,7 +2376,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2427,7 +2393,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2444,7 +2410,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2461,7 +2427,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2478,7 +2444,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2495,7 +2461,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2512,7 +2478,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2546,7 +2512,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2563,7 +2529,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2597,7 +2563,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2614,7 +2580,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2631,24 +2597,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 768,
-    "company_id": "novartis",
-    "external_id": "REQ-10082102",
-    "title": "Biomarker Lead",
-    "department": "REQ-10082102",
-    "location": "Toranomon (NPKK Head Office)",
-    "job_category": "other",
-    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Toranomon-NPKK-Head-Office/Biomarker-Lead_REQ-10082102",
-    "description": "Job Description Summary\n\nAs a BML, you will define the biomarker strategies and plans for a set of programs/projects, defined by asset or by indication, from early to later stage clinical development. You will also build external collaborations with academia or clinical sites to advance the knowledge around translational sciences and biomarker solutions focused on diseases, indications or pathways. The BML will be responsible to translate the preclinical discovery efforts into a clinical fit for purpose plan, as well as develop and mature the clinical biomarker plans as the program progresses through the various phases. The BML will oversee the integration into clinical protocols and lead the review and discussions at the different teams and boards. Finally, the BML can lead a matrixed biomarker team of scientific experts to build on the biomarker strategies and plans.\n \n\nJob Description\n\nMajor Accountabilities\n\nActs as BMD strategic and scientific leader in Japan at project or collaboration level to lead \nbiomarker strategies and plans with the various local and global team members.\nDevelops deep understanding of the translational biomarkers for a project/program (and associated clinical studies), focused on compound, disease, target, and pathway biology.\nEstablishes scientific partnerships with local KOLs around biomarkers and translational research.\nSupports health authorities’ interactions around biomarkers and translational research.\nEnsures alignment and connectivity with other BMLs, therapeutic area leads and heads across assets, indications, and therapeutic areas.\nPartners with Biomarker Study Experts (BSE) and BMD Line Function Subject Matter Experts (SMEs) on the study strategic planning, and BM implementation.\nIs responsible for the contextualization and interpretation of the biomarker data including CSR review.\nCooperates closely with Therapeutic Area Biomarker Head (TABH) or Therapeutic Area Biomarker Lead (TABL) as well as BMD Line Functions to enable the development of project/study level biomarker strategy and plans, implementation, contextualizing, and interpretation.\nIs an enterprise partner and strategic leader in the matrix environment, able to integrate and represent projects in the internal/external scientific discussions and initiatives. \nEducation/Experience:\n\nPhD, MD, MD/PhD, or MS degree is required.\nGood understanding of biology and translational research that can be applied to questions of patient’s selection, enrichment, dose selection, efficacy and response, disease progression, mechanism of actions, among others.\nScientific excellence supported by academic and/or industry career track, and/or high-quality publications; clinical and/or biological expertise.\nSignificant relevant experience after your MD/PhD/postdoc including drug development, clinical research/development, or translational research.\nTrack record of contributions to clinical programs and studies in pharma industry (or biotech) is strongly preferred.\nExperience and familiarity with quantitative research and data is preferred, examples include biostatistics, omics profiling, AI/ML, bioinformatics, computational biology, clinical imaging, machine learning, or data science.\nProven success in leading and partnering in multidisciplinary matrix teams across Pharma/biotech, or academic institutions.\nCreative and innovative leadership, experience in balancing big picture thinking with detailed analyses and operational aspects.\nWell-developed interpersonal and leadership skills with strong presence and ability to influence and navigate large organizational structures as well connect and network with KOLs.\nLanguages:\n\nFluent Japanese (oral and written), Fluent English (oral and written)\n\n \n\nSkills Desired\n\nData Analysis, Hypothesis Testing, Problem Solving, Structural Biology",
-    "requirements": ".\nGood understanding of biology and translational research that can be applied to questions of patient’s selection, enrichment, dose selection, efficacy and response, disease progression, mechanism of actions, among others.\nScientific excellence supported by academic and/or industry career track, and/or high-quality publications; clinical and/or biological expertise.\nSignificant relevant experience after your MD/PhD/postdoc including drug development, clinical research/development, or translational research.\nTrack record of contributions to clinical programs and studies in pharma industry (or biotech) is strongly preferred.\nExperience and familiarity with quantitative research and data is preferred, examples include biostatistics, omics profiling, AI/ML, bioinformatics, computational biology, clinical imaging, machine learning, or data science.\nProven success in leading and partnering in multidisciplinary matrix teams across Pharma/biotech, or academic institutions.\nCreative and innovative leadership, experience in balancing big picture thinking with detailed analyses and operational aspects.\nWell-developed interpersonal and leadership skills with strong presence and ability to influence and navigate large organizational structures as well connect and network with KOLs.\nLanguages:\n\nFluent Japanese (oral and written), Fluent English (oral and written)\n\n \n\nSkills Desired\n\nData Analysis, Hypothesis Testing, Problem Solving, Structural Biology",
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-07-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2665,7 +2614,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2716,7 +2665,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2733,7 +2682,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2750,7 +2699,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2767,7 +2716,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2784,7 +2733,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-07-01",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2801,7 +2750,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2818,7 +2767,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2835,7 +2784,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2852,7 +2801,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-29",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2869,7 +2818,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2886,7 +2835,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2903,7 +2852,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2920,7 +2869,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2937,7 +2886,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2954,7 +2903,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2971,7 +2920,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -2988,7 +2937,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3005,7 +2954,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3022,7 +2971,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3039,7 +2988,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3056,7 +3005,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-25",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3073,7 +3022,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3090,7 +3039,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3107,7 +3056,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3124,7 +3073,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3141,7 +3090,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3158,7 +3107,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3175,7 +3124,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3192,7 +3141,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-18",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3209,7 +3158,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3226,7 +3175,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3243,7 +3192,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3260,7 +3209,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3277,7 +3226,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3294,7 +3243,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3311,7 +3260,7 @@
     "therapeutic_area": "cardiovascular",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3328,7 +3277,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3345,7 +3294,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3362,7 +3311,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3379,7 +3328,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3396,7 +3345,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3413,7 +3362,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3430,7 +3379,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3447,7 +3396,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3464,7 +3413,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-05",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3481,7 +3430,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3498,7 +3447,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-06-04",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3515,7 +3464,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3532,7 +3481,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3549,7 +3498,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3566,7 +3515,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-06-03",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3583,24 +3532,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-06-02",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 604,
-    "company_id": "pfizer",
-    "external_id": "4958321",
-    "title": "[A&V] RWE 部長",
-    "department": "4958321",
-    "location": "Japan - Tokyo",
-    "job_category": "other",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--A-V--RWE-_4958321-1",
-    "description": "BACKGROUND\n\nThe utilization of Real-World Data (RWD) is being recognized for its broad applications from drug discovery to post-marketing across various occasions, in the pharmaceutical industry. The Real-World Evidence (RWE) team within Access & Value leads end-to-end evidence generation—from strategy development to study planning and execution, through to publication—to optimize access for Pfizer products across all therapeutic areas. The RWE team has spearheaded numerous initiatives, promoting RWD use across Pfizer’s divisions and leading industry-wide discussions on the subject. We have also emerged as leaders in the field. To accommodate the growing demand for RWD analysis, we expanded our team in early 2023. To continue pioneering RWD utilization in the industry, it is essential to form a highly specialized, high-performing RWE team with a leadership role in managing the RWD/RWE division.\n\nROLE SUMMARY\n\nLead the sourcing, planning, interpretation, customization, generation, and dissemination of high-quality RWE promptly. This role directs and supports all functions for RWD sources and evidence generation, pertinent to all in-line and pipeline activities, while serving as an expert liaison with external stakeholders.\n\nROLE RESPONSIBILITIES\n\nLead evidence generation for optimizing access of Pfizer products across all therapeutic areas from strategy development to study planning and execution, through to publication.\nEstablish RWD sources and analytic capabilities by partnering with key internal stakeholders on the development and operation of the Data Mart including Japanese RWD, and support RWD strategy development, planning, and execution, aligning with all global and local colleagues to close the data gap and demonstrate the value of products.\nLead and shape external discussions on RWD policy, methods, and processes as appropriately aligned to business categories and where possible, proactively input into professional consultation opportunities.\nLead/support technical discussion with payers/decision makers regarding Pfizer portfolio.\nProvide technical input into economic models from analytics perspectives; evidence synthesis projects as well as pricing and HTA readiness activities.\nLead on One Pfizer RWD policy research projects and develop/generate new ideas for RWD policy development.\nSource or provide and present RWD technical information, advice, and training to all relevant colleagues and external customers and develop and incorporate RWD material for business needs.\nCoach and ensure effective capability development and resource/people management\nManage specified budgets to ensure that expenditure matches levels agreed with Access & Value Lead.\nEnsure compliance with corporate goals, policies and procedures, and relevant legislation at all times.\n\nQUALIFICATIONS \n\nExperience & Background\n\nPhD in Statistics, Biostatistics, Public Health, or Life Sciences\nStrong Knowledge/experience of or within the field of Statistics, Epidemiology, and RWD\nExperience of scientific publication\nSenior leadership and communication skills\nGood understanding of the evolving external environment\nPeople management experience\nGeneral management experience in budgeting, planning, and business processes\nStrategic attitude with a clear focus on the business\nKnowledge/Experience implementing value messages\nStrong Analytical and communicative skills\nAbility to collaborate in cross-functional teams\nCompetency Required:\n\n  Innovative and creative strategic thinking\n\n  Teamwork / Networking & interpersonal skills\n\n  Ability to engage and shape the external environment\n\n  Change agile and act decisively\n\n  Drive for results\n\n  Develop people\n\n  Initiative and adaptability\n\n  Supportive of visions and strategy\n\nORGANIZATIONAL RELATIONSHIPS\n\nInternal: Pricing, Access Strategy, Marketing, Medical, Development Japan, Global Access & Value, Global Evidence Generation Team\n\nExternal: JPMA (Japan Pharmaceutical Manufacturers Association), PhRMA (Pharmaceutical Research and Manufacturers of America)\n\n \n\nRESOURCES MANAGED\n\nFinancial Accountability\n\nResponsible for Operating Plan budget management (for RWD procurement and evidence generation)\n\nSupervision\n\n<Mandatory for People Managers>\n\nManagement of 4 team members;\n\n-2 Sr. Managers and 2 RWE Analysts,\n\n \n\n \n\n \nWork Location Assignment: On Premise\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n \n\n \n\nMarketing and Market Research",
-    "requirements": "Experience & Background\n\nPhD in Statistics, Biostatistics, Public Health, or Life Sciences\nStrong Knowledge/experience of or within the field of Statistics, Epidemiology, and RWD\nExperience of scientific publication\nSenior leadership and communication skills\nGood understanding of the evolving external environment\nPeople management experience\nGeneral management experience in budgeting, planning, and business processes\nStrategic attitude with a clear focus on the business\nKnowledge/Experience implementing value messages\nStrong Analytical and communicative skills\nAbility to collaborate in cross-functional teams\nCompetency Required:\n\n  Innovative and creative strategic thinking\n\n  Teamwork / Networking & interpersonal skills\n\n  Ability to engage and shape the external environment\n\n  Change agile and act decisively\n\n  Drive for results\n\n  Develop people\n\n  Initiative and adaptability\n\n  Supportive of visions and strategy\n\nORGANIZATIONAL RELATIONSHIPS\n\nInternal: Pricing, Access Strategy, Marketing, Medical, Development Japan, Global Access & Value, Global Evidence Generation Team\n\nExternal: JPMA (Japan Pharmaceutical Manufacturers Association), PhRMA (Pharmaceutical Research and Manufacturers of America)\n\n \n\nRESOURCES MANAGED\n\nFinancial Accountability\n\nResponsible for Operating Plan budget management (for RWD procurement and evidence generation)\n\nSupervision\n\n<Mandatory for People Managers>\n\nManagement of 4 team members;\n\n-2 Sr. Managers and 2 RWE Analysts,\n\n \n\n \n\n \nWork Location Assignment: On Premise\n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n \n\n \n\nMarketing and Market Research",
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-06-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3617,7 +3549,7 @@
     "therapeutic_area": "hematology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3634,7 +3566,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-28",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3651,7 +3583,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3668,7 +3600,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-27",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3685,7 +3617,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3702,7 +3634,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3719,7 +3651,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-26",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3736,7 +3668,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3753,7 +3685,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3770,7 +3702,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3787,7 +3719,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-05-21",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3821,7 +3753,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3838,7 +3770,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-20",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3855,7 +3787,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3872,7 +3804,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-05-14",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3889,7 +3821,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-05-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3906,7 +3838,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-05-11",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3923,24 +3855,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-04-28",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 496,
-    "company_id": "msd",
-    "external_id": "R394947",
-    "title": "Medical Affairs Oncology MSL",
-    "department": "メディカルアフェアーズ",
-    "location": "Chiyoda, Tokyo, Japan",
-    "job_category": "medical",
-    "url": "https://msd.wd5.myworkdayjobs.com/ja-JP/SearchJobs/job/JPN---Tokyo---Chiyoda/Medical-Affairs-Oncology-MSL_R394947/apply",
-    "description": "We are looking for a Medical Affairs Oncology MSL professional to facilitate scientific exchange and provide up-to-date medical information in line with regulatory guidelines. Key responsibilities include supporting field engagement and collecting insights on medical needs. Ideal candidates will have clinical knowledge and experience in medical affairs.",
-    "requirements": null,
-    "therapeutic_area": "oncology",
-    "analysis_data": null,
-    "first_seen": "2026-04-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3957,7 +3872,7 @@
     "therapeutic_area": "immunology",
     "analysis_data": null,
     "first_seen": "2026-04-22",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3974,7 +3889,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-04-20",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -3991,7 +3906,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4008,7 +3923,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4025,7 +3940,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4042,7 +3957,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-17",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4059,7 +3974,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-15",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4076,7 +3991,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4093,7 +4008,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-14",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4110,7 +4025,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-13",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4127,7 +4042,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-10",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4139,12 +4054,12 @@
     "location": "Tokyo, Japan",
     "job_category": "strategy",
     "url": "https://careers.astrazeneca.com/job/tokyo/alexion-japan-associate-director-market-access-and-healthcare-policy/43991/93753418880",
-    "description": "Position SummaryThe associate director, Market Access & Healthcare Policy (MAHP) in Japan is responsible for monitoring healthcare system and regulatory environment affecting Alexion's business and advancing Alexion's business priority in the policy area through building, maintaining, and leveraging relationships with external stakeholders and resources. The associate director reports to a director of MAHP. The associate director works in close collaboration with the other members in MAHP and other departments in Japan as well as global teams.Principal Responsibilities• Analyze and assess the implications of healthcare policy/regulations affecting Alexion’s business and inform them of relevant functions and/or senior managements in a timely.• Identify policy issues affecting Alexion’s business and develop and implement strategic action plans to overcome them.• Develop and maintain relationships with external policy stakeholders, such as KOLs, patient advocates, academia, policy specialists, and policy makers.  • Expand Alexion’s presence in the rare disease space through participation and contribution to industry community activities.• Provide opportunities for employees to receive education on the healthcare system and regulations• Respond and give advice to inquiries from inside and outside the company regarding healthcare systems and regulations• Collaborate successfully with key contacts throughout Alexion, including marketing, medical affairs, communications, patient advocacy, R&D, global counterparts, etc.Qualifications• Passionate and responsible for a given task• Have leadership experience as a team or project leader.• Ability to communicate and collaborate effectively with internal and external stakeholders• Excellent problem-solving skills and strategic thinking skills• Flexibility and adaptability to internal and external change• Fluency in Japanese required; proficiency in English (preferred)• Scientific and policy knowledge of rare disease space. (preferred)• AI/SaMD knowledge (preferred)• Knowledge of healthcare policy in general and experience of communication with government agencies. (preferred)• Experience on the consulting firm to create strategy, solve problems（Preferred）Education• Bachelor’s degree required• Advanced degree preferred (e.g. MBA, MPH, MPP)職務概要渉外部のアソシエイトディレクターは、アレクシオンのビジネスを取り巻く医療制度・規制環境を分析し、社外ステークホルダーやリソースとの関係構築、維持、活用により、政策分野におけるアレクシオンのビジネス優先事項を推進する。アソシエイトディレクターは、MAHPのディレクターにレポートする。またアソシエイトディレクターは、MAHPのメンバーや他部署、グローバルチームとも緊密に連携し業務を遂行する。業務内容• 医療制度・規制によるアレクシオンビジネスに対する影響を分析・評価し、関連部署やシニアマネジメントへタイムリーに情報共有する• アレクシオンビジネスにおける政策課題を特定し、それを克服するための戦略プランを策定、実行する• 外部の政策ステークホルダー（KOL、患者アドボケート、アカデミア、医療政策関係者等）と関係を構築、維持する• 業界活動への参画、貢献を通じて、希少疾患領域におけるアレクシオンの存在感を拡大する• 社員へ医療制度・規制の教育機会を提供する• 医療制度・規制に関する社内外からの問い合わせに対し回答、助言を行う• マーケティング、メディカル、広報、ペイシェントアドボカシー、R&D、グローバルなど社内の主要な部署と円滑に連携をする必要要件• 与えられた課題に対して情熱を持ち、責任を果たすことができる• チームまたはプロジェクトのリーダーとしてのリーダーシップ経験がある• 社内外のステークホルダーと効果的にコミュニケーションし、協働できる能力がある• 優れた問題解決能力と戦略的思考を有する• 社内外の変化に対する柔軟性と適応力がある• 日本語に堪能であることが必須；英語力（尚可）• 希少疾病領域に関する科学的知識および政策知識を有する（尚可）• AI／SaMDに関する知識を有する（尚可）• ヘルスケア政策の知識があり、政府機関とのコミュニケーション経験がある（尚可）• コンサルティング会社などでの戦略策定、問題解決実績（尚可）資格• 学士号（必須）• 上位学位（例：MBA、MPH、MPP）（尚可）Date Posted22-7月-2026Closing Date29-9月-2026Alexion is proud to be an Equal Employment Opportunity and Affirmative Action employer. We are committed to fostering a culture of belonging where every single person can belong because of their uniqueness. The Company will not make decisions about employment, training, compensation, promotion, and other terms and conditions of employment based on race, color, religion, creed or lack thereof, sex, sexual orientation, age, ancestry, national origin, ethnicity, citizenship status, marital status, pregnancy, (including childbirth, breastfeeding, or related medical conditions), parental status (including adoption or surrogacy), military status, protected veteran status, disability, medical condition, gender identity or expression, genetic information, mental illness or other characteristics protected by law. Alexion provides reasonable accommodations to meet the needs of candidates and employees. To begin an interactive dialogue with Alexion regarding an accommodation, please contact accommodations@Alexion.com. Alexion participates in E-Verify.",
+    "description": "This is what you will do:The Associate Director, Market Access & Healthcare Policy in Japan is responsible for execute pricing strategies to support the launch and reimbursement of products across Alexion’s drugs in the Alexion Japan. Through key leadership and partnership across cross-functional teams, the person maps out pricing strategy into broader disease area. The Associate Director will work effectively in close collaboration with the other members in Mkt Access & Healthcare Policy and other departments in Japan as well as global teams.In addition, you have a possibility to expand your tasks for monitoring healthcare system and regulatory environment affecting Alexion's business and advancing Alexion's business priority in the policy area through building, maintaining, and leveraging relationships with external stakeholders and resources.You will be responsible for:Creating and delivering price assumption commercial and development decisionAnalyzing the impact of potential development & regulatory scenarios, and provide strategic inputLeading to create NHI price negotiation strategy and NHI pricing dossier and execute the negotiation strategyLeading to mitigate of price cut throughout the lifecycleDriving cross-functional taskforce team to address critical reimbursement issues of a specific productReporting to the Heal of Mkt Access & Healthcare Policy in Japan.Working effective in close collaboration with the other members in Mkt Access & Healthcare Policy and other departments in Japan as well as global teams.Working with industry association (EFPIA Japan, etc) to proiorize rare disease related policy, including pricing items.You will need to have:Work experience in NHI pricing negotiations for at least two productsExcellent project leader who can effectively manage multiple competing priorities to completionExperience managing internal resources and external contractors/vendorsGlobal mindset and ability to work with cross functional teamsFlexibility and adaptability to internal and external changeExcellent teamwork skillFluency in English/Japanese writing and speaking communicationsWe would prefer for you to have:Understanding of the global market access landscapeExperiences on new product, marketing, medical, regulatory are preferred.Maintains the relationship with external agencies and monitors their performance to ensure that performance and deliverables meet business expectationsCultivates and maintains relationships with key experts, influencers, and customer segments to foster and maintain Alexion’s credibility to support the value and reimbursement of Alexion productsAI/SaMD knowledge (preferred)Knowledge of healthcare policy in general and experience of communication with government agencies. (preferred)Experience on the consulting firm to create strategy, solve problems（Preferred）Education:Bachelor’s degree requiredAdvanced degree preferred (e.g. MBA, MPH, MPP)----------------------------------------------------------------------------------------------------主な職務内容：日本のマーケットアクセス＆ヘルスケアポリシー担当アソシエイトディレクターは、アレクシオン・ジャパンの製品の上市および保険償還を支援するため、薬価戦略を策定・実行します。部門横断チームとの連携やリーダーシップを通じて、薬価戦略を疾患領域全体の戦略へと展開します。また、日本のマーケットアクセス＆ヘルスケアポリシー部門のメンバーや国内他部門、グローバルチームと緊密に連携し、効果的に業務を遂行します。さらに、アレクシオンの事業に影響を与える医療制度および規制環境をモニタリングし、外部ステークホルダーや各種リソースとの関係構築・維持・活用を通じて、政策分野におけるアレクシオンの事業上の優先課題を推進する業務へ、担当範囲が拡大する可能性があります。主な責任：•    商業上および開発上の意思決定に必要な薬価前提を策定し、提示する•    想定される開発・薬事シナリオの影響を分析し、戦略的な提言を行う•    薬価収載に向けた交渉戦略および薬価申請資料の作成を主導し、交渉戦略を実行する•    製品ライフサイクル全体を通じた薬価引き下げリスクの軽減を主導する•    特定製品の重要な保険償還課題に対応する部門横断タスクフォースを推進する•    日本のマーケットアクセス＆ヘルスケアポリシー部門長へ報告する•    日本のマーケットアクセス＆ヘルスケアポリシー部門のメンバー、国内他部門およびグローバルチームと緊密に連携し、効果的に業務を遂行する•    EFPIA Japanなどの業界団体と連携し、薬価関連事項を含む希少疾患政策の優先順位付けを行う必須要件：•    少なくとも2製品における薬価交渉の実務経験•    複数の競合する優先事項を効果的に管理し、完遂できる優れたプロジェクトリーダーシップ•    社内リソースおよび外部委託先・ベンダーの管理経験•    グローバルな視点と、部門横断チームと協働する能力•    社内外の変化に対する柔軟性および適応力•    優れたチームワーク能力•    日本語および英語による、書面・口頭での流暢なコミュニケーション能力歓迎要件：•    グローバルのマーケットアクセス環境に関する理解•    新製品、マーケティング、メディカル、薬事のいずれかに関する経験•    外部機関との関係を維持し、その業務実績をモニタリングして、成果および納品物が事業上の期待を満たすよう管理した経験•    主要な専門家、オピニオンリーダーおよび顧客セグメントとの関係を構築・維持し、アレクシオン製品の価値訴求および保険償還を支える同社の信頼性向上に貢献できること•    AI／SaMD（医療機器プログラム）に関する知識（尚可）•    ヘルスケア政策全般に関する知識、および行政機関とのコミュニケーション経験（尚可）•    コンサルティングファームにおける戦略策定・課題解決の経験（尚可）資格：• 学士号（必須）• 上位学位（例：MBA、MPH、MPP）（尚可） Date Posted14-9月-2026Closing Date29-11月-2026Alexion is proud to be an Equal Employment Opportunity and Affirmative Action employer. We are committed to fostering a culture of belonging where every single person can belong because of their uniqueness. The Company will not make decisions about employment, training, compensation, promotion, and other terms and conditions of employment based on race, color, religion, creed or lack thereof, sex, sexual orientation, age, ancestry, national origin, ethnicity, citizenship status, marital status, pregnancy, (including childbirth, breastfeeding, or related medical conditions), parental status (including adoption or surrogacy), military status, protected ve",
     "requirements": null,
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-09",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4161,7 +4076,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-08",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4178,7 +4093,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-04-07",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4195,7 +4110,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4212,7 +4127,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-04-02",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4229,7 +4144,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-31",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4246,7 +4161,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4263,7 +4178,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-30",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4280,7 +4195,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4297,7 +4212,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4314,7 +4229,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4331,7 +4246,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4348,7 +4263,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4365,7 +4280,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4382,7 +4297,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4399,7 +4314,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4416,7 +4331,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4433,7 +4348,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4450,7 +4365,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4467,7 +4382,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4484,7 +4399,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4501,7 +4416,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4518,7 +4433,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4535,7 +4450,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4552,7 +4467,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4569,7 +4484,7 @@
     "therapeutic_area": "rare",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4586,7 +4501,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4603,7 +4518,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4620,7 +4535,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4637,7 +4552,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4654,7 +4569,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4671,7 +4586,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4688,7 +4603,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4705,7 +4620,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4722,7 +4637,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4739,7 +4654,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4756,7 +4671,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4773,7 +4688,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4790,7 +4705,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4807,7 +4722,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4824,7 +4739,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4841,7 +4756,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4858,7 +4773,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4875,7 +4790,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4892,7 +4807,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4909,7 +4824,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4926,7 +4841,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4943,7 +4858,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4960,7 +4875,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4977,7 +4892,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -4994,7 +4909,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5011,7 +4926,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5028,7 +4943,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5045,7 +4960,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5062,7 +4977,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5079,7 +4994,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5096,7 +5011,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5113,7 +5028,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5130,7 +5045,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5147,7 +5062,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5164,7 +5079,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5181,7 +5096,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5198,7 +5113,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5215,7 +5130,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5232,7 +5147,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5249,7 +5164,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5266,7 +5181,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5283,7 +5198,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5300,7 +5215,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5317,7 +5232,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5334,7 +5249,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5351,7 +5266,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5368,7 +5283,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5385,7 +5300,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5402,7 +5317,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5419,7 +5334,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5436,7 +5351,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5453,7 +5368,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5470,7 +5385,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5487,7 +5402,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5504,7 +5419,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5521,7 +5436,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5538,7 +5453,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5555,7 +5470,7 @@
     "therapeutic_area": "cns",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5572,7 +5487,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5589,7 +5504,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5606,7 +5521,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5623,7 +5538,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5640,7 +5555,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5657,7 +5572,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5674,7 +5589,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5691,7 +5606,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5708,7 +5623,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5725,7 +5640,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5742,7 +5657,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5759,7 +5674,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5776,7 +5691,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5793,7 +5708,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5810,7 +5725,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5827,7 +5742,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5844,7 +5759,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5861,7 +5776,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5878,7 +5793,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5895,7 +5810,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5912,7 +5827,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5929,7 +5844,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5946,7 +5861,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5963,7 +5878,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5980,7 +5895,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -5997,7 +5912,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6014,7 +5929,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6031,7 +5946,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6048,7 +5963,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6065,7 +5980,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6082,7 +5997,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6099,7 +6014,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6116,7 +6031,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6133,7 +6048,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6150,7 +6065,7 @@
     "therapeutic_area": "general",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6167,24 +6082,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 16,
-    "company_id": "pfizer",
-    "external_id": "4944785",
-    "title": "[A&V] Sr. Manager, Pricing & External Affairs",
-    "department": "4944785",
-    "location": "Japan - Tokyo",
-    "job_category": "other",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--A-V--Sr-Manager--Pricing---External-Affairs_4944785-1",
-    "description": "Position Purpose\n\nThis role drives strategic pricing decisions that accelerate patient access to Pfizer’s products and safeguard business value, while shaping pro-innovation pricing frameworks with the Ministry of Health, Labor and Welfare (MHLW) and industry stakeholders.\n\nResponsibilities\n\nDevelop and execute National Health Insurance pricing strategies for new drugs, prepare dossiers, and lead negotiations with MHLW.\nBuild strong alignment and partnership among cross-functional teams including global teams to ensure optimal price setting\nDevelop price assumptions and scenario plans for pipeline/inline assets, and BD opportunities with monitoring competitor pricing, policy changes, and market trends.\nActively participate in trade association activities to establish a pro-innovative pricing framework.\nCoach and mentor team members, fostering collaboration and a speak-up culture.\n\nDesired Skill Set\n\nDeep understanding of healthcare systems and NHI pricing rules in Japan, with proven ability to lead pricing negotiations (typically 5&#43; years or equivalent experience).\nInnovative and creative strategic thinking with a strong problem-solving capability\nStrong teamwork, executive communication and negotiation skills to influence internal and external stakeholders.\nFluency in Japanese and business-level English for cross-border collaboration.\nDemonstrated agility, creativity, and problem-solving in complex policy and pricing environments\n  \n \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nMarket Access",
-    "requirements": null,
-    "therapeutic_area": "general",
-    "analysis_data": null,
-    "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6201,24 +6099,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
-    "status": "active"
-  },
-  {
-    "id": 9,
-    "company_id": "pfizer",
-    "external_id": "4939589",
-    "title": "[A&V ] ONC New Asset and Access Strategy, Sr Manager /オンコロジー領域アクセス戦略担当部長",
-    "department": "4939589",
-    "location": "Japan - Tokyo",
-    "job_category": "strategy",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Japan---Tokyo/XMLNAME--A-V---RD-New-Asset-and-Access-Strategy--Srr-Manager--_4939589-1",
-    "description": "DESCRIPTION OF JOB RESPONSIBILITIESPosition Purpose\n\nDevelop a compelling access strategy tailored for New Asset to stakeholder interests and needs and leads strategic & tactical planning for market access activities to ensure optimal patient access with appropriate price setting.Drive a Local/Regional/Global cross-functional team to develop and implement access strategies for assigned assets.\nScrutinize the commercialization plan for the assigned asset from pricing &reimbursement perspectives\nObtain endorsements from TA Leads to implement access strategies.\n\nSupport NAA on developing new asset assessments.\nMain Responsibilities\n\nDevelop and implement access plans for assigned assets, which include scenario-based pricing assumptions with strategic initiatives, secure patient access and identify opportunities for accelerating launch timing.\nInvestigate and build deep understandings of key stakeholders’ (payers, market access customers) needs and reflect these insights into business/access planning processes via leveraging real-world databases and information in the following areas:Epidemiology: Patient dynamics, pathology, genetic background, Diagnosis & treatment guidelines\nMarket Environment:  Current market size, competitive landscape analysis,\nPhysician/Patient/Payer Insights: Unmet medical needs, Burden of Disease/ QOL\nLocal/Overseas access environment: Policy, HTA/Reimbursement system    \n\nLead discussions and presentations to senior management to get required funding for launch optimization projects, including HEOR, HTA, RWD based data generation, as well as unbranded campaigns, etc., identified through cross functional discussion.\nWork in close alignment and cooperation with a cross-section of colleagues (Global Access & Value, Global Commercial Development, Global Medicine Team, MA, DJ, Business Unit, A&V, P&PA, and BAI) through JMT/JVT/JAT.\nParticipate in JDC/J-PRC for portfolio entry, Global DP3 and Japan buy-up etc. through asset assessment in related TA as required.\nDevelop and include value claims for the brand at NDA to support optimal access.\nSupport NAA on developing reasonably accurate Long-rage revenue/expense/demand forecast for Pfizer pipeline assets and BD projects until 18 months prior to approval.\nSupport NAA on developing data, insights and recommendations for Strategic Plans that include strategies, tactics, and programs to maximize the long-term potential of development compounds, and obtain senior management endorsement.\n\nSKILL SETKey Strategic Capabilities:\n\nSolid understanding of health policy and health system dynamics, access, pricing & reimbursement system and basic knowledge on HEOR/HTA/CEA\nStrong English skills to communicate with global SHs and input and negotiate Japan needs\nExcellent communication skills to interact with external/internal executive-level stakeholders\nKnowledge of secondary data and publicly available market data, and strong analytical skills\nDesired Knowledge/Experience:\n\nMarketing experience in Pharma and/or other industries\nNew product planning & analysis, database/Market analysis\nKey Competencies:\n\nInnovative and creative strategic thinking\nProject management & time management skills\nTeamwork /networking & interpersonal skills, and negotiation skill\nActs decisively and being adaptable \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Market Access",
-    "requirements": "funding for launch optimization projects, including HEOR, HTA, RWD based data generation, as well as unbranded campaigns, etc., identified through cross functional discussion.\nWork in close alignment and cooperation with a cross-section of colleagues (Global Access & Value, Global Commercial Development, Global Medicine Team, MA, DJ, Business Unit, A&V, P&PA, and BAI) through JMT/JVT/JAT.\nParticipate in JDC/J-PRC for portfolio entry, Global DP3 and Japan buy-up etc. through asset assessment in related TA as required.\nDevelop and include value claims for the brand at NDA to support optimal access.\nSupport NAA on developing reasonably accurate Long-rage revenue/expense/demand forecast for Pfizer pipeline assets and BD projects until 18 months prior to approval.\nSupport NAA on developing data, insights and recommendations for Strategic Plans that include strategies, tactics, and programs to maximize the long-term potential of development compounds, and obtain senior management endorsement.\n\nSKILL SETKey Strategic Capabilities:\n\nSolid understanding of health policy and health system dynamics, access, pricing & reimbursement system and basic knowledge on HEOR/HTA/CEA\nStrong English skills to communicate with global SHs and input and negotiate Japan needs\nExcellent communication skills to interact with external/internal executive-level stakeholders\nKnowledge of secondary data and publicly available market data, and strong analytical skills\nDesired Knowledge/Experience:\n\nMarketing experience in Pharma and/or other industries\nNew product planning & analysis, database/Market analysis\nKey Competencies:\n\nInnovative and creative strategic thinking\nProject management & time management skills\nTeamwork /networking & interpersonal skills, and negotiation skill\nActs decisively and being adaptable \n\nPfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.\n\nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.\n\n&#xa;Market Access",
-    "therapeutic_area": "oncology",
-    "analysis_data": null,
-    "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6235,7 +6116,7 @@
     "therapeutic_area": "infectious",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   },
   {
@@ -6252,7 +6133,7 @@
     "therapeutic_area": "oncology",
     "analysis_data": null,
     "first_seen": "2026-03-23",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-15",
     "status": "active"
   }
 ]
