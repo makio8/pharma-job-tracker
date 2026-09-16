@@ -1,15 +1,5 @@
 [
   {
-    "id": "jnj",
-    "name_ja": "ヤンセンファーマ",
-    "name_en": "Johnson & Johnson",
-    "category": "foreign",
-    "careers_url": "careers.jnj.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 50
-  },
-  {
     "id": "chugai",
     "name_ja": "中外製薬",
     "name_en": "Chugai",
@@ -18,6 +8,16 @@
     "scraper": "jposting",
     "active": 1,
     "active_jobs": 50
+  },
+  {
+    "id": "jnj",
+    "name_ja": "ヤンセンファーマ",
+    "name_en": "Johnson & Johnson",
+    "category": "foreign",
+    "careers_url": "careers.jnj.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 49
   },
   {
     "id": "eisai",
@@ -107,7 +107,7 @@
     "careers_url": "roche.com/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 19
   },
   {
     "id": "astrazeneca",
@@ -130,22 +130,22 @@
     "active_jobs": 12
   },
   {
-    "id": "otsuka",
-    "name_ja": "大塚ホールディングス",
-    "name_en": "Otsuka",
-    "category": "domestic",
-    "careers_url": "otsuka.co.jp/recruit/",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 9
-  },
-  {
     "id": "tanabe",
     "name_ja": "田辺ファーマ",
     "name_en": "Tanabe Pharma",
     "category": "domestic",
     "careers_url": "job.axol.jp/bx/c/mtpc/public/top",
     "scraper": "jposting",
+    "active": 1,
+    "active_jobs": 11
+  },
+  {
+    "id": "otsuka",
+    "name_ja": "大塚ホールディングス",
+    "name_en": "Otsuka",
+    "category": "domestic",
+    "careers_url": "otsuka.co.jp/recruit/",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 9
   },
@@ -167,7 +167,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 7
+    "active_jobs": 6
   },
   {
     "id": "sumitomo",
