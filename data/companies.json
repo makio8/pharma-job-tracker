@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 38
+    "active_jobs": 37
   },
   {
     "id": "lilly",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 12
   },
   {
     "id": "tanabe",
