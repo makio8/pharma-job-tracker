@@ -30,6 +30,16 @@
     "active_jobs": 37
   },
   {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 23
+  },
+  {
     "id": "lilly",
     "name_ja": "日本イーライリリー",
     "name_en": "Eli Lilly",
@@ -55,16 +65,6 @@
     "name_en": "MSD (Merck)",
     "category": "foreign",
     "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 22
-  },
-  {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
     "active_jobs": 22
@@ -107,7 +107,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 17
   },
   {
     "id": "astrazeneca",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 11
   },
   {
     "id": "tanabe",
