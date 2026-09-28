@@ -37,7 +37,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 24
   },
   {
     "id": "lilly",
@@ -67,7 +67,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 20
+    "active_jobs": 21
   },
   {
     "id": "astellas",
