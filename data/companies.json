@@ -1,15 +1,5 @@
 [
   {
-    "id": "jnj",
-    "name_ja": "ヤンセンファーマ",
-    "name_en": "Johnson & Johnson",
-    "category": "foreign",
-    "careers_url": "careers.jnj.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 50
-  },
-  {
     "id": "chugai",
     "name_ja": "中外製薬",
     "name_en": "Chugai",
@@ -18,6 +8,16 @@
     "scraper": "jposting",
     "active": 1,
     "active_jobs": 50
+  },
+  {
+    "id": "jnj",
+    "name_ja": "ヤンセンファーマ",
+    "name_en": "Johnson & Johnson",
+    "category": "foreign",
+    "careers_url": "careers.jnj.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 49
   },
   {
     "id": "eisai",
@@ -50,6 +50,16 @@
     "active_jobs": 23
   },
   {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 22
+  },
+  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -60,16 +70,6 @@
     "active_jobs": 21
   },
   {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
     "id": "astellas",
     "name_ja": "アステラス製薬",
     "name_en": "Astellas",
@@ -78,16 +78,6 @@
     "scraper": "avature",
     "active": 1,
     "active_jobs": 20
-  },
-  {
-    "id": "kyowakirin",
-    "name_ja": "協和キリン",
-    "name_en": "Kyowa Kirin",
-    "category": "domestic",
-    "careers_url": "hrmos.co/pages/kyowakirin",
-    "scraper": "hrmos",
-    "active": 1,
-    "active_jobs": 19
   },
   {
     "id": "roche",
@@ -110,6 +100,16 @@
     "active_jobs": 17
   },
   {
+    "id": "kyowakirin",
+    "name_ja": "協和キリン",
+    "name_en": "Kyowa Kirin",
+    "category": "domestic",
+    "careers_url": "hrmos.co/pages/kyowakirin",
+    "scraper": "hrmos",
+    "active": 1,
+    "active_jobs": 16
+  },
+  {
     "id": "astrazeneca",
     "name_ja": "アストラゼネカ",
     "name_en": "AstraZeneca",
@@ -117,7 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 15
   },
   {
     "id": "sanofi",
@@ -127,7 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 14
+    "active_jobs": 12
   },
   {
     "id": "tanabe",
@@ -150,22 +150,22 @@
     "active_jobs": 10
   },
   {
-    "id": "bms",
-    "name_ja": "ブリストル・マイヤーズ スクイブ",
-    "name_en": "Bristol-Myers Squibb",
-    "category": "foreign",
-    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 9
-  },
-  {
     "id": "abbvie",
     "name_ja": "アッヴィ",
     "name_en": "AbbVie",
     "category": "foreign",
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 7
+  },
+  {
+    "id": "bms",
+    "name_ja": "ブリストル・マイヤーズ スクイブ",
+    "name_en": "Bristol-Myers Squibb",
+    "category": "foreign",
+    "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 7
   },
