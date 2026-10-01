@@ -27,7 +27,7 @@
     "careers_url": "hrmos.co/pages/eisai",
     "scraper": "hrmos",
     "active": 1,
-    "active_jobs": 32
+    "active_jobs": 33
   },
   {
     "id": "lilly",
@@ -67,7 +67,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 21
+    "active_jobs": 22
   },
   {
     "id": "astellas",
@@ -120,16 +120,6 @@
     "active_jobs": 15
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 12
-  },
-  {
     "id": "tanabe",
     "name_ja": "田辺ファーマ",
     "name_en": "Tanabe Pharma",
@@ -138,6 +128,26 @@
     "scraper": "jposting",
     "active": 1,
     "active_jobs": 11
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 10
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 10
   },
   {
     "id": "otsuka",
@@ -150,16 +160,6 @@
     "active_jobs": 10
   },
   {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 7
-  },
-  {
     "id": "bms",
     "name_ja": "ブリストル・マイヤーズ スクイブ",
     "name_en": "Bristol-Myers Squibb",
@@ -167,7 +167,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 7
+    "active_jobs": 8
   },
   {
     "id": "sumitomo",
