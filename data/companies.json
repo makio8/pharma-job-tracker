@@ -1,5 +1,15 @@
 [
   {
+    "id": "jnj",
+    "name_ja": "ヤンセンファーマ",
+    "name_en": "Johnson & Johnson",
+    "category": "foreign",
+    "careers_url": "careers.jnj.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 50
+  },
+  {
     "id": "chugai",
     "name_ja": "中外製薬",
     "name_en": "Chugai",
@@ -10,16 +20,6 @@
     "active_jobs": 50
   },
   {
-    "id": "jnj",
-    "name_ja": "ヤンセンファーマ",
-    "name_en": "Johnson & Johnson",
-    "category": "foreign",
-    "careers_url": "careers.jnj.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 49
-  },
-  {
     "id": "eisai",
     "name_ja": "エーザイ",
     "name_en": "Eisai",
@@ -28,16 +28,6 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 33
-  },
-  {
-    "id": "lilly",
-    "name_ja": "日本イーライリリー",
-    "name_en": "Eli Lilly",
-    "category": "foreign",
-    "careers_url": "careers.lilly.com/jp/ja/japan",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 23
   },
   {
     "id": "takeda",
@@ -76,6 +66,16 @@
     "category": "domestic",
     "careers_url": "astellasjapan.avature.net",
     "scraper": "avature",
+    "active": 1,
+    "active_jobs": 20
+  },
+  {
+    "id": "lilly",
+    "name_ja": "日本イーライリリー",
+    "name_en": "Eli Lilly",
+    "category": "foreign",
+    "careers_url": "careers.lilly.com/jp/ja/japan",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 20
   },
@@ -120,6 +120,16 @@
     "active_jobs": 15
   },
   {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 11
+  },
+  {
     "id": "tanabe",
     "name_ja": "田辺ファーマ",
     "name_en": "Tanabe Pharma",
@@ -136,16 +146,6 @@
     "category": "foreign",
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
-    "active": 1,
-    "active_jobs": 10
-  },
-  {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
     "active": 1,
     "active_jobs": 10
   },
@@ -167,7 +167,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 8
+    "active_jobs": 9
   },
   {
     "id": "sumitomo",
