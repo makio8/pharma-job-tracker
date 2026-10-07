@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 52
+    "active_jobs": 53
   },
   {
     "id": "chugai",
@@ -47,7 +47,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 23
   },
   {
     "id": "takeda",
@@ -67,7 +67,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 22
+    "active_jobs": 21
   },
   {
     "id": "astellas",
@@ -127,6 +127,16 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
+    "active_jobs": 12
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
     "active_jobs": 11
   },
   {
@@ -140,11 +150,11 @@
     "active_jobs": 11
   },
   {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
+    "id": "otsuka",
+    "name_ja": "大塚ホールディングス",
+    "name_en": "Otsuka",
+    "category": "domestic",
+    "careers_url": "otsuka.co.jp/recruit/",
     "scraper": "custom",
     "active": 1,
     "active_jobs": 10
@@ -157,17 +167,7 @@
     "careers_url": "bristolmyerssquibb.wd5.myworkdayjobs.com",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 10
-  },
-  {
-    "id": "otsuka",
-    "name_ja": "大塚ホールディングス",
-    "name_en": "Otsuka",
-    "category": "domestic",
-    "careers_url": "otsuka.co.jp/recruit/",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 10
+    "active_jobs": 9
   },
   {
     "id": "sumitomo",
