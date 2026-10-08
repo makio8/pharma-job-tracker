@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 53
+    "active_jobs": 55
   },
   {
     "id": "chugai",
@@ -37,7 +37,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 23
   },
   {
     "id": "lilly",
@@ -117,7 +117,17 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 16
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 12
   },
   {
     "id": "sanofi",
@@ -128,16 +138,6 @@
     "scraper": "radancy",
     "active": 1,
     "active_jobs": 12
-  },
-  {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 11
   },
   {
     "id": "tanabe",
