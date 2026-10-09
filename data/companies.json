@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 55
+    "active_jobs": 54
   },
   {
     "id": "chugai",
@@ -30,16 +30,6 @@
     "active_jobs": 32
   },
   {
-    "id": "novartis",
-    "name_ja": "ノバルティス",
-    "name_en": "Novartis",
-    "category": "foreign",
-    "careers_url": "novartis.com/jp-ja/careers",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 23
-  },
-  {
     "id": "lilly",
     "name_ja": "日本イーライリリー",
     "name_en": "Eli Lilly",
@@ -47,7 +37,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 23
+    "active_jobs": 24
   },
   {
     "id": "takeda",
@@ -60,6 +50,16 @@
     "active_jobs": 23
   },
   {
+    "id": "novartis",
+    "name_ja": "ノバルティス",
+    "name_en": "Novartis",
+    "category": "foreign",
+    "careers_url": "novartis.com/jp-ja/careers",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 22
+  },
+  {
     "id": "msd",
     "name_ja": "MSD",
     "name_en": "MSD (Merck)",
@@ -67,7 +67,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 21
+    "active_jobs": 20
   },
   {
     "id": "astellas",
@@ -117,17 +117,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 16
-  },
-  {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 12
+    "active_jobs": 15
   },
   {
     "id": "sanofi",
@@ -136,6 +126,16 @@
     "category": "foreign",
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 14
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
     "active": 1,
     "active_jobs": 12
   },
