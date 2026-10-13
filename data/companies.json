@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 54
+    "active_jobs": 51
   },
   {
     "id": "chugai",
@@ -37,7 +37,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 26
   },
   {
     "id": "takeda",
@@ -67,7 +67,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 21
+    "active_jobs": 20
   },
   {
     "id": "astellas",
@@ -80,6 +80,16 @@
     "active_jobs": 20
   },
   {
+    "id": "pfizer",
+    "name_ja": "ファイザー",
+    "name_en": "Pfizer",
+    "category": "foreign",
+    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
+    "scraper": "workday",
+    "active": 1,
+    "active_jobs": 19
+  },
+  {
     "id": "roche",
     "name_ja": "ロシュ",
     "name_en": "Roche",
@@ -88,16 +98,6 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 18
-  },
-  {
-    "id": "pfizer",
-    "name_ja": "ファイザー",
-    "name_en": "Pfizer",
-    "category": "foreign",
-    "careers_url": "job.axol.jp/bx/s/pfizer_27/",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 17
   },
   {
     "id": "kyowakirin",
@@ -120,16 +120,6 @@
     "active_jobs": 15
   },
   {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 12
-  },
-  {
     "id": "abbvie",
     "name_ja": "アッヴィ",
     "name_en": "AbbVie",
@@ -137,7 +127,17 @@
     "careers_url": "careers.abbvie.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 11
+    "active_jobs": 14
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 13
   },
   {
     "id": "tanabe",
