@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 53
+    "active_jobs": 54
   },
   {
     "id": "chugai",
@@ -47,7 +47,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 25
   },
   {
     "id": "takeda",
@@ -70,16 +70,6 @@
     "active_jobs": 21
   },
   {
-    "id": "msd",
-    "name_ja": "MSD",
-    "name_en": "MSD (Merck)",
-    "category": "foreign",
-    "careers_url": "jobs.msd.com/jpn-careers-ja",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 20
-  },
-  {
     "id": "astellas",
     "name_ja": "アステラス製薬",
     "name_en": "Astellas",
@@ -98,6 +88,16 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 20
+  },
+  {
+    "id": "msd",
+    "name_ja": "MSD",
+    "name_en": "MSD (Merck)",
+    "category": "foreign",
+    "careers_url": "jobs.msd.com/jpn-careers-ja",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 18
   },
   {
     "id": "kyowakirin",
@@ -137,7 +137,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 12
+    "active_jobs": 13
   },
   {
     "id": "tanabe",
