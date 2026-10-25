@@ -87,7 +87,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 18
   },
   {
     "id": "kyowakirin",
@@ -137,7 +137,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
+    "active_jobs": 12
   },
   {
     "id": "tanabe",
