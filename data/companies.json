@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 51
+    "active_jobs": 53
   },
   {
     "id": "chugai",
@@ -27,7 +27,7 @@
     "careers_url": "novartis.com/jp-ja/careers",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 31
+    "active_jobs": 30
   },
   {
     "id": "eisai",
@@ -87,17 +87,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 20
-  },
-  {
-    "id": "astrazeneca",
-    "name_ja": "アストラゼネカ",
-    "name_en": "AstraZeneca",
-    "category": "foreign",
-    "careers_url": "careers.astrazeneca.com/japan-jp",
-    "scraper": "workday",
-    "active": 1,
-    "active_jobs": 16
+    "active_jobs": 19
   },
   {
     "id": "msd",
@@ -106,6 +96,16 @@
     "category": "foreign",
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
+    "active": 1,
+    "active_jobs": 15
+  },
+  {
+    "id": "astrazeneca",
+    "name_ja": "アストラゼネカ",
+    "name_en": "AstraZeneca",
+    "category": "foreign",
+    "careers_url": "careers.astrazeneca.com/japan-jp",
+    "scraper": "workday",
     "active": 1,
     "active_jobs": 15
   },
@@ -127,17 +127,7 @@
     "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
     "scraper": "radancy",
     "active": 1,
-    "active_jobs": 13
-  },
-  {
-    "id": "abbvie",
-    "name_ja": "アッヴィ",
-    "name_en": "AbbVie",
-    "category": "foreign",
-    "careers_url": "careers.abbvie.com",
-    "scraper": "custom",
-    "active": 1,
-    "active_jobs": 11
+    "active_jobs": 14
   },
   {
     "id": "tanabe",
@@ -168,6 +158,16 @@
     "scraper": "workday",
     "active": 1,
     "active_jobs": 9
+  },
+  {
+    "id": "abbvie",
+    "name_ja": "アッヴィ",
+    "name_en": "AbbVie",
+    "category": "foreign",
+    "careers_url": "careers.abbvie.com",
+    "scraper": "custom",
+    "active": 1,
+    "active_jobs": 7
   },
   {
     "id": "sumitomo",
