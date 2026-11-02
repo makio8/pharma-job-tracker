@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 51
+    "active_jobs": 50
   },
   {
     "id": "chugai",
@@ -87,7 +87,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 19
   },
   {
     "id": "msd",
@@ -97,7 +97,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 16
+    "active_jobs": 17
   },
   {
     "id": "astrazeneca",
