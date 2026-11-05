@@ -7,7 +7,7 @@
     "careers_url": "careers.jnj.com",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 53
+    "active_jobs": 54
   },
   {
     "id": "chugai",
@@ -20,16 +20,6 @@
     "active_jobs": 50
   },
   {
-    "id": "eisai",
-    "name_ja": "エーザイ",
-    "name_en": "Eisai",
-    "category": "domestic",
-    "careers_url": "hrmos.co/pages/eisai",
-    "scraper": "hrmos",
-    "active": 1,
-    "active_jobs": 30
-  },
-  {
     "id": "novartis",
     "name_ja": "ノバルティス",
     "name_en": "Novartis",
@@ -38,6 +28,16 @@
     "scraper": "custom",
     "active": 1,
     "active_jobs": 30
+  },
+  {
+    "id": "eisai",
+    "name_ja": "エーザイ",
+    "name_en": "Eisai",
+    "category": "domestic",
+    "careers_url": "hrmos.co/pages/eisai",
+    "scraper": "hrmos",
+    "active": 1,
+    "active_jobs": 29
   },
   {
     "id": "roche",
@@ -57,7 +57,7 @@
     "careers_url": "careers.lilly.com/jp/ja/japan",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 24
+    "active_jobs": 23
   },
   {
     "id": "takeda",
@@ -87,7 +87,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 19
+    "active_jobs": 20
   },
   {
     "id": "msd",
@@ -97,17 +97,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
-  },
-  {
-    "id": "sanofi",
-    "name_ja": "サノフィ",
-    "name_en": "Sanofi",
-    "category": "foreign",
-    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
-    "scraper": "radancy",
-    "active": 1,
-    "active_jobs": 16
+    "active_jobs": 18
   },
   {
     "id": "astrazeneca",
@@ -128,6 +118,16 @@
     "scraper": "hrmos",
     "active": 1,
     "active_jobs": 15
+  },
+  {
+    "id": "sanofi",
+    "name_ja": "サノフィ",
+    "name_en": "Sanofi",
+    "category": "foreign",
+    "careers_url": "jobs.sanofi.com/en/location/japan-jobs",
+    "scraper": "radancy",
+    "active": 1,
+    "active_jobs": 14
   },
   {
     "id": "tanabe",
