@@ -87,7 +87,7 @@
     "careers_url": "job.axol.jp/bx/s/pfizer_27/",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 20
+    "active_jobs": 19
   },
   {
     "id": "msd",
@@ -97,7 +97,7 @@
     "careers_url": "jobs.msd.com/jpn-careers-ja",
     "scraper": "custom",
     "active": 1,
-    "active_jobs": 17
+    "active_jobs": 18
   },
   {
     "id": "astrazeneca",
@@ -107,7 +107,7 @@
     "careers_url": "careers.astrazeneca.com/japan-jp",
     "scraper": "workday",
     "active": 1,
-    "active_jobs": 15
+    "active_jobs": 16
   },
   {
     "id": "kyowakirin",
